@@ -12,7 +12,7 @@ print("    -Editing Recipes");
 recipes.remove(<minecraft:crafting_table>);
 recipes.addShaped(<minecraft:crafting_table>,
  [[<ore:plankWood>, <ore:plankWood>],
-  [<ore:plankWood>, <fpcore:framewood>]]);
+  [<ore:plankWood>, <fhantoncore:framewood>]]);
   
   
 print("---===Initalization Complete===---");
