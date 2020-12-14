@@ -31,3 +31,4 @@ shaderpacks/
 structures/
 usercache.json
 usernamecache.json
+.mixin.out/
