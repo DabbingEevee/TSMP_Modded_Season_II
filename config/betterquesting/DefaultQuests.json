@@ -250,7 +250,7 @@
           "partialMatch:1": 1,
           "autoConsume:1": 0,
           "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
+          "ignoreNBT:1": 1,
           "index:3": 0,
           "consume:1": 0,
           "requiredItems:9": {
@@ -1458,7 +1458,7 @@
           "partialMatch:1": 1,
           "autoConsume:1": 0,
           "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
+          "ignoreNBT:1": 1,
           "index:3": 0,
           "consume:1": 0,
           "requiredItems:9": {
@@ -2412,7 +2412,7 @@
           "viaPlayer:1": 1,
           "index:3": 0,
           "title:8": "bq_standard.reward.command",
-          "command:8": "gamestage @s add \"stone_age\""
+          "command:8": "gamestage @s add stone_age"
         }
       }
     },

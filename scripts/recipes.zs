@@ -50,20 +50,20 @@ mods.orestages.OreStages.addNonDefaultingReplacement("stone_age", <ore:oreCoal>,
 mods.orestages.OreStages.addNonDefaultingReplacement("stone_age", <ore:oreCopper>, <fhantoncore:unidentifiedore>);
 
 mods.orestages.OreStages.addNonDefaultingReplacement("copper_age", <ore:oreTin>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreZinc>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("copper_age", <ore:oreZinc>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("copper_age", <ore:oreAluminium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("copper_age", <waveymod:koinosore:*>, <fhantoncore:unidentifiedore>);
  
 mods.orestages.OreStages.addNonDefaultingReplacement("bronze_age", <ore:oreIron>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("bronze_age", <waveymod:netherironore:*>, <fhantoncore:unidentifiedore>);
 
+mods.orestages.OreStages.addNonDefaultingReplacement("iron_age", <waveymod:tromerosore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("iron_age", <ore:oreDiamond>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("iron_age", <ore:oreEmerald>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("iron_age", <waveymod:netheremeraldore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("iron_age", <waveymod:netherdiamondore:*>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreSilver>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("iron_age", <ore:oreSilver>, <fhantoncore:unidentifiedore>);
 
-mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_age", <waveymod:tromerosore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_age", <netherbackport:ancientdebris:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_age", <ore:oreGold>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_age", <waveymod:nethergoldore:*>, <fhantoncore:unidentifiedore>);
@@ -78,7 +78,6 @@ mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <minecraft:qua
 mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <waveymod:stellarore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <waveymod:pure_evilore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <waveymod:netherpureevilore:*>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <waveymod:netherpureevilore:*>, <fhantoncore:unidentifiedore>);
 
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreTar>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreSulfur>, <fhantoncore:unidentifiedore>);
@@ -86,7 +85,7 @@ mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:orePot
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <metallurgy:phosphorite_ore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreAlduorite>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:orePlatinum>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreVulcanite>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:ocanite>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreIgnatius>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreAstralSilver>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreLemurite>, <fhantoncore:unidentifiedore>);
