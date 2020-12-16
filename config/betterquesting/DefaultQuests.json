@@ -2403,7 +2403,18 @@
           "taskID:8": "bq_standard:checkbox"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "asScript:1": 1,
+          "description:8": "Run a command script",
+          "viaPlayer:1": 1,
+          "index:3": 0,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "gamestage @s add "stone_age""
+        }
+      }
     },
     "13:10": {
       "questID:3": 13,
@@ -2478,7 +2489,7 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "minecraft:furnace",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -2489,11 +2500,35 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Furnace",
+          "desc:8": "grill"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:furnace",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "minecraft:coal",
+              "Count:3": 16,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "15:10": {
@@ -2511,7 +2546,7 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "minecraft:stone",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -2522,11 +2557,29 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "All Natural",
+          "desc:8": "create smooth stone"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:stone",
+              "Count:3": 16,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "16:10": {
@@ -2545,7 +2598,7 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "thermalfoundation:tool.hammer_iron",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -2556,11 +2609,61 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
+          "name:8": "Basic Tinkering",
           "desc:8": "No Description"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "tconstruct:tooltables",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "tconstruct:tooltables",
+              "Count:3": 1,
+              "tag:10": {
+                "textureBlock:10": {
+                  "id:8": "minecraft:planks",
+                  "Count:1": 1,
+                  "Damage:2": 0
+                }
+              },
+              "Damage:2": 1,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "tconstruct:tooltables",
+              "Count:3": 1,
+              "Damage:2": 3,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "tconstruct:tooltables",
+              "Count:3": 1,
+              "tag:10": {
+                "textureBlock:10": {
+                  "id:8": "minecraft:log",
+                  "Count:1": 1,
+                  "Damage:2": 0
+                }
+              },
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "17:10": {
@@ -2579,7 +2682,7 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "fhantoncore:framestone",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -2590,11 +2693,29 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
+          "name:8": "Stone Frame",
           "desc:8": "No Description"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "fhantoncore:framestone",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "18:10": {
@@ -2612,7 +2733,7 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "minecraft:leather_chestplate",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -2623,11 +2744,47 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
+          "name:8": "Simplistic Armor",
           "desc:8": "No Description"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:leather_helmet",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "minecraft:leather_chestplate",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "minecraft:leather_leggings",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "minecraft:leather_boots",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "19:10": {
@@ -2645,7 +2802,7 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "minecraft:arrow",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -2656,11 +2813,35 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
+          "name:8": "Simplistic Artillery",
           "desc:8": "No Description"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:bow",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "minecraft:arrow",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "20:10": {
@@ -2678,7 +2859,7 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "minecraft:wheat_seeds",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -2689,11 +2870,29 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
+          "name:8": "They ain\u0027t gonna grow themselves",
           "desc:8": "No Description"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:wheat_seeds",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "21:10": {
@@ -2711,7 +2910,7 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "minecraft:stone_pickaxe",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -2722,11 +2921,16 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
+          "name:8": "Age Complete",
           "desc:8": "No Description"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
       "rewards:9": {}
     }
   },
@@ -2912,6 +3116,26 @@
         }
       },
       "order:3": 1
+    },
+    "2:10": {
+      "quests:9": {},
+      "lineID:3": 2,
+      "properties:10": {
+        "betterquesting:10": {
+          "visibility:8": "NORMAL",
+          "name:8": "New Quest Line",
+          "icon:10": {
+            "id:8": "minecraft:book",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "No Description"
+        }
+      },
+      "order:3": 2
     }
   },
   "questSettings:10": {
