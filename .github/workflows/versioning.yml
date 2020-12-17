@@ -12,7 +12,7 @@ jobs:
     - uses: actions/checkout@v2
     - uses: actions/setup-dotnet@v1
       with:
-        dotnet-version 5.0
+        dotnet-version: '3.1.x'
     - name: Update Version Number
       run: dotnet fsi ./UpdateVersion.fsx
     - run: git remote set-url origin ${{ secrets.ssh }}
