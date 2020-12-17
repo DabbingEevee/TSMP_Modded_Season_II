@@ -15,12 +15,9 @@ jobs:
         dotnet-version: '3.1.x'
     - name: Update Version Number
       run: dotnet fsi ./UpdateVersion.fsx
-    - run: git config --global user.email "actions@github.com"
-    - run: git config --global user.name "Versioning Action" 
-    - run: git remote set-url origin ${{ secrets.KEY_FOR_LAUNCHER }}
-    - run: git status
-    - run: git add . 
-    - run: git commit -m "Auto updating version.txt"
-    - run: git fetch origin master
-    - name: pushing version.txt
-      run: git push origin HEAD:master
+    - name: Update version.txt
+      uses: test-room-7/action-update-file@v1 
+      with: 
+        file-path: ./version.txt
+        commit-msg: Update Version
+        github-token: ${{ secrets.KEY_FOR_LAUNCHER }}
