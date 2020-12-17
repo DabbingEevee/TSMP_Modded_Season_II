@@ -1,0 +1,24 @@
+name: UpdateVersion
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  UpdateVersion:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version 5.0
+    - name: Update Version Number
+      run: dotnet fsi ./UpdateVersion.fsx
+    - run: git remote set-url origin ${{ secrets.ssh }}
+    - run: git status
+    - run: git add . 
+    - run: git commit -m "Auto updating version.txt"
+    - run: git fetch origin master
+    - name: pushing version.txt
+      run: git push origin HEAD:master
