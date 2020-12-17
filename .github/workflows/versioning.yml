@@ -20,11 +20,13 @@ jobs:
     - name: Update Version Number
       run: dotnet fsi ./UpdateVersion.fsx
     - name: Checkout LFS objects
-      run: git lfs checkout
+      run: git lfs install
     - name: Package Modpack
       run: dotnet fsi ./Package.fsx
+    - run: git lfs track 'modpack.zip'
     - name: Commit files  
       run: |
+        git lfs push --all origin master
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -m "Update Version" -a
