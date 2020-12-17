@@ -18,6 +18,8 @@ jobs:
         dotnet-version: '3.1.x'
     - name: Update Version Number
       run: dotnet fsi ./UpdateVersion.fsx
+    - name: Package Modpack
+      run: dotnet fsi ./Package.fsx
     - name: Commit files  
       run: |
         git config --local user.email "action@github.com"
