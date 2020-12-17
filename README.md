@@ -20,7 +20,7 @@ Metallic Age: Metals. Alloys. Tools. All part of a healthy miner's diet!
 ...  
 Electric Age: The lightbulb is on! Hooray!  
 Industrial Age: Factories, machines, and climate change. What more could you want?  
-Modern Age: Isn't technology (and guns) great?  
+Modern Age: Technology and guns are great!  
 Space Age: To the mooooon (and beyond)!  
 ...  
 Avaritia Age: Singularities? Infinity ingots? I don't like where this going.  
