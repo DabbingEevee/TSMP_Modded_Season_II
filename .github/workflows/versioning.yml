@@ -15,7 +15,7 @@ jobs:
         dotnet-version: '3.1.x'
     - name: Update Version Number
       run: dotnet fsi ./UpdateVersion.fsx
-    - run: git remote set-url origin ${{ secrets.ssh }}
+    - run: git remote set-url origin ${{ secrets.KEY_FOR_LAUNCHER }}
     - run: git status
     - run: git add . 
     - run: git commit -m "Auto updating version.txt"
