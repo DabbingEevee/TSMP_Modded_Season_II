@@ -10,7 +10,7 @@ Stone Age: Welcome to stone tools (and a makeshift gun)!
 Copper Age: What can we do with just copper? You'll find out!  
 Magic Age: Magical flowers and weird crystals? Sounds quite epic to me!  
 Metallic Age: Tin. Silver. Aluminum. All part of a healthy miner's diet!  
-Iron Age: What's that? Three more guns? Now that's pog.
+Iron Age: What's that? Three more guns? Now that's pog.  
 ...  
 Modern Age: Isn't technology (and guns) great?  
 Space Age: To the mooooon!  
