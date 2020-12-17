@@ -28,7 +28,9 @@ recipes.addShaped(<fhantoncore:frameiron>,
  [[<ore:nuggetIron>, <ore:nuggetIron>],
   [<ore:nuggetIron>, <ore:nuggetIron>]]);
 
-
+recipes.addShaped(<backpack:stick>,
+ [[<ore:cobblestone>],
+  [<ore:cobblestone>]);
 
 
 
