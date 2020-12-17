@@ -20,4 +20,4 @@ jobs:
       with: 
         file-path: ./version.txt
         commit-msg: Update Version
-        github-token: ${{ secrets.KEY_FOR_LAUNCHER }}
+        github-token: ${{ secrets.GITHUB_TOKEN  }}
