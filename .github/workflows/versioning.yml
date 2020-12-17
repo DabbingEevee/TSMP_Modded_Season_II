@@ -10,14 +10,21 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+        fetch-depth: 0
     - uses: actions/setup-dotnet@v1
       with:
         dotnet-version: '3.1.x'
     - name: Update Version Number
       run: dotnet fsi ./UpdateVersion.fsx
-    - name: Update version.txt
-      uses: test-room-7/action-update-file@v1 
-      with: 
-        file-path: "./version.txt"
-        commit-msg: Update Version
-        github-token: ${{ secrets.GITHUB_TOKEN  }}
+    - name: Commit files  
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Update Version" -a
+    - name: Push Change
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
