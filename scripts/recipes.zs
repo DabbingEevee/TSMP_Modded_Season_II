@@ -28,9 +28,7 @@ recipes.addShaped(<fhantoncore:frameiron>,
  [[<ore:nuggetIron>, <ore:nuggetIron>],
   [<ore:nuggetIron>, <ore:nuggetIron>]]);
 
-recipes.addShaped(<backpack:stick>,
- [<ore:cobblestone>,
-  <ore:cobblestone>]);
+
 
 print("    -Editing Recipes");
 recipes.remove(<minecraft:crafting_table>);
