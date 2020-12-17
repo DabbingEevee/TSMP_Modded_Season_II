@@ -20,6 +20,6 @@ Modern Age: Isn't technology (and guns) great?
 Space Age: To the mooooon!  
 ...  
 Avaritia Age: Singularities? Infinity ingots? I don't like where this going.  
-God Age: You want me to punch that dirty tree again? We are supposed to be gods!  
+God Age: You want me to punch that dirty tree? I am a god. Gods shouldn't be punching trees!  
 
 
