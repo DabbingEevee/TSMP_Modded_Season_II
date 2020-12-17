@@ -13,11 +13,14 @@ jobs:
       with:
         persist-credentials: false
         fetch-depth: 0
+        lfs: true
     - uses: actions/setup-dotnet@v1
       with:
         dotnet-version: '3.1.x'
     - name: Update Version Number
       run: dotnet fsi ./UpdateVersion.fsx
+    - name: Checkout LFS objects
+      run: git lfs checkout
     - name: Package Modpack
       run: dotnet fsi ./Package.fsx
     - name: Commit files  
