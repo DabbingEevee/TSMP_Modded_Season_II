@@ -12,8 +12,9 @@ val damagedBase = base.withDamage(64);
 val flintandstone = damagedBase.withTag({display: {Name: "§rFlint and Stone"}});
 recipes.addShapeless(flintandstone, [<minecraft:flint>, <ore:cobblestone>]);
 
-mods.aether_legacy.Enchanter.registerEnchantment(<ore:ingotOsmium>, <tconmaterial:ingotfusionite>, 40);
-mods.aether_legacy.Enchanter.registerEnchantment(<ore:ingotUranium>, <tconmaterial:ingotradium>, 40);
+mods.aether_legacy.Enchanter.registerEnchantment(<techguns:itemshared:98>, <tconmaterial:ingotradium>, 40);
+mods.aether_legacy.Enchanter.registerEnchantment(<mekanism:ingot:1>, <tconmaterial:ingotfusionite>, 40);
+mods.aether_legacy.Enchanter.registerEnchantment(<metallurgy:osmium_ingot:*>, <tconmaterial:ingotfusionite>, 40);
 mods.aether_legacy.Enchanter.registerEnchantment(<aether_legacy:zanite_gemstone>, <tconmaterial:gemvoidspar>, 40);
 mods.aether_legacy.Enchanter.registerEnchantment(<quark:biotite_ore>, <tconmaterial:gemenderal>, 40);
 
