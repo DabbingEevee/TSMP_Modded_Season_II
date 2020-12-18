@@ -703,13 +703,22 @@ tconmaterial:spacetimedisruptionpowder - Space Time Disruption Powder - item.spa
 tconmaterial:hydrogenrichredstonepowder - Hydrogen Rich Redstone Powder - item.hydrogenrichredstonepowder
 tconmaterial:ingotsolarsteel - Solar Steel Ingot - item.ingotsolarsteel
 tconmaterial:nuggetsolarsteel - Solar Steel Nugget - item.nuggetsolarsteel
+tconmaterial:gemvoidspar - Void Spar - item.gemvoidspar
+tconmaterial:gemenderal - Enderal - item.gemenderal
 tconmaterial:nuggetpenguinite - Penguinite Nugget - item.nuggetpenguinite
 tconmaterial:ingotpenguinite - Penguinite Ingot - item.ingotpenguinite
+tconmaterial:penguinessenceactive - Active Penguin Essence - item.penguinessenceactive
+tconmaterial:penguinessence - Inactive Penguin Essence - item.penguinessence
 tconmaterial:blockfusionite - Block of Fusionite - tile.blockfusionite
 tconmaterial:orefusionite - Fusionite Ore - tile.orefusionite
 tconmaterial:blockradium - Block of Radium - tile.blockradium
 tconmaterial:oreradium - Radium Ore - tile.oreradium
 tconmaterial:blocksolarsteel - Block of Solar Steel - tile.blocksolarsteel
+tconmaterial:orevoidspar - Block of Void Spar - tile.orevoidspar
+tconmaterial:blockvoidspar - Void Spar Ore - tile.blockvoidspar
+tconmaterial:orenaturalvoidspar - Bedrock Void Spar Ore - tile.orenaturalvoidspar
+tconmaterial:oreenderal - Enderal Ore - tile.oreenderal
+tconmaterial:blockenderal - Block of Enderal - tile.blockenderal
 tconmaterial:blockpenguinite - Block of Penguinite - tile.blockpenguinite
 avaritia:resource - Diamond Lattice - item.resource
 avaritia:singularity - Iron Singularity - item.singularity
@@ -1168,7 +1177,7 @@ randomthings:plate_processing - Processing Plate - tile.plate_processing
 randomthings:spectrecoil_normal - Spectre Coil - tile.spectreCoil_normal
 randomthings:spectrecoil_redstone - Redstone Spectre Coil - tile.spectreCoil_redstone
 randomthings:spectrecoil_ender - Ender Spectre Coil - tile.spectreCoil_ender
-randomthings:spectrecoil_number - Spectre Coil Nr. 376 - tile.spectreCoil_number
+randomthings:spectrecoil_number - Spectre Coil Nr. 131 - tile.spectreCoil_number
 randomthings:spectrecoil_genesis - Genesis Spectre Coil - tile.spectreCoil_genesis
 randomthings:advancedredstonerepeater - Advanced Redstone Repeater - tile.advancedRedstoneRepeater
 randomthings:advancedredstonetorch_on - Advanced Redstone Torch - tile.advancedRedstoneTorch_on
@@ -3235,7 +3244,80 @@ armorplus:map_of_the_elder - Map of The Elder - item.armorplus.map_of_the_elder
 armorplus:dungeon_placer_1 - Structure Spawn: Skeletal King Dungeon (ArmorPlus) - item.armorplus.dungeon_placer_1
 armorplus:dungeon_placer_2 - Structure Spawn: Guardian Overlord Dungeon (ArmorPlus) - item.armorplus.dungeon_placer_2
 armorplus:dungeon_placer_3 - Structure Spawn: Demonic Dragon Dungeon (ArmorPlus) - item.armorplus.dungeon_placer_3
-quark:glass_shards - Glass Shard - item.glass_shards
+quark:pickarang - Pickarang - item.pickarang
+quark:arrow_ender - Ender Arrow - item.arrow_ender
+quark:arrow_explosive - Explosive Arrow - item.arrow_explosive
+quark:arrow_torch - Torch Arrow - item.arrow_torch
+quark:slime_bucket - Slime in a Bucket - item.slime_bucket
+quark:rune - White Rune - item.rune
+quark:black_ash - Wither Ash - tile.black_ash
+quark:ancient_tome - Ancient Tome - item.ancient_tome
+quark:horse_whistle - Horse Whistle - item.horse_whistle
+quark:soul_powder - Soul Powder - item.soul_powder
+quark:parrot_egg - Red Parrot Egg - item.parrot_egg
+quark:enderdragon_scale - Dragon Scale - item.enderdragon_scale
+quark:spruce_trapdoor - Spruce Trapdoor - tile.spruce_trapdoor
+quark:birch_trapdoor - Birch Trapdoor - tile.birch_trapdoor
+quark:jungle_trapdoor - Jungle Trapdoor - tile.jungle_trapdoor
+quark:acacia_trapdoor - Acacia Trapdoor - tile.acacia_trapdoor
+quark:dark_oak_trapdoor - Dark Oak Trapdoor - tile.dark_oak_trapdoor
+quark:paper_wall - Paper Wall - tile.paper_wall
+quark:paper_wall_big - Big Paper Wall - tile.paper_wall_big
+quark:paper_wall_sakura - Decorated Paper Wall - tile.paper_wall_sakura
+quark:iron_ladder - Iron Ladder - tile.iron_ladder
+quark:paper_lantern - Paper Lamp - tile.paper_lantern
+quark:colored_flowerpot_white - White Flower Pot - tile.colored_flowerpot_white
+quark:colored_flowerpot_orange - Orange Flower Pot - tile.colored_flowerpot_orange
+quark:colored_flowerpot_magenta - Magenta Flower Pot - tile.colored_flowerpot_magenta
+quark:colored_flowerpot_light_blue - Light Blue Flower Pot - tile.colored_flowerpot_light_blue
+quark:colored_flowerpot_yellow - Yellow Flower Pot - tile.colored_flowerpot_yellow
+quark:colored_flowerpot_lime - Lime Flower Pot - tile.colored_flowerpot_lime
+quark:colored_flowerpot_pink - Pink Flower Pot - tile.colored_flowerpot_pink
+quark:colored_flowerpot_gray - Gray Flower Pot - tile.colored_flowerpot_gray
+quark:colored_flowerpot_silver - Light Gray Flower Pot - tile.colored_flowerpot_silver
+quark:colored_flowerpot_cyan - Cyan Flower Pot - tile.colored_flowerpot_cyan
+quark:colored_flowerpot_purple - Purple Flower Pot - tile.colored_flowerpot_purple
+quark:colored_flowerpot_blue - Blue Flower Pot - tile.colored_flowerpot_blue
+quark:colored_flowerpot_brown - Brown Flower Pot - tile.colored_flowerpot_brown
+quark:colored_flowerpot_green - Green Flower Pot - tile.colored_flowerpot_green
+quark:colored_flowerpot_red - Red Flower Pot - tile.colored_flowerpot_red
+quark:colored_flowerpot_black - Black Flower Pot - tile.colored_flowerpot_black
+quark:custom_bookshelf - Spruce Bookshelf - tile.custom_bookshelf
+quark:colored_item_frame - White Item Frame - item.colored_item_frame
+quark:lit_lamp - Lit Redstone Lamp - tile.lit_lamp
+quark:custom_chest - Spruce Chest - tile.custom_chest
+quark:custom_chest_trap - Spruce Trapped Chest - tile.custom_chest_trap
+quark:candle - White Candle - tile.candle
+quark:tallow - Tallow - item.tallow
+quark:rope - Rope Coil - tile.rope
+quark:blaze_lantern - Blaze Lantern - tile.blaze_lantern
+quark:nether_brick_fence_gate - Nether Brick Fence Gate - tile.nether_brick_fence_gate
+quark:leaf_carpet - Oak Leaf Carpet - tile.leaf_carpet
+quark:spruce_pressure_plate - Spruce Pressure Plate - tile.spruce_pressure_plate
+quark:birch_pressure_plate - Birch Pressure Plate - tile.birch_pressure_plate
+quark:jungle_pressure_plate - Jungle Pressure Plate - tile.jungle_pressure_plate
+quark:acacia_pressure_plate - Acacia Pressure Plate - tile.acacia_pressure_plate
+quark:dark_oak_pressure_plate - Dark Oak Pressure Plate - tile.dark_oak_pressure_plate
+quark:spruce_button - Spruce Button - tile.spruce_button
+quark:birch_button - Birch Button - tile.birch_button
+quark:jungle_button - Jungle Button - tile.jungle_button
+quark:acacia_button - Acacia Button - tile.acacia_button
+quark:dark_oak_button - Dark Oak Button - tile.dark_oak_button
+quark:grate - Iron Grate - tile.grate
+quark:glass_item_frame - Glass Item Frame - item.glass_item_frame
+quark:chute - Chute - tile.chute
+quark:sugar_block - Sugar Block - tile.sugar_block
+quark:redstone_randomizer - Redstone Randomizer - tile.redstone_randomizer
+quark:iron_button - Iron Button - tile.iron_button
+quark:gold_button - Gold Button - tile.gold_button
+quark:ender_watcher - Ender Watcher - tile.ender_watcher
+quark:iron_rod - Iron Rod - tile.iron_rod
+quark:color_slime - Red Slime Block - tile.color_slime
+quark:gravisand - Gravisand - tile.gravisand
+quark:redstone_inductor - Redstone Inductor - tile.redstone_inductor
+quark:obsidian_pressure_plate - Obsidian Pressure Plate - tile.obsidian_pressure_plate
+quark:rain_detector - Weather Sensor - tile.rain_detector
+quark:chain - Iron Chain - item.chain
 quark:sandstone_new - Polished Sandstone - tile.sandstone_new
 quark:sandstone_bricks_stairs - Sandstone Brick Stairs - tile.sandstone_bricks_stairs
 quark:red_sandstone_bricks_stairs - Red Sandstone Brick Stairs - tile.red_sandstone_bricks_stairs
@@ -3451,80 +3533,7 @@ quark:polished_netherrack_bricks_slab - Netherwrought Brick Slab - tile.polished
 quark:polished_netherrack_bricks_wall - Netherwrought Brick Wall - tile.polished_netherrack_bricks_wall
 quark:trowel - Trowel - item.trowel
 quark:quilted_wool - White Quilted Wool - tile.quilted_wool
-quark:spruce_trapdoor - Spruce Trapdoor - tile.spruce_trapdoor
-quark:birch_trapdoor - Birch Trapdoor - tile.birch_trapdoor
-quark:jungle_trapdoor - Jungle Trapdoor - tile.jungle_trapdoor
-quark:acacia_trapdoor - Acacia Trapdoor - tile.acacia_trapdoor
-quark:dark_oak_trapdoor - Dark Oak Trapdoor - tile.dark_oak_trapdoor
-quark:paper_wall - Paper Wall - tile.paper_wall
-quark:paper_wall_big - Big Paper Wall - tile.paper_wall_big
-quark:paper_wall_sakura - Decorated Paper Wall - tile.paper_wall_sakura
-quark:iron_ladder - Iron Ladder - tile.iron_ladder
-quark:paper_lantern - Paper Lamp - tile.paper_lantern
-quark:colored_flowerpot_white - White Flower Pot - tile.colored_flowerpot_white
-quark:colored_flowerpot_orange - Orange Flower Pot - tile.colored_flowerpot_orange
-quark:colored_flowerpot_magenta - Magenta Flower Pot - tile.colored_flowerpot_magenta
-quark:colored_flowerpot_light_blue - Light Blue Flower Pot - tile.colored_flowerpot_light_blue
-quark:colored_flowerpot_yellow - Yellow Flower Pot - tile.colored_flowerpot_yellow
-quark:colored_flowerpot_lime - Lime Flower Pot - tile.colored_flowerpot_lime
-quark:colored_flowerpot_pink - Pink Flower Pot - tile.colored_flowerpot_pink
-quark:colored_flowerpot_gray - Gray Flower Pot - tile.colored_flowerpot_gray
-quark:colored_flowerpot_silver - Light Gray Flower Pot - tile.colored_flowerpot_silver
-quark:colored_flowerpot_cyan - Cyan Flower Pot - tile.colored_flowerpot_cyan
-quark:colored_flowerpot_purple - Purple Flower Pot - tile.colored_flowerpot_purple
-quark:colored_flowerpot_blue - Blue Flower Pot - tile.colored_flowerpot_blue
-quark:colored_flowerpot_brown - Brown Flower Pot - tile.colored_flowerpot_brown
-quark:colored_flowerpot_green - Green Flower Pot - tile.colored_flowerpot_green
-quark:colored_flowerpot_red - Red Flower Pot - tile.colored_flowerpot_red
-quark:colored_flowerpot_black - Black Flower Pot - tile.colored_flowerpot_black
-quark:custom_bookshelf - Spruce Bookshelf - tile.custom_bookshelf
-quark:colored_item_frame - White Item Frame - item.colored_item_frame
-quark:lit_lamp - Lit Redstone Lamp - tile.lit_lamp
-quark:custom_chest - Spruce Chest - tile.custom_chest
-quark:custom_chest_trap - Spruce Trapped Chest - tile.custom_chest_trap
-quark:candle - White Candle - tile.candle
-quark:tallow - Tallow - item.tallow
-quark:rope - Rope Coil - tile.rope
-quark:blaze_lantern - Blaze Lantern - tile.blaze_lantern
-quark:nether_brick_fence_gate - Nether Brick Fence Gate - tile.nether_brick_fence_gate
-quark:leaf_carpet - Oak Leaf Carpet - tile.leaf_carpet
-quark:spruce_pressure_plate - Spruce Pressure Plate - tile.spruce_pressure_plate
-quark:birch_pressure_plate - Birch Pressure Plate - tile.birch_pressure_plate
-quark:jungle_pressure_plate - Jungle Pressure Plate - tile.jungle_pressure_plate
-quark:acacia_pressure_plate - Acacia Pressure Plate - tile.acacia_pressure_plate
-quark:dark_oak_pressure_plate - Dark Oak Pressure Plate - tile.dark_oak_pressure_plate
-quark:spruce_button - Spruce Button - tile.spruce_button
-quark:birch_button - Birch Button - tile.birch_button
-quark:jungle_button - Jungle Button - tile.jungle_button
-quark:acacia_button - Acacia Button - tile.acacia_button
-quark:dark_oak_button - Dark Oak Button - tile.dark_oak_button
-quark:grate - Iron Grate - tile.grate
-quark:glass_item_frame - Glass Item Frame - item.glass_item_frame
-quark:pickarang - Pickarang - item.pickarang
-quark:arrow_ender - Ender Arrow - item.arrow_ender
-quark:arrow_explosive - Explosive Arrow - item.arrow_explosive
-quark:arrow_torch - Torch Arrow - item.arrow_torch
-quark:slime_bucket - Slime in a Bucket - item.slime_bucket
-quark:rune - White Rune - item.rune
-quark:black_ash - Wither Ash - tile.black_ash
-quark:ancient_tome - Ancient Tome - item.ancient_tome
-quark:horse_whistle - Horse Whistle - item.horse_whistle
-quark:soul_powder - Soul Powder - item.soul_powder
-quark:parrot_egg - Red Parrot Egg - item.parrot_egg
-quark:enderdragon_scale - Dragon Scale - item.enderdragon_scale
-quark:chute - Chute - tile.chute
-quark:sugar_block - Sugar Block - tile.sugar_block
-quark:redstone_randomizer - Redstone Randomizer - tile.redstone_randomizer
-quark:iron_button - Iron Button - tile.iron_button
-quark:gold_button - Gold Button - tile.gold_button
-quark:ender_watcher - Ender Watcher - tile.ender_watcher
-quark:iron_rod - Iron Rod - tile.iron_rod
-quark:color_slime - Red Slime Block - tile.color_slime
-quark:gravisand - Gravisand - tile.gravisand
-quark:redstone_inductor - Redstone Inductor - tile.redstone_inductor
-quark:obsidian_pressure_plate - Obsidian Pressure Plate - tile.obsidian_pressure_plate
-quark:rain_detector - Weather Sensor - tile.rain_detector
-quark:chain - Iron Chain - item.chain
+quark:glass_shards - Glass Shard - item.glass_shards
 quark:witch_hat - Witch Hat - item.witch_hat
 quark:roots - Cave Roots - tile.roots
 quark:root - Cave Root - item.root
@@ -3836,17 +3845,6 @@ metallurgy:platinum_helmet - Platinum Helmet - item.metallurgy.platinum_helmet
 metallurgy:platinum_chestplate - Platinum Chestplate - item.metallurgy.platinum_chestplate
 metallurgy:platinum_leggings - Platinum Leggings - item.metallurgy.platinum_leggings
 metallurgy:platinum_boots - Platinum Boots - item.metallurgy.platinum_boots
-metallurgy:tin_ore - Tin Ore - tile.metallurgy.tin_ore
-metallurgy:tin_block - Tin Block - tile.metallurgy.tin_block
-metallurgy:tin_engraved_block - Tin Engraved Block - tile.metallurgy.tin_engraved_block
-metallurgy:tin_large_bricks - Tin Large Bricks - tile.metallurgy.tin_large_bricks
-metallurgy:tin_bricks - Tin Bricks - tile.metallurgy.tin_bricks
-metallurgy:tin_crystals - Tin Crystals - tile.metallurgy.tin_crystals
-metallurgy:tin_hazard_block - Tin Hazard Block - tile.metallurgy.tin_hazard_block
-metallurgy:tin_reinforced_glass - Tin Reinforced Glass - tile.metallurgy.tin_reinforced_glass
-metallurgy:tin_ingot - Tin Ingot - item.metallurgy.tin_ingot
-metallurgy:tin_dust - Tin Dust - item.metallurgy.tin_dust
-metallurgy:tin_nugget - Tin Nugget - item.metallurgy.tin_nugget
 metallurgy:vulcanite_ore - Vulcanite Ore - tile.metallurgy.vulcanite_ore
 metallurgy:vulcanite_block - Vulcanite Block - tile.metallurgy.vulcanite_block
 metallurgy:vulcanite_engraved_block - Vulcanite Engraved Block - tile.metallurgy.vulcanite_engraved_block
@@ -3867,6 +3865,17 @@ metallurgy:vulcanite_helmet - Vulcanite Helmet - item.metallurgy.vulcanite_helme
 metallurgy:vulcanite_chestplate - Vulcanite Chestplate - item.metallurgy.vulcanite_chestplate
 metallurgy:vulcanite_leggings - Vulcanite Leggings - item.metallurgy.vulcanite_leggings
 metallurgy:vulcanite_boots - Vulcanite Boots - item.metallurgy.vulcanite_boots
+metallurgy:tin_ore - Tin Ore - tile.metallurgy.tin_ore
+metallurgy:tin_block - Tin Block - tile.metallurgy.tin_block
+metallurgy:tin_engraved_block - Tin Engraved Block - tile.metallurgy.tin_engraved_block
+metallurgy:tin_large_bricks - Tin Large Bricks - tile.metallurgy.tin_large_bricks
+metallurgy:tin_bricks - Tin Bricks - tile.metallurgy.tin_bricks
+metallurgy:tin_crystals - Tin Crystals - tile.metallurgy.tin_crystals
+metallurgy:tin_hazard_block - Tin Hazard Block - tile.metallurgy.tin_hazard_block
+metallurgy:tin_reinforced_glass - Tin Reinforced Glass - tile.metallurgy.tin_reinforced_glass
+metallurgy:tin_ingot - Tin Ingot - item.metallurgy.tin_ingot
+metallurgy:tin_dust - Tin Dust - item.metallurgy.tin_dust
+metallurgy:tin_nugget - Tin Nugget - item.metallurgy.tin_nugget
 metallurgy:ignatius_ore - Ignatius Ore - tile.metallurgy.ignatius_ore
 metallurgy:ignatius_block - Ignatius Block - tile.metallurgy.ignatius_block
 metallurgy:ignatius_engraved_block - Ignatius Engraved Block - tile.metallurgy.ignatius_engraved_block
@@ -3887,17 +3896,6 @@ metallurgy:ignatius_helmet - Ignatius Helmet - item.metallurgy.ignatius_helmet
 metallurgy:ignatius_chestplate - Ignatius Chestplate - item.metallurgy.ignatius_chestplate
 metallurgy:ignatius_leggings - Ignatius Leggings - item.metallurgy.ignatius_leggings
 metallurgy:ignatius_boots - Ignatius Boots - item.metallurgy.ignatius_boots
-metallurgy:zinc_ore - Zinc Ore - tile.metallurgy.zinc_ore
-metallurgy:zinc_block - Zinc Block - tile.metallurgy.zinc_block
-metallurgy:zinc_engraved_block - Zinc Engraved Block - tile.metallurgy.zinc_engraved_block
-metallurgy:zinc_large_bricks - Zinc Large Bricks - tile.metallurgy.zinc_large_bricks
-metallurgy:zinc_bricks - Zinc Bricks - tile.metallurgy.zinc_bricks
-metallurgy:zinc_crystals - Zinc Crystals - tile.metallurgy.zinc_crystals
-metallurgy:zinc_hazard_block - Zinc Hazard Block - tile.metallurgy.zinc_hazard_block
-metallurgy:zinc_reinforced_glass - Zinc Reinforced Glass - tile.metallurgy.zinc_reinforced_glass
-metallurgy:zinc_ingot - Zinc Ingot - item.metallurgy.zinc_ingot
-metallurgy:zinc_dust - Zinc Dust - item.metallurgy.zinc_dust
-metallurgy:zinc_nugget - Zinc Nugget - item.metallurgy.zinc_nugget
 metallurgy:etherium_block - Etherium Block - tile.metallurgy.etherium_block
 metallurgy:etherium_engraved_block - Etherium Engraved Block - tile.metallurgy.etherium_engraved_block
 metallurgy:etherium_large_bricks - Etherium Large Bricks - tile.metallurgy.etherium_large_bricks
@@ -3917,6 +3915,17 @@ metallurgy:etherium_helmet - Etherium Helmet - item.metallurgy.etherium_helmet
 metallurgy:etherium_chestplate - Etherium Chestplate - item.metallurgy.etherium_chestplate
 metallurgy:etherium_leggings - Etherium Leggings - item.metallurgy.etherium_leggings
 metallurgy:etherium_boots - Etherium Boots - item.metallurgy.etherium_boots
+metallurgy:zinc_ore - Zinc Ore - tile.metallurgy.zinc_ore
+metallurgy:zinc_block - Zinc Block - tile.metallurgy.zinc_block
+metallurgy:zinc_engraved_block - Zinc Engraved Block - tile.metallurgy.zinc_engraved_block
+metallurgy:zinc_large_bricks - Zinc Large Bricks - tile.metallurgy.zinc_large_bricks
+metallurgy:zinc_bricks - Zinc Bricks - tile.metallurgy.zinc_bricks
+metallurgy:zinc_crystals - Zinc Crystals - tile.metallurgy.zinc_crystals
+metallurgy:zinc_hazard_block - Zinc Hazard Block - tile.metallurgy.zinc_hazard_block
+metallurgy:zinc_reinforced_glass - Zinc Reinforced Glass - tile.metallurgy.zinc_reinforced_glass
+metallurgy:zinc_ingot - Zinc Ingot - item.metallurgy.zinc_ingot
+metallurgy:zinc_dust - Zinc Dust - item.metallurgy.zinc_dust
+metallurgy:zinc_nugget - Zinc Nugget - item.metallurgy.zinc_nugget
 metallurgy:quicksilver_block - Quicksilver Block - tile.metallurgy.quicksilver_block
 metallurgy:quicksilver_engraved_block - Quicksilver Engraved Block - tile.metallurgy.quicksilver_engraved_block
 metallurgy:quicksilver_large_bricks - Quicksilver Large Bricks - tile.metallurgy.quicksilver_large_bricks
@@ -4428,6 +4437,25 @@ metallurgy:atlarus_helmet - Atlarus Helmet - item.metallurgy.atlarus_helmet
 metallurgy:atlarus_chestplate - Atlarus Chestplate - item.metallurgy.atlarus_chestplate
 metallurgy:atlarus_leggings - Atlarus Leggings - item.metallurgy.atlarus_leggings
 metallurgy:atlarus_boots - Atlarus Boots - item.metallurgy.atlarus_boots
+metallurgy:black_steel_block - Black Steel Block - tile.metallurgy.black_steel_block
+metallurgy:black_steel_engraved_block - Black Steel Engraved Block - tile.metallurgy.black_steel_engraved_block
+metallurgy:black_steel_large_bricks - Black Steel Large Bricks - tile.metallurgy.black_steel_large_bricks
+metallurgy:black_steel_bricks - Black Steel Bricks - tile.metallurgy.black_steel_bricks
+metallurgy:black_steel_crystals - Black Steel Crystals - tile.metallurgy.black_steel_crystals
+metallurgy:black_steel_hazard_block - Black Steel Hazard Block - tile.metallurgy.black_steel_hazard_block
+metallurgy:black_steel_reinforced_glass - Black Steel Reinforced Glass - tile.metallurgy.black_steel_reinforced_glass
+metallurgy:black_steel_ingot - Black Steel Ingot - item.metallurgy.black_steel_ingot
+metallurgy:black_steel_dust - Black Steel Dust - item.metallurgy.black_steel_dust
+metallurgy:black_steel_nugget - Black Steel Nugget - item.metallurgy.black_steel_nugget
+metallurgy:black_steel_axe - Black Steel Axe - item.metallurgy.black_steel_axe
+metallurgy:black_steel_hoe - Black Steel Hoe - item.metallurgy.black_steel_hoe
+metallurgy:black_steel_pickaxe - Black Steel Pickaxe - item.metallurgy.black_steel_pickaxe
+metallurgy:black_steel_shovel - Black Steel Shovel - item.metallurgy.black_steel_shovel
+metallurgy:black_steel_sword - Black Steel Sword - item.metallurgy.black_steel_sword
+metallurgy:black_steel_helmet - Black Steel Helmet - item.metallurgy.black_steel_helmet
+metallurgy:black_steel_chestplate - Black Steel Chestplate - item.metallurgy.black_steel_chestplate
+metallurgy:black_steel_leggings - Black Steel Leggings - item.metallurgy.black_steel_leggings
+metallurgy:black_steel_boots - Black Steel Boots - item.metallurgy.black_steel_boots
 metallurgy:vyroxeres_ore - Vyroxeres Ore - tile.metallurgy.vyroxeres_ore
 metallurgy:vyroxeres_block - Vyroxeres Block - tile.metallurgy.vyroxeres_block
 metallurgy:vyroxeres_engraved_block - Vyroxeres Engraved Block - tile.metallurgy.vyroxeres_engraved_block
@@ -4448,25 +4476,6 @@ metallurgy:vyroxeres_helmet - Vyroxeres Helmet - item.metallurgy.vyroxeres_helme
 metallurgy:vyroxeres_chestplate - Vyroxeres Chest - item.metallurgy.vyroxeres_chestplate
 metallurgy:vyroxeres_leggings - Vyroxeres Leggings - item.metallurgy.vyroxeres_leggings
 metallurgy:vyroxeres_boots - Vyroxeres Boots - item.metallurgy.vyroxeres_boots
-metallurgy:black_steel_block - Black Steel Block - tile.metallurgy.black_steel_block
-metallurgy:black_steel_engraved_block - Black Steel Engraved Block - tile.metallurgy.black_steel_engraved_block
-metallurgy:black_steel_large_bricks - Black Steel Large Bricks - tile.metallurgy.black_steel_large_bricks
-metallurgy:black_steel_bricks - Black Steel Bricks - tile.metallurgy.black_steel_bricks
-metallurgy:black_steel_crystals - Black Steel Crystals - tile.metallurgy.black_steel_crystals
-metallurgy:black_steel_hazard_block - Black Steel Hazard Block - tile.metallurgy.black_steel_hazard_block
-metallurgy:black_steel_reinforced_glass - Black Steel Reinforced Glass - tile.metallurgy.black_steel_reinforced_glass
-metallurgy:black_steel_ingot - Black Steel Ingot - item.metallurgy.black_steel_ingot
-metallurgy:black_steel_dust - Black Steel Dust - item.metallurgy.black_steel_dust
-metallurgy:black_steel_nugget - Black Steel Nugget - item.metallurgy.black_steel_nugget
-metallurgy:black_steel_axe - Black Steel Axe - item.metallurgy.black_steel_axe
-metallurgy:black_steel_hoe - Black Steel Hoe - item.metallurgy.black_steel_hoe
-metallurgy:black_steel_pickaxe - Black Steel Pickaxe - item.metallurgy.black_steel_pickaxe
-metallurgy:black_steel_shovel - Black Steel Shovel - item.metallurgy.black_steel_shovel
-metallurgy:black_steel_sword - Black Steel Sword - item.metallurgy.black_steel_sword
-metallurgy:black_steel_helmet - Black Steel Helmet - item.metallurgy.black_steel_helmet
-metallurgy:black_steel_chestplate - Black Steel Chestplate - item.metallurgy.black_steel_chestplate
-metallurgy:black_steel_leggings - Black Steel Leggings - item.metallurgy.black_steel_leggings
-metallurgy:black_steel_boots - Black Steel Boots - item.metallurgy.black_steel_boots
 metallurgy:lutetium_ore - Lutetium Ore - tile.metallurgy.lutetium_ore
 metallurgy:lutetium_block - Lutetium Block - tile.metallurgy.lutetium_block
 metallurgy:lutetium_engraved_block - Lutetium Engraved Block - tile.metallurgy.lutetium_engraved_block
@@ -6903,15 +6912,6 @@ xreliquary:potion_essence - Potion Essence - item.potion_essence
 xreliquary:potion - Condensed Potion Vial - item.potion
 xreliquary:tipped_arrow - Tipped Arrow - item.tipped_arrow
 bq_standard:loot_chest - Loot Chest - item.bq_standard.loot_chest
-storagedrawers:basicdrawers - Basic Drawer - tile.storagedrawers.basicDrawers
-storagedrawers:keybutton - Drawer Key Button - tile.storagedrawers.keyButton
-storagedrawers:compdrawers - Compacting Drawer - tile.storagedrawers.compDrawers
-storagedrawers:controller - Drawer Controller - tile.storagedrawers.controller
-storagedrawers:controllerslave - Controller Slave - tile.storagedrawers.controllerSlave
-storagedrawers:trim - Oak Trim - tile.storagedrawers.trim
-storagedrawers:framingtable - Framing Table - tile.storagedrawers.framingTable
-storagedrawers:customdrawers - Framed Drawer - tile.storagedrawers.customDrawers
-storagedrawers:customtrim - Framed Trim - tile.storagedrawers.customTrim
 storagedrawers:upgrade_template - Upgrade Template - item.storagedrawers.upgradeTemplate
 storagedrawers:upgrade_storage - Storage Upgrade (I) - item.storagedrawers.upgradeStorage
 storagedrawers:upgrade_one_stack - Storage Downgrade - item.storagedrawers.upgradeOneStack
@@ -6925,6 +6925,15 @@ storagedrawers:shroud_key - Concealment Key - item.storagedrawers.shroudKey
 storagedrawers:personal_key - Personal Key - item.storagedrawers.personalKey
 storagedrawers:quantify_key - Quantify Key - item.storagedrawers.quantifyKey
 storagedrawers:tape - Packing Tape - item.storagedrawers.tape
+storagedrawers:basicdrawers - Basic Drawer - tile.storagedrawers.basicDrawers
+storagedrawers:keybutton - Drawer Key Button - tile.storagedrawers.keyButton
+storagedrawers:compdrawers - Compacting Drawer - tile.storagedrawers.compDrawers
+storagedrawers:controller - Drawer Controller - tile.storagedrawers.controller
+storagedrawers:controllerslave - Controller Slave - tile.storagedrawers.controllerSlave
+storagedrawers:trim - Oak Trim - tile.storagedrawers.trim
+storagedrawers:framingtable - Framing Table - tile.storagedrawers.framingTable
+storagedrawers:customdrawers - Framed Drawer - tile.storagedrawers.customDrawers
+storagedrawers:customtrim - Framed Trim - tile.storagedrawers.customTrim
 techguns:basicmachine - Ammo Press - tile.techguns.basicmachine
 techguns:simplemachine - tile.techguns.simplemachine.0.name - tile.techguns.simplemachine
 techguns:simplemachine2 - tile.techguns.simplemachine2.0.name - tile.techguns.simplemachine2
@@ -7238,7 +7247,6 @@ thaumicaugmentation:eldritch_lock_key - Runed Tablet - item.thaumicaugmentation.
 thaumicaugmentation:obelisk_placer - Eldritch Obelisk - item.thaumicaugmentation.obelisk_placer
 thaumicaugmentation:research_notes - Tattered Scrolls - item.thaumicaugmentation.research_notes
 thaumicaugmentation:augment_vis_battery - Vis Battery Augment - item.thaumicaugmentation.augment_vis_battery
-thaumicenergistics:infusion_provider - Essentia Infusion Provider - tile.thaumicenergistics.infusion_provider
 thaumicenergistics:essentia_cell_1k - 1k ME Essentia Storage Cell - item.thaumicenergistics.essentia_cell_1k
 thaumicenergistics:essentia_cell_4k - 4k ME Essentia Storage Cell - item.thaumicenergistics.essentia_cell_4k
 thaumicenergistics:essentia_cell_16k - 16k ME Essentia Storage Cell - item.thaumicenergistics.essentia_cell_16k
@@ -7257,6 +7265,7 @@ thaumicenergistics:essentia_component_16k - 16k ME Essentia Storage Component - 
 thaumicenergistics:essentia_component_64k - 64k ME Essentia Storage Component - item.thaumicenergistics.essentia_component_64k
 thaumicenergistics:upgrade_arcane - Arcane Charging Upgrade - item.thaumicenergistics.upgrade_arcane
 thaumicenergistics:dummy_aspect - [ERROR] Report to mod dev - item.thaumicenergistics.dummy_aspect
+thaumicenergistics:infusion_provider - Essentia Infusion Provider - tile.thaumicenergistics.infusion_provider
 tinkers_reforged:lavium_nugget - Lavium Nugget - item.tinkers_reforged.lavium_nugget
 tinkers_reforged:lavium_ingot - Lavium Ingot - item.tinkers_reforged.lavium_ingot
 tinkers_reforged:lavium_dust - Lavium Dust - item.tinkers_reforged.lavium_dust
@@ -7349,12 +7358,21 @@ undergroundbiomes:metamorphic_stone_stairs - Gneiss Stairs - tile.metamorphic_st
 undergroundbiomes:metamorphic_cobble_stairs - Gneiss Cobblestone Stairs - tile.metamorphic_cobble_stairs_north
 undergroundbiomes:metamorphic_brick_stairs - Gneiss Brick Stairs - tile.metamorphic_brick_stairs_north
 undergroundbiomes:sedimentary_stone_stairs - Limestone Stairs - tile.sedimentary_stone_stairs_north
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore - Red Granite Charged Certus Quartz Ore - tile.igneous_stone_appliedenergistics2_charged_quartz_ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore - Gneiss Charged Certus Quartz Ore - tile.metamorphic_stone_appliedenergistics2_charged_quartz_ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore - Limestone Charged Certus Quartz Ore - tile.sedimentary_stone_appliedenergistics2_charged_quartz_ore
+undergroundbiomes:igneous_stone_tconmaterial_orevoidspar - Red Granite Block of Void Spar - tile.igneous_stone_tconmaterial_orevoidspar
+undergroundbiomes:metamorphic_stone_tconmaterial_orevoidspar - Gneiss Block of Void Spar - tile.metamorphic_stone_tconmaterial_orevoidspar
+undergroundbiomes:sedimentary_stone_tconmaterial_orevoidspar - Limestone Block of Void Spar - tile.sedimentary_stone_tconmaterial_orevoidspar
+undergroundbiomes:igneous_stone_tconmaterial_oreenderal - Red Granite Enderal Ore - tile.igneous_stone_tconmaterial_oreenderal
+undergroundbiomes:metamorphic_stone_tconmaterial_oreenderal - Gneiss Enderal Ore - tile.metamorphic_stone_tconmaterial_oreenderal
+undergroundbiomes:sedimentary_stone_tconmaterial_oreenderal - Limestone Enderal Ore - tile.sedimentary_stone_tconmaterial_oreenderal
+undergroundbiomes:igneous_stone_tconmaterial_orefusionite - Red Granite Fusionite Ore - tile.igneous_stone_tconmaterial_orefusionite
+undergroundbiomes:metamorphic_stone_tconmaterial_orefusionite - Gneiss Fusionite Ore - tile.metamorphic_stone_tconmaterial_orefusionite
+undergroundbiomes:sedimentary_stone_tconmaterial_orefusionite - Limestone Fusionite Ore - tile.sedimentary_stone_tconmaterial_orefusionite
 undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore - Red Granite Certus Quartz Ore - tile.igneous_stone_appliedenergistics2_quartz_ore
 undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore - Gneiss Certus Quartz Ore - tile.metamorphic_stone_appliedenergistics2_quartz_ore
 undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore - Limestone Certus Quartz Ore - tile.sedimentary_stone_appliedenergistics2_quartz_ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore - Red Granite Charged Certus Quartz Ore - tile.igneous_stone_appliedenergistics2_charged_quartz_ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore - Gneiss Charged Certus Quartz Ore - tile.metamorphic_stone_appliedenergistics2_charged_quartz_ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore - Limestone Charged Certus Quartz Ore - tile.sedimentary_stone_appliedenergistics2_charged_quartz_ore
 wct:wct - Wireless Crafting Terminal - item.wct:wct
 wct:wct_creative - Creative Wireless Crafting Terminal - item.wct:wct_creative
 wct:magnet_card - Magnet Card - item.wct:magnet_card
@@ -9375,8 +9393,8 @@ waveymod:lightshard - Light Shard - item.lightshard
 waveymod:stellarshard - Stellar Shard - item.stellarshard
 waveymod:vialofdarkness - Vial of Darkness - item.vialofdarkness
 waveymod:vialofpurification - Vial of Purification - item.vialofpurification
-waveymod:blankrune - Blank Rune - item.blankrune
 waveymod:demonicblade - Demonic Blade - item.demonicblade
+waveymod:blankrune - Blank Rune - item.blankrune
 waveymod:darkrune - Dark Rune - item.darkrune
 waveymod:wavypick - Wavy Pick - item.wavypick
 waveymod:holypick - Holy Pick - item.holypick
@@ -9471,8 +9489,8 @@ waveymod:demonicslingshot - Demonic Slingshot - item.demonicslingshot
 waveymod:awakenedbullet - Awakened Bullet - item.awakenedbullet
 waveymod:awakenedflower - Awakened Flower - tile.awakenedflower
 waveymod:awakenedslingshot - Awakened Slingshot - item.awakenedslingshot
-waveymod:deebugtestweaponshootawakenswordbolt - DEEBUGTESTWEAPONSHOOTAWAKENSWORDBOLT - item.deebugtestweaponshootawakenswordbolt
 waveymod:donutlmfao - Donutlmfao - item.donutlmfao
+waveymod:deebugtestweaponshootawakenswordbolt - DEEBUGTESTWEAPONSHOOTAWAKENSWORDBOLT - item.deebugtestweaponshootawakenswordbolt
 waveymod:nethermixure - Nether Mixure - item.nethermixure
 waveymod:netherapple - Nether Apple - item.netherapple
 waveymod:portalfordimension - Wavic Dimension Generator - tile.portalfordimension
