@@ -51,5 +51,3 @@ folders
     dirCopy (Path.Combine(".",folder))  (Path.Combine(packFolder, folder)) )
 
 ZipFile.CreateFromDirectory(packFolder, "./modpack.zip")
-
-Directory.Delete(packFolder, true)
