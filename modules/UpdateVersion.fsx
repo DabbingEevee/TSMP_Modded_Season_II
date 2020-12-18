@@ -1,1 +1,1 @@
-System.IO.File.WriteAllText(System.IO.Path.Combine("..","version.txt"),System.DateTime.UtcNow.Ticks.ToString()+"\nDo Not Modify") // time since beginning of century
+System.IO.File.WriteAllText(System.IO.Path.Combine(".","version.txt"),System.DateTime.UtcNow.Ticks.ToString()+"\nDo Not Modify") // time since beginning of century
