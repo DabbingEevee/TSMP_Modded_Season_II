@@ -1,0 +1,1 @@
+System.IO.File.WriteAllText(System.IO.Path.Combine("..","version.txt"),System.DateTime.UtcNow.Ticks.ToString()) // time since beginning of century

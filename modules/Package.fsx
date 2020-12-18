@@ -16,8 +16,8 @@ open System.IO
 open System.IO.Compression
 
 // Because this for github actions ubuntu, I'll use forward slashes '/' instead of backslashes '\'
-let zipArchive = "./modpack.zip"
-let packFolder = "./modpack/"
+let zipArchive = "../modpack.zip"
+let packFolder = "../modpack/"
 
 
 // INCLUDE THESE FILES AND FOLDERS 
@@ -44,10 +44,10 @@ if File.Exists(zipArchive) then File.Delete(zipArchive)
 Directory.CreateDirectory(packFolder)
 files
 |> List.iter (fun file -> 
-    File.Copy(Path.Combine(".",file), Path.Combine(packFolder, file)) )
+    File.Copy(Path.Combine("..",file), Path.Combine(packFolder, file)) )
 
 folders
 |> List.iter (fun folder ->
-    dirCopy (Path.Combine(".",folder))  (Path.Combine(packFolder, folder)) )
+    dirCopy (Path.Combine("..",folder))  (Path.Combine(packFolder, folder)) )
 
-ZipFile.CreateFromDirectory(packFolder, "./modpack.zip")
+ZipFile.CreateFromDirectory(packFolder, "../modpack.zip")
