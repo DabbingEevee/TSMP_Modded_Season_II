@@ -10,16 +10,14 @@ Recommended amount of allocated memory: at least 3 gb
 # Brief List of the Ages:
 Basic Survival: Punch the tree or die.  
 Stone Age: Welcome to the stone age! You are officially a caveman.  
-Copper Age: What can we do with just copper?  
+Copper Age: What can we do with just copper? Wait, we have also have tin?   
 Bronze Age: Woah, an alloy. Now we are going somewhere.  
+Iron Age: Iron tools and armor. This is good progression.  
 Magic Age: Magical flowers and weird crystals? Sounds quite epic.   
-Iron Age: What's that? Three guns? Now that's pog. What do you mean I missed iron tool- oh wait.  
 Aetheric Age: Are we in the sky? What is this witchcraft?!  
 Wavic Age: ????????????????????????  
 Metallic Age: Metals. Alloys. Tools. All part of a healthy miner's diet!  
-...  
-Electric Age: The lightbulb is on! Hooray!  
-Industrial Age: Factories, machines, and climate change. What more could you want?  
+Automation Age: Factories, machines, climate change. What more could you want?  
 Modern Age: Technology and guns are great!  
 Space Age: To the mooooon (and beyond)!  
 ...  
