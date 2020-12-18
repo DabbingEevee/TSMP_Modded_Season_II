@@ -39,7 +39,7 @@ mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:orePot
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <metallurgy:phosphorite_ore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreAlduorite>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:orePlatinum>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:ocanite>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreVocanite>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreIgnatius>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreAstralSilver>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreLemurite>, <fhantoncore:unidentifiedore>);

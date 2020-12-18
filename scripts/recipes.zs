@@ -13,8 +13,8 @@ val flintandstone = damagedBase.withTag({display: {Name: "§rFlint and Stone"}})
 recipes.addShapeless(flintandstone, [<minecraft:flint>, <ore:cobblestone>]);
 
 mods.aether_legacy.Enchanter.registerEnchantment(<ore:ingotOsmium>, <tconmaterial:ingotfusionite>, 40);
-mods.aether_legacy.Enchanter.registerEnchantment(<ore:ingotUranium>, <tconmaterial:ingotRadium>, 40);
-mods.aether_legacy.Enchanter.registerEnchantment(<aether_legacy:zanite_gemstone>, <tconmaterial:gemvoidspar>, 40)
+mods.aether_legacy.Enchanter.registerEnchantment(<ore:ingotUranium>, <tconmaterial:ingotradium>, 40);
+mods.aether_legacy.Enchanter.registerEnchantment(<aether_legacy:zanite_gemstone>, <tconmaterial:gemvoidspar>, 40);
 mods.aether_legacy.Enchanter.registerEnchantment(<quark:biotite_ore>, <tconmaterial:gemenderal>, 40)
 
 recipes.addShaped(<fhantoncore:framewood>,
