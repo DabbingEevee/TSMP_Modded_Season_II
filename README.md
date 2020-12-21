@@ -6,5 +6,5 @@ This quest-based modpack is all about advancing through ages while keeping survi
 
 Recommended amount of allocated memory: at least 3 gb  
 We recommend adding Optifine for the best performance  
-If your computer can handle it, shaders will enhance gameplay  
+If your computer can handle it, shaders will enhance gameplay visually  
 
