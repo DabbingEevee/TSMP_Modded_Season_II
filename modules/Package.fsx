@@ -22,7 +22,7 @@ let packFolder = "./modpack/"
 
 // INCLUDE THESE FILES AND FOLDERS 
 let files = ["version.txt"]
-let folders = ["mods/"; "config/"; "scripts/"]
+let folders = ["mods/"; "config/"; "scripts/"; "resources/"]
 
 let rec dirCopy sourceDir destDir =
     let dir = new DirectoryInfo(sourceDir)
@@ -51,5 +51,3 @@ folders
     dirCopy (Path.Combine(".",folder))  (Path.Combine(packFolder, folder)) )
 
 ZipFile.CreateFromDirectory(packFolder, "./modpack.zip")
-
-Directory.Delete(packFolder, true)
