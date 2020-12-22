@@ -24,7 +24,7 @@
         "genCave": true,
         "genRavine": false,
         "crateProb": 0,    
-        "stone_block": "contenttweaker:bluestone"        
+        "stone_block": "fhantoncore:bluestone:0"        
     },    
     "biomes": [
         {
@@ -48,8 +48,8 @@
             "water_color": [255, 255, 0],
             "foliage_color": [0, 100, 0],
             "grass_color": [0, 100, 100],
-            "surface_block": "minecraft:ice",
-            "subsurface_block": "minecraft:ice"    
+            "surface_block": "minecraft:snow",
+            "subsurface_block": "minecraft:snow"    
         }
             
     ]

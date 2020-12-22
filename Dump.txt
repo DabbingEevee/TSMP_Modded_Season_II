@@ -2150,15 +2150,6 @@ plustic:invaringot - Invar Ingot - item.invaringot
 plustic:invarblock - Invar Block - tile.invarblock
 plustic:plustic.molten_refinedobsidian - Molten Refined Obsidian - fluid.plustic.refinedobsidian
 plustic:plustic.molten_refinedglowstone - Refined Glowstone - fluid.plustic.refinedglowstone
-plustic:osgloglasnugget - Osgloglas Nugget - item.osgloglasnugget
-plustic:osgloglasingot - Osgloglas Ingot - item.osgloglasingot
-plustic:osgloglasblock - Osgloglas Block - tile.osgloglasblock
-plustic:plustic.molten_osgloglas - Molten Osgloglas - fluid.plustic.osgloglas
-plustic:osmiridiumnugget - Osmiridium Nugget - item.osmiridiumnugget
-plustic:osmiridiumingot - Osmiridium Ingot - item.osmiridiumingot
-plustic:osmiridiumblock - Osmiridium Block - tile.osmiridiumblock
-plustic:plustic.molten_osmiridium - Molten Osmiridium - fluid.plustic.osmiridium
-plustic:plustic.molten_titanium - Molten Titanium - fluid.plustic.titanium
 plustic:plustic.molten_infinity - Molten Infinity - fluid.plustic.infinity
 plustic:plustic.molten_kelline - Molten Kelline - fluid.plustic.kelline
 plustic:plustic.molten_garfax - Molten Garfax - fluid.plustic.garfax
@@ -2238,7 +2229,7 @@ randomthings:plate_processing - Processing Plate - tile.plate_processing
 randomthings:spectrecoil_normal - Spectre Coil - tile.spectreCoil_normal
 randomthings:spectrecoil_redstone - Redstone Spectre Coil - tile.spectreCoil_redstone
 randomthings:spectrecoil_ender - Ender Spectre Coil - tile.spectreCoil_ender
-randomthings:spectrecoil_number - Spectre Coil Nr. 32 - tile.spectreCoil_number
+randomthings:spectrecoil_number - Spectre Coil Nr. 260 - tile.spectreCoil_number
 randomthings:spectrecoil_genesis - Genesis Spectre Coil - tile.spectreCoil_genesis
 randomthings:advancedredstonerepeater - Advanced Redstone Repeater - tile.advancedRedstoneRepeater
 randomthings:advancedredstonetorch_on - Advanced Redstone Torch - tile.advancedRedstoneTorch_on
@@ -3107,6 +3098,17 @@ appliedenergistics2:dummy_fluid_item - Water - item.appliedenergistics2.dummy_fl
 appliedenergistics2:material - Certus Quartz Crystal - item.appliedenergistics2.material
 appliedenergistics2:part - ME Glass Cable - White - item.appliedenergistics2.part
 baubles:ring - Miner's Ring - item.Ring
+aetherworks:aether_ore - Aetherium Ore - tile.aw.aether_ore
+aetherworks:aether_prism_controller_matrix - Aetherium Lens Focusing Matrix - tile.aw.aether_prism_controller_matrix
+aetherworks:moonlight_amplifier - Moonlight Amplifier - tile.aw.moonlight_amplifier
+aetherworks:prism_support - Aetherium Prism Support - tile.aw.prism_support
+aetherworks:prism - Aetherium Prism - tile.aw.prism
+aetherworks:impure_aetherium_gas - Impure Aetherium Gas - tile.aw.impureAetheriumGas
+aetherworks:aetherium_gas - Aetherium Gas - tile.aw.aetheriumGas
+aetherworks:forge_structure - tile.aw.forge_structure.name - tile.aw.forge_structure
+aetherworks:block_aether - Aetherium Block - tile.aw.block_aether
+aetherworks:forge_component - Aetherium Forge Core - tile.aw.component
+aetherworks:heat_dial - Heat Gauge - tile.aw.heat_dial
 aetherworks:item_resource - Aetherium Shard - item.aw.resource
 aetherworks:item_pickaxe_aether - §cPickaxe Of The Boundless Sky - item.aw.aether_pickaxe
 aetherworks:item_pickaxe_ember - §cPickaxe Of The Molten Depths - item.aw.ember_pickaxe
@@ -3119,17 +3121,6 @@ aetherworks:item_potion_gem - Potion Gem - item.aw.potiongem
 aetherworks:item_crown - §cAetherium Crown - item.aw.crown
 aetherworks:item_crossbow_quartz - §cCrossbow Of The Impending Doom - item.aw.crossbow.quartz
 aetherworks:item_crossbow_magma - §cCrossbow Of The Raging Volcano - item.aw.crossbow.magma
-aetherworks:aether_ore - Aetherium Ore - tile.aw.aether_ore
-aetherworks:aether_prism_controller_matrix - Aetherium Lens Focusing Matrix - tile.aw.aether_prism_controller_matrix
-aetherworks:moonlight_amplifier - Moonlight Amplifier - tile.aw.moonlight_amplifier
-aetherworks:prism_support - Aetherium Prism Support - tile.aw.prism_support
-aetherworks:prism - Aetherium Prism - tile.aw.prism
-aetherworks:impure_aetherium_gas - Impure Aetherium Gas - tile.aw.impureAetheriumGas
-aetherworks:aetherium_gas - Aetherium Gas - tile.aw.aetheriumGas
-aetherworks:forge_structure - tile.aw.forge_structure.name - tile.aw.forge_structure
-aetherworks:block_aether - Aetherium Block - tile.aw.block_aether
-aetherworks:forge_component - Aetherium Forge Core - tile.aw.component
-aetherworks:heat_dial - Heat Gauge - tile.aw.heat_dial
 thaumcraft:thaumonomicon - Thaumonomicon - item.thaumonomicon
 thaumcraft:curio - Arcane Curiosity - item.curio
 thaumcraft:loot_bag - Common Treasure - item.loot_bag
@@ -4581,6 +4572,9 @@ galaxyspace:cobalt_spade - Cobalt Spade - item.cobalt_spade
 galaxyspace:cobalt_hoe - Cobalt Hoe - item.cobalt_hoe
 galaxyspace:jetpack - Electric Jetpack - item.jetpack
 galaxyspace:geo_scanner - Geological Scanner - item.geo_scanner
+galaxyspace:proxima_b_blocks - Proxima B Surface - tile.proxima_b_blocks
+galaxyspace:proxima_b_log_1 - Burnt Wood - tile.proxima_b_log_1
+galaxyspace:proxima_b_log_2 - Frozen Wood - tile.proxima_b_log_2
 galaxyspace:barnarda_c_grasses - Barnarda C Grass - tile.barnarda_c_grasses
 galaxyspace:barnarda_c_blocks - Barnarda C Dirt - tile.barnarda_c_blocks
 galaxyspace:barnarda_c_falling_blocks - Barnarda C Sand - tile.barnarda_c_falling_blocks
@@ -4593,24 +4587,8 @@ galaxyspace:barnarda_c_water_grass - tile.barnarda_c_water_grass.name - tile.bar
 galaxyspace:barnarda_c_ores - Coal Ore - tile.barnarda_c_ores
 galaxyspace:br_basic - Violet Reeds - item.br_basic
 galaxyspace:br_foods - Yellow Fruits - item.br_foods
-galaxyspace:proxima_b_blocks - Proxima B Surface - tile.proxima_b_blocks
-galaxyspace:proxima_b_log_1 - Burnt Wood - tile.proxima_b_log_1
-galaxyspace:proxima_b_log_2 - Frozen Wood - tile.proxima_b_log_2
 galacticraftcore:unlit_torch_stone - Stone Torch - tile.unlit_torch_stone
 galacticraftcore:unlit_torch_stone_lit - Stone Torch - tile.unlit_torch_stone_lit
-quark:chute - Chute - tile.chute
-quark:sugar_block - Sugar Block - tile.sugar_block
-quark:redstone_randomizer - Redstone Randomizer - tile.redstone_randomizer
-quark:iron_button - Iron Button - tile.iron_button
-quark:gold_button - Gold Button - tile.gold_button
-quark:ender_watcher - Ender Watcher - tile.ender_watcher
-quark:iron_rod - Iron Rod - tile.iron_rod
-quark:color_slime - Red Slime Block - tile.color_slime
-quark:gravisand - Gravisand - tile.gravisand
-quark:redstone_inductor - Redstone Inductor - tile.redstone_inductor
-quark:obsidian_pressure_plate - Obsidian Pressure Plate - tile.obsidian_pressure_plate
-quark:rain_detector - Weather Sensor - tile.rain_detector
-quark:chain - Iron Chain - item.chain
 quark:sandstone_new - Polished Sandstone - tile.sandstone_new
 quark:sandstone_bricks_stairs - Sandstone Brick Stairs - tile.sandstone_bricks_stairs
 quark:red_sandstone_bricks_stairs - Red Sandstone Brick Stairs - tile.red_sandstone_bricks_stairs
@@ -4826,69 +4804,7 @@ quark:polished_netherrack_bricks_slab - Netherwrought Brick Slab - tile.polished
 quark:polished_netherrack_bricks_wall - Netherwrought Brick Wall - tile.polished_netherrack_bricks_wall
 quark:trowel - Trowel - item.trowel
 quark:quilted_wool - White Quilted Wool - tile.quilted_wool
-quark:pickarang - Pickarang - item.pickarang
-quark:arrow_ender - Ender Arrow - item.arrow_ender
-quark:arrow_explosive - Explosive Arrow - item.arrow_explosive
-quark:arrow_torch - Torch Arrow - item.arrow_torch
-quark:slime_bucket - Slime in a Bucket - item.slime_bucket
-quark:rune - White Rune - item.rune
-quark:black_ash - Wither Ash - tile.black_ash
-quark:ancient_tome - Ancient Tome - item.ancient_tome
-quark:horse_whistle - Horse Whistle - item.horse_whistle
-quark:soul_powder - Soul Powder - item.soul_powder
-quark:parrot_egg - Red Parrot Egg - item.parrot_egg
-quark:enderdragon_scale - Dragon Scale - item.enderdragon_scale
 quark:witch_hat - Witch Hat - item.witch_hat
-quark:spruce_trapdoor - Spruce Trapdoor - tile.spruce_trapdoor
-quark:birch_trapdoor - Birch Trapdoor - tile.birch_trapdoor
-quark:jungle_trapdoor - Jungle Trapdoor - tile.jungle_trapdoor
-quark:acacia_trapdoor - Acacia Trapdoor - tile.acacia_trapdoor
-quark:dark_oak_trapdoor - Dark Oak Trapdoor - tile.dark_oak_trapdoor
-quark:paper_wall - Paper Wall - tile.paper_wall
-quark:paper_wall_big - Big Paper Wall - tile.paper_wall_big
-quark:paper_wall_sakura - Decorated Paper Wall - tile.paper_wall_sakura
-quark:iron_ladder - Iron Ladder - tile.iron_ladder
-quark:paper_lantern - Paper Lamp - tile.paper_lantern
-quark:colored_flowerpot_white - White Flower Pot - tile.colored_flowerpot_white
-quark:colored_flowerpot_orange - Orange Flower Pot - tile.colored_flowerpot_orange
-quark:colored_flowerpot_magenta - Magenta Flower Pot - tile.colored_flowerpot_magenta
-quark:colored_flowerpot_light_blue - Light Blue Flower Pot - tile.colored_flowerpot_light_blue
-quark:colored_flowerpot_yellow - Yellow Flower Pot - tile.colored_flowerpot_yellow
-quark:colored_flowerpot_lime - Lime Flower Pot - tile.colored_flowerpot_lime
-quark:colored_flowerpot_pink - Pink Flower Pot - tile.colored_flowerpot_pink
-quark:colored_flowerpot_gray - Gray Flower Pot - tile.colored_flowerpot_gray
-quark:colored_flowerpot_silver - Light Gray Flower Pot - tile.colored_flowerpot_silver
-quark:colored_flowerpot_cyan - Cyan Flower Pot - tile.colored_flowerpot_cyan
-quark:colored_flowerpot_purple - Purple Flower Pot - tile.colored_flowerpot_purple
-quark:colored_flowerpot_blue - Blue Flower Pot - tile.colored_flowerpot_blue
-quark:colored_flowerpot_brown - Brown Flower Pot - tile.colored_flowerpot_brown
-quark:colored_flowerpot_green - Green Flower Pot - tile.colored_flowerpot_green
-quark:colored_flowerpot_red - Red Flower Pot - tile.colored_flowerpot_red
-quark:colored_flowerpot_black - Black Flower Pot - tile.colored_flowerpot_black
-quark:custom_bookshelf - Spruce Bookshelf - tile.custom_bookshelf
-quark:colored_item_frame - White Item Frame - item.colored_item_frame
-quark:lit_lamp - Lit Redstone Lamp - tile.lit_lamp
-quark:custom_chest - Spruce Chest - tile.custom_chest
-quark:custom_chest_trap - Spruce Trapped Chest - tile.custom_chest_trap
-quark:candle - White Candle - tile.candle
-quark:tallow - Tallow - item.tallow
-quark:rope - Rope Coil - tile.rope
-quark:blaze_lantern - Blaze Lantern - tile.blaze_lantern
-quark:nether_brick_fence_gate - Nether Brick Fence Gate - tile.nether_brick_fence_gate
-quark:leaf_carpet - Oak Leaf Carpet - tile.leaf_carpet
-quark:spruce_pressure_plate - Spruce Pressure Plate - tile.spruce_pressure_plate
-quark:birch_pressure_plate - Birch Pressure Plate - tile.birch_pressure_plate
-quark:jungle_pressure_plate - Jungle Pressure Plate - tile.jungle_pressure_plate
-quark:acacia_pressure_plate - Acacia Pressure Plate - tile.acacia_pressure_plate
-quark:dark_oak_pressure_plate - Dark Oak Pressure Plate - tile.dark_oak_pressure_plate
-quark:spruce_button - Spruce Button - tile.spruce_button
-quark:birch_button - Birch Button - tile.birch_button
-quark:jungle_button - Jungle Button - tile.jungle_button
-quark:acacia_button - Acacia Button - tile.acacia_button
-quark:dark_oak_button - Dark Oak Button - tile.dark_oak_button
-quark:grate - Iron Grate - tile.grate
-quark:glass_item_frame - Glass Item Frame - item.glass_item_frame
-quark:glass_shards - Glass Shard - item.glass_shards
 quark:roots - Cave Roots - tile.roots
 quark:root - Cave Root - item.root
 quark:roots_blue_flower - Cave Roots - tile.roots_blue_flower
@@ -4979,6 +4895,81 @@ quark:glowshroom - Glowshroom - tile.glowshroom
 quark:glowshroom_block - Glowshroom - tile.glowshroom_block
 quark:soul_bead - Soul Bead - item.soul_bead
 quark:smoker - Nether Smoker - tile.smoker
+quark:chute - Chute - tile.chute
+quark:sugar_block - Sugar Block - tile.sugar_block
+quark:redstone_randomizer - Redstone Randomizer - tile.redstone_randomizer
+quark:iron_button - Iron Button - tile.iron_button
+quark:gold_button - Gold Button - tile.gold_button
+quark:ender_watcher - Ender Watcher - tile.ender_watcher
+quark:iron_rod - Iron Rod - tile.iron_rod
+quark:color_slime - Red Slime Block - tile.color_slime
+quark:gravisand - Gravisand - tile.gravisand
+quark:redstone_inductor - Redstone Inductor - tile.redstone_inductor
+quark:obsidian_pressure_plate - Obsidian Pressure Plate - tile.obsidian_pressure_plate
+quark:rain_detector - Weather Sensor - tile.rain_detector
+quark:chain - Iron Chain - item.chain
+quark:glass_shards - Glass Shard - item.glass_shards
+quark:spruce_trapdoor - Spruce Trapdoor - tile.spruce_trapdoor
+quark:birch_trapdoor - Birch Trapdoor - tile.birch_trapdoor
+quark:jungle_trapdoor - Jungle Trapdoor - tile.jungle_trapdoor
+quark:acacia_trapdoor - Acacia Trapdoor - tile.acacia_trapdoor
+quark:dark_oak_trapdoor - Dark Oak Trapdoor - tile.dark_oak_trapdoor
+quark:paper_wall - Paper Wall - tile.paper_wall
+quark:paper_wall_big - Big Paper Wall - tile.paper_wall_big
+quark:paper_wall_sakura - Decorated Paper Wall - tile.paper_wall_sakura
+quark:iron_ladder - Iron Ladder - tile.iron_ladder
+quark:paper_lantern - Paper Lamp - tile.paper_lantern
+quark:colored_flowerpot_white - White Flower Pot - tile.colored_flowerpot_white
+quark:colored_flowerpot_orange - Orange Flower Pot - tile.colored_flowerpot_orange
+quark:colored_flowerpot_magenta - Magenta Flower Pot - tile.colored_flowerpot_magenta
+quark:colored_flowerpot_light_blue - Light Blue Flower Pot - tile.colored_flowerpot_light_blue
+quark:colored_flowerpot_yellow - Yellow Flower Pot - tile.colored_flowerpot_yellow
+quark:colored_flowerpot_lime - Lime Flower Pot - tile.colored_flowerpot_lime
+quark:colored_flowerpot_pink - Pink Flower Pot - tile.colored_flowerpot_pink
+quark:colored_flowerpot_gray - Gray Flower Pot - tile.colored_flowerpot_gray
+quark:colored_flowerpot_silver - Light Gray Flower Pot - tile.colored_flowerpot_silver
+quark:colored_flowerpot_cyan - Cyan Flower Pot - tile.colored_flowerpot_cyan
+quark:colored_flowerpot_purple - Purple Flower Pot - tile.colored_flowerpot_purple
+quark:colored_flowerpot_blue - Blue Flower Pot - tile.colored_flowerpot_blue
+quark:colored_flowerpot_brown - Brown Flower Pot - tile.colored_flowerpot_brown
+quark:colored_flowerpot_green - Green Flower Pot - tile.colored_flowerpot_green
+quark:colored_flowerpot_red - Red Flower Pot - tile.colored_flowerpot_red
+quark:colored_flowerpot_black - Black Flower Pot - tile.colored_flowerpot_black
+quark:custom_bookshelf - Spruce Bookshelf - tile.custom_bookshelf
+quark:colored_item_frame - White Item Frame - item.colored_item_frame
+quark:lit_lamp - Lit Redstone Lamp - tile.lit_lamp
+quark:custom_chest - Spruce Chest - tile.custom_chest
+quark:custom_chest_trap - Spruce Trapped Chest - tile.custom_chest_trap
+quark:candle - White Candle - tile.candle
+quark:tallow - Tallow - item.tallow
+quark:rope - Rope Coil - tile.rope
+quark:blaze_lantern - Blaze Lantern - tile.blaze_lantern
+quark:nether_brick_fence_gate - Nether Brick Fence Gate - tile.nether_brick_fence_gate
+quark:leaf_carpet - Oak Leaf Carpet - tile.leaf_carpet
+quark:spruce_pressure_plate - Spruce Pressure Plate - tile.spruce_pressure_plate
+quark:birch_pressure_plate - Birch Pressure Plate - tile.birch_pressure_plate
+quark:jungle_pressure_plate - Jungle Pressure Plate - tile.jungle_pressure_plate
+quark:acacia_pressure_plate - Acacia Pressure Plate - tile.acacia_pressure_plate
+quark:dark_oak_pressure_plate - Dark Oak Pressure Plate - tile.dark_oak_pressure_plate
+quark:spruce_button - Spruce Button - tile.spruce_button
+quark:birch_button - Birch Button - tile.birch_button
+quark:jungle_button - Jungle Button - tile.jungle_button
+quark:acacia_button - Acacia Button - tile.acacia_button
+quark:dark_oak_button - Dark Oak Button - tile.dark_oak_button
+quark:grate - Iron Grate - tile.grate
+quark:glass_item_frame - Glass Item Frame - item.glass_item_frame
+quark:pickarang - Pickarang - item.pickarang
+quark:arrow_ender - Ender Arrow - item.arrow_ender
+quark:arrow_explosive - Explosive Arrow - item.arrow_explosive
+quark:arrow_torch - Torch Arrow - item.arrow_torch
+quark:slime_bucket - Slime in a Bucket - item.slime_bucket
+quark:rune - White Rune - item.rune
+quark:black_ash - Wither Ash - tile.black_ash
+quark:ancient_tome - Ancient Tome - item.ancient_tome
+quark:horse_whistle - Horse Whistle - item.horse_whistle
+quark:soul_powder - Soul Powder - item.soul_powder
+quark:parrot_egg - Red Parrot Egg - item.parrot_egg
+quark:enderdragon_scale - Dragon Scale - item.enderdragon_scale
 backpack:stick - Stone Stick - item.stick
 backpack:bound_leather - Bound Leather - item.bound_leather
 backpack:tanned_leather - Tanned Leather - item.tanned_leather
@@ -5284,17 +5275,6 @@ metallurgy:ignatius_helmet - Ignatius Helmet - item.metallurgy.ignatius_helmet
 metallurgy:ignatius_chestplate - Ignatius Chestplate - item.metallurgy.ignatius_chestplate
 metallurgy:ignatius_leggings - Ignatius Leggings - item.metallurgy.ignatius_leggings
 metallurgy:ignatius_boots - Ignatius Boots - item.metallurgy.ignatius_boots
-metallurgy:zinc_ore - Zinc Ore - tile.metallurgy.zinc_ore
-metallurgy:zinc_block - Zinc Block - tile.metallurgy.zinc_block
-metallurgy:zinc_engraved_block - Zinc Engraved Block - tile.metallurgy.zinc_engraved_block
-metallurgy:zinc_large_bricks - Zinc Large Bricks - tile.metallurgy.zinc_large_bricks
-metallurgy:zinc_bricks - Zinc Bricks - tile.metallurgy.zinc_bricks
-metallurgy:zinc_crystals - Zinc Crystals - tile.metallurgy.zinc_crystals
-metallurgy:zinc_hazard_block - Zinc Hazard Block - tile.metallurgy.zinc_hazard_block
-metallurgy:zinc_reinforced_glass - Zinc Reinforced Glass - tile.metallurgy.zinc_reinforced_glass
-metallurgy:zinc_ingot - Zinc Ingot - item.metallurgy.zinc_ingot
-metallurgy:zinc_dust - Zinc Dust - item.metallurgy.zinc_dust
-metallurgy:zinc_nugget - Zinc Nugget - item.metallurgy.zinc_nugget
 metallurgy:etherium_block - Etherium Block - tile.metallurgy.etherium_block
 metallurgy:etherium_engraved_block - Etherium Engraved Block - tile.metallurgy.etherium_engraved_block
 metallurgy:etherium_large_bricks - Etherium Large Bricks - tile.metallurgy.etherium_large_bricks
@@ -5314,6 +5294,17 @@ metallurgy:etherium_helmet - Etherium Helmet - item.metallurgy.etherium_helmet
 metallurgy:etherium_chestplate - Etherium Chestplate - item.metallurgy.etherium_chestplate
 metallurgy:etherium_leggings - Etherium Leggings - item.metallurgy.etherium_leggings
 metallurgy:etherium_boots - Etherium Boots - item.metallurgy.etherium_boots
+metallurgy:zinc_ore - Zinc Ore - tile.metallurgy.zinc_ore
+metallurgy:zinc_block - Zinc Block - tile.metallurgy.zinc_block
+metallurgy:zinc_engraved_block - Zinc Engraved Block - tile.metallurgy.zinc_engraved_block
+metallurgy:zinc_large_bricks - Zinc Large Bricks - tile.metallurgy.zinc_large_bricks
+metallurgy:zinc_bricks - Zinc Bricks - tile.metallurgy.zinc_bricks
+metallurgy:zinc_crystals - Zinc Crystals - tile.metallurgy.zinc_crystals
+metallurgy:zinc_hazard_block - Zinc Hazard Block - tile.metallurgy.zinc_hazard_block
+metallurgy:zinc_reinforced_glass - Zinc Reinforced Glass - tile.metallurgy.zinc_reinforced_glass
+metallurgy:zinc_ingot - Zinc Ingot - item.metallurgy.zinc_ingot
+metallurgy:zinc_dust - Zinc Dust - item.metallurgy.zinc_dust
+metallurgy:zinc_nugget - Zinc Nugget - item.metallurgy.zinc_nugget
 metallurgy:quicksilver_block - Quicksilver Block - tile.metallurgy.quicksilver_block
 metallurgy:quicksilver_engraved_block - Quicksilver Engraved Block - tile.metallurgy.quicksilver_engraved_block
 metallurgy:quicksilver_large_bricks - Quicksilver Large Bricks - tile.metallurgy.quicksilver_large_bricks
@@ -5421,26 +5412,6 @@ metallurgy:lemurite_reinforced_glass - Lemurite Reinforced Glass - tile.metallur
 metallurgy:lemurite_ingot - Lemurite Ingot - item.metallurgy.lemurite_ingot
 metallurgy:lemurite_dust - Lemurite Dust - item.metallurgy.lemurite_dust
 metallurgy:lemurite_nugget - Lemurite Nugget - item.metallurgy.lemurite_nugget
-metallurgy:eximite_ore - Eximite Ore - tile.metallurgy.eximite_ore
-metallurgy:eximite_block - Eximite Block - tile.metallurgy.eximite_block
-metallurgy:eximite_engraved_block - Eximite Engraved Block - tile.metallurgy.eximite_engraved_block
-metallurgy:eximite_large_bricks - Eximite Large Bricks - tile.metallurgy.eximite_large_bricks
-metallurgy:eximite_bricks - Eximite Bricks - tile.metallurgy.eximite_bricks
-metallurgy:eximite_crystals - Eximite Crystals - tile.metallurgy.eximite_crystals
-metallurgy:eximite_hazard_block - Eximite Hazard Block - tile.metallurgy.eximite_hazard_block
-metallurgy:eximite_reinforced_glass - Eximite Reinforced Glass - tile.metallurgy.eximite_reinforced_glass
-metallurgy:eximite_ingot - Eximite Ingot - item.metallurgy.eximite_ingot
-metallurgy:eximite_dust - Eximite Dust - item.metallurgy.eximite_dust
-metallurgy:eximite_nugget - Eximite Nugget - item.metallurgy.eximite_nugget
-metallurgy:eximite_axe - Eximite Axe - item.metallurgy.eximite_axe
-metallurgy:eximite_hoe - Eximite Hoe - item.metallurgy.eximite_hoe
-metallurgy:eximite_pickaxe - Eximite Pickaxe - item.metallurgy.eximite_pickaxe
-metallurgy:eximite_shovel - Eximite Shovel - item.metallurgy.eximite_shovel
-metallurgy:eximite_sword - Eximite Sword - item.metallurgy.eximite_sword
-metallurgy:eximite_helmet - Eximite Helmet - item.metallurgy.eximite_helmet
-metallurgy:eximite_chestplate - Eximite Chestplate - item.metallurgy.eximite_chestplate
-metallurgy:eximite_leggings - Eximite Leggings - item.metallurgy.eximite_leggings
-metallurgy:eximite_boots - Eximite Boots - item.metallurgy.eximite_boots
 metallurgy:sanguinite_ore - Sanguinite Ore - tile.metallurgy.sanguinite_ore
 metallurgy:sanguinite_block - Sanguinite Block - tile.metallurgy.sanguinite_block
 metallurgy:sanguinite_engraved_block - Sanguinite Engraved Block - tile.metallurgy.sanguinite_engraved_block
@@ -5461,6 +5432,26 @@ metallurgy:sanguinite_helmet - Sanguinite Helmet - item.metallurgy.sanguinite_he
 metallurgy:sanguinite_chestplate - Sanguinite Chestplate - item.metallurgy.sanguinite_chestplate
 metallurgy:sanguinite_leggings - Sanguinite Leggings - item.metallurgy.sanguinite_leggings
 metallurgy:sanguinite_boots - Sanguinite Boots - item.metallurgy.sanguinite_boots
+metallurgy:eximite_ore - Eximite Ore - tile.metallurgy.eximite_ore
+metallurgy:eximite_block - Eximite Block - tile.metallurgy.eximite_block
+metallurgy:eximite_engraved_block - Eximite Engraved Block - tile.metallurgy.eximite_engraved_block
+metallurgy:eximite_large_bricks - Eximite Large Bricks - tile.metallurgy.eximite_large_bricks
+metallurgy:eximite_bricks - Eximite Bricks - tile.metallurgy.eximite_bricks
+metallurgy:eximite_crystals - Eximite Crystals - tile.metallurgy.eximite_crystals
+metallurgy:eximite_hazard_block - Eximite Hazard Block - tile.metallurgy.eximite_hazard_block
+metallurgy:eximite_reinforced_glass - Eximite Reinforced Glass - tile.metallurgy.eximite_reinforced_glass
+metallurgy:eximite_ingot - Eximite Ingot - item.metallurgy.eximite_ingot
+metallurgy:eximite_dust - Eximite Dust - item.metallurgy.eximite_dust
+metallurgy:eximite_nugget - Eximite Nugget - item.metallurgy.eximite_nugget
+metallurgy:eximite_axe - Eximite Axe - item.metallurgy.eximite_axe
+metallurgy:eximite_hoe - Eximite Hoe - item.metallurgy.eximite_hoe
+metallurgy:eximite_pickaxe - Eximite Pickaxe - item.metallurgy.eximite_pickaxe
+metallurgy:eximite_shovel - Eximite Shovel - item.metallurgy.eximite_shovel
+metallurgy:eximite_sword - Eximite Sword - item.metallurgy.eximite_sword
+metallurgy:eximite_helmet - Eximite Helmet - item.metallurgy.eximite_helmet
+metallurgy:eximite_chestplate - Eximite Chestplate - item.metallurgy.eximite_chestplate
+metallurgy:eximite_leggings - Eximite Leggings - item.metallurgy.eximite_leggings
+metallurgy:eximite_boots - Eximite Boots - item.metallurgy.eximite_boots
 metallurgy:silver_ore - Silver Ore - tile.metallurgy.silver_ore
 metallurgy:silver_block - Silver Block - tile.metallurgy.silver_block
 metallurgy:silver_engraved_block - Silver Engraved Block - tile.metallurgy.silver_engraved_block
@@ -5558,26 +5549,6 @@ metallurgy:steel_helmet - Steel Helmet - item.metallurgy.steel_helmet
 metallurgy:steel_chestplate - Steel Chestplate - item.metallurgy.steel_chestplate
 metallurgy:steel_leggings - Steel Leggings - item.metallurgy.steel_leggings
 metallurgy:steel_boots - Steel Boots - item.metallurgy.steel_boots
-metallurgy:mithril_ore - Mithril Ore - tile.metallurgy.mithril_ore
-metallurgy:mithril_block - Mithril Block - tile.metallurgy.mithril_block
-metallurgy:mithril_engraved_block - Mithril Engraved Block - tile.metallurgy.mithril_engraved_block
-metallurgy:mithril_large_bricks - Mithril Large Bricks - tile.metallurgy.mithril_large_bricks
-metallurgy:mithril_bricks - Mithril Bricks - tile.metallurgy.mithril_bricks
-metallurgy:mithril_crystals - Mithril Crystals - tile.metallurgy.mithril_crystals
-metallurgy:mithril_hazard_block - Mithril Hazard Block - tile.metallurgy.mithril_hazard_block
-metallurgy:mithril_reinforced_glass - Mithril Reinforced Glass - tile.metallurgy.mithril_reinforced_glass
-metallurgy:mithril_ingot - Mithril Ingot - item.metallurgy.mithril_ingot
-metallurgy:mithril_dust - Mithril Dust - item.metallurgy.mithril_dust
-metallurgy:mithril_nugget - Mithril Nugget - item.metallurgy.mithril_nugget
-metallurgy:mithril_axe - Mithril Axe - item.metallurgy.mithril_axe
-metallurgy:mithril_hoe - Mithril Hoe - item.metallurgy.mithril_hoe
-metallurgy:mithril_pickaxe - Mithril Pickaxe - item.metallurgy.mithril_pickaxe
-metallurgy:mithril_shovel - Mithril Shovel - item.metallurgy.mithril_shovel
-metallurgy:mithril_sword - Mithril Sword - item.metallurgy.mithril_sword
-metallurgy:mithril_helmet - Mithril Helmet - item.metallurgy.mithril_helmet
-metallurgy:mithril_chestplate - Mithril Chestplate - item.metallurgy.mithril_chestplate
-metallurgy:mithril_leggings - Mithril Leggings - item.metallurgy.mithril_leggings
-metallurgy:mithril_boots - Mithril Boots - item.metallurgy.mithril_boots
 metallurgy:carmot_ore - Carmot Ore - tile.metallurgy.carmot_ore
 metallurgy:carmot_block - Carmot Block - tile.metallurgy.carmot_block
 metallurgy:carmot_engraved_block - Carmot Engraved Block - tile.metallurgy.carmot_engraved_block
@@ -5598,6 +5569,26 @@ metallurgy:carmot_helmet - Carmot Helmet - item.metallurgy.carmot_helmet
 metallurgy:carmot_chestplate - Carmot Chestplate - item.metallurgy.carmot_chestplate
 metallurgy:carmot_leggings - Carmot Leggings - item.metallurgy.carmot_leggings
 metallurgy:carmot_boots - Carmot Boots - item.metallurgy.carmot_boots
+metallurgy:mithril_ore - Mithril Ore - tile.metallurgy.mithril_ore
+metallurgy:mithril_block - Mithril Block - tile.metallurgy.mithril_block
+metallurgy:mithril_engraved_block - Mithril Engraved Block - tile.metallurgy.mithril_engraved_block
+metallurgy:mithril_large_bricks - Mithril Large Bricks - tile.metallurgy.mithril_large_bricks
+metallurgy:mithril_bricks - Mithril Bricks - tile.metallurgy.mithril_bricks
+metallurgy:mithril_crystals - Mithril Crystals - tile.metallurgy.mithril_crystals
+metallurgy:mithril_hazard_block - Mithril Hazard Block - tile.metallurgy.mithril_hazard_block
+metallurgy:mithril_reinforced_glass - Mithril Reinforced Glass - tile.metallurgy.mithril_reinforced_glass
+metallurgy:mithril_ingot - Mithril Ingot - item.metallurgy.mithril_ingot
+metallurgy:mithril_dust - Mithril Dust - item.metallurgy.mithril_dust
+metallurgy:mithril_nugget - Mithril Nugget - item.metallurgy.mithril_nugget
+metallurgy:mithril_axe - Mithril Axe - item.metallurgy.mithril_axe
+metallurgy:mithril_hoe - Mithril Hoe - item.metallurgy.mithril_hoe
+metallurgy:mithril_pickaxe - Mithril Pickaxe - item.metallurgy.mithril_pickaxe
+metallurgy:mithril_shovel - Mithril Shovel - item.metallurgy.mithril_shovel
+metallurgy:mithril_sword - Mithril Sword - item.metallurgy.mithril_sword
+metallurgy:mithril_helmet - Mithril Helmet - item.metallurgy.mithril_helmet
+metallurgy:mithril_chestplate - Mithril Chestplate - item.metallurgy.mithril_chestplate
+metallurgy:mithril_leggings - Mithril Leggings - item.metallurgy.mithril_leggings
+metallurgy:mithril_boots - Mithril Boots - item.metallurgy.mithril_boots
 metallurgy:ceruclase_ore - Ceruclase Ore - tile.metallurgy.ceruclase_ore
 metallurgy:ceruclase_block - Ceruclase Block - tile.metallurgy.ceruclase_block
 metallurgy:ceruclase_engraved_block - Ceruclase Engraved Block - tile.metallurgy.ceruclase_engraved_block
@@ -7188,7 +7179,7 @@ extraplanets:schematic_tier4 - NASA Workbench Schematic - item.schematic_tier4
 extraplanets:nose_cone_tier4 - Tier 4 Nose Cone - item.nose_cone_tier4
 extraplanets:tier4_items - Tier 4 Rocket Engine - item.tier4_items
 extraplanets:t4key - Tier 4 Dungeon Key - item.t4key
-extraplanets:ingot_uranium - Uranium Ingot - item.ingot_uranium
+extraplanets:ingot_uranium - Uranium - item.ingot_uranium
 extraplanets:item_tier5_rocket - Tier 5 Rocket - item.item_tier5_rocket
 extraplanets:schematic_tier5 - NASA Workbench Schematic - item.schematic_tier5
 extraplanets:nose_cone_tier5 - Tier 5 Nose Cone - item.nose_cone_tier5
@@ -7752,6 +7743,9 @@ landcraft:landia_crab_flesh - Landia Crab Flesh - item.landia_crab_flesh
 landcraft:bun_rieu - Bun Rieu Broth - item.bun_rieu
 landcraft:tomato_crop - Tomato Vine - item.tomato_crop
 landcraft:tomato - Tomato - item.tomato
+lucraftcore:infinity_gauntlet - Infinity Gauntlet - item.infinity_gauntlet
+lucraftcore:infinity_gauntlet_cast - Infinity Gauntlet Cast - item.infinity_gauntlet_cast
+lucraftcore:infinity_generator - Infinity Generator - tile.infinity_generator
 mctsmelteryio:powdered_fuel - Powdered Fuel - item.mctsmelteryio:powdered_fuel
 mctsmelteryio:iceball - Iceball - item.mctsmelteryio:iceball
 mctsmelteryio:upgrade - Base Upgrade - item.mctsmelteryio:upgrade
@@ -8608,6 +8602,60 @@ natura:netherquartz_shovel - Quartz Shovel - item.natura.netherquartz_shovel
 natura:netherquartz_axe - Quartz Hatchet - item.natura.netherquartz_axe
 natura:netherquartz_kama - Quartz Kama - item.natura.netherquartz_kama
 natura:flint_and_blaze - Flint and Blaze - item.natura.flint_and_blaze
+netherex:gloomy_netherbrick - Gloomy Nether Brick - item.netherex:gloomy_netherbrick
+netherex:lively_netherbrick - Lively Nether Brick - item.netherex:lively_netherbrick
+netherex:fiery_netherbrick - Fiery Nether Brick - item.netherex:fiery_netherbrick
+netherex:icy_netherbrick - Icy Nether Brick - item.netherex:icy_netherbrick
+netherex:wither_bone - Wither Bone - item.netherex:wither_bone
+netherex:wither_dust - Wither Dust - item.netherex:wither_dust
+netherex:frost_rod - Frost Rod - item.netherex:frost_rod
+netherex:frost_powder - Frost Powder - item.netherex:frost_powder
+netherex:blazed_wither_bone - Blazed Wither Bone - item.netherex:blazed_wither_bone
+netherex:frosted_wither_bone - Frosted Wither Bone - item.netherex:frosted_wither_bone
+netherex:orange_salamander_hide - Orange Salamander Hide - item.netherex:orange_salamander_hide
+netherex:black_salamander_hide - Black Salamander Hide - item.netherex:black_salamander_hide
+netherex:amethyst_crystal - Nether Amethyst Crystal - item.netherex:amethyst_crystal
+netherex:rime_crystal - Nether Rime Crystal - item.netherex:rime_crystal
+netherex:rime_and_steel - Rime and Steel - item.netherex:rime_and_steel
+netherex:spore - Spore - item.netherex:spore
+netherex:coolmar_spider_fang - Frost Fang - item.netherex:coolmar_spider_fang
+netherex:ghast_queen_tear - Ghast Queen Tears - item.netherex:ghast_queen_tear
+netherex:obsidian_boat - Obsidian Boat - item.netherex:obsidian_boat
+netherex:ghast_meat_raw - Raw Ghast Meat - item.netherex:ghast_meat_raw
+netherex:ghast_meat_cooked - Cooked Ghast Meat - item.netherex:ghast_meat_cooked
+netherex:congealed_magma_cream - Congealed Magma Cream - item.netherex:congealed_magma_cream
+netherex:enoki_mushroom - Enoki Mushroom - item.netherex:enoki_mushroom
+netherex:dull_mirror - Dull Mirror - item.netherex:dull_mirror
+netherex:withered_amedian_sword - Withered Amedian Sword - item.netherex:withered_amedian_sword
+netherex:withered_amedian_pickaxe - Withered Amedian Pickaxe - item.netherex:withered_amedian_pickaxe
+netherex:withered_amedian_shovel - Withered Amedian Shovel - item.netherex:withered_amedian_shovel
+netherex:withered_amedian_axe - Withered Amedian Axe - item.netherex:withered_amedian_axe
+netherex:withered_amedian_hoe - Withered Amedian Hoe - item.netherex:withered_amedian_hoe
+netherex:withered_amedian_hammer - Withered Amedian Hammer - item.netherex:withered_amedian_hammer
+netherex:blazed_amedian_sword - Blazed Amedian Sword - item.netherex:blazed_amedian_sword
+netherex:blazed_amedian_pickaxe - Blazed Amedian Pickaxe - item.netherex:blazed_amedian_pickaxe
+netherex:blazed_amedian_shovel - Blazed Amedian Shovel - item.netherex:blazed_amedian_shovel
+netherex:blazed_amedian_axe - Blazed Amedian Axe - item.netherex:blazed_amedian_axe
+netherex:blazed_amedian_hoe - Blazed Amedian Hoe - item.netherex:blazed_amedian_hoe
+netherex:blazed_amedian_hammer - Blazed Amedian Hammer - item.netherex:blazed_amedian_hammer
+netherex:frosted_amedian_sword - Frosted Amedian Sword - item.netherex:frosted_amedian_sword
+netherex:frosted_amedian_pickaxe - Frosted Amedian Pickaxe - item.netherex:frosted_amedian_pickaxe
+netherex:frosted_amedian_shovel - Frosted Amedian Shovel - item.netherex:frosted_amedian_shovel
+netherex:frosted_amedian_axe - Frosted Amedian Axe - item.netherex:frosted_amedian_axe
+netherex:frosted_amedian_hoe - Frosted Amedian Hoe - item.netherex:frosted_amedian_hoe
+netherex:frosted_amedian_hammer - Frosted Amedian Hammer - item.netherex:frosted_amedian_hammer
+netherex:wither_bone_helmet - Wither Bone Helmet - item.netherex:wither_bone_helmet
+netherex:wither_bone_chestplate - Wither Bone Chestplate - item.netherex:wither_bone_chestplate
+netherex:wither_bone_leggings - Wither Bone Leggings - item.netherex:wither_bone_leggings
+netherex:wither_bone_boots - Wither Bone Boots - item.netherex:wither_bone_boots
+netherex:orange_salamander_hide_helmet - Orange Salamander Hide Helmet - item.netherex:orange_salamander_hide_helmet
+netherex:orange_salamander_hide_chestplate - Orange Salamander Hide Chestplate - item.netherex:orange_salamander_hide_chestplate
+netherex:orange_salamander_hide_leggings - Orange Salamander Hide Leggings - item.netherex:orange_salamander_hide_leggings
+netherex:orange_salamander_hide_boots - Orange Salamander Hide Boots - item.netherex:orange_salamander_hide_boots
+netherex:black_salamander_hide_helmet - Black Salamander Hide Helmet - item.netherex:black_salamander_hide_helmet
+netherex:black_salamander_hide_chestplate - Black Salamander Hide Chestplate - item.netherex:black_salamander_hide_chestplate
+netherex:black_salamander_hide_leggings - Black Salamander Hide Leggings - item.netherex:black_salamander_hide_leggings
+netherex:black_salamander_hide_boots - Black Salamander Hide Boots - item.netherex:black_salamander_hide_boots
 netherex:gloomy_netherrack - Gloomy Netherrack - tile.netherex:gloomy_netherrack
 netherex:lively_netherrack - Lively Netherrack - tile.netherex:lively_netherrack
 netherex:fiery_netherrack - Fiery Netherrack - tile.netherex:fiery_netherrack
@@ -8697,60 +8745,6 @@ netherex:gloomy_nether_brick_fence_gate - Gloomy Nether Brick Fence Gate - tile.
 netherex:lively_nether_brick_fence_gate - Lively Nether Brick Fence Gate - tile.netherex:lively_nether_brick_fence_gate
 netherex:fiery_nether_brick_fence_gate - Fiery Nether Brick Fence Gate - tile.netherex:fiery_nether_brick_fence_gate
 netherex:icy_nether_brick_fence_gate - Icy Nether Brick Fence Gate - tile.netherex:icy_nether_brick_fence_gate
-netherex:gloomy_netherbrick - Gloomy Nether Brick - item.netherex:gloomy_netherbrick
-netherex:lively_netherbrick - Lively Nether Brick - item.netherex:lively_netherbrick
-netherex:fiery_netherbrick - Fiery Nether Brick - item.netherex:fiery_netherbrick
-netherex:icy_netherbrick - Icy Nether Brick - item.netherex:icy_netherbrick
-netherex:wither_bone - Wither Bone - item.netherex:wither_bone
-netherex:wither_dust - Wither Dust - item.netherex:wither_dust
-netherex:frost_rod - Frost Rod - item.netherex:frost_rod
-netherex:frost_powder - Frost Powder - item.netherex:frost_powder
-netherex:blazed_wither_bone - Blazed Wither Bone - item.netherex:blazed_wither_bone
-netherex:frosted_wither_bone - Frosted Wither Bone - item.netherex:frosted_wither_bone
-netherex:orange_salamander_hide - Orange Salamander Hide - item.netherex:orange_salamander_hide
-netherex:black_salamander_hide - Black Salamander Hide - item.netherex:black_salamander_hide
-netherex:amethyst_crystal - Nether Amethyst Crystal - item.netherex:amethyst_crystal
-netherex:rime_crystal - Nether Rime Crystal - item.netherex:rime_crystal
-netherex:rime_and_steel - Rime and Steel - item.netherex:rime_and_steel
-netherex:spore - Spore - item.netherex:spore
-netherex:coolmar_spider_fang - Frost Fang - item.netherex:coolmar_spider_fang
-netherex:ghast_queen_tear - Ghast Queen Tears - item.netherex:ghast_queen_tear
-netherex:obsidian_boat - Obsidian Boat - item.netherex:obsidian_boat
-netherex:ghast_meat_raw - Raw Ghast Meat - item.netherex:ghast_meat_raw
-netherex:ghast_meat_cooked - Cooked Ghast Meat - item.netherex:ghast_meat_cooked
-netherex:congealed_magma_cream - Congealed Magma Cream - item.netherex:congealed_magma_cream
-netherex:enoki_mushroom - Enoki Mushroom - item.netherex:enoki_mushroom
-netherex:dull_mirror - Dull Mirror - item.netherex:dull_mirror
-netherex:withered_amedian_sword - Withered Amedian Sword - item.netherex:withered_amedian_sword
-netherex:withered_amedian_pickaxe - Withered Amedian Pickaxe - item.netherex:withered_amedian_pickaxe
-netherex:withered_amedian_shovel - Withered Amedian Shovel - item.netherex:withered_amedian_shovel
-netherex:withered_amedian_axe - Withered Amedian Axe - item.netherex:withered_amedian_axe
-netherex:withered_amedian_hoe - Withered Amedian Hoe - item.netherex:withered_amedian_hoe
-netherex:withered_amedian_hammer - Withered Amedian Hammer - item.netherex:withered_amedian_hammer
-netherex:blazed_amedian_sword - Blazed Amedian Sword - item.netherex:blazed_amedian_sword
-netherex:blazed_amedian_pickaxe - Blazed Amedian Pickaxe - item.netherex:blazed_amedian_pickaxe
-netherex:blazed_amedian_shovel - Blazed Amedian Shovel - item.netherex:blazed_amedian_shovel
-netherex:blazed_amedian_axe - Blazed Amedian Axe - item.netherex:blazed_amedian_axe
-netherex:blazed_amedian_hoe - Blazed Amedian Hoe - item.netherex:blazed_amedian_hoe
-netherex:blazed_amedian_hammer - Blazed Amedian Hammer - item.netherex:blazed_amedian_hammer
-netherex:frosted_amedian_sword - Frosted Amedian Sword - item.netherex:frosted_amedian_sword
-netherex:frosted_amedian_pickaxe - Frosted Amedian Pickaxe - item.netherex:frosted_amedian_pickaxe
-netherex:frosted_amedian_shovel - Frosted Amedian Shovel - item.netherex:frosted_amedian_shovel
-netherex:frosted_amedian_axe - Frosted Amedian Axe - item.netherex:frosted_amedian_axe
-netherex:frosted_amedian_hoe - Frosted Amedian Hoe - item.netherex:frosted_amedian_hoe
-netherex:frosted_amedian_hammer - Frosted Amedian Hammer - item.netherex:frosted_amedian_hammer
-netherex:wither_bone_helmet - Wither Bone Helmet - item.netherex:wither_bone_helmet
-netherex:wither_bone_chestplate - Wither Bone Chestplate - item.netherex:wither_bone_chestplate
-netherex:wither_bone_leggings - Wither Bone Leggings - item.netherex:wither_bone_leggings
-netherex:wither_bone_boots - Wither Bone Boots - item.netherex:wither_bone_boots
-netherex:orange_salamander_hide_helmet - Orange Salamander Hide Helmet - item.netherex:orange_salamander_hide_helmet
-netherex:orange_salamander_hide_chestplate - Orange Salamander Hide Chestplate - item.netherex:orange_salamander_hide_chestplate
-netherex:orange_salamander_hide_leggings - Orange Salamander Hide Leggings - item.netherex:orange_salamander_hide_leggings
-netherex:orange_salamander_hide_boots - Orange Salamander Hide Boots - item.netherex:orange_salamander_hide_boots
-netherex:black_salamander_hide_helmet - Black Salamander Hide Helmet - item.netherex:black_salamander_hide_helmet
-netherex:black_salamander_hide_chestplate - Black Salamander Hide Chestplate - item.netherex:black_salamander_hide_chestplate
-netherex:black_salamander_hide_leggings - Black Salamander Hide Leggings - item.netherex:black_salamander_hide_leggings
-netherex:black_salamander_hide_boots - Black Salamander Hide Boots - item.netherex:black_salamander_hide_boots
 yurtmod:tent - Small Yurt - item.null
 yurtmod:mallet - Tent Mallet - item.mallet
 yurtmod:super_mallet - Super Tent Mallet - item.super_mallet
@@ -8910,15 +8904,6 @@ xreliquary:potion_essence - Potion Essence - item.potion_essence
 xreliquary:potion - Condensed Potion Vial - item.potion
 xreliquary:tipped_arrow - Tipped Arrow - item.tipped_arrow
 bq_standard:loot_chest - Loot Chest - item.bq_standard.loot_chest
-storagedrawers:basicdrawers - Basic Drawer - tile.storagedrawers.basicDrawers
-storagedrawers:keybutton - Drawer Key Button - tile.storagedrawers.keyButton
-storagedrawers:compdrawers - Compacting Drawer - tile.storagedrawers.compDrawers
-storagedrawers:controller - Drawer Controller - tile.storagedrawers.controller
-storagedrawers:controllerslave - Controller Slave - tile.storagedrawers.controllerSlave
-storagedrawers:trim - Oak Trim - tile.storagedrawers.trim
-storagedrawers:framingtable - Framing Table - tile.storagedrawers.framingTable
-storagedrawers:customdrawers - Framed Drawer - tile.storagedrawers.customDrawers
-storagedrawers:customtrim - Framed Trim - tile.storagedrawers.customTrim
 storagedrawers:upgrade_template - Upgrade Template - item.storagedrawers.upgradeTemplate
 storagedrawers:upgrade_storage - Storage Upgrade (I) - item.storagedrawers.upgradeStorage
 storagedrawers:upgrade_one_stack - Storage Downgrade - item.storagedrawers.upgradeOneStack
@@ -8932,6 +8917,15 @@ storagedrawers:shroud_key - Concealment Key - item.storagedrawers.shroudKey
 storagedrawers:personal_key - Personal Key - item.storagedrawers.personalKey
 storagedrawers:quantify_key - Quantify Key - item.storagedrawers.quantifyKey
 storagedrawers:tape - Packing Tape - item.storagedrawers.tape
+storagedrawers:basicdrawers - Basic Drawer - tile.storagedrawers.basicDrawers
+storagedrawers:keybutton - Drawer Key Button - tile.storagedrawers.keyButton
+storagedrawers:compdrawers - Compacting Drawer - tile.storagedrawers.compDrawers
+storagedrawers:controller - Drawer Controller - tile.storagedrawers.controller
+storagedrawers:controllerslave - Controller Slave - tile.storagedrawers.controllerSlave
+storagedrawers:trim - Oak Trim - tile.storagedrawers.trim
+storagedrawers:framingtable - Framing Table - tile.storagedrawers.framingTable
+storagedrawers:customdrawers - Framed Drawer - tile.storagedrawers.customDrawers
+storagedrawers:customtrim - Framed Trim - tile.storagedrawers.customTrim
 techguns:basicmachine - Ammo Press - tile.techguns.basicmachine
 techguns:simplemachine - tile.techguns.simplemachine.0.name - tile.techguns.simplemachine
 techguns:simplemachine2 - tile.techguns.simplemachine2.0.name - tile.techguns.simplemachine2
@@ -9245,7 +9239,6 @@ thaumicaugmentation:eldritch_lock_key - Runed Tablet - item.thaumicaugmentation.
 thaumicaugmentation:obelisk_placer - Eldritch Obelisk - item.thaumicaugmentation.obelisk_placer
 thaumicaugmentation:research_notes - Tattered Scrolls - item.thaumicaugmentation.research_notes
 thaumicaugmentation:augment_vis_battery - Vis Battery Augment - item.thaumicaugmentation.augment_vis_battery
-thaumicenergistics:infusion_provider - Essentia Infusion Provider - tile.thaumicenergistics.infusion_provider
 thaumicenergistics:essentia_cell_1k - 1k ME Essentia Storage Cell - item.thaumicenergistics.essentia_cell_1k
 thaumicenergistics:essentia_cell_4k - 4k ME Essentia Storage Cell - item.thaumicenergistics.essentia_cell_4k
 thaumicenergistics:essentia_cell_16k - 16k ME Essentia Storage Cell - item.thaumicenergistics.essentia_cell_16k
@@ -9264,8 +9257,7 @@ thaumicenergistics:essentia_component_16k - 16k ME Essentia Storage Component - 
 thaumicenergistics:essentia_component_64k - 64k ME Essentia Storage Component - item.thaumicenergistics.essentia_component_64k
 thaumicenergistics:upgrade_arcane - Arcane Charging Upgrade - item.thaumicenergistics.upgrade_arcane
 thaumicenergistics:dummy_aspect - [ERROR] Report to mod dev - item.thaumicenergistics.dummy_aspect
-tinkers_reforged:gladius - Gladius - item.tinkers_reforged.gladius
-tinkers_reforged:runic_knife - Runic Knife - item.tinkers_reforged.runic_knife
+thaumicenergistics:infusion_provider - Essentia Infusion Provider - tile.thaumicenergistics.infusion_provider
 tinkers_reforged:lavium_nugget - Lavium Nugget - item.tinkers_reforged.lavium_nugget
 tinkers_reforged:lavium_ingot - Lavium Ingot - item.tinkers_reforged.lavium_ingot
 tinkers_reforged:lavium_dust - Lavium Dust - item.tinkers_reforged.lavium_dust
@@ -9282,6 +9274,8 @@ tinkers_reforged:kovar_dust - item.tinkers_reforged.kovar_dust.name - item.tinke
 tinkers_reforged:kovar_plate - Kovar Plate - item.tinkers_reforged.kovar_plate
 tinkers_reforged:kovar_gear - Kovar Gear - item.tinkers_reforged.kovar_gear
 tinkers_reforged:kovar_glass - Kovar Glass - tile.tinkers_reforged.kovar_glass
+tinkers_reforged:gladius - Gladius - item.tinkers_reforged.gladius
+tinkers_reforged:runic_knife - Runic Knife - item.tinkers_reforged.runic_knife
 tinkersaether:mouthpiece - Mouthpiece - item.mouthpiece
 tinkersaether:tube - Tube - item.tube
 tinkersaether:dart_tip - Dart Tip - item.dart_tip
@@ -9633,7 +9627,7 @@ embers:vacuum - Item Vacuum - tile.vacuum
 embers:breaker - Automatic Breaker - tile.breaker
 embers:seed - tile.seed.0.name - tile.seed
 embers:ember_injector - Ember Injector - tile.ember_injector
-embers:boiler - Pressure Refinery - tile.boiler
+embers:boiler - Boiler - tile.boiler
 embers:reactor - Ignem Reactor - tile.reactor
 embers:combustor - Combustion Chamber - tile.combustor
 embers:catalyzer - Catalysis Chamber - tile.catalyzer
@@ -9909,7 +9903,7 @@ armorunder:flipflop_liner_material - Ozzy Liner Material - item.auw_flipflop_lin
 armorunder:auto_chestplate_liner - Ozzy Chestplate Liner - item.auw_auto_chestplate_liner
 armorunder:auto_leggings_liner - Ozzy Leggings Liner - item.auw_auto_leggings_liner
 base:wrench - Wrench - item.base.wrench
-contenttweaker:bluestone - tile.contenttweaker.bluestone.name - tile.contenttweaker.bluestone
+minerva:supporter_medal - This medal is for contributors only! - item.null
 fhantoncore:framewood - Wooden Frame - item.framewood
 fhantoncore:framestone - Stone Frame - item.framestone
 fhantoncore:frameiron - Iron Frame - item.frameiron
@@ -9917,7 +9911,7 @@ fhantoncore:poppingcatblock - Popping Cat Block - tile.poppingcatblock
 fhantoncore:unidentifiedore - Unidentified Ore - tile.unidentifiedore
 fhantoncore:stonestick - Stone Stick - item.stonestick
 fhantoncore:catgun - Popping Cat Gun - item.catgun
-minerva:supporter_medal - This medal is for contributors only! - item.null
+fhantoncore:bluestone - Bluestone - tile.bluestone
 lost_aether:crystal_sapling - Crystal Sapling - tile.crystal_sapling
 lost_aether:songstone - Songstone - tile.songstone
 lost_aether:gale_stone - Gale Stone - tile.gale_stone
@@ -9942,6 +9936,147 @@ lost_aether:zanite_shield - Zanite Shield - item.zanite_shield
 lost_aether:gravitite_shield - Gravitite Shield - item.gravitite_shield
 lost_aether:jeb_shield - Shield of Jeb - item.jeb_shield
 lost_aether:platinum_key - Platinum Key - item.platinum_key
+lucraftcore:hammer - Hammer - item.hammer
+lucraftcore:wire_cutter - Wire Cutter - item.wire_cutter
+lucraftcore:injection - Injection - item.injection
+lucraftcore:instruction - Instruction - item.instruction
+lucraftcore:lv_capacitor - LV Capacitor - item.lv_capacitor
+lucraftcore:mv_capacitor - MV Capacitor - item.mv_capacitor
+lucraftcore:hv_capacitor - HV Capacitor - item.hv_capacitor
+lucraftcore:servo_motor - Servo Motor - item.servo_motor
+lucraftcore:basic_circuit - Basic Circuit - item.basic_circuit
+lucraftcore:advanced_circuit - Advanced Circuit - item.advanced_circuit
+lucraftcore:tri_polymer_white - White Reinforced Tri-Polymer - item.tri_polymer_white
+lucraftcore:tri_polymer_orange - Orange Reinforced Tri-Polymer - item.tri_polymer_orange
+lucraftcore:tri_polymer_magenta - Magenta Reinforced Tri-Polymer - item.tri_polymer_magenta
+lucraftcore:tri_polymer_light_blue - Light Blue Reinforced Tri-Polymer - item.tri_polymer_light_blue
+lucraftcore:tri_polymer_yellow - Yellow Reinforced Tri-Polymer - item.tri_polymer_yellow
+lucraftcore:tri_polymer_lime - Lime Reinforced Tri-Polymer - item.tri_polymer_lime
+lucraftcore:tri_polymer_pink - Pink Reinforced Tri-Polymer - item.tri_polymer_pink
+lucraftcore:tri_polymer_gray - Gray Reinforced Tri-Polymer - item.tri_polymer_gray
+lucraftcore:tri_polymer_silver - Silver Reinforced Tri-Polymer - item.tri_polymer_silver
+lucraftcore:tri_polymer_cyan - Cyan Reinforced Tri-Polymer - item.tri_polymer_cyan
+lucraftcore:tri_polymer_purple - Purple Reinforced Tri-Polymer - item.tri_polymer_purple
+lucraftcore:tri_polymer_blue - Blue Reinforced Tri-Polymer - item.tri_polymer_blue
+lucraftcore:tri_polymer_brown - Brown Reinforced Tri-Polymer - item.tri_polymer_brown
+lucraftcore:tri_polymer_green - Green Reinforced Tri-Polymer - item.tri_polymer_green
+lucraftcore:tri_polymer_red - Red Reinforced Tri-Polymer - item.tri_polymer_red
+lucraftcore:tri_polymer_black - Black Reinforced Tri-Polymer - item.tri_polymer_black
+lucraftcore:construction_table - Construction Table - tile.construction_table
+lucraftcore:suit_stand - Suit Stand - tile.suit_stand
+lucraftcore:extractor - Extractor - tile.extractor
+lucraftcore:boiler - Boiler - tile.boiler
+lucraftcore:furnace_generator - Furnace Generator - tile.furnace_generator
+lucraftcore:dust_iron - Iron Dust - item.dust_iron
+lucraftcore:plate_iron - Iron Plate - item.plate_iron
+lucraftcore:dust_gold - Gold Dust - item.dust_gold
+lucraftcore:plate_gold - Gold Plate - item.plate_gold
+lucraftcore:ingot_copper - Copper Ingot - item.ingot_copper
+lucraftcore:dust_copper - Copper Dust - item.dust_copper
+lucraftcore:nugget_copper - Copper Nugget - item.nugget_copper
+lucraftcore:plate_copper - Copper Plate - item.plate_copper
+lucraftcore:wiring_copper - Copper Wiring - item.wiring_copper
+lucraftcore:ingot_tin - Tin Ingot - item.ingot_tin
+lucraftcore:dust_tin - Tin Dust - item.dust_tin
+lucraftcore:nugget_tin - Tin Nugget - item.nugget_tin
+lucraftcore:plate_tin - Tin Plate - item.plate_tin
+lucraftcore:ingot_nickel - Nickel Ingot - item.ingot_nickel
+lucraftcore:dust_nickel - Nickel Dust - item.dust_nickel
+lucraftcore:nugget_nickel - Nickel Nugget - item.nugget_nickel
+lucraftcore:plate_nickel - Nickel Plate - item.plate_nickel
+lucraftcore:ingot_lead - Lead Ingot - item.ingot_lead
+lucraftcore:dust_lead - Lead Dust - item.dust_lead
+lucraftcore:nugget_lead - Lead Nugget - item.nugget_lead
+lucraftcore:plate_lead - Lead Plate - item.plate_lead
+lucraftcore:ingot_silver - Silver Ingot - item.ingot_silver
+lucraftcore:dust_silver - Silver Dust - item.dust_silver
+lucraftcore:nugget_silver - Silver Nugget - item.nugget_silver
+lucraftcore:plate_silver - Silver Plate - item.plate_silver
+lucraftcore:ingot_palladium - Palladium Ingot - item.ingot_palladium
+lucraftcore:dust_palladium - Palladium Dust - item.dust_palladium
+lucraftcore:nugget_palladium - Palladium Nugget - item.nugget_palladium
+lucraftcore:plate_palladium - Palladium Plate - item.plate_palladium
+lucraftcore:ingot_titanium - Titanium Ingot - item.ingot_titanium
+lucraftcore:dust_titanium - Titanium Dust - item.dust_titanium
+lucraftcore:nugget_titanium - Titanium Nugget - item.nugget_titanium
+lucraftcore:plate_titanium - Titanium Plate - item.plate_titanium
+lucraftcore:ingot_vibranium - Vibranium Ingot - item.ingot_vibranium
+lucraftcore:dust_vibranium - Vibranium Dust - item.dust_vibranium
+lucraftcore:nugget_vibranium - Vibranium Nugget - item.nugget_vibranium
+lucraftcore:plate_vibranium - Vibranium Plate - item.plate_vibranium
+lucraftcore:ingot_osmium - Osmium Ingot - item.ingot_osmium
+lucraftcore:dust_osmium - Osmium Dust - item.dust_osmium
+lucraftcore:nugget_osmium - Osmium Nugget - item.nugget_osmium
+lucraftcore:plate_osmium - Osmium Plate - item.plate_osmium
+lucraftcore:ingot_iridium - Iridium - item.ingot_iridium
+lucraftcore:dust_iridium - Iridium Dust - item.dust_iridium
+lucraftcore:nugget_iridium - Iridium Nugget - item.nugget_iridium
+lucraftcore:plate_iridium - Iridium Plate - item.plate_iridium
+lucraftcore:ingot_dwarf_star_alloy - Dwarf Star Alloy Ingot - item.ingot_dwarf_star_alloy
+lucraftcore:dust_dwarf_star_alloy - Dwarf Star Alloy Dust - item.dust_dwarf_star_alloy
+lucraftcore:nugget_dwarf_star_alloy - Dwarf Star Alloy Nugget - item.nugget_dwarf_star_alloy
+lucraftcore:plate_dwarf_star_alloy - Dwarf Star Alloy Plate - item.plate_dwarf_star_alloy
+lucraftcore:ingot_bronze - Bronze Ingot - item.ingot_bronze
+lucraftcore:dust_bronze - Bronze Dust - item.dust_bronze
+lucraftcore:nugget_bronze - Bronze Nugget - item.nugget_bronze
+lucraftcore:plate_bronze - Bronze Plate - item.plate_bronze
+lucraftcore:ingot_gold_titanium_alloy - Gold-Titanium-Alloy Ingot - item.ingot_gold_titanium_alloy
+lucraftcore:dust_gold_titanium_alloy - Gold-Titanium-Alloy Dust - item.dust_gold_titanium_alloy
+lucraftcore:nugget_gold_titanium_alloy - Gold-Titanium-Alloy Nugget - item.nugget_gold_titanium_alloy
+lucraftcore:plate_gold_titanium_alloy - Gold-Titanium-Alloy Plate - item.plate_gold_titanium_alloy
+lucraftcore:ingot_intertium - Intertium Ingot - item.ingot_intertium
+lucraftcore:dust_intertium - Intertium Dust - item.dust_intertium
+lucraftcore:nugget_intertium - Intertium Nugget - item.nugget_intertium
+lucraftcore:plate_intertium - Intertium Plate - item.plate_intertium
+lucraftcore:ingot_uranium - Uranium - item.ingot_uranium
+lucraftcore:dust_uranium - Uranium Dust - item.dust_uranium
+lucraftcore:nugget_uranium - Uranium Nugget - item.nugget_uranium
+lucraftcore:plate_uranium - Uranium Plate - item.plate_uranium
+lucraftcore:ingot_steel - Steel Ingot - item.ingot_steel
+lucraftcore:dust_steel - Steel Dust - item.dust_steel
+lucraftcore:nugget_steel - Steel Nugget - item.nugget_steel
+lucraftcore:plate_steel - Steel Plate - item.plate_steel
+lucraftcore:ingot_adamantium - Adamantium Ingot - item.ingot_adamantium
+lucraftcore:dust_adamantium - Adamantium Dust - item.dust_adamantium
+lucraftcore:nugget_adamantium - Adamantium Nugget - item.nugget_adamantium
+lucraftcore:plate_adamantium - Adamantium Plate - item.plate_adamantium
+lucraftcore:dust_coal - Coal Dust - item.dust_coal
+lucraftcore:dust_charcoal - Charcoal Dust - item.dust_charcoal
+lucraftcore:ingot_uru - Uru Ingot - item.ingot_uru
+lucraftcore:dust_uru - Uru Dust - item.dust_uru
+lucraftcore:nugget_uru - Uru Nugget - item.nugget_uru
+lucraftcore:plate_uru - Uru Plate - item.plate_uru
+lucraftcore:ore_vibranium - Vibranium Ore - tile.ore_vibranium
+lucraftcore:ore_silver - Silver Ore - tile.ore_silver
+lucraftcore:ore_tin - Tin Ore - tile.ore_tin
+lucraftcore:ore_copper - Copper Ore - tile.ore_copper
+lucraftcore:ore_uranium - Uranium Ore - tile.ore_uranium
+lucraftcore:ore_osmium - Osmium Ore - tile.ore_osmium
+lucraftcore:ore_lead - Lead Ore - tile.ore_lead
+lucraftcore:ore_iridium - Iridium Ore - tile.ore_iridium
+lucraftcore:ore_uru - Uru Ore - tile.ore_uru
+lucraftcore:ore_nickel - Nickel Ore - tile.ore_nickel
+lucraftcore:ore_dwarf_star_alloy - Dwarf Star Meteor - tile.ore_dwarf_star_alloy
+lucraftcore:ore_palladium - Palladium Ore - tile.ore_palladium
+lucraftcore:ore_titanium - Titanium Ore - tile.ore_titanium
+lucraftcore:block_vibranium - Vibranium Block - tile.block_vibranium
+lucraftcore:block_adamantium - Adamantium Block - tile.block_adamantium
+lucraftcore:block_silver - Silver Block - tile.block_silver
+lucraftcore:block_bronze - Bronze Block - tile.block_bronze
+lucraftcore:block_tin - Tin Block - tile.block_tin
+lucraftcore:block_steel - Steel Block - tile.block_steel
+lucraftcore:block_copper - Copper Block - tile.block_copper
+lucraftcore:block_uranium - Uranium Block - tile.block_uranium
+lucraftcore:block_intertium - Intertium Block - tile.block_intertium
+lucraftcore:block_osmium - Osmium Block - tile.block_osmium
+lucraftcore:block_gold_titanium_alloy - Gold-Titanium-Alloy Block - tile.block_gold_titanium_alloy
+lucraftcore:block_lead - Lead Block - tile.block_lead
+lucraftcore:block_iridium - Iridium Block - tile.block_iridium
+lucraftcore:block_uru - Uru Block - tile.block_uru
+lucraftcore:block_nickel - Nickel Block - tile.block_nickel
+lucraftcore:block_dwarf_star_alloy - Dwarf Star Alloy Block - tile.block_dwarf_star_alloy
+lucraftcore:block_palladium - Palladium Block - tile.block_palladium
+lucraftcore:block_titanium - Titanium Block - tile.block_titanium
 mo_swords:dragon - Dragonkiller - item.dragon
 mo_swords:dtgriff - Dragonkiller Hilt - item.dtGriff
 mo_swords:dtklinge - Draginkiller Blade - item.dtKlinge
@@ -10009,8 +10144,8 @@ netherbackport:blackstonestairs - Blackstone Stairs - tile.blackstonestairs
 netherbackport:polishedblackstonestairs - Polished Blackstone Stairs - tile.polishedblackstonestairs
 netherbackport:polishedblackstonebricksstairs - Polished Blackstone Bricks Stairs - tile.polishedblackstonebricksstairs
 netherbackport:chiselednetherbricks - Chiseled Nether Bricks - tile.chiselednetherbricks
-netherbackport:chain - Chain - tile.chain
 netherbackport:crackednetherbricks - Cracked Nether Bricks - tile.crackednetherbricks
+netherbackport:chain - Chain - tile.chain
 netherbackport:quartzbricks - Quartz Bricks - tile.quartzbricks
 netherbackport:netheriteblock - Netherite Block - tile.netheriteblock
 netherbackport:ancientdebris - Ancient Debris - tile.ancientdebris
@@ -11513,13 +11648,13 @@ waveymod:netherironore - Nether Iron Ore - tile.netherironore
 waveymod:nethergoldore - Nether Gold Ore - tile.nethergoldore
 waveymod:netherdiamondore - Nether Diamond Ore - tile.netherdiamondore
 waveymod:netheremeraldore - Nether Emerald Ore - tile.netheremeraldore
-waveymod:wavybullet - Wavy Bullet - item.wavybullet
 waveymod:wavyslingshot - Wavy Slingshot - item.wavyslingshot
+waveymod:wavybullet - Wavy Bullet - item.wavybullet
 waveymod:bullet - Bullet - item.bullet
 waveymod:slingshot - Slingshot - item.slingshot
 waveymod:wavystring - Wavy String - item.wavystring
-waveymod:holybullet - Holy Bullet - item.holybullet
 waveymod:holyslingshot - Holy Slingshot - item.holyslingshot
+waveymod:holybullet - Holy Bullet - item.holybullet
 waveymod:holyflower - Holy Flower - tile.holyflower
 waveymod:demonicbullet - Demonic Bullet - item.demonicbullet
 waveymod:demonicflower - Demonic Flower - tile.demonicflower
@@ -11527,8 +11662,8 @@ waveymod:demonicslingshot - Demonic Slingshot - item.demonicslingshot
 waveymod:awakenedbullet - Awakened Bullet - item.awakenedbullet
 waveymod:awakenedflower - Awakened Flower - tile.awakenedflower
 waveymod:awakenedslingshot - Awakened Slingshot - item.awakenedslingshot
-waveymod:donutlmfao - Donutlmfao - item.donutlmfao
 waveymod:deebugtestweaponshootawakenswordbolt - DEEBUGTESTWEAPONSHOOTAWAKENSWORDBOLT - item.deebugtestweaponshootawakenswordbolt
+waveymod:donutlmfao - Donutlmfao - item.donutlmfao
 waveymod:nethermixure - Nether Mixure - item.nethermixure
 waveymod:netherapple - Nether Apple - item.netherapple
 waveymod:portalfordimension - Wavic Dimension Generator - tile.portalfordimension
