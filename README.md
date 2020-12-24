@@ -13,7 +13,7 @@ If your computer can handle it, shaders will enhance gameplay visually
 - Your capsule is your best friend. When used strategically, you have accessible storage, furnaces, and crafting at anytime.  
 - Tough as Nails is in this modpack. This means you will have to think about your thirst and temperature. We recommend setting up a camp near water for easy access and have a    campfire handy.  
 - Do __not__ mine locked ores. You will break it and only get cobblestone. Wait until you unlock it.  
-- Food is hard to get early-game. An easy to get food source is monster jerky. You craft it by putting rotten flesh on drying racks and waiting 4-5 minutes.  
+- A reliable food source is hard to get early-game. An easy food to make is monster jerky. You craft it by putting rotten flesh on drying racks and waiting 4-5 minutes.  
 - Be wary of dragons. Until you get really good armor and long ranged weapons, they can easily oneshot you.  
 
 
