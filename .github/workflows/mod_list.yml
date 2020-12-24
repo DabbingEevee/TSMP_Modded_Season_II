@@ -3,7 +3,7 @@ name: UpdateModList
 on: [push,  pull_request]
 
 jobs:
-  UpdateVersion:
+  UpdateModList:
     runs-on: ubuntu-latest
 
     steps:
