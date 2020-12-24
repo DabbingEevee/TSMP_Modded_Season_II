@@ -10449,12 +10449,6 @@ appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
 appliedenergistics2:facade:0, Cable Facade - Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Cobalt Ore
 appliedenergistics2:facade:0, Cable Facade - Nickel Ore
-appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
-appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
-appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
-appliedenergistics2:facade:0, Cable Facade - Sugar Block
-appliedenergistics2:facade:0, Cable Facade - Red Slime Block
-appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Polished Sandstone
 appliedenergistics2:facade:0, Cable Facade - Polished Stone
 appliedenergistics2:facade:0, Cable Facade - White Stained Planks
@@ -10500,6 +10494,12 @@ appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
 appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
 appliedenergistics2:facade:0, Cable Facade - Glowcelium
 appliedenergistics2:facade:0, Cable Facade - Glowshroom
+appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
+appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
+appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
+appliedenergistics2:facade:0, Cable Facade - Red Slime Block
+appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Porcelain Bricks
 appliedenergistics2:facade:0, Cable Facade - Dark Bricks
 appliedenergistics2:facade:0, Cable Facade - Marine Bricks
@@ -10581,13 +10581,6 @@ appliedenergistics2:facade:0, Cable Facade - Platinum Large Bricks
 appliedenergistics2:facade:0, Cable Facade - Platinum Bricks
 appliedenergistics2:facade:0, Cable Facade - Platinum Crystals
 appliedenergistics2:facade:0, Cable Facade - Platinum Hazard Block
-appliedenergistics2:facade:0, Cable Facade - Vulcanite Ore
-appliedenergistics2:facade:0, Cable Facade - Vulcanite Block
-appliedenergistics2:facade:0, Cable Facade - Vulcanite Engraved Block
-appliedenergistics2:facade:0, Cable Facade - Vulcanite Large Bricks
-appliedenergistics2:facade:0, Cable Facade - Vulcanite Bricks
-appliedenergistics2:facade:0, Cable Facade - Vulcanite Crystals
-appliedenergistics2:facade:0, Cable Facade - Vulcanite Hazard Block
 appliedenergistics2:facade:0, Cable Facade - Tin Ore
 appliedenergistics2:facade:0, Cable Facade - Tin Block
 appliedenergistics2:facade:0, Cable Facade - Tin Engraved Block
@@ -10595,6 +10588,13 @@ appliedenergistics2:facade:0, Cable Facade - Tin Large Bricks
 appliedenergistics2:facade:0, Cable Facade - Tin Bricks
 appliedenergistics2:facade:0, Cable Facade - Tin Crystals
 appliedenergistics2:facade:0, Cable Facade - Tin Hazard Block
+appliedenergistics2:facade:0, Cable Facade - Vulcanite Ore
+appliedenergistics2:facade:0, Cable Facade - Vulcanite Block
+appliedenergistics2:facade:0, Cable Facade - Vulcanite Engraved Block
+appliedenergistics2:facade:0, Cable Facade - Vulcanite Large Bricks
+appliedenergistics2:facade:0, Cable Facade - Vulcanite Bricks
+appliedenergistics2:facade:0, Cable Facade - Vulcanite Crystals
+appliedenergistics2:facade:0, Cable Facade - Vulcanite Hazard Block
 appliedenergistics2:facade:0, Cable Facade - Ignatius Ore
 appliedenergistics2:facade:0, Cable Facade - Ignatius Block
 appliedenergistics2:facade:0, Cable Facade - Ignatius Engraved Block
@@ -10686,6 +10686,12 @@ appliedenergistics2:facade:0, Cable Facade - Celenegil Large Bricks
 appliedenergistics2:facade:0, Cable Facade - Celenegil Bricks
 appliedenergistics2:facade:0, Cable Facade - Celenegil Crystals
 appliedenergistics2:facade:0, Cable Facade - Celenegil Hazard Block
+appliedenergistics2:facade:0, Cable Facade - Steel Block
+appliedenergistics2:facade:0, Cable Facade - Steel Engraved Block
+appliedenergistics2:facade:0, Cable Facade - Steel Large Bricks
+appliedenergistics2:facade:0, Cable Facade - Steel Bricks
+appliedenergistics2:facade:0, Cable Facade - Steel Crystals
+appliedenergistics2:facade:0, Cable Facade - Steel Hazard Block
 appliedenergistics2:facade:0, Cable Facade - Shadow Iron Ore
 appliedenergistics2:facade:0, Cable Facade - Shadow Iron Block
 appliedenergistics2:facade:0, Cable Facade - Shadow Iron Engraved Block
@@ -10693,12 +10699,6 @@ appliedenergistics2:facade:0, Cable Facade - Shadow Iron Large Bricks
 appliedenergistics2:facade:0, Cable Facade - Shadow Iron Bricks
 appliedenergistics2:facade:0, Cable Facade - Shadow Iron Crystals
 appliedenergistics2:facade:0, Cable Facade - Shadow Iron Hazard Block
-appliedenergistics2:facade:0, Cable Facade - Steel Block
-appliedenergistics2:facade:0, Cable Facade - Steel Engraved Block
-appliedenergistics2:facade:0, Cable Facade - Steel Large Bricks
-appliedenergistics2:facade:0, Cable Facade - Steel Bricks
-appliedenergistics2:facade:0, Cable Facade - Steel Crystals
-appliedenergistics2:facade:0, Cable Facade - Steel Hazard Block
 appliedenergistics2:facade:0, Cable Facade - Carmot Ore
 appliedenergistics2:facade:0, Cable Facade - Carmot Block
 appliedenergistics2:facade:0, Cable Facade - Carmot Engraved Block
@@ -10793,6 +10793,12 @@ appliedenergistics2:facade:0, Cable Facade - Atlarus Large Bricks
 appliedenergistics2:facade:0, Cable Facade - Atlarus Bricks
 appliedenergistics2:facade:0, Cable Facade - Atlarus Crystals
 appliedenergistics2:facade:0, Cable Facade - Atlarus Hazard Block
+appliedenergistics2:facade:0, Cable Facade - Black Steel Block
+appliedenergistics2:facade:0, Cable Facade - Black Steel Engraved Block
+appliedenergistics2:facade:0, Cable Facade - Black Steel Large Bricks
+appliedenergistics2:facade:0, Cable Facade - Black Steel Bricks
+appliedenergistics2:facade:0, Cable Facade - Black Steel Crystals
+appliedenergistics2:facade:0, Cable Facade - Black Steel Hazard Block
 appliedenergistics2:facade:0, Cable Facade - Vyroxeres Ore
 appliedenergistics2:facade:0, Cable Facade - Vyroxeres Block
 appliedenergistics2:facade:0, Cable Facade - Vyroxeres Engraved Block
@@ -10800,12 +10806,6 @@ appliedenergistics2:facade:0, Cable Facade - Vyroxeres Large Bricks
 appliedenergistics2:facade:0, Cable Facade - Vyroxeres Bricks
 appliedenergistics2:facade:0, Cable Facade - Vyroxeres Crystals
 appliedenergistics2:facade:0, Cable Facade - Vyroxeres Hazard Block
-appliedenergistics2:facade:0, Cable Facade - Black Steel Block
-appliedenergistics2:facade:0, Cable Facade - Black Steel Engraved Block
-appliedenergistics2:facade:0, Cable Facade - Black Steel Large Bricks
-appliedenergistics2:facade:0, Cable Facade - Black Steel Bricks
-appliedenergistics2:facade:0, Cable Facade - Black Steel Crystals
-appliedenergistics2:facade:0, Cable Facade - Black Steel Hazard Block
 appliedenergistics2:facade:0, Cable Facade - Lutetium Ore
 appliedenergistics2:facade:0, Cable Facade - Lutetium Block
 appliedenergistics2:facade:0, Cable Facade - Lutetium Engraved Block
@@ -11001,6 +11001,24 @@ appliedenergistics2:facade:0, Cable Facade - Umbrium Ore
 appliedenergistics2:facade:0, Cable Facade - Block of Umbrium
 appliedenergistics2:facade:0, Cable Facade - Scarlite Ore
 appliedenergistics2:facade:0, Cable Facade - Block of Scarlite
+appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
+appliedenergistics2:facade:0, Cable Facade - Block of Luminessence
+appliedenergistics2:facade:0, Cable Facade - Block of Nether Stars
+appliedenergistics2:facade:0, Cable Facade - Block of Crystaltine
+appliedenergistics2:facade:0, Cable Facade - Block of The Ultimate
+appliedenergistics2:facade:0, Cable Facade - Block of Ender
+appliedenergistics2:facade:0, Cable Facade - Block of Ender Stars
+appliedenergistics2:facade:0, Cable Facade - Block of Enhanced Ender
+appliedenergistics2:facade:0, Cable Facade - Black Iron Frame
+appliedenergistics2:facade:0, Cable Facade - Black Iron Lamp
+appliedenergistics2:facade:0, Cable Facade - Black Iron Lamp
+appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
+appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
+appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
+appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
+appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
+appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
+appliedenergistics2:facade:0, Cable Facade - Crafting Table
 appliedenergistics2:facade:0, Cable Facade - Mercury Surface Rock
 appliedenergistics2:facade:0, Cable Facade - Mercury Sub-Surface Rock
 appliedenergistics2:facade:0, Cable Facade - Mercury Stone
@@ -12291,30 +12309,6 @@ appliedenergistics2:facade:0, Cable Facade - Lignite Block Clay
 appliedenergistics2:facade:0, Cable Facade - Dolomite Clay
 appliedenergistics2:facade:0, Cable Facade - Greywacke Clay
 appliedenergistics2:facade:0, Cable Facade - Chert Clay
-appliedenergistics2:facade:0, Cable Facade - Red Granite Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Black Granite Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Rhyolite Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Andesite Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Gabbro Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Komatiite Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Dacite Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Gneiss Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Eclogite Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Marble Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Quartzite Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Blue Schist Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Green Schist Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Soapstone Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Migmatite Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Limestone Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Chalk Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Shale Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Siltstone Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Lignite Block Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Dolomite Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Greywacke Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Chert Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Red Granite Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Black Granite Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Rhyolite Charged Certus Quartz Ore
@@ -12339,6 +12333,30 @@ appliedenergistics2:facade:0, Cable Facade - Lignite Block Charged Certus Quartz
 appliedenergistics2:facade:0, Cable Facade - Dolomite Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Greywacke Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Chert Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Songstone
 appliedenergistics2:facade:0, Cable Facade - Gale Stone
 appliedenergistics2:facade:0, Cable Facade - Light Gale Stone
@@ -15054,48 +15072,48 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Battery Cell Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Binding Pattern
 tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Chisel Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Laser Medium Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Tube Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Pipe Piece Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Mouthpiece Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Dart Tip Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Laser Medium Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Battery Cell Pattern
 tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Dart Tip Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Pipe Piece Pattern
+tconstruct:pattern:0, Chisel Head Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Tube Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Mouthpiece Pattern
 tconstruct:shard:0, Disruption Shard
 tconstruct:shard:0, Void Spar Shard
 tconstruct:shard:0, Enderal Shard
@@ -15182,8 +15200,8 @@ tconstruct:shard:0, Prometheum Shard
 tconstruct:shard:0, Adamantine Shard
 tconstruct:shard:0, Tartarite Shard
 tconstruct:shard:0, Atlarus Shard
-tconstruct:shard:0, Vyroxeres Shard
 tconstruct:shard:0, Black Steel Shard
+tconstruct:shard:0, Vyroxeres Shard
 tconstruct:shard:0, Oureclase Shard
 tconstruct:shard:0, Inolashite Shard
 tconstruct:shard:0, Orichalcum Shard
@@ -15265,13 +15283,13 @@ tconstruct:shard:0, Cold Aercloud Shard
 tconstruct:shard:0, Blue Aercloud Shard
 tconstruct:shard:0, Golden Aercloud Shard
 tconstruct:shard:0, Icestone Shard
+tconstruct:shard:0, Dark Matter Shard
+tconstruct:shard:0, Red Matter Shard
+tconstruct:shard:0, Emerald Shard
 tconstruct:shard:0, Bloodwood Shard
 tconstruct:shard:0, Fusewood Shard
 tconstruct:shard:0, Ghostwood Shard
 tconstruct:shard:0, Darkwood Shard
-tconstruct:shard:0, Dark Matter Shard
-tconstruct:shard:0, Red Matter Shard
-tconstruct:shard:0, Emerald Shard
 tconstruct:sharpening_kit:0, Disruption Sharpening Kit
 tconstruct:sharpening_kit:0, Void Spar Sharpening Kit
 tconstruct:sharpening_kit:0, Enderal Sharpening Kit
@@ -15364,8 +15382,8 @@ tconstruct:sharpening_kit:0, Prometheum Sharpening Kit
 tconstruct:sharpening_kit:0, Adamantine Sharpening Kit
 tconstruct:sharpening_kit:0, Tartarite Sharpening Kit
 tconstruct:sharpening_kit:0, Atlarus Sharpening Kit
-tconstruct:sharpening_kit:0, Vyroxeres Sharpening Kit
 tconstruct:sharpening_kit:0, Black Steel Sharpening Kit
+tconstruct:sharpening_kit:0, Vyroxeres Sharpening Kit
 tconstruct:sharpening_kit:0, Oureclase Sharpening Kit
 tconstruct:sharpening_kit:0, Inolashite Sharpening Kit
 tconstruct:sharpening_kit:0, Orichalcum Sharpening Kit
@@ -15447,13 +15465,13 @@ tconstruct:sharpening_kit:0, Cold Aercloud Sharpening Kit
 tconstruct:sharpening_kit:0, Blue Aercloud Sharpening Kit
 tconstruct:sharpening_kit:0, Golden Aercloud Sharpening Kit
 tconstruct:sharpening_kit:0, Icestone Sharpening Kit
+tconstruct:sharpening_kit:0, Dark Matter Sharpening Kit
+tconstruct:sharpening_kit:0, Red Matter Sharpening Kit
+tconstruct:sharpening_kit:0, Emerald Sharpening Kit
 tconstruct:sharpening_kit:0, Bloodwood Sharpening Kit
 tconstruct:sharpening_kit:0, Fusewood Sharpening Kit
 tconstruct:sharpening_kit:0, Ghostwood Sharpening Kit
 tconstruct:sharpening_kit:0, Darkwood Sharpening Kit
-tconstruct:sharpening_kit:0, Dark Matter Sharpening Kit
-tconstruct:sharpening_kit:0, Red Matter Sharpening Kit
-tconstruct:sharpening_kit:0, Emerald Sharpening Kit
 tconstruct:pick_head:0, Disruption Pickaxe Head
 tconstruct:pick_head:0, Void Spar Pickaxe Head
 tconstruct:pick_head:0, Enderal Pickaxe Head
@@ -15546,8 +15564,8 @@ tconstruct:pick_head:0, Prometheum Pickaxe Head
 tconstruct:pick_head:0, Adamantine Pickaxe Head
 tconstruct:pick_head:0, Tartarite Pickaxe Head
 tconstruct:pick_head:0, Atlarus Pickaxe Head
-tconstruct:pick_head:0, Vyroxeres Pickaxe Head
 tconstruct:pick_head:0, Black Steel Pickaxe Head
+tconstruct:pick_head:0, Vyroxeres Pickaxe Head
 tconstruct:pick_head:0, Oureclase Pickaxe Head
 tconstruct:pick_head:0, Inolashite Pickaxe Head
 tconstruct:pick_head:0, Orichalcum Pickaxe Head
@@ -15629,13 +15647,13 @@ tconstruct:pick_head:0, Cold Aercloud Pickaxe Head
 tconstruct:pick_head:0, Blue Aercloud Pickaxe Head
 tconstruct:pick_head:0, Golden Aercloud Pickaxe Head
 tconstruct:pick_head:0, Icestone Pickaxe Head
+tconstruct:pick_head:0, Dark Matter Pickaxe Head
+tconstruct:pick_head:0, Red Matter Pickaxe Head
+tconstruct:pick_head:0, Emerald Pickaxe Head
 tconstruct:pick_head:0, Bloodwood Pickaxe Head
 tconstruct:pick_head:0, Fusewood Pickaxe Head
 tconstruct:pick_head:0, Ghostwood Pickaxe Head
 tconstruct:pick_head:0, Darkwood Pickaxe Head
-tconstruct:pick_head:0, Dark Matter Pickaxe Head
-tconstruct:pick_head:0, Red Matter Pickaxe Head
-tconstruct:pick_head:0, Emerald Pickaxe Head
 tconstruct:shovel_head:0, Disruption Shovel Head
 tconstruct:shovel_head:0, Void Spar Shovel Head
 tconstruct:shovel_head:0, Enderal Shovel Head
@@ -15728,8 +15746,8 @@ tconstruct:shovel_head:0, Prometheum Shovel Head
 tconstruct:shovel_head:0, Adamantine Shovel Head
 tconstruct:shovel_head:0, Tartarite Shovel Head
 tconstruct:shovel_head:0, Atlarus Shovel Head
-tconstruct:shovel_head:0, Vyroxeres Shovel Head
 tconstruct:shovel_head:0, Black Steel Shovel Head
+tconstruct:shovel_head:0, Vyroxeres Shovel Head
 tconstruct:shovel_head:0, Oureclase Shovel Head
 tconstruct:shovel_head:0, Inolashite Shovel Head
 tconstruct:shovel_head:0, Orichalcum Shovel Head
@@ -15811,13 +15829,13 @@ tconstruct:shovel_head:0, Cold Aercloud Shovel Head
 tconstruct:shovel_head:0, Blue Aercloud Shovel Head
 tconstruct:shovel_head:0, Golden Aercloud Shovel Head
 tconstruct:shovel_head:0, Icestone Shovel Head
+tconstruct:shovel_head:0, Dark Matter Shovel Head
+tconstruct:shovel_head:0, Red Matter Shovel Head
+tconstruct:shovel_head:0, Emerald Shovel Head
 tconstruct:shovel_head:0, Bloodwood Shovel Head
 tconstruct:shovel_head:0, Fusewood Shovel Head
 tconstruct:shovel_head:0, Ghostwood Shovel Head
 tconstruct:shovel_head:0, Darkwood Shovel Head
-tconstruct:shovel_head:0, Dark Matter Shovel Head
-tconstruct:shovel_head:0, Red Matter Shovel Head
-tconstruct:shovel_head:0, Emerald Shovel Head
 tconstruct:axe_head:0, Disruption Axe Head
 tconstruct:axe_head:0, Void Spar Axe Head
 tconstruct:axe_head:0, Enderal Axe Head
@@ -15910,8 +15928,8 @@ tconstruct:axe_head:0, Prometheum Axe Head
 tconstruct:axe_head:0, Adamantine Axe Head
 tconstruct:axe_head:0, Tartarite Axe Head
 tconstruct:axe_head:0, Atlarus Axe Head
-tconstruct:axe_head:0, Vyroxeres Axe Head
 tconstruct:axe_head:0, Black Steel Axe Head
+tconstruct:axe_head:0, Vyroxeres Axe Head
 tconstruct:axe_head:0, Oureclase Axe Head
 tconstruct:axe_head:0, Inolashite Axe Head
 tconstruct:axe_head:0, Orichalcum Axe Head
@@ -15993,13 +16011,13 @@ tconstruct:axe_head:0, Cold Aercloud Axe Head
 tconstruct:axe_head:0, Blue Aercloud Axe Head
 tconstruct:axe_head:0, Golden Aercloud Axe Head
 tconstruct:axe_head:0, Icestone Axe Head
+tconstruct:axe_head:0, Dark Matter Axe Head
+tconstruct:axe_head:0, Red Matter Axe Head
+tconstruct:axe_head:0, Emerald Axe Head
 tconstruct:axe_head:0, Bloodwood Axe Head
 tconstruct:axe_head:0, Fusewood Axe Head
 tconstruct:axe_head:0, Ghostwood Axe Head
 tconstruct:axe_head:0, Darkwood Axe Head
-tconstruct:axe_head:0, Dark Matter Axe Head
-tconstruct:axe_head:0, Red Matter Axe Head
-tconstruct:axe_head:0, Emerald Axe Head
 tconstruct:broad_axe_head:0, Disruption Broad Axe Head
 tconstruct:broad_axe_head:0, Void Spar Broad Axe Head
 tconstruct:broad_axe_head:0, Enderal Broad Axe Head
@@ -16092,8 +16110,8 @@ tconstruct:broad_axe_head:0, Prometheum Broad Axe Head
 tconstruct:broad_axe_head:0, Adamantine Broad Axe Head
 tconstruct:broad_axe_head:0, Tartarite Broad Axe Head
 tconstruct:broad_axe_head:0, Atlarus Broad Axe Head
-tconstruct:broad_axe_head:0, Vyroxeres Broad Axe Head
 tconstruct:broad_axe_head:0, Black Steel Broad Axe Head
+tconstruct:broad_axe_head:0, Vyroxeres Broad Axe Head
 tconstruct:broad_axe_head:0, Oureclase Broad Axe Head
 tconstruct:broad_axe_head:0, Inolashite Broad Axe Head
 tconstruct:broad_axe_head:0, Orichalcum Broad Axe Head
@@ -16175,13 +16193,13 @@ tconstruct:broad_axe_head:0, Cold Aercloud Broad Axe Head
 tconstruct:broad_axe_head:0, Blue Aercloud Broad Axe Head
 tconstruct:broad_axe_head:0, Golden Aercloud Broad Axe Head
 tconstruct:broad_axe_head:0, Icestone Broad Axe Head
+tconstruct:broad_axe_head:0, Dark Matter Broad Axe Head
+tconstruct:broad_axe_head:0, Red Matter Broad Axe Head
+tconstruct:broad_axe_head:0, Emerald Broad Axe Head
 tconstruct:broad_axe_head:0, Bloodwood Broad Axe Head
 tconstruct:broad_axe_head:0, Fusewood Broad Axe Head
 tconstruct:broad_axe_head:0, Ghostwood Broad Axe Head
 tconstruct:broad_axe_head:0, Darkwood Broad Axe Head
-tconstruct:broad_axe_head:0, Dark Matter Broad Axe Head
-tconstruct:broad_axe_head:0, Red Matter Broad Axe Head
-tconstruct:broad_axe_head:0, Emerald Broad Axe Head
 tconstruct:sword_blade:0, Disruption Sword Blade
 tconstruct:sword_blade:0, Void Spar Sword Blade
 tconstruct:sword_blade:0, Enderal Sword Blade
@@ -16274,8 +16292,8 @@ tconstruct:sword_blade:0, Prometheum Sword Blade
 tconstruct:sword_blade:0, Adamantine Sword Blade
 tconstruct:sword_blade:0, Tartarite Sword Blade
 tconstruct:sword_blade:0, Atlarus Sword Blade
-tconstruct:sword_blade:0, Vyroxeres Sword Blade
 tconstruct:sword_blade:0, Black Steel Sword Blade
+tconstruct:sword_blade:0, Vyroxeres Sword Blade
 tconstruct:sword_blade:0, Oureclase Sword Blade
 tconstruct:sword_blade:0, Inolashite Sword Blade
 tconstruct:sword_blade:0, Orichalcum Sword Blade
@@ -16357,13 +16375,13 @@ tconstruct:sword_blade:0, Cold Aercloud Sword Blade
 tconstruct:sword_blade:0, Blue Aercloud Sword Blade
 tconstruct:sword_blade:0, Golden Aercloud Sword Blade
 tconstruct:sword_blade:0, Icestone Sword Blade
+tconstruct:sword_blade:0, Dark Matter Sword Blade
+tconstruct:sword_blade:0, Red Matter Sword Blade
+tconstruct:sword_blade:0, Emerald Sword Blade
 tconstruct:sword_blade:0, Bloodwood Sword Blade
 tconstruct:sword_blade:0, Fusewood Sword Blade
 tconstruct:sword_blade:0, Ghostwood Sword Blade
 tconstruct:sword_blade:0, Darkwood Sword Blade
-tconstruct:sword_blade:0, Dark Matter Sword Blade
-tconstruct:sword_blade:0, Red Matter Sword Blade
-tconstruct:sword_blade:0, Emerald Sword Blade
 tconstruct:large_sword_blade:0, Disruption Large Sword Blade
 tconstruct:large_sword_blade:0, Void Spar Large Sword Blade
 tconstruct:large_sword_blade:0, Enderal Large Sword Blade
@@ -16456,8 +16474,8 @@ tconstruct:large_sword_blade:0, Prometheum Large Sword Blade
 tconstruct:large_sword_blade:0, Adamantine Large Sword Blade
 tconstruct:large_sword_blade:0, Tartarite Large Sword Blade
 tconstruct:large_sword_blade:0, Atlarus Large Sword Blade
-tconstruct:large_sword_blade:0, Vyroxeres Large Sword Blade
 tconstruct:large_sword_blade:0, Black Steel Large Sword Blade
+tconstruct:large_sword_blade:0, Vyroxeres Large Sword Blade
 tconstruct:large_sword_blade:0, Oureclase Large Sword Blade
 tconstruct:large_sword_blade:0, Inolashite Large Sword Blade
 tconstruct:large_sword_blade:0, Orichalcum Large Sword Blade
@@ -16539,13 +16557,13 @@ tconstruct:large_sword_blade:0, Cold Aercloud Large Sword Blade
 tconstruct:large_sword_blade:0, Blue Aercloud Large Sword Blade
 tconstruct:large_sword_blade:0, Golden Aercloud Large Sword Blade
 tconstruct:large_sword_blade:0, Icestone Large Sword Blade
+tconstruct:large_sword_blade:0, Dark Matter Large Sword Blade
+tconstruct:large_sword_blade:0, Red Matter Large Sword Blade
+tconstruct:large_sword_blade:0, Emerald Large Sword Blade
 tconstruct:large_sword_blade:0, Bloodwood Large Sword Blade
 tconstruct:large_sword_blade:0, Fusewood Large Sword Blade
 tconstruct:large_sword_blade:0, Ghostwood Large Sword Blade
 tconstruct:large_sword_blade:0, Darkwood Large Sword Blade
-tconstruct:large_sword_blade:0, Dark Matter Large Sword Blade
-tconstruct:large_sword_blade:0, Red Matter Large Sword Blade
-tconstruct:large_sword_blade:0, Emerald Large Sword Blade
 tconstruct:hammer_head:0, Disruption Hammer Head
 tconstruct:hammer_head:0, Void Spar Hammer Head
 tconstruct:hammer_head:0, Enderal Hammer Head
@@ -16638,8 +16656,8 @@ tconstruct:hammer_head:0, Prometheum Hammer Head
 tconstruct:hammer_head:0, Adamantine Hammer Head
 tconstruct:hammer_head:0, Tartarite Hammer Head
 tconstruct:hammer_head:0, Atlarus Hammer Head
-tconstruct:hammer_head:0, Vyroxeres Hammer Head
 tconstruct:hammer_head:0, Black Steel Hammer Head
+tconstruct:hammer_head:0, Vyroxeres Hammer Head
 tconstruct:hammer_head:0, Oureclase Hammer Head
 tconstruct:hammer_head:0, Inolashite Hammer Head
 tconstruct:hammer_head:0, Orichalcum Hammer Head
@@ -16721,13 +16739,13 @@ tconstruct:hammer_head:0, Cold Aercloud Hammer Head
 tconstruct:hammer_head:0, Blue Aercloud Hammer Head
 tconstruct:hammer_head:0, Golden Aercloud Hammer Head
 tconstruct:hammer_head:0, Icestone Hammer Head
+tconstruct:hammer_head:0, Dark Matter Hammer Head
+tconstruct:hammer_head:0, Red Matter Hammer Head
+tconstruct:hammer_head:0, Emerald Hammer Head
 tconstruct:hammer_head:0, Bloodwood Hammer Head
 tconstruct:hammer_head:0, Fusewood Hammer Head
 tconstruct:hammer_head:0, Ghostwood Hammer Head
 tconstruct:hammer_head:0, Darkwood Hammer Head
-tconstruct:hammer_head:0, Dark Matter Hammer Head
-tconstruct:hammer_head:0, Red Matter Hammer Head
-tconstruct:hammer_head:0, Emerald Hammer Head
 tconstruct:excavator_head:0, Disruption Excavator Head
 tconstruct:excavator_head:0, Void Spar Excavator Head
 tconstruct:excavator_head:0, Enderal Excavator Head
@@ -16820,8 +16838,8 @@ tconstruct:excavator_head:0, Prometheum Excavator Head
 tconstruct:excavator_head:0, Adamantine Excavator Head
 tconstruct:excavator_head:0, Tartarite Excavator Head
 tconstruct:excavator_head:0, Atlarus Excavator Head
-tconstruct:excavator_head:0, Vyroxeres Excavator Head
 tconstruct:excavator_head:0, Black Steel Excavator Head
+tconstruct:excavator_head:0, Vyroxeres Excavator Head
 tconstruct:excavator_head:0, Oureclase Excavator Head
 tconstruct:excavator_head:0, Inolashite Excavator Head
 tconstruct:excavator_head:0, Orichalcum Excavator Head
@@ -16903,13 +16921,13 @@ tconstruct:excavator_head:0, Cold Aercloud Excavator Head
 tconstruct:excavator_head:0, Blue Aercloud Excavator Head
 tconstruct:excavator_head:0, Golden Aercloud Excavator Head
 tconstruct:excavator_head:0, Icestone Excavator Head
+tconstruct:excavator_head:0, Dark Matter Excavator Head
+tconstruct:excavator_head:0, Red Matter Excavator Head
+tconstruct:excavator_head:0, Emerald Excavator Head
 tconstruct:excavator_head:0, Bloodwood Excavator Head
 tconstruct:excavator_head:0, Fusewood Excavator Head
 tconstruct:excavator_head:0, Ghostwood Excavator Head
 tconstruct:excavator_head:0, Darkwood Excavator Head
-tconstruct:excavator_head:0, Dark Matter Excavator Head
-tconstruct:excavator_head:0, Red Matter Excavator Head
-tconstruct:excavator_head:0, Emerald Excavator Head
 tconstruct:kama_head:0, Disruption Kama Head
 tconstruct:kama_head:0, Void Spar Kama Head
 tconstruct:kama_head:0, Enderal Kama Head
@@ -17002,8 +17020,8 @@ tconstruct:kama_head:0, Prometheum Kama Head
 tconstruct:kama_head:0, Adamantine Kama Head
 tconstruct:kama_head:0, Tartarite Kama Head
 tconstruct:kama_head:0, Atlarus Kama Head
-tconstruct:kama_head:0, Vyroxeres Kama Head
 tconstruct:kama_head:0, Black Steel Kama Head
+tconstruct:kama_head:0, Vyroxeres Kama Head
 tconstruct:kama_head:0, Oureclase Kama Head
 tconstruct:kama_head:0, Inolashite Kama Head
 tconstruct:kama_head:0, Orichalcum Kama Head
@@ -17085,13 +17103,13 @@ tconstruct:kama_head:0, Cold Aercloud Kama Head
 tconstruct:kama_head:0, Blue Aercloud Kama Head
 tconstruct:kama_head:0, Golden Aercloud Kama Head
 tconstruct:kama_head:0, Icestone Kama Head
+tconstruct:kama_head:0, Dark Matter Kama Head
+tconstruct:kama_head:0, Red Matter Kama Head
+tconstruct:kama_head:0, Emerald Kama Head
 tconstruct:kama_head:0, Bloodwood Kama Head
 tconstruct:kama_head:0, Fusewood Kama Head
 tconstruct:kama_head:0, Ghostwood Kama Head
 tconstruct:kama_head:0, Darkwood Kama Head
-tconstruct:kama_head:0, Dark Matter Kama Head
-tconstruct:kama_head:0, Red Matter Kama Head
-tconstruct:kama_head:0, Emerald Kama Head
 tconstruct:scythe_head:0, Disruption Scythe Head
 tconstruct:scythe_head:0, Void Spar Scythe Head
 tconstruct:scythe_head:0, Enderal Scythe Head
@@ -17184,8 +17202,8 @@ tconstruct:scythe_head:0, Prometheum Scythe Head
 tconstruct:scythe_head:0, Adamantine Scythe Head
 tconstruct:scythe_head:0, Tartarite Scythe Head
 tconstruct:scythe_head:0, Atlarus Scythe Head
-tconstruct:scythe_head:0, Vyroxeres Scythe Head
 tconstruct:scythe_head:0, Black Steel Scythe Head
+tconstruct:scythe_head:0, Vyroxeres Scythe Head
 tconstruct:scythe_head:0, Oureclase Scythe Head
 tconstruct:scythe_head:0, Inolashite Scythe Head
 tconstruct:scythe_head:0, Orichalcum Scythe Head
@@ -17267,13 +17285,13 @@ tconstruct:scythe_head:0, Cold Aercloud Scythe Head
 tconstruct:scythe_head:0, Blue Aercloud Scythe Head
 tconstruct:scythe_head:0, Golden Aercloud Scythe Head
 tconstruct:scythe_head:0, Icestone Scythe Head
+tconstruct:scythe_head:0, Dark Matter Scythe Head
+tconstruct:scythe_head:0, Red Matter Scythe Head
+tconstruct:scythe_head:0, Emerald Scythe Head
 tconstruct:scythe_head:0, Bloodwood Scythe Head
 tconstruct:scythe_head:0, Fusewood Scythe Head
 tconstruct:scythe_head:0, Ghostwood Scythe Head
 tconstruct:scythe_head:0, Darkwood Scythe Head
-tconstruct:scythe_head:0, Dark Matter Scythe Head
-tconstruct:scythe_head:0, Red Matter Scythe Head
-tconstruct:scythe_head:0, Emerald Scythe Head
 tconstruct:pan_head:0, Disruption Pan
 tconstruct:pan_head:0, Void Spar Pan
 tconstruct:pan_head:0, Enderal Pan
@@ -17366,8 +17384,8 @@ tconstruct:pan_head:0, Prometheum Pan
 tconstruct:pan_head:0, Adamantine Pan
 tconstruct:pan_head:0, Tartarite Pan
 tconstruct:pan_head:0, Atlarus Pan
-tconstruct:pan_head:0, Vyroxeres Pan
 tconstruct:pan_head:0, Black Steel Pan
+tconstruct:pan_head:0, Vyroxeres Pan
 tconstruct:pan_head:0, Oureclase Pan
 tconstruct:pan_head:0, Inolashite Pan
 tconstruct:pan_head:0, Orichalcum Pan
@@ -17449,13 +17467,13 @@ tconstruct:pan_head:0, Cold Aercloud Pan
 tconstruct:pan_head:0, Blue Aercloud Pan
 tconstruct:pan_head:0, Golden Aercloud Pan
 tconstruct:pan_head:0, Icestone Pan
+tconstruct:pan_head:0, Dark Matter Pan
+tconstruct:pan_head:0, Red Matter Pan
+tconstruct:pan_head:0, Emerald Pan
 tconstruct:pan_head:0, Bloodwood Pan
 tconstruct:pan_head:0, Fusewood Pan
 tconstruct:pan_head:0, Ghostwood Pan
 tconstruct:pan_head:0, Darkwood Pan
-tconstruct:pan_head:0, Dark Matter Pan
-tconstruct:pan_head:0, Red Matter Pan
-tconstruct:pan_head:0, Emerald Pan
 tconstruct:sign_head:0, Disruption Sign Plate
 tconstruct:sign_head:0, Void Spar Sign Plate
 tconstruct:sign_head:0, Enderal Sign Plate
@@ -17548,8 +17566,8 @@ tconstruct:sign_head:0, Prometheum Sign Plate
 tconstruct:sign_head:0, Adamantine Sign Plate
 tconstruct:sign_head:0, Tartarite Sign Plate
 tconstruct:sign_head:0, Atlarus Sign Plate
-tconstruct:sign_head:0, Vyroxeres Sign Plate
 tconstruct:sign_head:0, Black Steel Sign Plate
+tconstruct:sign_head:0, Vyroxeres Sign Plate
 tconstruct:sign_head:0, Oureclase Sign Plate
 tconstruct:sign_head:0, Inolashite Sign Plate
 tconstruct:sign_head:0, Orichalcum Sign Plate
@@ -17631,13 +17649,13 @@ tconstruct:sign_head:0, Cold Aercloud Sign Plate
 tconstruct:sign_head:0, Blue Aercloud Sign Plate
 tconstruct:sign_head:0, Golden Aercloud Sign Plate
 tconstruct:sign_head:0, Icestone Sign Plate
+tconstruct:sign_head:0, Dark Matter Sign Plate
+tconstruct:sign_head:0, Red Matter Sign Plate
+tconstruct:sign_head:0, Emerald Sign Plate
 tconstruct:sign_head:0, Bloodwood Sign Plate
 tconstruct:sign_head:0, Fusewood Sign Plate
 tconstruct:sign_head:0, Ghostwood Sign Plate
 tconstruct:sign_head:0, Darkwood Sign Plate
-tconstruct:sign_head:0, Dark Matter Sign Plate
-tconstruct:sign_head:0, Red Matter Sign Plate
-tconstruct:sign_head:0, Emerald Sign Plate
 tconstruct:tool_rod:0, Disruption Tool Rod
 tconstruct:tool_rod:0, Void Spar Tool Rod
 tconstruct:tool_rod:0, Enderal Tool Rod
@@ -17729,8 +17747,8 @@ tconstruct:tool_rod:0, Prometheum Tool Rod
 tconstruct:tool_rod:0, Adamantine Tool Rod
 tconstruct:tool_rod:0, Tartarite Tool Rod
 tconstruct:tool_rod:0, Atlarus Tool Rod
-tconstruct:tool_rod:0, Vyroxeres Tool Rod
 tconstruct:tool_rod:0, Black Steel Tool Rod
+tconstruct:tool_rod:0, Vyroxeres Tool Rod
 tconstruct:tool_rod:0, Oureclase Tool Rod
 tconstruct:tool_rod:0, Inolashite Tool Rod
 tconstruct:tool_rod:0, Orichalcum Tool Rod
@@ -17813,13 +17831,13 @@ tconstruct:tool_rod:0, Cold Aercloud Tool Rod
 tconstruct:tool_rod:0, Blue Aercloud Tool Rod
 tconstruct:tool_rod:0, Golden Aercloud Tool Rod
 tconstruct:tool_rod:0, Icestone Tool Rod
+tconstruct:tool_rod:0, Dark Matter Tool Rod
+tconstruct:tool_rod:0, Red Matter Tool Rod
+tconstruct:tool_rod:0, Emerald Tool Rod
 tconstruct:tool_rod:0, Bloodwood Tool Rod
 tconstruct:tool_rod:0, Fusewood Tool Rod
 tconstruct:tool_rod:0, Ghostwood Tool Rod
 tconstruct:tool_rod:0, Darkwood Tool Rod
-tconstruct:tool_rod:0, Dark Matter Tool Rod
-tconstruct:tool_rod:0, Red Matter Tool Rod
-tconstruct:tool_rod:0, Emerald Tool Rod
 tconstruct:tough_tool_rod:0, Disruption Tough Tool Rod
 tconstruct:tough_tool_rod:0, Void Spar Tough Tool Rod
 tconstruct:tough_tool_rod:0, Enderal Tough Tool Rod
@@ -17911,8 +17929,8 @@ tconstruct:tough_tool_rod:0, Prometheum Tough Tool Rod
 tconstruct:tough_tool_rod:0, Adamantine Tough Tool Rod
 tconstruct:tough_tool_rod:0, Tartarite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Atlarus Tough Tool Rod
-tconstruct:tough_tool_rod:0, Vyroxeres Tough Tool Rod
 tconstruct:tough_tool_rod:0, Black Steel Tough Tool Rod
+tconstruct:tough_tool_rod:0, Vyroxeres Tough Tool Rod
 tconstruct:tough_tool_rod:0, Oureclase Tough Tool Rod
 tconstruct:tough_tool_rod:0, Inolashite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Orichalcum Tough Tool Rod
@@ -17995,13 +18013,13 @@ tconstruct:tough_tool_rod:0, Cold Aercloud Tough Tool Rod
 tconstruct:tough_tool_rod:0, Blue Aercloud Tough Tool Rod
 tconstruct:tough_tool_rod:0, Golden Aercloud Tough Tool Rod
 tconstruct:tough_tool_rod:0, Icestone Tough Tool Rod
+tconstruct:tough_tool_rod:0, Dark Matter Tough Tool Rod
+tconstruct:tough_tool_rod:0, Red Matter Tough Tool Rod
+tconstruct:tough_tool_rod:0, Emerald Tough Tool Rod
 tconstruct:tough_tool_rod:0, Bloodwood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Fusewood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Ghostwood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Darkwood Tough Tool Rod
-tconstruct:tough_tool_rod:0, Dark Matter Tough Tool Rod
-tconstruct:tough_tool_rod:0, Red Matter Tough Tool Rod
-tconstruct:tough_tool_rod:0, Emerald Tough Tool Rod
 tconstruct:binding:0, Disruption Binding
 tconstruct:binding:0, Void Spar Binding
 tconstruct:binding:0, Enderal Binding
@@ -18093,8 +18111,8 @@ tconstruct:binding:0, Prometheum Binding
 tconstruct:binding:0, Adamantine Binding
 tconstruct:binding:0, Tartarite Binding
 tconstruct:binding:0, Atlarus Binding
-tconstruct:binding:0, Vyroxeres Binding
 tconstruct:binding:0, Black Steel Binding
+tconstruct:binding:0, Vyroxeres Binding
 tconstruct:binding:0, Oureclase Binding
 tconstruct:binding:0, Inolashite Binding
 tconstruct:binding:0, Orichalcum Binding
@@ -18177,13 +18195,13 @@ tconstruct:binding:0, Cold Aercloud Binding
 tconstruct:binding:0, Blue Aercloud Binding
 tconstruct:binding:0, Golden Aercloud Binding
 tconstruct:binding:0, Icestone Binding
+tconstruct:binding:0, Dark Matter Binding
+tconstruct:binding:0, Red Matter Binding
+tconstruct:binding:0, Emerald Binding
 tconstruct:binding:0, Bloodwood Binding
 tconstruct:binding:0, Fusewood Binding
 tconstruct:binding:0, Ghostwood Binding
 tconstruct:binding:0, Darkwood Binding
-tconstruct:binding:0, Dark Matter Binding
-tconstruct:binding:0, Red Matter Binding
-tconstruct:binding:0, Emerald Binding
 tconstruct:tough_binding:0, Disruption Tough Binding
 tconstruct:tough_binding:0, Void Spar Tough Binding
 tconstruct:tough_binding:0, Enderal Tough Binding
@@ -18275,8 +18293,8 @@ tconstruct:tough_binding:0, Prometheum Tough Binding
 tconstruct:tough_binding:0, Adamantine Tough Binding
 tconstruct:tough_binding:0, Tartarite Tough Binding
 tconstruct:tough_binding:0, Atlarus Tough Binding
-tconstruct:tough_binding:0, Vyroxeres Tough Binding
 tconstruct:tough_binding:0, Black Steel Tough Binding
+tconstruct:tough_binding:0, Vyroxeres Tough Binding
 tconstruct:tough_binding:0, Oureclase Tough Binding
 tconstruct:tough_binding:0, Inolashite Tough Binding
 tconstruct:tough_binding:0, Orichalcum Tough Binding
@@ -18359,13 +18377,13 @@ tconstruct:tough_binding:0, Cold Aercloud Tough Binding
 tconstruct:tough_binding:0, Blue Aercloud Tough Binding
 tconstruct:tough_binding:0, Golden Aercloud Tough Binding
 tconstruct:tough_binding:0, Icestone Tough Binding
+tconstruct:tough_binding:0, Dark Matter Tough Binding
+tconstruct:tough_binding:0, Red Matter Tough Binding
+tconstruct:tough_binding:0, Emerald Tough Binding
 tconstruct:tough_binding:0, Bloodwood Tough Binding
 tconstruct:tough_binding:0, Fusewood Tough Binding
 tconstruct:tough_binding:0, Ghostwood Tough Binding
 tconstruct:tough_binding:0, Darkwood Tough Binding
-tconstruct:tough_binding:0, Dark Matter Tough Binding
-tconstruct:tough_binding:0, Red Matter Tough Binding
-tconstruct:tough_binding:0, Emerald Tough Binding
 tconstruct:wide_guard:0, Disruption Wide Guard
 tconstruct:wide_guard:0, Void Spar Wide Guard
 tconstruct:wide_guard:0, Enderal Wide Guard
@@ -18457,8 +18475,8 @@ tconstruct:wide_guard:0, Prometheum Wide Guard
 tconstruct:wide_guard:0, Adamantine Wide Guard
 tconstruct:wide_guard:0, Tartarite Wide Guard
 tconstruct:wide_guard:0, Atlarus Wide Guard
-tconstruct:wide_guard:0, Vyroxeres Wide Guard
 tconstruct:wide_guard:0, Black Steel Wide Guard
+tconstruct:wide_guard:0, Vyroxeres Wide Guard
 tconstruct:wide_guard:0, Oureclase Wide Guard
 tconstruct:wide_guard:0, Inolashite Wide Guard
 tconstruct:wide_guard:0, Orichalcum Wide Guard
@@ -18541,13 +18559,13 @@ tconstruct:wide_guard:0, Cold Aercloud Wide Guard
 tconstruct:wide_guard:0, Blue Aercloud Wide Guard
 tconstruct:wide_guard:0, Golden Aercloud Wide Guard
 tconstruct:wide_guard:0, Icestone Wide Guard
+tconstruct:wide_guard:0, Dark Matter Wide Guard
+tconstruct:wide_guard:0, Red Matter Wide Guard
+tconstruct:wide_guard:0, Emerald Wide Guard
 tconstruct:wide_guard:0, Bloodwood Wide Guard
 tconstruct:wide_guard:0, Fusewood Wide Guard
 tconstruct:wide_guard:0, Ghostwood Wide Guard
 tconstruct:wide_guard:0, Darkwood Wide Guard
-tconstruct:wide_guard:0, Dark Matter Wide Guard
-tconstruct:wide_guard:0, Red Matter Wide Guard
-tconstruct:wide_guard:0, Emerald Wide Guard
 tconstruct:hand_guard:0, Disruption Hand Guard
 tconstruct:hand_guard:0, Void Spar Hand Guard
 tconstruct:hand_guard:0, Enderal Hand Guard
@@ -18639,8 +18657,8 @@ tconstruct:hand_guard:0, Prometheum Hand Guard
 tconstruct:hand_guard:0, Adamantine Hand Guard
 tconstruct:hand_guard:0, Tartarite Hand Guard
 tconstruct:hand_guard:0, Atlarus Hand Guard
-tconstruct:hand_guard:0, Vyroxeres Hand Guard
 tconstruct:hand_guard:0, Black Steel Hand Guard
+tconstruct:hand_guard:0, Vyroxeres Hand Guard
 tconstruct:hand_guard:0, Oureclase Hand Guard
 tconstruct:hand_guard:0, Inolashite Hand Guard
 tconstruct:hand_guard:0, Orichalcum Hand Guard
@@ -18723,13 +18741,13 @@ tconstruct:hand_guard:0, Cold Aercloud Hand Guard
 tconstruct:hand_guard:0, Blue Aercloud Hand Guard
 tconstruct:hand_guard:0, Golden Aercloud Hand Guard
 tconstruct:hand_guard:0, Icestone Hand Guard
+tconstruct:hand_guard:0, Dark Matter Hand Guard
+tconstruct:hand_guard:0, Red Matter Hand Guard
+tconstruct:hand_guard:0, Emerald Hand Guard
 tconstruct:hand_guard:0, Bloodwood Hand Guard
 tconstruct:hand_guard:0, Fusewood Hand Guard
 tconstruct:hand_guard:0, Ghostwood Hand Guard
 tconstruct:hand_guard:0, Darkwood Hand Guard
-tconstruct:hand_guard:0, Dark Matter Hand Guard
-tconstruct:hand_guard:0, Red Matter Hand Guard
-tconstruct:hand_guard:0, Emerald Hand Guard
 tconstruct:cross_guard:0, Disruption Cross Guard
 tconstruct:cross_guard:0, Void Spar Cross Guard
 tconstruct:cross_guard:0, Enderal Cross Guard
@@ -18821,8 +18839,8 @@ tconstruct:cross_guard:0, Prometheum Cross Guard
 tconstruct:cross_guard:0, Adamantine Cross Guard
 tconstruct:cross_guard:0, Tartarite Cross Guard
 tconstruct:cross_guard:0, Atlarus Cross Guard
-tconstruct:cross_guard:0, Vyroxeres Cross Guard
 tconstruct:cross_guard:0, Black Steel Cross Guard
+tconstruct:cross_guard:0, Vyroxeres Cross Guard
 tconstruct:cross_guard:0, Oureclase Cross Guard
 tconstruct:cross_guard:0, Inolashite Cross Guard
 tconstruct:cross_guard:0, Orichalcum Cross Guard
@@ -18905,13 +18923,13 @@ tconstruct:cross_guard:0, Cold Aercloud Cross Guard
 tconstruct:cross_guard:0, Blue Aercloud Cross Guard
 tconstruct:cross_guard:0, Golden Aercloud Cross Guard
 tconstruct:cross_guard:0, Icestone Cross Guard
+tconstruct:cross_guard:0, Dark Matter Cross Guard
+tconstruct:cross_guard:0, Red Matter Cross Guard
+tconstruct:cross_guard:0, Emerald Cross Guard
 tconstruct:cross_guard:0, Bloodwood Cross Guard
 tconstruct:cross_guard:0, Fusewood Cross Guard
 tconstruct:cross_guard:0, Ghostwood Cross Guard
 tconstruct:cross_guard:0, Darkwood Cross Guard
-tconstruct:cross_guard:0, Dark Matter Cross Guard
-tconstruct:cross_guard:0, Red Matter Cross Guard
-tconstruct:cross_guard:0, Emerald Cross Guard
 tconstruct:large_plate:0, Disruption Large Plate
 tconstruct:large_plate:0, Void Spar Large Plate
 tconstruct:large_plate:0, Enderal Large Plate
@@ -19004,8 +19022,8 @@ tconstruct:large_plate:0, Prometheum Large Plate
 tconstruct:large_plate:0, Adamantine Large Plate
 tconstruct:large_plate:0, Tartarite Large Plate
 tconstruct:large_plate:0, Atlarus Large Plate
-tconstruct:large_plate:0, Vyroxeres Large Plate
 tconstruct:large_plate:0, Black Steel Large Plate
+tconstruct:large_plate:0, Vyroxeres Large Plate
 tconstruct:large_plate:0, Oureclase Large Plate
 tconstruct:large_plate:0, Inolashite Large Plate
 tconstruct:large_plate:0, Orichalcum Large Plate
@@ -19088,13 +19106,13 @@ tconstruct:large_plate:0, Cold Aercloud Large Plate
 tconstruct:large_plate:0, Blue Aercloud Large Plate
 tconstruct:large_plate:0, Golden Aercloud Large Plate
 tconstruct:large_plate:0, Icestone Large Plate
+tconstruct:large_plate:0, Dark Matter Large Plate
+tconstruct:large_plate:0, Red Matter Large Plate
+tconstruct:large_plate:0, Emerald Large Plate
 tconstruct:large_plate:0, Bloodwood Large Plate
 tconstruct:large_plate:0, Fusewood Large Plate
 tconstruct:large_plate:0, Ghostwood Large Plate
 tconstruct:large_plate:0, Darkwood Large Plate
-tconstruct:large_plate:0, Dark Matter Large Plate
-tconstruct:large_plate:0, Red Matter Large Plate
-tconstruct:large_plate:0, Emerald Large Plate
 tconstruct:knife_blade:0, Disruption Knife Blade
 tconstruct:knife_blade:0, Void Spar Knife Blade
 tconstruct:knife_blade:0, Enderal Knife Blade
@@ -19187,8 +19205,8 @@ tconstruct:knife_blade:0, Prometheum Knife Blade
 tconstruct:knife_blade:0, Adamantine Knife Blade
 tconstruct:knife_blade:0, Tartarite Knife Blade
 tconstruct:knife_blade:0, Atlarus Knife Blade
-tconstruct:knife_blade:0, Vyroxeres Knife Blade
 tconstruct:knife_blade:0, Black Steel Knife Blade
+tconstruct:knife_blade:0, Vyroxeres Knife Blade
 tconstruct:knife_blade:0, Oureclase Knife Blade
 tconstruct:knife_blade:0, Inolashite Knife Blade
 tconstruct:knife_blade:0, Orichalcum Knife Blade
@@ -19270,13 +19288,13 @@ tconstruct:knife_blade:0, Cold Aercloud Knife Blade
 tconstruct:knife_blade:0, Blue Aercloud Knife Blade
 tconstruct:knife_blade:0, Golden Aercloud Knife Blade
 tconstruct:knife_blade:0, Icestone Knife Blade
+tconstruct:knife_blade:0, Dark Matter Knife Blade
+tconstruct:knife_blade:0, Red Matter Knife Blade
+tconstruct:knife_blade:0, Emerald Knife Blade
 tconstruct:knife_blade:0, Bloodwood Knife Blade
 tconstruct:knife_blade:0, Fusewood Knife Blade
 tconstruct:knife_blade:0, Ghostwood Knife Blade
 tconstruct:knife_blade:0, Darkwood Knife Blade
-tconstruct:knife_blade:0, Dark Matter Knife Blade
-tconstruct:knife_blade:0, Red Matter Knife Blade
-tconstruct:knife_blade:0, Emerald Knife Blade
 tconstruct:bow_limb:0, Disruption Bowlimb
 tconstruct:bow_limb:0, Ironwood Bowlimb
 tconstruct:bow_limb:0, Electrical Bowlimb
@@ -19356,8 +19374,8 @@ tconstruct:bow_limb:0, Damascus Steel Bowlimb
 tconstruct:bow_limb:0, Prometheum Bowlimb
 tconstruct:bow_limb:0, Adamantine Bowlimb
 tconstruct:bow_limb:0, Atlarus Bowlimb
-tconstruct:bow_limb:0, Vyroxeres Bowlimb
 tconstruct:bow_limb:0, Black Steel Bowlimb
+tconstruct:bow_limb:0, Vyroxeres Bowlimb
 tconstruct:bow_limb:0, Oureclase Bowlimb
 tconstruct:bow_limb:0, Inolashite Bowlimb
 tconstruct:bow_limb:0, Orichalcum Bowlimb
@@ -19432,13 +19450,13 @@ tconstruct:bow_limb:0, Cold Aercloud Bowlimb
 tconstruct:bow_limb:0, Blue Aercloud Bowlimb
 tconstruct:bow_limb:0, Golden Aercloud Bowlimb
 tconstruct:bow_limb:0, Icestone Bowlimb
+tconstruct:bow_limb:0, Dark Matter Bowlimb
+tconstruct:bow_limb:0, Red Matter Bowlimb
+tconstruct:bow_limb:0, Emerald Bowlimb
 tconstruct:bow_limb:0, Bloodwood Bowlimb
 tconstruct:bow_limb:0, Fusewood Bowlimb
 tconstruct:bow_limb:0, Ghostwood Bowlimb
 tconstruct:bow_limb:0, Darkwood Bowlimb
-tconstruct:bow_limb:0, Dark Matter Bowlimb
-tconstruct:bow_limb:0, Red Matter Bowlimb
-tconstruct:bow_limb:0, Emerald Bowlimb
 tconstruct:bow_string:0, Disruption Bowstring
 tconstruct:bow_string:0, Souled Bowstring
 tconstruct:bow_string:0, String Bowstring
@@ -19537,8 +19555,8 @@ tconstruct:arrow_head:0, Prometheum Arrow Head
 tconstruct:arrow_head:0, Adamantine Arrow Head
 tconstruct:arrow_head:0, Tartarite Arrow Head
 tconstruct:arrow_head:0, Atlarus Arrow Head
-tconstruct:arrow_head:0, Vyroxeres Arrow Head
 tconstruct:arrow_head:0, Black Steel Arrow Head
+tconstruct:arrow_head:0, Vyroxeres Arrow Head
 tconstruct:arrow_head:0, Oureclase Arrow Head
 tconstruct:arrow_head:0, Inolashite Arrow Head
 tconstruct:arrow_head:0, Orichalcum Arrow Head
@@ -19620,13 +19638,13 @@ tconstruct:arrow_head:0, Cold Aercloud Arrow Head
 tconstruct:arrow_head:0, Blue Aercloud Arrow Head
 tconstruct:arrow_head:0, Golden Aercloud Arrow Head
 tconstruct:arrow_head:0, Icestone Arrow Head
+tconstruct:arrow_head:0, Dark Matter Arrow Head
+tconstruct:arrow_head:0, Red Matter Arrow Head
+tconstruct:arrow_head:0, Emerald Arrow Head
 tconstruct:arrow_head:0, Bloodwood Arrow Head
 tconstruct:arrow_head:0, Fusewood Arrow Head
 tconstruct:arrow_head:0, Ghostwood Arrow Head
 tconstruct:arrow_head:0, Darkwood Arrow Head
-tconstruct:arrow_head:0, Dark Matter Arrow Head
-tconstruct:arrow_head:0, Red Matter Arrow Head
-tconstruct:arrow_head:0, Emerald Arrow Head
 tconstruct:arrow_shaft:0, Disruption Arrow Shaft
 tconstruct:arrow_shaft:0, Void Spar Arrow Shaft
 tconstruct:arrow_shaft:0, Enderal Arrow Shaft
@@ -20081,96 +20099,96 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Battery Cell Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Binding Cast
 tconstruct:cast:0, Fletching Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Chisel Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Laser Medium Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Tube Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Arrow Shaft Cast
 tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Pipe Piece Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Mouthpiece Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Dart Tip Cast
-tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Laser Medium Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Arrow Shaft Cast
 tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Battery Cell Cast
 tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Dart Tip Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Pipe Piece Cast
+tconstruct:cast:0, Chisel Head Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Tube Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Mouthpiece Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Battery Cell Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
 tconstruct:clay_cast:0, Fletching Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Chisel Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Laser Medium Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Tube Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
 tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Pipe Piece Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Mouthpiece Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Dart Tip Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Laser Medium Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
 tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Battery Cell Clay Cast
 tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Dart Tip Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Pipe Piece Clay Cast
+tconstruct:clay_cast:0, Chisel Head Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Tube Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Mouthpiece Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -21272,154 +21290,6 @@ galaxyspace:br_basic:2, Tree Juice
 galaxyspace:br_foods:0, Yellow Fruits
 galacticraftcore:unlit_torch_stone, Stone Torch
 galacticraftcore:unlit_torch_stone_lit, Stone Torch
-quark:spruce_trapdoor, tile.spruce_trapdoor.name
-quark:birch_trapdoor, tile.birch_trapdoor.name
-quark:jungle_trapdoor, tile.jungle_trapdoor.name
-quark:acacia_trapdoor, tile.acacia_trapdoor.name
-quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
-quark:paper_wall, tile.paper_wall.name
-quark:paper_wall_big, tile.paper_wall_big.name
-quark:paper_wall_sakura, tile.paper_wall_sakura.name
-quark:iron_ladder, tile.iron_ladder.name
-quark:paper_lantern:0, Paper Lamp
-quark:paper_lantern:1, Decorated Paper Lamp
-quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
-quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
-quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
-quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
-quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
-quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
-quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
-quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
-quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
-quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
-quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
-quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
-quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
-quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
-quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
-quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
-quark:custom_bookshelf:0, Spruce Bookshelf
-quark:custom_bookshelf:1, Birch Bookshelf
-quark:custom_bookshelf:2, Jungle Bookshelf
-quark:custom_bookshelf:3, Acacia Bookshelf
-quark:custom_bookshelf:4, Dark Oak Bookshelf
-quark:colored_item_frame:0, White Item Frame
-quark:colored_item_frame:1, Orange Item Frame
-quark:colored_item_frame:2, Magenta Item Frame
-quark:colored_item_frame:3, Light Blue Item Frame
-quark:colored_item_frame:4, Yellow Item Frame
-quark:colored_item_frame:5, Lime Item Frame
-quark:colored_item_frame:6, Pink Item Frame
-quark:colored_item_frame:7, Gray Item Frame
-quark:colored_item_frame:8, Light Gray Item Frame
-quark:colored_item_frame:9, Cyan Item Frame
-quark:colored_item_frame:10, Purple Item Frame
-quark:colored_item_frame:11, Blue Item Frame
-quark:colored_item_frame:12, Brown Item Frame
-quark:colored_item_frame:13, Green Item Frame
-quark:colored_item_frame:14, Red Item Frame
-quark:colored_item_frame:15, Black Item Frame
-quark:lit_lamp, tile.lit_lamp.name
-quark:custom_chest:0, Spruce Chest
-quark:custom_chest:1, Birch Chest
-quark:custom_chest:2, Jungle Chest
-quark:custom_chest:3, Acacia Chest
-quark:custom_chest:4, Dark Oak Chest
-quark:custom_chest_trap:0, Spruce Trapped Chest
-quark:custom_chest_trap:1, Birch Trapped Chest
-quark:custom_chest_trap:2, Jungle Trapped Chest
-quark:custom_chest_trap:3, Acacia Trapped Chest
-quark:custom_chest_trap:4, Dark Oak Trapped Chest
-quark:candle:0, White Candle
-quark:candle:1, Orange Candle
-quark:candle:2, Magenta Candle
-quark:candle:3, Light Blue Candle
-quark:candle:4, Yellow Candle
-quark:candle:5, Lime Candle
-quark:candle:6, Pink Candle
-quark:candle:7, Gray Candle
-quark:candle:8, Light Gray Candle
-quark:candle:9, Cyan Candle
-quark:candle:10, Purple Candle
-quark:candle:11, Blue Candle
-quark:candle:12, Brown Candle
-quark:candle:13, Green Candle
-quark:candle:14, Red Candle
-quark:candle:15, Black Candle
-quark:tallow, Magic Tallow
-quark:rope, tile.rope.name
-quark:blaze_lantern, tile.blaze_lantern.name
-quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
-quark:leaf_carpet:0, Oak Leaf Carpet
-quark:leaf_carpet:1, Spruce Leaf Carpet
-quark:leaf_carpet:2, Birch Leaf Carpet
-quark:leaf_carpet:3, Jungle Leaf Carpet
-quark:leaf_carpet:4, Acacia Leaf Carpet
-quark:leaf_carpet:5, Dark Oak Leaf Carpet
-quark:leaf_carpet:6, Swamp Oak Leaf Carpet
-quark:leaf_carpet:7, Blossoming Leaf Carpet
-quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
-quark:birch_pressure_plate, tile.birch_pressure_plate.name
-quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
-quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
-quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
-quark:spruce_button, tile.spruce_button.name
-quark:birch_button, tile.birch_button.name
-quark:jungle_button, tile.jungle_button.name
-quark:acacia_button, tile.acacia_button.name
-quark:dark_oak_button, tile.dark_oak_button.name
-quark:grate, tile.grate.name
-quark:glass_item_frame, item.glass_item_frame.name
-quark:pickarang, item.pickarang.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, Slime in a Bucket
-quark:rune:0, White Rune
-quark:rune:1, Orange Rune
-quark:rune:2, Magenta Rune
-quark:rune:3, Light Blue Rune
-quark:rune:4, Yellow Rune
-quark:rune:5, Lime Rune
-quark:rune:6, Pink Rune
-quark:rune:7, Gray Rune
-quark:rune:8, Light Gray Rune
-quark:rune:9, Cyan Rune
-quark:rune:10, Purple Rune
-quark:rune:11, Blue Rune
-quark:rune:12, Brown Rune
-quark:rune:13, Green Rune
-quark:rune:14, Red Rune
-quark:rune:15, Black Rune
-quark:rune:16, Rainbow Rune
-quark:black_ash, tile.black_ash.name
-quark:ancient_tome, item.ancient_tome.name
-quark:horse_whistle, item.horse_whistle.name
-quark:soul_powder, item.soul_powder.name
-quark:parrot_egg:0, Red Parrot Egg
-quark:parrot_egg:1, Blue Parrot Egg
-quark:parrot_egg:2, Green Parrot Egg
-quark:parrot_egg:3, Cyan Parrot Egg
-quark:parrot_egg:4, Gray Parrot Egg
-quark:enderdragon_scale, item.enderdragon_scale.name
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:color_slime:0, Red Slime Block
-quark:color_slime:1, Blue Slime Block
-quark:color_slime:2, Cyan Slime Block
-quark:color_slime:3, Magenta Slime Block
-quark:color_slime:4, Yellow Slime Block
-quark:gravisand, tile.gravisand.name
-quark:redstone_inductor, tile.redstone_inductor.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:chain, item.chain.name
 quark:witch_hat, item.witch_hat.name
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
@@ -21741,23 +21611,38 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
+quark:pickarang, item.pickarang.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, Slime in a Bucket
+quark:rune:0, White Rune
+quark:rune:1, Orange Rune
+quark:rune:2, Magenta Rune
+quark:rune:3, Light Blue Rune
+quark:rune:4, Yellow Rune
+quark:rune:5, Lime Rune
+quark:rune:6, Pink Rune
+quark:rune:7, Gray Rune
+quark:rune:8, Light Gray Rune
+quark:rune:9, Cyan Rune
+quark:rune:10, Purple Rune
+quark:rune:11, Blue Rune
+quark:rune:12, Brown Rune
+quark:rune:13, Green Rune
+quark:rune:14, Red Rune
+quark:rune:15, Black Rune
+quark:rune:16, Rainbow Rune
+quark:black_ash, tile.black_ash.name
+quark:ancient_tome, item.ancient_tome.name
+quark:horse_whistle, item.horse_whistle.name
+quark:soul_powder, item.soul_powder.name
+quark:parrot_egg:0, Red Parrot Egg
+quark:parrot_egg:1, Blue Parrot Egg
+quark:parrot_egg:2, Green Parrot Egg
+quark:parrot_egg:3, Cyan Parrot Egg
+quark:parrot_egg:4, Gray Parrot Egg
+quark:enderdragon_scale, item.enderdragon_scale.name
 quark:roots, tile.roots.name
 quark:root, item.root.name
 quark:roots_blue_flower, tile.roots_blue_flower.name
@@ -21882,6 +21767,139 @@ quark:glowshroom, tile.glowshroom.name
 quark:glowshroom_block, tile.glowshroom_block.name
 quark:soul_bead, item.soul_bead.name
 quark:smoker, tile.smoker.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:spruce_trapdoor, tile.spruce_trapdoor.name
+quark:birch_trapdoor, tile.birch_trapdoor.name
+quark:jungle_trapdoor, tile.jungle_trapdoor.name
+quark:acacia_trapdoor, tile.acacia_trapdoor.name
+quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
+quark:paper_wall, tile.paper_wall.name
+quark:paper_wall_big, tile.paper_wall_big.name
+quark:paper_wall_sakura, tile.paper_wall_sakura.name
+quark:iron_ladder, tile.iron_ladder.name
+quark:paper_lantern:0, Paper Lamp
+quark:paper_lantern:1, Decorated Paper Lamp
+quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
+quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
+quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
+quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
+quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
+quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
+quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
+quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
+quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
+quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
+quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
+quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
+quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
+quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
+quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
+quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
+quark:custom_bookshelf:0, Spruce Bookshelf
+quark:custom_bookshelf:1, Birch Bookshelf
+quark:custom_bookshelf:2, Jungle Bookshelf
+quark:custom_bookshelf:3, Acacia Bookshelf
+quark:custom_bookshelf:4, Dark Oak Bookshelf
+quark:colored_item_frame:0, White Item Frame
+quark:colored_item_frame:1, Orange Item Frame
+quark:colored_item_frame:2, Magenta Item Frame
+quark:colored_item_frame:3, Light Blue Item Frame
+quark:colored_item_frame:4, Yellow Item Frame
+quark:colored_item_frame:5, Lime Item Frame
+quark:colored_item_frame:6, Pink Item Frame
+quark:colored_item_frame:7, Gray Item Frame
+quark:colored_item_frame:8, Light Gray Item Frame
+quark:colored_item_frame:9, Cyan Item Frame
+quark:colored_item_frame:10, Purple Item Frame
+quark:colored_item_frame:11, Blue Item Frame
+quark:colored_item_frame:12, Brown Item Frame
+quark:colored_item_frame:13, Green Item Frame
+quark:colored_item_frame:14, Red Item Frame
+quark:colored_item_frame:15, Black Item Frame
+quark:lit_lamp, tile.lit_lamp.name
+quark:custom_chest:0, Spruce Chest
+quark:custom_chest:1, Birch Chest
+quark:custom_chest:2, Jungle Chest
+quark:custom_chest:3, Acacia Chest
+quark:custom_chest:4, Dark Oak Chest
+quark:custom_chest_trap:0, Spruce Trapped Chest
+quark:custom_chest_trap:1, Birch Trapped Chest
+quark:custom_chest_trap:2, Jungle Trapped Chest
+quark:custom_chest_trap:3, Acacia Trapped Chest
+quark:custom_chest_trap:4, Dark Oak Trapped Chest
+quark:candle:0, White Candle
+quark:candle:1, Orange Candle
+quark:candle:2, Magenta Candle
+quark:candle:3, Light Blue Candle
+quark:candle:4, Yellow Candle
+quark:candle:5, Lime Candle
+quark:candle:6, Pink Candle
+quark:candle:7, Gray Candle
+quark:candle:8, Light Gray Candle
+quark:candle:9, Cyan Candle
+quark:candle:10, Purple Candle
+quark:candle:11, Blue Candle
+quark:candle:12, Brown Candle
+quark:candle:13, Green Candle
+quark:candle:14, Red Candle
+quark:candle:15, Black Candle
+quark:tallow, Magic Tallow
+quark:rope, tile.rope.name
+quark:blaze_lantern, tile.blaze_lantern.name
+quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
+quark:leaf_carpet:0, Oak Leaf Carpet
+quark:leaf_carpet:1, Spruce Leaf Carpet
+quark:leaf_carpet:2, Birch Leaf Carpet
+quark:leaf_carpet:3, Jungle Leaf Carpet
+quark:leaf_carpet:4, Acacia Leaf Carpet
+quark:leaf_carpet:5, Dark Oak Leaf Carpet
+quark:leaf_carpet:6, Swamp Oak Leaf Carpet
+quark:leaf_carpet:7, Blossoming Leaf Carpet
+quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
+quark:birch_pressure_plate, tile.birch_pressure_plate.name
+quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
+quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
+quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
+quark:spruce_button, tile.spruce_button.name
+quark:birch_button, tile.birch_button.name
+quark:jungle_button, tile.jungle_button.name
+quark:acacia_button, tile.acacia_button.name
+quark:dark_oak_button, tile.dark_oak_button.name
+quark:grate, tile.grate.name
+quark:glass_item_frame, item.glass_item_frame.name
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:color_slime:0, Red Slime Block
+quark:color_slime:1, Blue Slime Block
+quark:color_slime:2, Cyan Slime Block
+quark:color_slime:3, Magenta Slime Block
+quark:color_slime:4, Yellow Slime Block
+quark:gravisand, tile.gravisand.name
+quark:redstone_inductor, tile.redstone_inductor.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:chain, item.chain.name
 backpack:stick:0, Stone Stick
 backpack:stick:1, Iron Stick
 backpack:bound_leather, Bound Leather
@@ -22325,8 +22343,8 @@ conarm:helmet_core:0, Prometheum Helmet Core
 conarm:helmet_core:0, Adamantine Helmet Core
 conarm:helmet_core:0, Tartarite Helmet Core
 conarm:helmet_core:0, Atlarus Helmet Core
-conarm:helmet_core:0, Vyroxeres Helmet Core
 conarm:helmet_core:0, Black Steel Helmet Core
+conarm:helmet_core:0, Vyroxeres Helmet Core
 conarm:helmet_core:0, Lutetium Helmet Core
 conarm:helmet_core:0, Oureclase Helmet Core
 conarm:helmet_core:0, Inolashite Helmet Core
@@ -22410,8 +22428,8 @@ conarm:armor_trim:0, Prometheum Armor Trim
 conarm:armor_trim:0, Adamantine Armor Trim
 conarm:armor_trim:0, Tartarite Armor Trim
 conarm:armor_trim:0, Atlarus Armor Trim
-conarm:armor_trim:0, Vyroxeres Armor Trim
 conarm:armor_trim:0, Black Steel Armor Trim
+conarm:armor_trim:0, Vyroxeres Armor Trim
 conarm:armor_trim:0, Lutetium Armor Trim
 conarm:armor_trim:0, Oureclase Armor Trim
 conarm:armor_trim:0, Inolashite Armor Trim
@@ -22495,8 +22513,8 @@ conarm:armor_plate:0, Prometheum Armor Plates
 conarm:armor_plate:0, Adamantine Armor Plates
 conarm:armor_plate:0, Tartarite Armor Plates
 conarm:armor_plate:0, Atlarus Armor Plates
-conarm:armor_plate:0, Vyroxeres Armor Plates
 conarm:armor_plate:0, Black Steel Armor Plates
+conarm:armor_plate:0, Vyroxeres Armor Plates
 conarm:armor_plate:0, Lutetium Armor Plates
 conarm:armor_plate:0, Oureclase Armor Plates
 conarm:armor_plate:0, Inolashite Armor Plates
@@ -22580,8 +22598,8 @@ conarm:chest_core:0, Prometheum Chestplate Core
 conarm:chest_core:0, Adamantine Chestplate Core
 conarm:chest_core:0, Tartarite Chestplate Core
 conarm:chest_core:0, Atlarus Chestplate Core
-conarm:chest_core:0, Vyroxeres Chestplate Core
 conarm:chest_core:0, Black Steel Chestplate Core
+conarm:chest_core:0, Vyroxeres Chestplate Core
 conarm:chest_core:0, Lutetium Chestplate Core
 conarm:chest_core:0, Oureclase Chestplate Core
 conarm:chest_core:0, Inolashite Chestplate Core
@@ -22665,8 +22683,8 @@ conarm:leggings_core:0, Prometheum Leggings Core
 conarm:leggings_core:0, Adamantine Leggings Core
 conarm:leggings_core:0, Tartarite Leggings Core
 conarm:leggings_core:0, Atlarus Leggings Core
-conarm:leggings_core:0, Vyroxeres Leggings Core
 conarm:leggings_core:0, Black Steel Leggings Core
+conarm:leggings_core:0, Vyroxeres Leggings Core
 conarm:leggings_core:0, Lutetium Leggings Core
 conarm:leggings_core:0, Oureclase Leggings Core
 conarm:leggings_core:0, Inolashite Leggings Core
@@ -22750,8 +22768,8 @@ conarm:boots_core:0, Prometheum Boots Core
 conarm:boots_core:0, Adamantine Boots Core
 conarm:boots_core:0, Tartarite Boots Core
 conarm:boots_core:0, Atlarus Boots Core
-conarm:boots_core:0, Vyroxeres Boots Core
 conarm:boots_core:0, Black Steel Boots Core
+conarm:boots_core:0, Vyroxeres Boots Core
 conarm:boots_core:0, Lutetium Boots Core
 conarm:boots_core:0, Oureclase Boots Core
 conarm:boots_core:0, Inolashite Boots Core
@@ -22861,8 +22879,8 @@ conarm:polishing_kit:0, Prometheum Polishing Kit
 conarm:polishing_kit:0, Adamantine Polishing Kit
 conarm:polishing_kit:0, Tartarite Polishing Kit
 conarm:polishing_kit:0, Atlarus Polishing Kit
-conarm:polishing_kit:0, Vyroxeres Polishing Kit
 conarm:polishing_kit:0, Black Steel Polishing Kit
+conarm:polishing_kit:0, Vyroxeres Polishing Kit
 conarm:polishing_kit:0, Lutetium Polishing Kit
 conarm:polishing_kit:0, Oureclase Polishing Kit
 conarm:polishing_kit:0, Inolashite Polishing Kit
@@ -22975,12 +22993,12 @@ capsule:capsule:0, §rEmpty Capsule
 capsule:capsule:0, §rEmpty Capsule
 capsule:capsule:3, §rUnlabeled Blueprint
 capsule:capsule:3, §r«§oTraveller's Base§r» Blueprint
-capsule:capsule:3, §r«§oChicken Cooker§r» Blueprint
-capsule:capsule:3, §r«§oDarkcobble Gate§r» Blueprint
 capsule:capsule:3, §r«§oDarkcobble Corner Tower Top§r» Blueprint
-capsule:capsule:3, §r«§oDarkcobble Corner Tower§r» Blueprint
+capsule:capsule:3, §r«§oChicken Cooker§r» Blueprint
 capsule:capsule:3, §r«§oDarkcobble Corner§r» Blueprint
 capsule:capsule:3, §r«§oDarkcobble Wall§r» Blueprint
+capsule:capsule:3, §r«§oDarkcobble Corner Tower§r» Blueprint
+capsule:capsule:3, §r«§oDarkcobble Gate§r» Blueprint
 capsule:capsule:2, §rUnlabeled Capsule
 capsule:capsule:5, §rOne Use Empty Capsule
 ceramics:unfired_clay:0, Unfired Clay Bucket
@@ -23169,8 +23187,8 @@ ceramics:clay_bucket:0, Molten Prometheum Clay Bucket
 ceramics:clay_bucket:0, Molten Adamantine Clay Bucket
 ceramics:clay_bucket:0, Molten Tartarite Clay Bucket
 ceramics:clay_bucket:0, Molten Atlarus Clay Bucket
-ceramics:clay_bucket:0, Molten Vyroxeres Clay Bucket
 ceramics:clay_bucket:0, Molten Black Steel Clay Bucket
+ceramics:clay_bucket:0, Molten Vyroxeres Clay Bucket
 ceramics:clay_bucket:0, Molten Lutetium Clay Bucket
 ceramics:clay_bucket:0, Molten Osmium Clay Bucket
 ceramics:clay_bucket:0, Molten Oureclase Clay Bucket
@@ -23546,6 +23564,17 @@ metallurgy:platinum_helmet, Platinum Helmet
 metallurgy:platinum_chestplate, Platinum Chestplate
 metallurgy:platinum_leggings, Platinum Leggings
 metallurgy:platinum_boots, Platinum Boots
+metallurgy:tin_ore, Tin Ore
+metallurgy:tin_block, Tin Block
+metallurgy:tin_engraved_block, Tin Engraved Block
+metallurgy:tin_large_bricks, Tin Large Bricks
+metallurgy:tin_bricks, Tin Bricks
+metallurgy:tin_crystals, Tin Crystals
+metallurgy:tin_hazard_block, Tin Hazard Block
+metallurgy:tin_reinforced_glass, Tin Reinforced Glass
+metallurgy:tin_ingot, Tin Ingot
+metallurgy:tin_dust, Tin Dust
+metallurgy:tin_nugget, Tin Nugget
 metallurgy:vulcanite_ore, Vulcanite Ore
 metallurgy:vulcanite_block, Vulcanite Block
 metallurgy:vulcanite_engraved_block, Vulcanite Engraved Block
@@ -23566,17 +23595,6 @@ metallurgy:vulcanite_helmet, Vulcanite Helmet
 metallurgy:vulcanite_chestplate, Vulcanite Chestplate
 metallurgy:vulcanite_leggings, Vulcanite Leggings
 metallurgy:vulcanite_boots, Vulcanite Boots
-metallurgy:tin_ore, Tin Ore
-metallurgy:tin_block, Tin Block
-metallurgy:tin_engraved_block, Tin Engraved Block
-metallurgy:tin_large_bricks, Tin Large Bricks
-metallurgy:tin_bricks, Tin Bricks
-metallurgy:tin_crystals, Tin Crystals
-metallurgy:tin_hazard_block, Tin Hazard Block
-metallurgy:tin_reinforced_glass, Tin Reinforced Glass
-metallurgy:tin_ingot, Tin Ingot
-metallurgy:tin_dust, Tin Dust
-metallurgy:tin_nugget, Tin Nugget
 metallurgy:ignatius_ore, Ignatius Ore
 metallurgy:ignatius_block, Ignatius Block
 metallurgy:ignatius_engraved_block, Ignatius Engraved Block
@@ -23832,6 +23850,25 @@ metallurgy:celenegil_helmet, Celenegil Helmet
 metallurgy:celenegil_chestplate, Celenegil Chestplate
 metallurgy:celenegil_leggings, Celenegil Leggings
 metallurgy:celenegil_boots, Celenegil Boots
+metallurgy:steel_block, Steel Block
+metallurgy:steel_engraved_block, Steel Engraved Block
+metallurgy:steel_large_bricks, Steel Large Bricks
+metallurgy:steel_bricks, Steel Bricks
+metallurgy:steel_crystals, Steel Crystals
+metallurgy:steel_hazard_block, Steel Hazard Block
+metallurgy:steel_reinforced_glass, Steel Reinforced Glass
+metallurgy:steel_ingot, Steel Ingot
+metallurgy:steel_dust, Steel Dust
+metallurgy:steel_nugget, Steel Nugget
+metallurgy:steel_axe, Steel Axe
+metallurgy:steel_hoe, Steel Hoe
+metallurgy:steel_pickaxe, Steel Pickaxe
+metallurgy:steel_shovel, Steel Shovel
+metallurgy:steel_sword, Steel Sword
+metallurgy:steel_helmet, Steel Helmet
+metallurgy:steel_chestplate, Steel Chestplate
+metallurgy:steel_leggings, Steel Leggings
+metallurgy:steel_boots, Steel Boots
 metallurgy:shadow_iron_ore, Shadow Iron Ore
 metallurgy:shadow_iron_block, Shadow Iron Block
 metallurgy:shadow_iron_engraved_block, Shadow Iron Engraved Block
@@ -23852,25 +23889,6 @@ metallurgy:shadow_iron_helmet, Shadow Iron Helmet
 metallurgy:shadow_iron_chestplate, Shadow Iron Chestplate
 metallurgy:shadow_iron_leggings, Shadow Iron Leggings
 metallurgy:shadow_iron_boots, Shadow Iron Boots
-metallurgy:steel_block, Steel Block
-metallurgy:steel_engraved_block, Steel Engraved Block
-metallurgy:steel_large_bricks, Steel Large Bricks
-metallurgy:steel_bricks, Steel Bricks
-metallurgy:steel_crystals, Steel Crystals
-metallurgy:steel_hazard_block, Steel Hazard Block
-metallurgy:steel_reinforced_glass, Steel Reinforced Glass
-metallurgy:steel_ingot, Steel Ingot
-metallurgy:steel_dust, Steel Dust
-metallurgy:steel_nugget, Steel Nugget
-metallurgy:steel_axe, Steel Axe
-metallurgy:steel_hoe, Steel Hoe
-metallurgy:steel_pickaxe, Steel Pickaxe
-metallurgy:steel_shovel, Steel Shovel
-metallurgy:steel_sword, Steel Sword
-metallurgy:steel_helmet, Steel Helmet
-metallurgy:steel_chestplate, Steel Chestplate
-metallurgy:steel_leggings, Steel Leggings
-metallurgy:steel_boots, Steel Boots
 metallurgy:carmot_ore, Carmot Ore
 metallurgy:carmot_block, Carmot Block
 metallurgy:carmot_engraved_block, Carmot Engraved Block
@@ -24138,6 +24156,25 @@ metallurgy:atlarus_helmet, Atlarus Helmet
 metallurgy:atlarus_chestplate, Atlarus Chestplate
 metallurgy:atlarus_leggings, Atlarus Leggings
 metallurgy:atlarus_boots, Atlarus Boots
+metallurgy:black_steel_block, Black Steel Block
+metallurgy:black_steel_engraved_block, Black Steel Engraved Block
+metallurgy:black_steel_large_bricks, Black Steel Large Bricks
+metallurgy:black_steel_bricks, Black Steel Bricks
+metallurgy:black_steel_crystals, Black Steel Crystals
+metallurgy:black_steel_hazard_block, Black Steel Hazard Block
+metallurgy:black_steel_reinforced_glass, Black Steel Reinforced Glass
+metallurgy:black_steel_ingot, Black Steel Ingot
+metallurgy:black_steel_dust, Black Steel Dust
+metallurgy:black_steel_nugget, Black Steel Nugget
+metallurgy:black_steel_axe, Black Steel Axe
+metallurgy:black_steel_hoe, Black Steel Hoe
+metallurgy:black_steel_pickaxe, Black Steel Pickaxe
+metallurgy:black_steel_shovel, Black Steel Shovel
+metallurgy:black_steel_sword, Black Steel Sword
+metallurgy:black_steel_helmet, Black Steel Helmet
+metallurgy:black_steel_chestplate, Black Steel Chestplate
+metallurgy:black_steel_leggings, Black Steel Leggings
+metallurgy:black_steel_boots, Black Steel Boots
 metallurgy:vyroxeres_ore, Vyroxeres Ore
 metallurgy:vyroxeres_block, Vyroxeres Block
 metallurgy:vyroxeres_engraved_block, Vyroxeres Engraved Block
@@ -24158,25 +24195,6 @@ metallurgy:vyroxeres_helmet, Vyroxeres Helmet
 metallurgy:vyroxeres_chestplate, Vyroxeres Chest
 metallurgy:vyroxeres_leggings, Vyroxeres Leggings
 metallurgy:vyroxeres_boots, Vyroxeres Boots
-metallurgy:black_steel_block, Black Steel Block
-metallurgy:black_steel_engraved_block, Black Steel Engraved Block
-metallurgy:black_steel_large_bricks, Black Steel Large Bricks
-metallurgy:black_steel_bricks, Black Steel Bricks
-metallurgy:black_steel_crystals, Black Steel Crystals
-metallurgy:black_steel_hazard_block, Black Steel Hazard Block
-metallurgy:black_steel_reinforced_glass, Black Steel Reinforced Glass
-metallurgy:black_steel_ingot, Black Steel Ingot
-metallurgy:black_steel_dust, Black Steel Dust
-metallurgy:black_steel_nugget, Black Steel Nugget
-metallurgy:black_steel_axe, Black Steel Axe
-metallurgy:black_steel_hoe, Black Steel Hoe
-metallurgy:black_steel_pickaxe, Black Steel Pickaxe
-metallurgy:black_steel_shovel, Black Steel Shovel
-metallurgy:black_steel_sword, Black Steel Sword
-metallurgy:black_steel_helmet, Black Steel Helmet
-metallurgy:black_steel_chestplate, Black Steel Chestplate
-metallurgy:black_steel_leggings, Black Steel Leggings
-metallurgy:black_steel_boots, Black Steel Boots
 metallurgy:lutetium_ore, Lutetium Ore
 metallurgy:lutetium_block, Lutetium Block
 metallurgy:lutetium_engraved_block, Lutetium Engraved Block
@@ -25556,6 +25574,102 @@ entangled:block, Entangled Block
 entangled:item, Entangled Binder
 everlastingabilities:ability_totem, Ability Totem
 everlastingabilities:ability_bottle, Ability Bottle
+extendedcrafting:storage:0, Block of Black Iron
+extendedcrafting:storage:1, Block of Luminessence
+extendedcrafting:storage:2, Block of Nether Stars
+extendedcrafting:storage:3, Block of Crystaltine
+extendedcrafting:storage:4, Block of The Ultimate
+extendedcrafting:storage:5, Block of Ender
+extendedcrafting:storage:6, Block of Ender Stars
+extendedcrafting:storage:7, Block of Enhanced Ender
+extendedcrafting:frame, Black Iron Frame
+extendedcrafting:lamp:0, Black Iron Lamp
+extendedcrafting:lamp:1, Black Iron Lamp
+extendedcrafting:trimmed:0, Block of Black Iron
+extendedcrafting:trimmed:1, Block of Black Iron
+extendedcrafting:trimmed:2, Block of Black Iron
+extendedcrafting:trimmed:3, Block of Black Iron
+extendedcrafting:trimmed:4, Block of Black Iron
+extendedcrafting:trimmed:5, Block of Black Iron
+extendedcrafting:crafting_table, Crafting Table
+extendedcrafting:pedestal, Pedestal
+extendedcrafting:crafting_core, Crafting Core
+extendedcrafting:interface, Automation Interface
+extendedcrafting:table_basic, Basic Crafting Table
+extendedcrafting:table_advanced, Advanced Crafting Table
+extendedcrafting:table_elite, Elite Crafting Table
+extendedcrafting:table_ultimate, Ultimate Crafting Table
+extendedcrafting:compressor, Quantum Compressor
+extendedcrafting:ender_alternator, Ender Alternator
+extendedcrafting:ender_crafter, Ender Crafter
+extendedcrafting:guide, Extended Crafting Guide
+extendedcrafting:material:0, Black Iron Ingot
+extendedcrafting:material:1, Black Iron Nugget
+extendedcrafting:material:2, Black Iron Slate
+extendedcrafting:material:3, Black Iron Rod
+extendedcrafting:material:7, Luminessence
+extendedcrafting:material:8, Basic Catalyst
+extendedcrafting:material:9, Advanced Catalyst
+extendedcrafting:material:10, Elite Catalyst
+extendedcrafting:material:11, Ultimate Catalyst
+extendedcrafting:material:12, Crystaltine Catalyst
+extendedcrafting:material:13, The Ultimate Catalyst
+extendedcrafting:material:14, Basic Component
+extendedcrafting:material:15, Advanced Component
+extendedcrafting:material:16, Elite Component
+extendedcrafting:material:17, Ultimate Component
+extendedcrafting:material:18, Crystaltine Component
+extendedcrafting:material:19, The Ultimate Component
+extendedcrafting:material:24, Crystaltine Ingot
+extendedcrafting:material:25, Crystaltine Nugget
+extendedcrafting:material:32, The Ultimate Ingot
+extendedcrafting:material:33, The Ultimate Nugget
+extendedcrafting:material:36, Ender Ingot
+extendedcrafting:material:37, Ender Nugget
+extendedcrafting:material:40, Ender Star
+extendedcrafting:material:41, Ender Star Nugget
+extendedcrafting:material:48, Enhanced Ender Ingot
+extendedcrafting:material:49, Enhanced Ender Nugget
+extendedcrafting:material:128, Diamond Nugget
+extendedcrafting:material:129, Emerald Nugget
+extendedcrafting:material:140, Nether Star Nugget
+extendedcrafting:handheld_table, Handheld Crafting Table
+extendedcrafting:recipe_maker:0, Recipe Maker
+extendedcrafting:singularity:0, Coal Singularity
+extendedcrafting:singularity:1, Iron Singularity
+extendedcrafting:singularity:2, Lapis Lazuli Singularity
+extendedcrafting:singularity:3, Redstone Singularity
+extendedcrafting:singularity:4, Glowstone Singularity
+extendedcrafting:singularity:5, Gold Singularity
+extendedcrafting:singularity:6, Diamond Singularity
+extendedcrafting:singularity:7, Emerald Singularity
+extendedcrafting:singularity:16, Aluminum Singularity
+extendedcrafting:singularity:17, Copper Singularity
+extendedcrafting:singularity:18, Tin Singularity
+extendedcrafting:singularity:19, Bronze Singularity
+extendedcrafting:singularity:20, Zinc Singularity
+extendedcrafting:singularity:21, Brass Singularity
+extendedcrafting:singularity:22, Silver Singularity
+extendedcrafting:singularity:23, Lead Singularity
+extendedcrafting:singularity:24, Steel Singularity
+extendedcrafting:singularity:25, Nickel Singularity
+extendedcrafting:singularity:26, Constantan Singularity
+extendedcrafting:singularity:27, Electrum Singularity
+extendedcrafting:singularity:28, Invar Singularity
+extendedcrafting:singularity:29, Mithril Singularity
+extendedcrafting:singularity:30, Tungsten Singularity
+extendedcrafting:singularity:31, Titanium Singularity
+extendedcrafting:singularity:32, Uranium Singularity
+extendedcrafting:singularity:33, Chrome Singularity
+extendedcrafting:singularity:34, Platinum Singularity
+extendedcrafting:singularity:35, Iridium Singularity
+extendedcrafting:singularity:48, Signalum Singularity
+extendedcrafting:singularity:49, Lumium Singularity
+extendedcrafting:singularity:50, Enderium Singularity
+extendedcrafting:singularity:64, Ardite Singularity
+extendedcrafting:singularity:65, Cobalt Singularity
+extendedcrafting:singularity:66, Manyullyn Singularity
+extendedcrafting:singularity_ultimate, The Ultimate Singularity
 extraalchemy:breakable_potion, item.null.name
 extraalchemy:vial_break, item.null.name
 extraalchemy:potion_bag, item.null.name
@@ -26916,6 +27030,12 @@ landcraft:bun_rieu:0, Bun Rieu Broth
 landcraft:bun_rieu:1, Bun Rieu
 landcraft:tomato_crop, Tomato Vine
 landcraft:tomato, Tomato
+locks:key_blank, Key Blank
+locks:lock, Lock
+locks:key, Key
+locks:master_key, Master Key
+locks:lock_pick, Lock Pick
+locks:key_ring, Key Ring
 lucraftcore:infinity_gauntlet, Infinity Gauntlet
 lucraftcore:infinity_gauntlet_cast, Infinity Gauntlet Cast
 lucraftcore:infinity_generator, Infinity Generator
@@ -28094,60 +28214,6 @@ natura:netherquartz_shovel, Quartz Shovel
 natura:netherquartz_axe, Quartz Hatchet
 natura:netherquartz_kama, Quartz Kama
 natura:flint_and_blaze, Flint and Blaze
-netherex:gloomy_netherbrick, Gloomy Nether Brick
-netherex:lively_netherbrick, Lively Nether Brick
-netherex:fiery_netherbrick, Fiery Nether Brick
-netherex:icy_netherbrick, Icy Nether Brick
-netherex:wither_bone, Wither Bone
-netherex:wither_dust, Wither Dust
-netherex:frost_rod, Frost Rod
-netherex:frost_powder, Frost Powder
-netherex:blazed_wither_bone, Blazed Wither Bone
-netherex:frosted_wither_bone, Frosted Wither Bone
-netherex:orange_salamander_hide, Orange Salamander Hide
-netherex:black_salamander_hide, Black Salamander Hide
-netherex:amethyst_crystal, Nether Amethyst Crystal
-netherex:rime_crystal, Nether Rime Crystal
-netherex:rime_and_steel, Rime and Steel
-netherex:spore, Spore
-netherex:coolmar_spider_fang, Frost Fang
-netherex:ghast_queen_tear, Ghast Queen Tears
-netherex:obsidian_boat, Obsidian Boat
-netherex:ghast_meat_raw, Raw Ghast Meat
-netherex:ghast_meat_cooked, Cooked Ghast Meat
-netherex:congealed_magma_cream, Congealed Magma Cream
-netherex:enoki_mushroom, Enoki Mushroom
-netherex:dull_mirror, Dull Mirror
-netherex:withered_amedian_sword, Withered Amedian Sword
-netherex:withered_amedian_pickaxe, Withered Amedian Pickaxe
-netherex:withered_amedian_shovel, Withered Amedian Shovel
-netherex:withered_amedian_axe, Withered Amedian Axe
-netherex:withered_amedian_hoe, Withered Amedian Hoe
-netherex:withered_amedian_hammer, Withered Amedian Hammer
-netherex:blazed_amedian_sword, Blazed Amedian Sword
-netherex:blazed_amedian_pickaxe, Blazed Amedian Pickaxe
-netherex:blazed_amedian_shovel, Blazed Amedian Shovel
-netherex:blazed_amedian_axe, Blazed Amedian Axe
-netherex:blazed_amedian_hoe, Blazed Amedian Hoe
-netherex:blazed_amedian_hammer, Blazed Amedian Hammer
-netherex:frosted_amedian_sword, Frosted Amedian Sword
-netherex:frosted_amedian_pickaxe, Frosted Amedian Pickaxe
-netherex:frosted_amedian_shovel, Frosted Amedian Shovel
-netherex:frosted_amedian_axe, Frosted Amedian Axe
-netherex:frosted_amedian_hoe, Frosted Amedian Hoe
-netherex:frosted_amedian_hammer, Frosted Amedian Hammer
-netherex:wither_bone_helmet, Wither Bone Helmet
-netherex:wither_bone_chestplate, Wither Bone Chestplate
-netherex:wither_bone_leggings, Wither Bone Leggings
-netherex:wither_bone_boots, Wither Bone Boots
-netherex:orange_salamander_hide_helmet, Orange Salamander Hide Helmet
-netherex:orange_salamander_hide_chestplate, Orange Salamander Hide Chestplate
-netherex:orange_salamander_hide_leggings, Orange Salamander Hide Leggings
-netherex:orange_salamander_hide_boots, Orange Salamander Hide Boots
-netherex:black_salamander_hide_helmet, Black Salamander Hide Helmet
-netherex:black_salamander_hide_chestplate, Black Salamander Hide Chestplate
-netherex:black_salamander_hide_leggings, Black Salamander Hide Leggings
-netherex:black_salamander_hide_boots, Black Salamander Hide Boots
 netherex:gloomy_netherrack, Gloomy Netherrack
 netherex:lively_netherrack, Lively Netherrack
 netherex:fiery_netherrack, Fiery Netherrack
@@ -28237,6 +28303,60 @@ netherex:gloomy_nether_brick_fence_gate, Gloomy Nether Brick Fence Gate
 netherex:lively_nether_brick_fence_gate, Lively Nether Brick Fence Gate
 netherex:fiery_nether_brick_fence_gate, Fiery Nether Brick Fence Gate
 netherex:icy_nether_brick_fence_gate, Icy Nether Brick Fence Gate
+netherex:gloomy_netherbrick, Gloomy Nether Brick
+netherex:lively_netherbrick, Lively Nether Brick
+netherex:fiery_netherbrick, Fiery Nether Brick
+netherex:icy_netherbrick, Icy Nether Brick
+netherex:wither_bone, Wither Bone
+netherex:wither_dust, Wither Dust
+netherex:frost_rod, Frost Rod
+netherex:frost_powder, Frost Powder
+netherex:blazed_wither_bone, Blazed Wither Bone
+netherex:frosted_wither_bone, Frosted Wither Bone
+netherex:orange_salamander_hide, Orange Salamander Hide
+netherex:black_salamander_hide, Black Salamander Hide
+netherex:amethyst_crystal, Nether Amethyst Crystal
+netherex:rime_crystal, Nether Rime Crystal
+netherex:rime_and_steel, Rime and Steel
+netherex:spore, Spore
+netherex:coolmar_spider_fang, Frost Fang
+netherex:ghast_queen_tear, Ghast Queen Tears
+netherex:obsidian_boat, Obsidian Boat
+netherex:ghast_meat_raw, Raw Ghast Meat
+netherex:ghast_meat_cooked, Cooked Ghast Meat
+netherex:congealed_magma_cream, Congealed Magma Cream
+netherex:enoki_mushroom, Enoki Mushroom
+netherex:dull_mirror, Dull Mirror
+netherex:withered_amedian_sword, Withered Amedian Sword
+netherex:withered_amedian_pickaxe, Withered Amedian Pickaxe
+netherex:withered_amedian_shovel, Withered Amedian Shovel
+netherex:withered_amedian_axe, Withered Amedian Axe
+netherex:withered_amedian_hoe, Withered Amedian Hoe
+netherex:withered_amedian_hammer, Withered Amedian Hammer
+netherex:blazed_amedian_sword, Blazed Amedian Sword
+netherex:blazed_amedian_pickaxe, Blazed Amedian Pickaxe
+netherex:blazed_amedian_shovel, Blazed Amedian Shovel
+netherex:blazed_amedian_axe, Blazed Amedian Axe
+netherex:blazed_amedian_hoe, Blazed Amedian Hoe
+netherex:blazed_amedian_hammer, Blazed Amedian Hammer
+netherex:frosted_amedian_sword, Frosted Amedian Sword
+netherex:frosted_amedian_pickaxe, Frosted Amedian Pickaxe
+netherex:frosted_amedian_shovel, Frosted Amedian Shovel
+netherex:frosted_amedian_axe, Frosted Amedian Axe
+netherex:frosted_amedian_hoe, Frosted Amedian Hoe
+netherex:frosted_amedian_hammer, Frosted Amedian Hammer
+netherex:wither_bone_helmet, Wither Bone Helmet
+netherex:wither_bone_chestplate, Wither Bone Chestplate
+netherex:wither_bone_leggings, Wither Bone Leggings
+netherex:wither_bone_boots, Wither Bone Boots
+netherex:orange_salamander_hide_helmet, Orange Salamander Hide Helmet
+netherex:orange_salamander_hide_chestplate, Orange Salamander Hide Chestplate
+netherex:orange_salamander_hide_leggings, Orange Salamander Hide Leggings
+netherex:orange_salamander_hide_boots, Orange Salamander Hide Boots
+netherex:black_salamander_hide_helmet, Black Salamander Hide Helmet
+netherex:black_salamander_hide_chestplate, Black Salamander Hide Chestplate
+netherex:black_salamander_hide_leggings, Black Salamander Hide Leggings
+netherex:black_salamander_hide_boots, Black Salamander Hide Boots
 yurtmod:tent:0, Small Yurt
 yurtmod:tent:0, Medium Yurt
 yurtmod:tent:0, Large Yurt
@@ -28453,8 +28573,8 @@ plustic:pipe_piece:0, Prometheum Pipe Piece
 plustic:pipe_piece:0, Adamantine Pipe Piece
 plustic:pipe_piece:0, Tartarite Pipe Piece
 plustic:pipe_piece:0, Atlarus Pipe Piece
-plustic:pipe_piece:0, Vyroxeres Pipe Piece
 plustic:pipe_piece:0, Black Steel Pipe Piece
+plustic:pipe_piece:0, Vyroxeres Pipe Piece
 plustic:pipe_piece:0, Oureclase Pipe Piece
 plustic:pipe_piece:0, Inolashite Pipe Piece
 plustic:pipe_piece:0, Orichalcum Pipe Piece
@@ -28536,13 +28656,13 @@ plustic:pipe_piece:0, Cold Aercloud Pipe Piece
 plustic:pipe_piece:0, Blue Aercloud Pipe Piece
 plustic:pipe_piece:0, Golden Aercloud Pipe Piece
 plustic:pipe_piece:0, Icestone Pipe Piece
+plustic:pipe_piece:0, Dark Matter Pipe Piece
+plustic:pipe_piece:0, Red Matter Pipe Piece
+plustic:pipe_piece:0, Emerald Pipe Piece
 plustic:pipe_piece:0, Bloodwood Pipe Piece
 plustic:pipe_piece:0, Fusewood Pipe Piece
 plustic:pipe_piece:0, Ghostwood Pipe Piece
 plustic:pipe_piece:0, Darkwood Pipe Piece
-plustic:pipe_piece:0, Dark Matter Pipe Piece
-plustic:pipe_piece:0, Red Matter Pipe Piece
-plustic:pipe_piece:0, Emerald Pipe Piece
 plustic:laser_medium:0, Disruption Laser Medium
 plustic:laser_medium:0, Fusionite Laser Medium
 plustic:laser_medium:0, Radium Laser Medium
@@ -29866,8 +29986,8 @@ tinkersaether:mouthpiece:0, Prometheum Mouthpiece
 tinkersaether:mouthpiece:0, Adamantine Mouthpiece
 tinkersaether:mouthpiece:0, Tartarite Mouthpiece
 tinkersaether:mouthpiece:0, Atlarus Mouthpiece
-tinkersaether:mouthpiece:0, Vyroxeres Mouthpiece
 tinkersaether:mouthpiece:0, Black Steel Mouthpiece
+tinkersaether:mouthpiece:0, Vyroxeres Mouthpiece
 tinkersaether:mouthpiece:0, Oureclase Mouthpiece
 tinkersaether:mouthpiece:0, Inolashite Mouthpiece
 tinkersaether:mouthpiece:0, Orichalcum Mouthpiece
@@ -29950,13 +30070,13 @@ tinkersaether:mouthpiece:0, Cold Aercloud Mouthpiece
 tinkersaether:mouthpiece:0, Blue Aercloud Mouthpiece
 tinkersaether:mouthpiece:0, Golden Aercloud Mouthpiece
 tinkersaether:mouthpiece:0, Icestone Mouthpiece
+tinkersaether:mouthpiece:0, Dark Matter Mouthpiece
+tinkersaether:mouthpiece:0, Red Matter Mouthpiece
+tinkersaether:mouthpiece:0, Emerald Mouthpiece
 tinkersaether:mouthpiece:0, Bloodwood Mouthpiece
 tinkersaether:mouthpiece:0, Fusewood Mouthpiece
 tinkersaether:mouthpiece:0, Ghostwood Mouthpiece
 tinkersaether:mouthpiece:0, Darkwood Mouthpiece
-tinkersaether:mouthpiece:0, Dark Matter Mouthpiece
-tinkersaether:mouthpiece:0, Red Matter Mouthpiece
-tinkersaether:mouthpiece:0, Emerald Mouthpiece
 tinkersaether:tube:0, Disruption Tube
 tinkersaether:tube:0, Ironwood Tube
 tinkersaether:tube:0, Electrical Tube
@@ -30036,8 +30156,8 @@ tinkersaether:tube:0, Damascus Steel Tube
 tinkersaether:tube:0, Prometheum Tube
 tinkersaether:tube:0, Adamantine Tube
 tinkersaether:tube:0, Atlarus Tube
-tinkersaether:tube:0, Vyroxeres Tube
 tinkersaether:tube:0, Black Steel Tube
+tinkersaether:tube:0, Vyroxeres Tube
 tinkersaether:tube:0, Oureclase Tube
 tinkersaether:tube:0, Inolashite Tube
 tinkersaether:tube:0, Orichalcum Tube
@@ -30112,13 +30232,13 @@ tinkersaether:tube:0, Cold Aercloud Tube
 tinkersaether:tube:0, Blue Aercloud Tube
 tinkersaether:tube:0, Golden Aercloud Tube
 tinkersaether:tube:0, Icestone Tube
+tinkersaether:tube:0, Dark Matter Tube
+tinkersaether:tube:0, Red Matter Tube
+tinkersaether:tube:0, Emerald Tube
 tinkersaether:tube:0, Bloodwood Tube
 tinkersaether:tube:0, Fusewood Tube
 tinkersaether:tube:0, Ghostwood Tube
 tinkersaether:tube:0, Darkwood Tube
-tinkersaether:tube:0, Dark Matter Tube
-tinkersaether:tube:0, Red Matter Tube
-tinkersaether:tube:0, Emerald Tube
 tinkersaether:dart_tip:0, Disruption Dart Tip
 tinkersaether:dart_tip:0, Void Spar Dart Tip
 tinkersaether:dart_tip:0, Enderal Dart Tip
@@ -30210,8 +30330,8 @@ tinkersaether:dart_tip:0, Prometheum Dart Tip
 tinkersaether:dart_tip:0, Adamantine Dart Tip
 tinkersaether:dart_tip:0, Tartarite Dart Tip
 tinkersaether:dart_tip:0, Atlarus Dart Tip
-tinkersaether:dart_tip:0, Vyroxeres Dart Tip
 tinkersaether:dart_tip:0, Black Steel Dart Tip
+tinkersaether:dart_tip:0, Vyroxeres Dart Tip
 tinkersaether:dart_tip:0, Oureclase Dart Tip
 tinkersaether:dart_tip:0, Inolashite Dart Tip
 tinkersaether:dart_tip:0, Orichalcum Dart Tip
@@ -30293,13 +30413,13 @@ tinkersaether:dart_tip:0, Cold Aercloud Dart Tip
 tinkersaether:dart_tip:0, Blue Aercloud Dart Tip
 tinkersaether:dart_tip:0, Golden Aercloud Dart Tip
 tinkersaether:dart_tip:0, Icestone Dart Tip
+tinkersaether:dart_tip:0, Dark Matter Dart Tip
+tinkersaether:dart_tip:0, Red Matter Dart Tip
+tinkersaether:dart_tip:0, Emerald Dart Tip
 tinkersaether:dart_tip:0, Bloodwood Dart Tip
 tinkersaether:dart_tip:0, Fusewood Dart Tip
 tinkersaether:dart_tip:0, Ghostwood Dart Tip
 tinkersaether:dart_tip:0, Darkwood Dart Tip
-tinkersaether:dart_tip:0, Dark Matter Dart Tip
-tinkersaether:dart_tip:0, Red Matter Dart Tip
-tinkersaether:dart_tip:0, Emerald Dart Tip
 tinkersaether:dart_shooter, Dart Shooter
 tinkersaether:dart, Dart
 tcomplement:materials:0, Stone Bucket
@@ -30475,8 +30595,8 @@ tcomplement:chisel_head:0, Prometheum Chisel Head
 tcomplement:chisel_head:0, Adamantine Chisel Head
 tcomplement:chisel_head:0, Tartarite Chisel Head
 tcomplement:chisel_head:0, Atlarus Chisel Head
-tcomplement:chisel_head:0, Vyroxeres Chisel Head
 tcomplement:chisel_head:0, Black Steel Chisel Head
+tcomplement:chisel_head:0, Vyroxeres Chisel Head
 tcomplement:chisel_head:0, Oureclase Chisel Head
 tcomplement:chisel_head:0, Inolashite Chisel Head
 tcomplement:chisel_head:0, Orichalcum Chisel Head
@@ -30558,14 +30678,15 @@ tcomplement:chisel_head:0, Cold Aercloud Chisel Head
 tcomplement:chisel_head:0, Blue Aercloud Chisel Head
 tcomplement:chisel_head:0, Golden Aercloud Chisel Head
 tcomplement:chisel_head:0, Icestone Chisel Head
+tcomplement:chisel_head:0, Dark Matter Chisel Head
+tcomplement:chisel_head:0, Red Matter Chisel Head
+tcomplement:chisel_head:0, Emerald Chisel Head
 tcomplement:chisel_head:0, Bloodwood Chisel Head
 tcomplement:chisel_head:0, Fusewood Chisel Head
 tcomplement:chisel_head:0, Ghostwood Chisel Head
 tcomplement:chisel_head:0, Darkwood Chisel Head
-tcomplement:chisel_head:0, Dark Matter Chisel Head
-tcomplement:chisel_head:0, Red Matter Chisel Head
-tcomplement:chisel_head:0, Emerald Chisel Head
 tcomplement:chisel, Chisel
+tweakergui:recipe_maker, Redipe Maker
 ultra_amplified_mod:amplified_portal, Amplified Portal
 undergroundbiomes:lignite_coal, Lignite
 undergroundbiomes:fossil_piece:0, Ammonite fossil
@@ -31104,30 +31225,6 @@ undergroundbiomes:sedimentary_stone_stairs:4, Lignite Block Stairs
 undergroundbiomes:sedimentary_stone_stairs:5, Dolomite Stairs
 undergroundbiomes:sedimentary_stone_stairs:6, Greywacke Stairs
 undergroundbiomes:sedimentary_stone_stairs:7, Chert Stairs
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:0, Red Granite Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:1, Black Granite Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:2, Rhyolite Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:3, Andesite Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:4, Gabbro Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:5, Basalt Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:6, Komatiite Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:7, Dacite Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:0, Gneiss Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:1, Eclogite Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:2, Marble Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:3, Quartzite Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:4, Blue Schist Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:5, Green Schist Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:6, Soapstone Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:7, Migmatite Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:0, Limestone Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:1, Chalk Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:2, Shale Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:3, Siltstone Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:4, Lignite Block Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:5, Dolomite Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:6, Greywacke Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:7, Chert Certus Quartz Ore
 undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:0, Red Granite Charged Certus Quartz Ore
 undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:1, Black Granite Charged Certus Quartz Ore
 undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:2, Rhyolite Charged Certus Quartz Ore
@@ -31152,6 +31249,30 @@ undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:4, Li
 undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:5, Dolomite Charged Certus Quartz Ore
 undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:6, Greywacke Charged Certus Quartz Ore
 undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:7, Chert Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:0, Red Granite Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:1, Black Granite Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:2, Rhyolite Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:3, Andesite Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:4, Gabbro Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:5, Basalt Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:6, Komatiite Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:7, Dacite Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:0, Gneiss Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:1, Eclogite Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:2, Marble Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:3, Quartzite Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:4, Blue Schist Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:5, Green Schist Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:6, Soapstone Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:7, Migmatite Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:0, Limestone Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:1, Chalk Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:2, Shale Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:3, Siltstone Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:4, Lignite Block Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:5, Dolomite Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:6, Greywacke Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:7, Chert Certus Quartz Ore
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
 wct:magnet_card, Magnet Card
@@ -31846,37 +31967,37 @@ lucraftcore:ingot_uru, Uru Ingot
 lucraftcore:dust_uru, Uru Dust
 lucraftcore:nugget_uru, Uru Nugget
 lucraftcore:plate_uru, Uru Plate
+lucraftcore:ore_vibranium, Vibranium Ore
+lucraftcore:ore_uru, Uru Ore
+lucraftcore:ore_palladium, Palladium Ore
+lucraftcore:ore_silver, Silver Ore
+lucraftcore:ore_osmium, Osmium Ore
+lucraftcore:ore_tin, Tin Ore
 lucraftcore:ore_nickel, Nickel Ore
 lucraftcore:ore_titanium, Titanium Ore
 lucraftcore:ore_dwarf_star_alloy, Dwarf Star Meteor
-lucraftcore:ore_iridium, Iridium Ore
-lucraftcore:ore_osmium, Osmium Ore
-lucraftcore:ore_lead, Lead Ore
-lucraftcore:ore_vibranium, Vibranium Ore
-lucraftcore:ore_silver, Silver Ore
 lucraftcore:ore_uranium, Uranium Ore
-lucraftcore:ore_palladium, Palladium Ore
+lucraftcore:ore_lead, Lead Ore
+lucraftcore:ore_iridium, Iridium Ore
 lucraftcore:ore_copper, Copper Ore
-lucraftcore:ore_tin, Tin Ore
-lucraftcore:ore_uru, Uru Ore
-lucraftcore:block_nickel, Nickel Block
-lucraftcore:block_bronze, Bronze Block
-lucraftcore:block_titanium, Titanium Block
-lucraftcore:block_dwarf_star_alloy, Dwarf Star Alloy Block
 lucraftcore:block_gold_titanium_alloy, Gold-Titanium-Alloy Block
-lucraftcore:block_iridium, Iridium Block
-lucraftcore:block_osmium, Osmium Block
-lucraftcore:block_lead, Lead Block
-lucraftcore:block_vibranium, Vibranium Block
-lucraftcore:block_adamantium, Adamantium Block
-lucraftcore:block_silver, Silver Block
-lucraftcore:block_uranium, Uranium Block
-lucraftcore:block_palladium, Palladium Block
 lucraftcore:block_intertium, Intertium Block
 lucraftcore:block_steel, Steel Block
-lucraftcore:block_copper, Copper Block
-lucraftcore:block_tin, Tin Block
+lucraftcore:block_vibranium, Vibranium Block
 lucraftcore:block_uru, Uru Block
+lucraftcore:block_palladium, Palladium Block
+lucraftcore:block_bronze, Bronze Block
+lucraftcore:block_silver, Silver Block
+lucraftcore:block_osmium, Osmium Block
+lucraftcore:block_tin, Tin Block
+lucraftcore:block_nickel, Nickel Block
+lucraftcore:block_titanium, Titanium Block
+lucraftcore:block_dwarf_star_alloy, Dwarf Star Alloy Block
+lucraftcore:block_uranium, Uranium Block
+lucraftcore:block_lead, Lead Block
+lucraftcore:block_adamantium, Adamantium Block
+lucraftcore:block_iridium, Iridium Block
+lucraftcore:block_copper, Copper Block
 mo_swords:dragon, Dragonkiller
 mo_swords:dtgriff, Dragonkiller Hilt
 mo_swords:dtklinge, Draginkiller Blade
@@ -33392,8 +33513,8 @@ waveymod:lightshard, Light Shard
 waveymod:stellarshard, Stellar Shard
 waveymod:vialofdarkness, Vial of Darkness
 waveymod:vialofpurification, Vial of Purification
-waveymod:demonicblade, Demonic Blade
 waveymod:blankrune, Blank Rune
+waveymod:demonicblade, Demonic Blade
 waveymod:darkrune, Dark Rune
 waveymod:wavypick, Wavy Pick
 waveymod:holypick, Holy Pick
@@ -33474,8 +33595,8 @@ waveymod:netherironore, Nether Iron Ore
 waveymod:nethergoldore, Nether Gold Ore
 waveymod:netherdiamondore, Nether Diamond Ore
 waveymod:netheremeraldore, Nether Emerald Ore
-waveymod:wavyslingshot, Wavy Slingshot
 waveymod:wavybullet, Wavy Bullet
+waveymod:wavyslingshot, Wavy Slingshot
 waveymod:bullet, Bullet
 waveymod:slingshot, Slingshot
 waveymod:wavystring, Wavy String
@@ -33708,29 +33829,6 @@ roots:pestle, Pestle
 roots:component_pouch, Component Pouch
 roots:creative_pouch, Creative Component Pouch
 roots:apothecary_pouch, Apothecary Pouch
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
-roots:spell_dust:0, Spell Dust
 roots:flour, Flour
 roots:staff, Staff
 roots:living_pickaxe, Living Pickaxe
