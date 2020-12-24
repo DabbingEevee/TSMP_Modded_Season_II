@@ -1,11 +1,11 @@
-name: UpdateVersion
+name: UpdateRepository
 
-on:
-  push:
+on: 
+  push: 
     branches: [ master ]
 
 jobs:
-  UpdateVersion:
+  UpdateModList:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,13 +16,15 @@ jobs:
     - uses: actions/setup-dotnet@v1
       with:
         dotnet-version: '3.1.x'
+    - name: Update Mod List
+      run: dotnet fsi ./modules/ModListUpdate.fsx
     - name: Update Version Number
       run: dotnet fsi ./modules/UpdateVersion.fsx
     - name: Commit files  
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Update Version" -a
+        git commit -m "Update Mod List" -a
     - name: Push Change
       uses: ad-m/github-push-action@master
       with:
