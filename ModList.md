@@ -4,11 +4,9 @@
 *Azanor*
 ***
 ### AE2 Wireless Terminals (AE2WTLib)
-<>
 *TheRealp455w0rd*
 ***
 ### AetherWorks
-<>
 *V0idWa1k3r*
 ***
 ### AgriCraft
@@ -20,18 +18,15 @@
 *Vazkii*
 ***
 ### Avaritia
-<>
 *SpitefulFox, TTFTCUTS*
 ***
 ### AtomicStryker's Battletowers
 <http://www.minecraftforum.net/topic/480774->
 ***
 ### YUNG's Better Mineshafts
-<>
 *YUNGNICKYOUNG*
 ***
 ### Better Questing
-<>
 *Funwayguy*
 ***
 ### BiblioCraft
@@ -79,7 +74,6 @@
 *ChickenBones,			covers1624*
 ***
 ### Compact Void Miners
-<>
 *Quphoria*
 ***
 ### ContentTweaker
@@ -103,11 +97,9 @@
 *OreCruncher,			Abastro*
 ***
 ### Embers Rekindled
-<>
 *BordListian,Elucent,AlexisMachina,ShadowGamerXY,werty1124*
 ***
 ### Embersified
-<>
 *p455w0rd aka TheRealp455w0rd*
 ***
 ### EnderCore
@@ -154,7 +146,6 @@
 *Ivorius*
 ***
 ### Just Enough Energistics
-<>
 *TheRealp455w0rd*
 ***
 ### Land Craft
@@ -182,10 +173,8 @@
 *TGstyle*
 ***
 ### MJRLegendsLib
-<>
 ***
 ### MTLib
-<>
 *Jaredlll08*
 ***
 ### Mantle
@@ -234,7 +223,6 @@
 *stimmedcow,GotoLink*
 ***
 ### Nomadic Tents
-<>
 *skyjay1*
 ***
 ### OreLib Support Mod
@@ -242,7 +230,6 @@
 *OreCruncher*
 ***
 ### Ore Stages
-<>
 *Darkhax, Jaredlll08*
 ***
 ### Pam's HarvestCraft
@@ -254,7 +241,6 @@
 *Vazkii*
 ***
 ### Potion Core
-<>
 ***
 ### ProjectE
 <http://minecraft.curseforge.com/mc-mods/226410-projecte>
@@ -273,7 +259,6 @@
 *Lumien*
 ***
 ### Recurrent Complex
-<>
 *Ivorius*
 ***
 ### Redstone Arsenal
@@ -285,11 +270,9 @@
 *Team CoFH*
 ***
 ### Reliquary
-<>
 *x3n0ph0b3,    TheMike,    P3pp3rF1y*
 ***
 ### Resource Loader
-<>
 *lumien*
 ***
 ### Roguelike Dungeons
@@ -297,18 +280,15 @@
 *Greymerk*
 ***
 ### Roots
-<>
 *EpicSquid, Martacus, Noobanidus, Davoleo, Kalaxi, Elucent*
 ***
 ### Serene Seasons
 *Adubbz, Forstride*
 ***
 ### Soot
-<>
 *BordListian*
 ***
 ### Standard Expansion
-<>
 *Funwayguy*
 ***
 ### Storage Drawers
@@ -355,15 +335,12 @@
 *Adubbz, Forstride*
 ***
 ### Tough Expansion
-<>
 *TheRealp455w0rd*
 ***
 ### Underground Biomes
-<>
 *exterminatorJeff, Zeno410, kyeiti*
 ***
 ### Unique Enchantments
-<>
 *Xaikii, Speiger*
 ***
 ### W A V E Y MOD
@@ -375,15 +352,12 @@
 *Wesley,      MCreator*
 ***
 ### Wireless Crafting Terminal 2
-<>
 *TheRealp455w0rd*
 ***
 ### Wireless Pattern Terminal
-<>
 *TheRealp455w0rd*
 ***
 ### Zollern Galaxy
-<>
 *ZollernWolf*
 ***
 ### AE2 Stuff
@@ -391,7 +365,6 @@
 *bdew*
 ***
 ### Aether Continuation
-<>
 *Raptor__*
 ***
 ### Aether Legacy
@@ -427,23 +400,18 @@
 *Mrthomas20121*
 ***
 ### Compact Machines 3
-<>
 *Davenonymous*
 ***
 ### Construct's Armory
-<>
 *C4*
 ***
 ### Crimson Revelations
-<>
 *MobiusFlip*
 ***
 ### Dabbingeevee's More Enchants
-<>
 *DabbingEevee*
 ***
 ### Defiled Lands
-<>
 *Lykrast*
 ***
 ### dotHack Weapons
@@ -451,7 +419,6 @@
 *AzureDoomC*
 ***
 ### Dumplings
-<>
 *koalayucheng*
 ***
 ### Tinkering With Embers
@@ -459,7 +426,6 @@
 *terrapin47*
 ***
 ### Entangled
-<>
 *SuperMartijn642*
 ***
 ### Extra Alchemy
@@ -467,7 +433,6 @@
 *ZaBi94*
 ***
 ### Ice and Fire
-<>
 *Alexthe666, Raptorfarian*
 ***
 ### IndustrialCraft 2
@@ -499,11 +464,9 @@
 *Landmaster (phuong0429)*
 ***
 ### Minerva Library
-<>
 *Zabi94*
 ***
 ### MoSwords
-<>
 *Nyx, SubSpartacus, MCenderdragon*
 ***
 ### Mod Tweaker
@@ -511,7 +474,6 @@
 *Jaredlll08*
 ***
 ### New Materials
-<>
 *DabbingEevee*
 ***
 ### Mowzie's Mobs
@@ -522,11 +484,9 @@
 *HyCraftHD*
 ***
 ### Mystical Lib
-<>
 *EpicSquid, Elucent*
 ***
 ### Mystical World
-<>
 *Noobanidus, EpicSquid, Martacus, Davoleo, Kalaxi, Vulpie*
 ***
 ### Natura
@@ -534,7 +494,6 @@
 *mDiyo, Slime Knights*
 ***
 ### NetherBackport
-<>
 *Broulf*
 ***
 ### Ore Control
@@ -546,7 +505,6 @@
 *LocusWay, Tfarecmin*
 ***
 ### p455w0rd's Library
-<>
 *TheRealp455w0rd*
 ***
 ### PlusTiC
@@ -566,7 +524,6 @@
 *the-realest-stu*
 ***
 ### Save My Stronghold!
-<>
 *YUNGNICKYOUNG*
 ***
 ### Rin's So Many Enchantments?
@@ -574,7 +531,6 @@
 *Rin*
 ***
 ### TC6 Aspects for JEI
-<>
 *ZaBi94*
 ***
 ### Techguns
@@ -590,11 +546,9 @@
 *Nividica,            BrockWS*
 ***
 ### TheDragonLib
-<>
 *sokratis12GR and Moritz30 in association with TheDragonTeam.*
 ***
 ### Tinkers' Reforged
-<>
 *Mrthomas20121*
 ***
 ### Tinker's Aether
@@ -626,6 +580,5 @@
 *koala, MCreator*
 ***
 ### ZenUtils
-<>
 *youyihj*
 ***
