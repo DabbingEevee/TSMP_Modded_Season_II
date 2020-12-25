@@ -25,6 +25,11 @@
 
 *InfinityRaider*
 ***
+### AgriCraft
+<http://minecraft.curseforge.com/mc-mods/225635-agricraft>
+
+*\n    - InfinityRaider*
+***
 ### AutoRegLib
 <http://www.vazkii.us>
 
