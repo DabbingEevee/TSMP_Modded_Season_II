@@ -25,10 +25,10 @@ let readModInfo (text:string) =
         | ex -> ex.Message
     let url = 
         try
-            let temp = rootElement.GetProperty("url").GetRawText().Replace("\"","").Trim()
-            match temp with
+            let url = rootElement.GetProperty("url").GetRawText().Replace("\"","").Trim()
+            match url with
             | "" -> ""
-            | _ -> "<" + temp + ">\n"
+            | _ -> "<" + url + ">\n\n"
         with 
         | :? Collections.Generic.KeyNotFoundException -> ""
     let authorList = 
