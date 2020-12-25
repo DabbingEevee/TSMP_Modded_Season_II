@@ -184,6 +184,9 @@
 
 *KingPhygieBoo, xJonL, 115kino, Silver_David, NewHorizons, Jonathing*
 ***
+### Waila
+*ProfMobius,    TehNut*
+***
 ### Infini-TiC
 <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2719989-infini-tic-another-tinkers-construct-add-on>
 
