@@ -546,6 +546,11 @@
 
 *Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44,Aroma1997,estebes,Chocohead*
 ***
+### InfinityLib
+<https://www.github.com/InfinityRaider>
+
+*InfinityRaider*
+***
 ### Just Enough Items
 <https://github.com/mezz/JustEnoughItems>
 
