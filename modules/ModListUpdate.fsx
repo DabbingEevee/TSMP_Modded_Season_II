@@ -11,7 +11,7 @@ open System.Text.RegularExpressions
 let readModInfo (text:string) =
     let sanitizedText = 
         text.Split('\n')
-        |> Array.filter ( fun x -> not <| (x.Contains("\"dependencies\":") && (x.Contains("tconstruct") || x.Contains("minerva") ) ))
+        |> Array.filter ( fun x -> not <| (x.Contains("\"dependencies\":") && x.Contains("[") && x.Contains("]") ))
         |> String.Concat
         |> fun i -> i.Replace("\n"," ")
     let mutable jsonOptions = JsonDocumentOptions()
@@ -25,10 +25,10 @@ let readModInfo (text:string) =
         | ex -> ex.Message
     let url = 
         try
-            let temp = rootElement.GetProperty("url").GetRawText().Replace("\"","").Trim()
-            match temp with
+            let url = rootElement.GetProperty("url").GetRawText().Replace("\"","").Trim()
+            match url with
             | "" -> ""
-            | _ -> "<" + temp + ">\n"
+            | _ -> "<" + url + ">\n\n"
         with 
         | :? Collections.Generic.KeyNotFoundException -> ""
     let authorList = 

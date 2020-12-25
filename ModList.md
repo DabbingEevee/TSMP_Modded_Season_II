@@ -6,6 +6,14 @@
 ### AE2 Wireless Terminals (AE2WTLib)
 *TheRealp455w0rd*
 ***
+### Actually Additions
+<http://github.com/Ellpeck/ActuallyAdditions>
+*Ellpeck*
+***
+### Actually Baubles
+<https://github.com/Jacky1356400/ActuallyBaubles>
+*Jacky1356400*
+***
 ### AetherWorks
 *V0idWa1k3r*
 ***
@@ -36,6 +44,9 @@
 ### Biomes O' Plenty
 <http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty>
 *Adubbz, Amnet, Cheeserolls, Forstride, ted80*
+***
+### Block Drops Tweaker
+*TheAwesomeGem*
 ***
 ### Bookshelf
 <http://minecraft.curseforge.com/projects/bookshelf>
@@ -136,6 +147,10 @@
 ### Game Stages
 <https://minecraft.curseforge.com/projects/game-stages>
 *Darkhax*
+***
+### Glacidus
+<http://moddinglegacy.com>
+*KingPhygieBoo, xJonL, 115kino, Silver_David, NewHorizons, Jonathing*
 ***
 ### Infini-TiC
 <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2719989-infini-tic-another-tinkers-construct-add-on>
@@ -285,9 +300,6 @@
 ### Serene Seasons
 *Adubbz, Forstride*
 ***
-### Soot
-*BordListian*
-***
 ### Standard Expansion
 *Funwayguy*
 ***
@@ -432,6 +444,9 @@
 <http://minecraft.curseforge.com/projects/extra-alchemy>
 *ZaBi94*
 ***
+### Extra Utilities 2
+*RWTema*
+***
 ### Ice and Fire
 *Alexthe666, Raptorfarian*
 ***
@@ -442,10 +457,6 @@
 ### Just Enough Items
 <https://github.com/mezz/JustEnoughItems>
 *mezz*
-***
-### FhantonCore
-<https://mcreator.net>
-*koala, MCreator*
 ***
 ### LLibrary
 <https://github.com/iLexiconn/LLibrary>
@@ -555,6 +566,9 @@
 <https://minecraft.curseforge.com/projects/tinkers-aether>
 *Shnupbups*
 ***
+### Tinkers' Compendium
+*Lance5057*
+***
 ### Corail Tombstone
 <https://www.curseforge.com/minecraft/mc-mods/corail-tombstone>
 *Corail31*
@@ -576,6 +590,10 @@
 *TelepathicGrunt*
 ***
 ### WarpResetter
+<https://mcreator.net>
+*koala, MCreator*
+***
+### FhantonCore
 <https://mcreator.net>
 *koala, MCreator*
 ***
