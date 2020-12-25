@@ -11,7 +11,7 @@ open System.Text.RegularExpressions
 let readModInfo (text:string) =
     let sanitizedText = 
         text.Split('\n')
-        |> Array.filter ( fun x -> not <| (x.Contains("\"dependencies\":") && (x.Contains("tconstruct") || x.Contains("minerva") ) ))
+        |> Array.filter ( fun x -> not <| (x.Contains("\"dependencies\":") && x.Contains("[") && x.Contains("]") ))
         |> String.Concat
         |> fun i -> i.Replace("\n"," ")
     let mutable jsonOptions = JsonDocumentOptions()
