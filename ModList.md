@@ -205,11 +205,6 @@
 ### Just Enough Energistics
 *TheRealp455w0rd*
 ***
-### Land Craft
-<https://minecraft.curseforge.com/projects/land-craft>
-
-*Landmaster (phuong0429)*
-***
 ### LandCore
 <https://minecraft.curseforge.com/projects/landcore>
 
