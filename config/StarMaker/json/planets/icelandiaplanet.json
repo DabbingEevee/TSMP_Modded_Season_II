@@ -1,0 +1,57 @@
+{
+    "parent_system": "sau_system",        
+    "phase": 3.14,
+    "size": 1.2,
+    "distance_from_center": 2.5,
+    "relative_time": 3.9,
+
+    "gravity": 0.058,
+    "atmosphere_pressure": 1,
+    "temperature": -1.0,
+    "wind": 0.0,
+    "day_lenght": 24000,
+    "breathable": false,
+    "solar_radiation": false,
+    "corrosive_atmo": false,
+    
+    "sun_brightness": 0.5,
+    "star_brightness": 0.5,
+    "sky": [78, 38, 137],        
+    "fog": [78, 38, 155],
+    
+    "world_data": {
+        "tier": 6,
+        "genCave": true,
+        "genRavine": false,
+        "crateProb": 0,    
+        "stone_block": "fhantoncore:bluestone:0"        
+    },    
+    "biomes": [
+        {
+            "persistance": 2.2,
+            "octaves": 5,
+            "height": 130,
+            "intquility": 10,
+            "biomeSize": 200.0,
+            "water_color": [255, 255, 0],
+            "foliage_color": [0, 100, 0],
+            "grass_color": [0, 100, 100],
+            "surface_block": "minecraft:snow",
+            "subsurface_block": "minecraft:snow"    
+        },
+        {
+            "persistance": 1.8,
+            "octaves": 4,
+            "height": 64,
+            "intquility": 25,
+            "biomeSize": 280.0,
+            "water_color": [255, 255, 0],
+            "foliage_color": [0, 100, 0],
+            "grass_color": [0, 100, 100],
+            "surface_block": "minecraft:snow",
+            "subsurface_block": "minecraft:snow"    
+        }
+            
+    ]
+    
+}

@@ -1,0 +1,27 @@
+{
+    "machine": "grill_reactor",
+    "registryName": "grill_reactor_grill",
+    "recipeTime": 120,
+    "requirements": [
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "lava",
+            "amount": 100
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "liquidpenguinite",
+            "amount": 100
+        },
+        {
+            "type": "energy",
+            "io-type": "output",
+            "energyPerTick": 512
+        }
+    ]
+}
+
+{tag:
+}

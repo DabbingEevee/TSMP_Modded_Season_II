@@ -2253,11 +2253,6 @@ plustic:invarblock - Invar Block - tile.invarblock
 plustic:plustic.molten_refinedobsidian - Molten Refined Obsidian - fluid.plustic.refinedobsidian
 plustic:plustic.molten_refinedglowstone - Refined Glowstone - fluid.plustic.refinedglowstone
 plustic:plustic.molten_infinity - Molten Infinity - fluid.plustic.infinity
-plustic:plustic.molten_kelline - Molten Kelline - fluid.plustic.kelline
-plustic:plustic.molten_garfax - Molten Garfax - fluid.plustic.garfax
-plustic:plustic.molten_morganine - Molten Morganine - fluid.plustic.morganine
-plustic:plustic.molten_racheline - Molten Racheline - fluid.plustic.racheline
-plustic:plustic.molten_friscion - Molten Friscion - fluid.plustic.friscion
 plustic:plustic.molten_thorium - Molten Thorium - fluid.plustic.thorium
 plustic:plustic.molten_tungsten - Molten Tungsten - fluid.plustic.tungsten
 plustic:plustic.molten_landium - Molten Landium - fluid.plustic.landium
@@ -2331,7 +2326,11 @@ randomthings:plate_processing - Processing Plate - tile.plate_processing
 randomthings:spectrecoil_normal - Spectre Coil - tile.spectreCoil_normal
 randomthings:spectrecoil_redstone - Redstone Spectre Coil - tile.spectreCoil_redstone
 randomthings:spectrecoil_ender - Ender Spectre Coil - tile.spectreCoil_ender
+<<<<<<< Updated upstream
 randomthings:spectrecoil_number - Spectre Coil Nr. 4 - tile.spectreCoil_number
+=======
+randomthings:spectrecoil_number - Spectre Coil Nr. 324 - tile.spectreCoil_number
+>>>>>>> Stashed changes
 randomthings:spectrecoil_genesis - Genesis Spectre Coil - tile.spectreCoil_genesis
 randomthings:advancedredstonerepeater - Advanced Redstone Repeater - tile.advancedRedstoneRepeater
 randomthings:advancedredstonetorch_on - Advanced Redstone Torch - tile.advancedRedstoneTorch_on
@@ -2583,6 +2582,16 @@ rustic:wildberries - Wildberries - item.rustic.wildberries
 rustic:grapes - Grapes - item.rustic.grapes
 thermalcultivation:soil - Phyto-Soil (Not Implemented) - tile.thermalcultivation.soil
 thermalcultivation:watering_can - Watering Can (Basic) - item.thermalcultivation.watering_can
+thermaldynamics:duct_0 - Leadstone Fluxduct - tile.thermaldynamics.duct
+thermaldynamics:duct_16 - Fluiduct - tile.thermaldynamics.duct
+thermaldynamics:duct_32 - Itemduct - tile.thermaldynamics.duct
+thermaldynamics:duct_48 - Structuralduct - tile.thermaldynamics.duct
+thermaldynamics:duct_64 - Viaduct - tile.thermaldynamics.duct
+thermaldynamics:servo - Servo - item.thermaldynamics.servo
+thermaldynamics:filter - Filter - item.thermaldynamics.filter
+thermaldynamics:retriever - Retriever - item.thermaldynamics.retriever
+thermaldynamics:relay - Redstone Relay - item.thermaldynamics.relay
+thermaldynamics:cover - Invalid Cover - item.thermaldynamics.cover
 thermalinnovation:drill - Fluxbore (Basic) - item.thermalinnovation.drill
 thermalinnovation:saw - Fluxsaw (Basic) - item.thermalinnovation.saw
 thermalinnovation:magnet - Fluxomagnet (Basic) - item.thermalinnovation.magnet
@@ -3200,6 +3209,17 @@ appliedenergistics2:paint_ball - Paint Ball - White - item.appliedenergistics2.p
 appliedenergistics2:dummy_fluid_item - Water - item.appliedenergistics2.dummy_fluid_item
 appliedenergistics2:material - Certus Quartz Crystal - item.appliedenergistics2.material
 appliedenergistics2:part - ME Glass Cable - White - item.appliedenergistics2.part
+aetherworks:aether_ore - Aetherium Ore - tile.aw.aether_ore
+aetherworks:aether_prism_controller_matrix - Aetherium Lens Focusing Matrix - tile.aw.aether_prism_controller_matrix
+aetherworks:moonlight_amplifier - Moonlight Amplifier - tile.aw.moonlight_amplifier
+aetherworks:prism_support - Aetherium Prism Support - tile.aw.prism_support
+aetherworks:prism - Aetherium Prism - tile.aw.prism
+aetherworks:impure_aetherium_gas - Impure Aetherium Gas - tile.aw.impureAetheriumGas
+aetherworks:aetherium_gas - Aetherium Gas - tile.aw.aetheriumGas
+aetherworks:forge_structure - tile.aw.forge_structure.name - tile.aw.forge_structure
+aetherworks:block_aether - Aetherium Block - tile.aw.block_aether
+aetherworks:forge_component - Aetherium Forge Core - tile.aw.component
+aetherworks:heat_dial - Heat Gauge - tile.aw.heat_dial
 aetherworks:item_resource - Aetherium Shard - item.aw.resource
 aetherworks:item_pickaxe_aether - §cPickaxe Of The Boundless Sky - item.aw.aether_pickaxe
 aetherworks:item_pickaxe_ember - §cPickaxe Of The Molten Depths - item.aw.ember_pickaxe
@@ -3212,17 +3232,6 @@ aetherworks:item_potion_gem - Potion Gem - item.aw.potiongem
 aetherworks:item_crown - §cAetherium Crown - item.aw.crown
 aetherworks:item_crossbow_quartz - §cCrossbow Of The Impending Doom - item.aw.crossbow.quartz
 aetherworks:item_crossbow_magma - §cCrossbow Of The Raging Volcano - item.aw.crossbow.magma
-aetherworks:aether_ore - Aetherium Ore - tile.aw.aether_ore
-aetherworks:aether_prism_controller_matrix - Aetherium Lens Focusing Matrix - tile.aw.aether_prism_controller_matrix
-aetherworks:moonlight_amplifier - Moonlight Amplifier - tile.aw.moonlight_amplifier
-aetherworks:prism_support - Aetherium Prism Support - tile.aw.prism_support
-aetherworks:prism - Aetherium Prism - tile.aw.prism
-aetherworks:impure_aetherium_gas - Impure Aetherium Gas - tile.aw.impureAetheriumGas
-aetherworks:aetherium_gas - Aetherium Gas - tile.aw.aetheriumGas
-aetherworks:forge_structure - tile.aw.forge_structure.name - tile.aw.forge_structure
-aetherworks:block_aether - Aetherium Block - tile.aw.block_aether
-aetherworks:forge_component - Aetherium Forge Core - tile.aw.component
-aetherworks:heat_dial - Heat Gauge - tile.aw.heat_dial
 thaumcraft:thaumonomicon - Thaumonomicon - item.thaumonomicon
 thaumcraft:curio - Arcane Curiosity - item.curio
 thaumcraft:loot_bag - Common Treasure - item.loot_bag
@@ -4691,6 +4700,7 @@ galaxyspace:proxima_b_log_1 - Burnt Wood - tile.proxima_b_log_1
 galaxyspace:proxima_b_log_2 - Frozen Wood - tile.proxima_b_log_2
 galacticraftcore:unlit_torch_stone - Stone Torch - tile.unlit_torch_stone
 galacticraftcore:unlit_torch_stone_lit - Stone Torch - tile.unlit_torch_stone_lit
+<<<<<<< Updated upstream
 quark:roots - Cave Roots - tile.roots
 quark:root - Cave Root - item.root
 quark:roots_blue_flower - Cave Roots - tile.roots_blue_flower
@@ -4781,6 +4791,8 @@ quark:glowshroom - Glowshroom - tile.glowshroom
 quark:glowshroom_block - Glowshroom - tile.glowshroom_block
 quark:soul_bead - Soul Bead - item.soul_bead
 quark:smoker - Nether Smoker - tile.smoker
+=======
+>>>>>>> Stashed changes
 quark:pickarang - Pickarang - item.pickarang
 quark:arrow_ender - Ender Arrow - item.arrow_ender
 quark:arrow_explosive - Explosive Arrow - item.arrow_explosive
@@ -4793,7 +4805,59 @@ quark:horse_whistle - Horse Whistle - item.horse_whistle
 quark:soul_powder - Soul Powder - item.soul_powder
 quark:parrot_egg - Red Parrot Egg - item.parrot_egg
 quark:enderdragon_scale - Dragon Scale - item.enderdragon_scale
+<<<<<<< Updated upstream
 quark:glass_shards - Glass Shard - item.glass_shards
+=======
+quark:spruce_trapdoor - Spruce Trapdoor - tile.spruce_trapdoor
+quark:birch_trapdoor - Birch Trapdoor - tile.birch_trapdoor
+quark:jungle_trapdoor - Jungle Trapdoor - tile.jungle_trapdoor
+quark:acacia_trapdoor - Acacia Trapdoor - tile.acacia_trapdoor
+quark:dark_oak_trapdoor - Dark Oak Trapdoor - tile.dark_oak_trapdoor
+quark:paper_wall - Paper Wall - tile.paper_wall
+quark:paper_wall_big - Big Paper Wall - tile.paper_wall_big
+quark:paper_wall_sakura - Decorated Paper Wall - tile.paper_wall_sakura
+quark:iron_ladder - Iron Ladder - tile.iron_ladder
+quark:paper_lantern - Paper Lamp - tile.paper_lantern
+quark:colored_flowerpot_white - White Flower Pot - tile.colored_flowerpot_white
+quark:colored_flowerpot_orange - Orange Flower Pot - tile.colored_flowerpot_orange
+quark:colored_flowerpot_magenta - Magenta Flower Pot - tile.colored_flowerpot_magenta
+quark:colored_flowerpot_light_blue - Light Blue Flower Pot - tile.colored_flowerpot_light_blue
+quark:colored_flowerpot_yellow - Yellow Flower Pot - tile.colored_flowerpot_yellow
+quark:colored_flowerpot_lime - Lime Flower Pot - tile.colored_flowerpot_lime
+quark:colored_flowerpot_pink - Pink Flower Pot - tile.colored_flowerpot_pink
+quark:colored_flowerpot_gray - Gray Flower Pot - tile.colored_flowerpot_gray
+quark:colored_flowerpot_silver - Light Gray Flower Pot - tile.colored_flowerpot_silver
+quark:colored_flowerpot_cyan - Cyan Flower Pot - tile.colored_flowerpot_cyan
+quark:colored_flowerpot_purple - Purple Flower Pot - tile.colored_flowerpot_purple
+quark:colored_flowerpot_blue - Blue Flower Pot - tile.colored_flowerpot_blue
+quark:colored_flowerpot_brown - Brown Flower Pot - tile.colored_flowerpot_brown
+quark:colored_flowerpot_green - Green Flower Pot - tile.colored_flowerpot_green
+quark:colored_flowerpot_red - Red Flower Pot - tile.colored_flowerpot_red
+quark:colored_flowerpot_black - Black Flower Pot - tile.colored_flowerpot_black
+quark:custom_bookshelf - Spruce Bookshelf - tile.custom_bookshelf
+quark:colored_item_frame - White Item Frame - item.colored_item_frame
+quark:lit_lamp - Lit Redstone Lamp - tile.lit_lamp
+quark:custom_chest - Spruce Chest - tile.custom_chest
+quark:custom_chest_trap - Spruce Trapped Chest - tile.custom_chest_trap
+quark:candle - White Candle - tile.candle
+quark:tallow - Tallow - item.tallow
+quark:rope - Rope Coil - tile.rope
+quark:blaze_lantern - Blaze Lantern - tile.blaze_lantern
+quark:nether_brick_fence_gate - Nether Brick Fence Gate - tile.nether_brick_fence_gate
+quark:leaf_carpet - Oak Leaf Carpet - tile.leaf_carpet
+quark:spruce_pressure_plate - Spruce Pressure Plate - tile.spruce_pressure_plate
+quark:birch_pressure_plate - Birch Pressure Plate - tile.birch_pressure_plate
+quark:jungle_pressure_plate - Jungle Pressure Plate - tile.jungle_pressure_plate
+quark:acacia_pressure_plate - Acacia Pressure Plate - tile.acacia_pressure_plate
+quark:dark_oak_pressure_plate - Dark Oak Pressure Plate - tile.dark_oak_pressure_plate
+quark:spruce_button - Spruce Button - tile.spruce_button
+quark:birch_button - Birch Button - tile.birch_button
+quark:jungle_button - Jungle Button - tile.jungle_button
+quark:acacia_button - Acacia Button - tile.acacia_button
+quark:dark_oak_button - Dark Oak Button - tile.dark_oak_button
+quark:grate - Iron Grate - tile.grate
+quark:glass_item_frame - Glass Item Frame - item.glass_item_frame
+>>>>>>> Stashed changes
 quark:sandstone_new - Polished Sandstone - tile.sandstone_new
 quark:sandstone_bricks_stairs - Sandstone Brick Stairs - tile.sandstone_bricks_stairs
 quark:red_sandstone_bricks_stairs - Red Sandstone Brick Stairs - tile.red_sandstone_bricks_stairs
@@ -5059,6 +5123,100 @@ quark:dark_oak_button - Dark Oak Button - tile.dark_oak_button
 quark:grate - Iron Grate - tile.grate
 quark:glass_item_frame - Glass Item Frame - item.glass_item_frame
 quark:witch_hat - Witch Hat - item.witch_hat
+<<<<<<< Updated upstream
+=======
+quark:roots - Cave Roots - tile.roots
+quark:root - Cave Root - item.root
+quark:roots_blue_flower - Cave Roots - tile.roots_blue_flower
+quark:roots_black_flower - Cave Roots - tile.roots_black_flower
+quark:roots_white_flower - Cave Roots - tile.roots_white_flower
+quark:root_flower - Blue Sprout - item.root_flower
+quark:root_dye - Blue Dye - item.root_dye
+quark:diamond_heart - Heart of Diamond - item.diamond_heart
+quark:archaeologist_hat - Archaeologist Hat - item.archaeologist_hat
+quark:variant_leaves - Swamp Oak Leaves - tile.variant_leaves
+quark:variant_sapling - Swamp Oak Sapling - tile.variant_sapling
+quark:crystal - White Cave Crystal - tile.crystal
+quark:crystal_pane - White Cave Crystal Sheet - tile.crystal_pane
+quark:stone_speleothem - Stone Speleothem - tile.stone_speleothem
+quark:granite_speleothem - Granite Speleothem - tile.granite_speleothem
+quark:diorite_speleothem - Diorite Speleothem - tile.diorite_speleothem
+quark:andesite_speleothem - Andesite Speleothem - tile.andesite_speleothem
+quark:netherrack_speleothem - Netherrack Speleothem - tile.netherrack_speleothem
+quark:basalt_speleothem - Basalt Speleothem - tile.basalt_speleothem
+quark:marble_speleothem - Marble Speleothem - tile.marble_speleothem
+quark:limestone_speleothem - Limestone Speleothem - tile.limestone_speleothem
+quark:jasper_speleothem - Jasper Speleothem - tile.jasper_speleothem
+quark:slate_speleothem - Slate Speleothem - tile.slate_speleothem
+quark:biotite_ore - Ender Biotite Ore - tile.biotite_ore
+quark:biotite_block - Block of Biotite - tile.biotite_block
+quark:biotite - Ender Biotite - item.biotite
+quark:biotite_slab - Biotite Slab - tile.biotite_slab
+quark:biotite_stairs - Biotite Stairs - tile.biotite_stairs
+quark:biotite_wall - Biotite Wall - tile.biotite_wall
+quark:monster_box - Monster Box - tile.monster_box
+quark:basalt - Basalt - tile.basalt
+quark:stone_basalt_slab - Basalt Slab - tile.stone_basalt_slab
+quark:stone_basalt_stairs - Basalt Stairs - tile.stone_basalt_stairs
+quark:basalt_wall - Basalt Wall - tile.basalt_wall
+quark:frog_leg - Frog Leg - item.frog_leg
+quark:cooked_frog_leg - Cooked Frog Leg - item.cooked_frog_leg
+quark:golden_frog_leg - Golden Frog Leg - item.golden_frog_leg
+quark:pirate_hat - Pirate Hat - item.pirate_hat
+quark:crab_leg - Crab Leg - item.crab_leg
+quark:cooked_crab_leg - Cooked Crab Leg - item.cooked_crab_leg
+quark:crab_shell - Crab Shell Fragment - item.crab_shell
+quark:marble - Marble - tile.marble
+quark:stone_marble_slab - Marble Slab - tile.stone_marble_slab
+quark:stone_marble_stairs - Marble Stairs - tile.stone_marble_stairs
+quark:marble_wall - Marble Wall - tile.marble_wall
+quark:limestone - Limestone - tile.limestone
+quark:stone_limestone_slab - Limestone Slab - tile.stone_limestone_slab
+quark:stone_limestone_stairs - Limestone Stairs - tile.stone_limestone_stairs
+quark:limestone_wall - Limestone Wall - tile.limestone_wall
+quark:jasper - Jasper - tile.jasper
+quark:stone_jasper_slab - Jasper Slab - tile.stone_jasper_slab
+quark:stone_jasper_stairs - Jasper Stairs - tile.stone_jasper_stairs
+quark:jasper_wall - Jasper Wall - tile.jasper_wall
+quark:slate - Slate - tile.slate
+quark:stone_slate_slab - Slate Slab - tile.stone_slate_slab
+quark:stone_slate_stairs - Slate Stairs - tile.stone_slate_stairs
+quark:slate_wall - Slate Wall - tile.slate_wall
+quark:biome_cobblestone - Brimstone - tile.biome_cobblestone
+quark:biome_brick - Brimstone Bricks - tile.biome_brick
+quark:elder_prismarine - Elder Prismarine - tile.elder_prismarine
+quark:elder_sea_lantern - Elder Sea Lantern - tile.elder_sea_lantern
+quark:fire_stone_slab - Brimstone Slab - tile.fire_stone_slab
+quark:fire_stone_stairs - Brimstone Stairs - tile.fire_stone_stairs
+quark:fire_stone_brick_slab - Brimstone Bricks Slab - tile.fire_stone_brick_slab
+quark:fire_stone_brick_stairs - Brimstone Bricks Stairs - tile.fire_stone_brick_stairs
+quark:icy_stone_slab - Permafrost Slab - tile.icy_stone_slab
+quark:icy_stone_stairs - Permafrost Stairs - tile.icy_stone_stairs
+quark:icy_stone_brick_slab - Permafrost Bricks Slab - tile.icy_stone_brick_slab
+quark:icy_stone_brick_stairs - Permafrost Bricks Stairs - tile.icy_stone_brick_stairs
+quark:cobbed_stone_slab - Cobbedstone Slab - tile.cobbed_stone_slab
+quark:cobbed_stone_stairs - Cobbedstone Stairs - tile.cobbed_stone_stairs
+quark:elder_prismarine_slab - Elder Prismarine Slab - tile.elder_prismarine_slab
+quark:elder_prismarine_stairs - Elder Prismarine Stairs - tile.elder_prismarine_stairs
+quark:elder_prismarine_bricks_slab - Elder Prismarine Brick Slab - tile.elder_prismarine_bricks_slab
+quark:elder_prismarine_bricks_stairs - Elder Prismarine Brick Stairs - tile.elder_prismarine_bricks_stairs
+quark:elder_prismarine_dark_slab - Dark Elder Prismarine Slab - tile.elder_prismarine_dark_slab
+quark:elder_prismarine_dark_stairs - Dark Elder Prismarine Stairs - tile.elder_prismarine_dark_stairs
+quark:fire_stone_wall - Brimstone Wall - tile.fire_stone_wall
+quark:icy_stone_wall - Permafrost Wall - tile.icy_stone_wall
+quark:cobbed_stone_wall - Cobbedstone Wall - tile.cobbed_stone_wall
+quark:fire_stone_brick_wall - Brimstone Bricks Wall - tile.fire_stone_brick_wall
+quark:icy_stone_brick_wall - Permafrost Bricks Wall - tile.icy_stone_brick_wall
+quark:elder_prismarine_wall - Elder Prismarine Wall - tile.elder_prismarine_wall
+quark:elder_prismarine_bricks_wall - Elder Prismarine Brick Wall - tile.elder_prismarine_bricks_wall
+quark:elder_prismarine_dark_wall - Dark Elder Prismarine Wall - tile.elder_prismarine_dark_wall
+quark:glowcelium - Glowcelium - tile.glowcelium
+quark:glowshroom - Glowshroom - tile.glowshroom
+quark:glowshroom_block - Glowshroom - tile.glowshroom_block
+quark:soul_bead - Soul Bead - item.soul_bead
+quark:smoker - Nether Smoker - tile.smoker
+quark:glass_shards - Glass Shard - item.glass_shards
+>>>>>>> Stashed changes
 quark:chute - Chute - tile.chute
 quark:sugar_block - Sugar Block - tile.sugar_block
 quark:redstone_randomizer - Redstone Randomizer - tile.redstone_randomizer
@@ -5651,26 +5809,6 @@ metallurgy:steel_helmet - Steel Helmet - item.metallurgy.steel_helmet
 metallurgy:steel_chestplate - Steel Chestplate - item.metallurgy.steel_chestplate
 metallurgy:steel_leggings - Steel Leggings - item.metallurgy.steel_leggings
 metallurgy:steel_boots - Steel Boots - item.metallurgy.steel_boots
-metallurgy:carmot_ore - Carmot Ore - tile.metallurgy.carmot_ore
-metallurgy:carmot_block - Carmot Block - tile.metallurgy.carmot_block
-metallurgy:carmot_engraved_block - Carmot Engraved Block - tile.metallurgy.carmot_engraved_block
-metallurgy:carmot_large_bricks - Carmot Large Bricks - tile.metallurgy.carmot_large_bricks
-metallurgy:carmot_bricks - Carmot Bricks - tile.metallurgy.carmot_bricks
-metallurgy:carmot_crystals - Carmot Crystals - tile.metallurgy.carmot_crystals
-metallurgy:carmot_hazard_block - Carmot Hazard Block - tile.metallurgy.carmot_hazard_block
-metallurgy:carmot_reinforced_glass - Carmot Reinforced Glass - tile.metallurgy.carmot_reinforced_glass
-metallurgy:carmot_ingot - Carmot Ingot - item.metallurgy.carmot_ingot
-metallurgy:carmot_dust - Carmot Dust - item.metallurgy.carmot_dust
-metallurgy:carmot_nugget - Carmot Nugget - item.metallurgy.carmot_nugget
-metallurgy:carmot_axe - Carmot Axe - item.metallurgy.carmot_axe
-metallurgy:carmot_hoe - Carmot Hoe - item.metallurgy.carmot_hoe
-metallurgy:carmot_pickaxe - Carmot Pickaxe - item.metallurgy.carmot_pickaxe
-metallurgy:carmot_shovel - Carmot Shovel - item.metallurgy.carmot_shovel
-metallurgy:carmot_sword - Carmot Sword - item.metallurgy.carmot_sword
-metallurgy:carmot_helmet - Carmot Helmet - item.metallurgy.carmot_helmet
-metallurgy:carmot_chestplate - Carmot Chestplate - item.metallurgy.carmot_chestplate
-metallurgy:carmot_leggings - Carmot Leggings - item.metallurgy.carmot_leggings
-metallurgy:carmot_boots - Carmot Boots - item.metallurgy.carmot_boots
 metallurgy:mithril_ore - Mithril Ore - tile.metallurgy.mithril_ore
 metallurgy:mithril_block - Mithril Block - tile.metallurgy.mithril_block
 metallurgy:mithril_engraved_block - Mithril Engraved Block - tile.metallurgy.mithril_engraved_block
@@ -5691,6 +5829,26 @@ metallurgy:mithril_helmet - Mithril Helmet - item.metallurgy.mithril_helmet
 metallurgy:mithril_chestplate - Mithril Chestplate - item.metallurgy.mithril_chestplate
 metallurgy:mithril_leggings - Mithril Leggings - item.metallurgy.mithril_leggings
 metallurgy:mithril_boots - Mithril Boots - item.metallurgy.mithril_boots
+metallurgy:carmot_ore - Carmot Ore - tile.metallurgy.carmot_ore
+metallurgy:carmot_block - Carmot Block - tile.metallurgy.carmot_block
+metallurgy:carmot_engraved_block - Carmot Engraved Block - tile.metallurgy.carmot_engraved_block
+metallurgy:carmot_large_bricks - Carmot Large Bricks - tile.metallurgy.carmot_large_bricks
+metallurgy:carmot_bricks - Carmot Bricks - tile.metallurgy.carmot_bricks
+metallurgy:carmot_crystals - Carmot Crystals - tile.metallurgy.carmot_crystals
+metallurgy:carmot_hazard_block - Carmot Hazard Block - tile.metallurgy.carmot_hazard_block
+metallurgy:carmot_reinforced_glass - Carmot Reinforced Glass - tile.metallurgy.carmot_reinforced_glass
+metallurgy:carmot_ingot - Carmot Ingot - item.metallurgy.carmot_ingot
+metallurgy:carmot_dust - Carmot Dust - item.metallurgy.carmot_dust
+metallurgy:carmot_nugget - Carmot Nugget - item.metallurgy.carmot_nugget
+metallurgy:carmot_axe - Carmot Axe - item.metallurgy.carmot_axe
+metallurgy:carmot_hoe - Carmot Hoe - item.metallurgy.carmot_hoe
+metallurgy:carmot_pickaxe - Carmot Pickaxe - item.metallurgy.carmot_pickaxe
+metallurgy:carmot_shovel - Carmot Shovel - item.metallurgy.carmot_shovel
+metallurgy:carmot_sword - Carmot Sword - item.metallurgy.carmot_sword
+metallurgy:carmot_helmet - Carmot Helmet - item.metallurgy.carmot_helmet
+metallurgy:carmot_chestplate - Carmot Chestplate - item.metallurgy.carmot_chestplate
+metallurgy:carmot_leggings - Carmot Leggings - item.metallurgy.carmot_leggings
+metallurgy:carmot_boots - Carmot Boots - item.metallurgy.carmot_boots
 metallurgy:ceruclase_ore - Ceruclase Ore - tile.metallurgy.ceruclase_ore
 metallurgy:ceruclase_block - Ceruclase Block - tile.metallurgy.ceruclase_block
 metallurgy:ceruclase_engraved_block - Ceruclase Engraved Block - tile.metallurgy.ceruclase_engraved_block
@@ -6230,10 +6388,10 @@ mekanism:reinforcedplasticblock - §8Black Reinforced Plastic Block - tile.Reinf
 mekanism:roadplasticblock - §8Black Plastic Road - tile.RoadPlasticBlock
 mekanism:plasticfence - §8Black Plastic Barrier - tile.PlasticFence
 mekanism:saltblock - Salt Block - tile.SaltBlock
-compactvoidminers:void_miner - Compact Void Miner - tile.void_miner
-compactvoidminers:void_pump - Compact Void Pump - tile.void_pump
 compactvoidminers:blank_filter - Blank OreDictionary Filter - item.blank_filter
 compactvoidminers:item_filter - OreDictionary Filter: block - item.item_filter
+compactvoidminers:void_miner - Compact Void Miner - tile.void_miner
+compactvoidminers:void_pump - Compact Void Pump - tile.void_pump
 defiledlands:stone_defiled - Defiled Stone - tile.defiledlands.stone_defiled
 defiledlands:sand_defiled - Defiled Sand - tile.defiledlands.sand_defiled
 defiledlands:sandstone_defiled - Defiled Sandstone - tile.defiledlands.sandstone_defiled
@@ -7810,63 +7968,6 @@ landcore:item_tungsten_helmet - Tungsten Helmet - item.item_tungsten_helmet
 landcore:item_tungsten_chestplate - Tungsten Chestplate - item.item_tungsten_chestplate
 landcore:item_tungsten_leggings - Tungsten Leggings - item.item_tungsten_leggings
 landcore:item_tungsten_boots - Tungsten Boots - item.item_tungsten_boots
-landcraft:landmasters_wings - Landmaster's Wings - item.landmasters_wings
-landcraft:weather_wand - Landia Weather Wand - item.weather_wand
-landcraft:landia_portal_marker - Landia Portal Marker - tile.landia_portal_marker
-landcraft:landia_tower - Tower of Landia - tile.landia_tower
-landcraft:landia_altar - Altar Core - tile.landia_altar
-landcraft:redstone_component - Redstone Component - item.redstone_component
-landcraft:onion - Onion - item.onion
-landcraft:rice - Rice - item.rice
-landcraft:olive - Olive - item.olive
-landcraft:potato_onion_pastry - Uncooked Pierogi - item.potato_onion_pastry
-landcraft:pho - Pho Broth - item.pho
-landcraft:landia_sapling - Cinnamon Sapling - tile.landia_sapling
-landcraft:landia_leaves - Cinnamon Leaves - tile.landia_leaves
-landcraft:landia_log - Cinnamon Wood - tile.landia_log
-landcraft:landia_planks - Cinnamon Planks - tile.landia_planks
-landcraft:cinnamon - Cinnamon - item.cinnamon
-landcraft:landia_wood_slab - Cinnamon Slab - tile.landia_wood_slab
-landcraft:cinnamon_stairs - Cinnamon Stairs - tile.cinnamon_stairs
-landcraft:olive_stairs - Olive Stairs - tile.olive_stairs
-landcraft:breeder - Breeder Reactor - tile.breeder
-landcraft:temperature_detector - Temperature Detector - tile.temperature_detector
-landcraft:player_mime - Player Mime - tile.player_mime
-landcraft:thorium_generator - Thorium Generator - tile.thorium_generator
-landcraft:pot - Pot - tile.pot
-landcraft:item_wrench - Wrench - item.item_wrench
-landcraft:landia_ore - Kelline Ore - tile.landia_ore
-landcraft:landia_metal - Block of Kelline - tile.landia_metal
-landcraft:landia_ingot - Kelline Ingot - item.landia_ingot
-landcraft:kelline_sword - Kelline Sword - item.kelline_sword
-landcraft:kelline_pickaxe - Kelline Pickaxe - item.kelline_pickaxe
-landcraft:kelline_axe - Kelline Axe - item.kelline_axe
-landcraft:kelline_shovel - Kelline Shovel - item.kelline_shovel
-landcraft:kelline_hoe - Kelline Hoe - item.kelline_hoe
-landcraft:garfax_sword - Garfax Sword - item.garfax_sword
-landcraft:garfax_pickaxe - Garfax Pickaxe - item.garfax_pickaxe
-landcraft:garfax_axe - Garfax Axe - item.garfax_axe
-landcraft:garfax_shovel - Garfax Shovel - item.garfax_shovel
-landcraft:garfax_hoe - Garfax Hoe - item.garfax_hoe
-landcraft:morganine_sword - Morganine Sword - item.morganine_sword
-landcraft:morganine_pickaxe - Morganine Pickaxe - item.morganine_pickaxe
-landcraft:morganine_axe - Morganine Axe - item.morganine_axe
-landcraft:morganine_shovel - Morganine Shovel - item.morganine_shovel
-landcraft:morganine_hoe - Morganine Hoe - item.morganine_hoe
-landcraft:racheline_sword - Racheline Sword - item.racheline_sword
-landcraft:racheline_pickaxe - Racheline Pickaxe - item.racheline_pickaxe
-landcraft:racheline_axe - Racheline Axe - item.racheline_axe
-landcraft:racheline_shovel - Racheline Shovel - item.racheline_shovel
-landcraft:racheline_hoe - Racheline Hoe - item.racheline_hoe
-landcraft:friscion_sword - Friscion Sword - item.friscion_sword
-landcraft:friscion_pickaxe - Friscion Pickaxe - item.friscion_pickaxe
-landcraft:friscion_axe - Friscion Axe - item.friscion_axe
-landcraft:friscion_shovel - Friscion Shovel - item.friscion_shovel
-landcraft:friscion_hoe - Friscion Hoe - item.friscion_hoe
-landcraft:landia_crab_flesh - Landia Crab Flesh - item.landia_crab_flesh
-landcraft:bun_rieu - Bun Rieu Broth - item.bun_rieu
-landcraft:tomato_crop - Tomato Vine - item.tomato_crop
-landcraft:tomato - Tomato - item.tomato
 locks:key_blank - Key Blank - item.locks.key_blank
 locks:lock - Lock - item.locks.lock
 locks:key - Key - item.locks.key
@@ -7951,6 +8052,14 @@ mekanismtools:steelhelmet - Steel Helmet - item.SteelHelmet
 mekanismtools:steelchestplate - Steel Chestplate - item.SteelChestplate
 mekanismtools:steelleggings - Steel Leggings - item.SteelLeggings
 mekanismtools:steelboots - Steel Boots - item.SteelBoots
+modulardiversity:blockemberinputhatch - Tiny Ember Input - tile.blockemberinputhatch
+modulardiversity:blockemberoutputhatch - Tiny Ember Output - tile.blockemberoutputhatch
+modulardiversity:blockmeklaseracceptor - Mekanism Laser Acceptor - tile.blockmeklaseracceptor
+modulardiversity:blockmekheatinput - Mekanism Heat Input - tile.blockmekheatinput
+modulardiversity:blockmekheatoutput - Mekanism Heat Output - tile.blockmekheatoutput
+modulardiversity:blockbiomedetector - Biome Detector - tile.blockbiomedetector
+modulardiversity:blockdaylightdetector - Time Detector - tile.blockdaylightdetector
+modulardiversity:blockweatherdetector - Weather Detector - tile.blockweatherdetector
 msmlegacy:dawn_star - §6Dawn Star - item.msmlegacy.dawn.star
 msmlegacy:vampiric_blade - §4Vampiric Blade - item.msmlegacy.vampiric.blade
 msmlegacy:gladiolus - §2Gladiolus - item.msmlegacy.gladiolus
@@ -9475,18 +9584,6 @@ tinkerscompendium:zweihander - Zweihander - item.zweihander
 tinkerscompendium:shears - Shears - item.shears
 tinkerscompendium:saw - Saw - item.saw
 tinkerscompendium:mallet - Mallet - item.mallet
-tinkerscompendium:hood - Hood - item.tinkerhood
-tinkerscompendium:shawl - Shawl - item.tinkershawl
-tinkerscompendium:robe - Robe - item.tinkerrobe
-tinkerscompendium:shoes - Shoes - item.tinkershoes
-tinkerscompendium:coif - item.tinkerscoif.name - item.tinkerscoif
-tinkerscompendium:hauberk - item.tinkershauberk.name - item.tinkershauberk
-tinkerscompendium:chausses - item.tinkerschausses.name - item.tinkerschausses
-tinkerscompendium:boots - item.tinkersboots.name - item.tinkersboots
-tinkerscompendium:helm - Helm - item.tinkershelm
-tinkerscompendium:breastplate - Breastplate - item.tinkersbreastplate
-tinkerscompendium:grieves - Grieves - item.tinkersgrieves
-tinkerscompendium:sabatons - Sabatons - item.tinkerssabatons
 tinkerscompendium:armorstation - Armor Station - tile.armorstation
 tinkerscompendium:finishinganvil - Finishing Anvil - tile.finishinganvil
 tinkerscompendium:hammeringtable - Hammering Table - tile.hammeringtable
@@ -9762,12 +9859,12 @@ undergroundbiomes:metamorphic_stone_stairs - Gneiss Stairs - tile.metamorphic_st
 undergroundbiomes:metamorphic_cobble_stairs - Gneiss Cobblestone Stairs - tile.metamorphic_cobble_stairs_north
 undergroundbiomes:metamorphic_brick_stairs - Gneiss Brick Stairs - tile.metamorphic_brick_stairs_north
 undergroundbiomes:sedimentary_stone_stairs - Limestone Stairs - tile.sedimentary_stone_stairs_north
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore - Red Granite Certus Quartz Ore - tile.igneous_stone_appliedenergistics2_quartz_ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore - Gneiss Certus Quartz Ore - tile.metamorphic_stone_appliedenergistics2_quartz_ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore - Limestone Certus Quartz Ore - tile.sedimentary_stone_appliedenergistics2_quartz_ore
 undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore - Red Granite Charged Certus Quartz Ore - tile.igneous_stone_appliedenergistics2_charged_quartz_ore
 undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore - Gneiss Charged Certus Quartz Ore - tile.metamorphic_stone_appliedenergistics2_charged_quartz_ore
 undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore - Limestone Charged Certus Quartz Ore - tile.sedimentary_stone_appliedenergistics2_charged_quartz_ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore - Red Granite Certus Quartz Ore - tile.igneous_stone_appliedenergistics2_quartz_ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore - Gneiss Certus Quartz Ore - tile.metamorphic_stone_appliedenergistics2_quartz_ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore - Limestone Certus Quartz Ore - tile.sedimentary_stone_appliedenergistics2_quartz_ore
 wct:wct - Wireless Crafting Terminal - item.wct:wct
 wct:wct_creative - Creative Wireless Crafting Terminal - item.wct:wct_creative
 wct:magnet_card - Magnet Card - item.wct:magnet_card
@@ -9855,8 +9952,13 @@ actuallyadditions:block_giant_chest_large - Large Storage Crate - tile.actuallya
 actuallyadditions:block_grinder - Crusher - tile.actuallyadditions.block_grinder
 actuallyadditions:block_grinder_double - Double Crusher - tile.actuallyadditions.block_grinder_double
 actuallyadditions:block_furnace_double - Powered Furnace - tile.actuallyadditions.block_furnace_double
+<<<<<<< Updated upstream
 actuallyadditions:block_inputter - ESD (Energetic Solo Dancer) - tile.actuallyadditions.block_inputter
 actuallyadditions:block_inputter_advanced - Advanced ESD (Ending Serious Daughter) - tile.actuallyadditions.block_inputter_advanced
+=======
+actuallyadditions:block_inputter - ESD (Ethereal System Dude) - tile.actuallyadditions.block_inputter
+actuallyadditions:block_inputter_advanced - Advanced ESD (Express Sending Doughnut) - tile.actuallyadditions.block_inputter_advanced
+>>>>>>> Stashed changes
 actuallyadditions:block_fishing_net - Fishing Net - tile.actuallyadditions.block_fishing_net
 actuallyadditions:block_furnace_solar - Solar Panel - tile.actuallyadditions.block_furnace_solar
 actuallyadditions:block_heat_collector - Heat Collector - tile.actuallyadditions.block_heat_collector
@@ -10206,7 +10308,7 @@ embers:block_caminite_brick_slab_double - Caminite Brick Double Slab - tile.bloc
 embers:stairs_caminite_brick - Caminite Brick Stairs - tile.stairs_caminite_brick
 embers:wall_caminite_brick - Caminite Brick Wall - tile.wall_caminite_brick
 embers:block_tank - Fluid Tank - tile.block_tank
-embers:pipe - Factory Pipe - tile.pipe
+embers:pipe - Fluid Pipe - tile.pipe
 embers:pump - Fluid Extractor - tile.pump
 embers:block_furnace - Melter - tile.block_furnace
 embers:ember_receiver - Ember Receptor - tile.ember_receiver
@@ -10777,6 +10879,7 @@ lucraftcore:ingot_uru - Uru Ingot - item.ingot_uru
 lucraftcore:dust_uru - Uru Dust - item.dust_uru
 lucraftcore:nugget_uru - Uru Nugget - item.nugget_uru
 lucraftcore:plate_uru - Uru Plate - item.plate_uru
+<<<<<<< Updated upstream
 lucraftcore:ore_uru - Uru Ore - tile.ore_uru
 lucraftcore:ore_osmium - Osmium Ore - tile.ore_osmium
 lucraftcore:ore_uranium - Uranium Ore - tile.ore_uranium
@@ -10808,6 +10911,50 @@ lucraftcore:block_bronze - Bronze Block - tile.block_bronze
 lucraftcore:block_dwarf_star_alloy - Dwarf Star Alloy Block - tile.block_dwarf_star_alloy
 lucraftcore:block_tin - Tin Block - tile.block_tin
 lucraftcore:block_vibranium - Vibranium Block - tile.block_vibranium
+=======
+lucraftcore:ore_copper - Copper Ore - tile.ore_copper
+lucraftcore:ore_nickel - Nickel Ore - tile.ore_nickel
+lucraftcore:ore_titanium - Titanium Ore - tile.ore_titanium
+lucraftcore:ore_iridium - Iridium Ore - tile.ore_iridium
+lucraftcore:ore_lead - Lead Ore - tile.ore_lead
+lucraftcore:ore_palladium - Palladium Ore - tile.ore_palladium
+lucraftcore:ore_dwarf_star_alloy - Dwarf Star Meteor - tile.ore_dwarf_star_alloy
+lucraftcore:ore_uru - Uru Ore - tile.ore_uru
+lucraftcore:ore_uranium - Uranium Ore - tile.ore_uranium
+lucraftcore:ore_silver - Silver Ore - tile.ore_silver
+lucraftcore:ore_tin - Tin Ore - tile.ore_tin
+lucraftcore:ore_vibranium - Vibranium Ore - tile.ore_vibranium
+lucraftcore:ore_osmium - Osmium Ore - tile.ore_osmium
+lucraftcore:block_adamantium - Adamantium Block - tile.block_adamantium
+lucraftcore:block_copper - Copper Block - tile.block_copper
+lucraftcore:block_nickel - Nickel Block - tile.block_nickel
+lucraftcore:block_titanium - Titanium Block - tile.block_titanium
+lucraftcore:block_iridium - Iridium Block - tile.block_iridium
+lucraftcore:block_lead - Lead Block - tile.block_lead
+lucraftcore:block_palladium - Palladium Block - tile.block_palladium
+lucraftcore:block_bronze - Bronze Block - tile.block_bronze
+lucraftcore:block_steel - Steel Block - tile.block_steel
+lucraftcore:block_dwarf_star_alloy - Dwarf Star Alloy Block - tile.block_dwarf_star_alloy
+lucraftcore:block_uru - Uru Block - tile.block_uru
+lucraftcore:block_gold_titanium_alloy - Gold-Titanium-Alloy Block - tile.block_gold_titanium_alloy
+lucraftcore:block_intertium - Intertium Block - tile.block_intertium
+lucraftcore:block_uranium - Uranium Block - tile.block_uranium
+lucraftcore:block_silver - Silver Block - tile.block_silver
+lucraftcore:block_tin - Tin Block - tile.block_tin
+lucraftcore:block_vibranium - Vibranium Block - tile.block_vibranium
+lucraftcore:block_osmium - Osmium Block - tile.block_osmium
+modularmachinery:blockcontroller - Machine Controller - tile.modularmachinery.blockcontroller
+modularmachinery:blockcasing - Machine Casing - tile.modularmachinery.blockcasing
+modularmachinery:blockinputbus - Tiny Item Input - tile.modularmachinery.blockinputbus
+modularmachinery:blockoutputbus - Tiny Item Output - tile.modularmachinery.blockoutputbus
+modularmachinery:blockfluidinputhatch - Tiny Fluid Input Hatch - tile.modularmachinery.blockfluidinputhatch
+modularmachinery:blockfluidoutputhatch - Tiny Fluid Output Hatch - tile.modularmachinery.blockfluidoutputhatch
+modularmachinery:blockenergyinputhatch - Tiny Energy Input Hatch - tile.modularmachinery.blockenergyinputhatch
+modularmachinery:blockenergyoutputhatch - Tiny Energy Output Hatch - tile.modularmachinery.blockenergyoutputhatch
+modularmachinery:itemblueprint - Machine Blueprint - item.modularmachinery.itemblueprint
+modularmachinery:itemmodularium - Modularium - item.modularmachinery.itemmodularium
+modularmachinery:itemconstructtool - Construct Selection Tool - item.modularmachinery.itemconstructtool
+>>>>>>> Stashed changes
 mo_swords:dragon - Dragonkiller - item.dragon
 mo_swords:dtgriff - Dragonkiller Hilt - item.dtGriff
 mo_swords:dtklinge - Draginkiller Blade - item.dtKlinge
@@ -10875,8 +11022,8 @@ netherbackport:blackstonestairs - Blackstone Stairs - tile.blackstonestairs
 netherbackport:polishedblackstonestairs - Polished Blackstone Stairs - tile.polishedblackstonestairs
 netherbackport:polishedblackstonebricksstairs - Polished Blackstone Bricks Stairs - tile.polishedblackstonebricksstairs
 netherbackport:chiselednetherbricks - Chiseled Nether Bricks - tile.chiselednetherbricks
-netherbackport:chain - Chain - tile.chain
 netherbackport:crackednetherbricks - Cracked Nether Bricks - tile.crackednetherbricks
+netherbackport:chain - Chain - tile.chain
 netherbackport:quartzbricks - Quartz Bricks - tile.quartzbricks
 netherbackport:netheriteblock - Netherite Block - tile.netheriteblock
 netherbackport:ancientdebris - Ancient Debris - tile.ancientdebris
@@ -12381,162 +12528,6 @@ waveymod:wavic_armorarmorboots - Wavic Boots - item.wavic_armorarmorboots
 waveymod:wavicsword - Wavic Sword - item.wavicsword
 waveymod:wavicorb - Wavic Orb - item.wavicorb
 waveymod:wavicpick - Wavic Pick - item.wavicpick
-wrd:thedungeon_portal - tile.thedungeon_portal.name - tile.thedungeon_portal
-wrd:thedungeon - Dungeon Tool - item.thedungeon
-wrd:dungeonspawnl1 - Dungeon gen - tile.dungeonspawnl1
-wrd:stairsgen - stairsgen - tile.stairsgen
-wrd:topgen - topgen - tile.topgen
-wrd:doornormal - Door closed - tile.doornormal
-wrd:doormain - DoorUnlock - tile.doormain
-wrd:doorunlocked - Door Unlocked - tile.doorunlocked
-wrd:normaldoorunlocked - Door Unlocked - tile.normaldoorunlocked
-wrd:doormaineast - DoorUnlock - tile.doormaineast
-wrd:doormainsouth - DoorUnlock - tile.doormainsouth
-wrd:doormainwest - DoorUnlock - tile.doormainwest
-wrd:middleofaroom - Middleind - tile.middleofaroom
-wrd:rgrass - Roguelike grass - tile.rgrass
-wrd:rdirt - Roguelike Dirt - tile.rdirt
-wrd:rleaves - Roguelike Leaves - tile.rleaves
-wrd:rstone - Roguelike stone - tile.rstone
-wrd:rgrassflowers - Roguelike grass - tile.rgrassflowers
-wrd:rgrassmoreflowers - Roguelike grass - tile.rgrassmoreflowers
-wrd:rgrassmuddy - Roguelike grass - tile.rgrassmuddy
-wrd:rgrasswatery - Roguelike grass - tile.rgrasswatery
-wrd:rstonecracked - Roguelike stone - tile.rstonecracked
-wrd:rstonemossy - Roguelike stone - tile.rstonemossy
-wrd:rstonecarved - Roguelike stone - tile.rstonecarved
-wrd:rstonebricks - Roguelike stonebrick - tile.rstonebricks
-wrd:chestorspawnergen - chestgen - tile.chestorspawnergen
-wrd:rmossybricks - Roguelike stonebrick - tile.rmossybricks
-wrd:rcrackedbricks - Roguelike stonebrick - tile.rcrackedbricks
-wrd:portalblock - Portal Block - tile.portalblock
-wrd:teleblock - Teleblock - tile.teleblock
-wrd:chestspawnergenmedium - chestgen - tile.chestspawnergenmedium
-wrd:chestmobspawnerhard - chestgen - tile.chestmobspawnerhard
-wrd:layer6spawn - chestgen - tile.layer6spawn
-wrd:overgrownbricks - Roguelike stonebrick - tile.overgrownbricks
-wrd:factoryblock - Factory Wall - tile.factoryblock
-wrd:factoryblockmetal - Factory Wall - tile.factoryblockmetal
-wrd:factoryblockblood - Factory Wall - tile.factoryblockblood
-wrd:factoryblockscratched - Factory Wall - tile.factoryblockscratched
-wrd:pipe - Factory Pipe - tile.pipe
-wrd:pipe2 - Factory Pipe closed - tile.pipe2
-wrd:sawbladeblockoff - Saw Blade Block - tile.sawbladeblockoff
-wrd:sawbladeblockon - Saw Blade Block - tile.sawbladeblockon
-wrd:sawbladeblockhitbox - sawbladehitbox - tile.sawbladeblockhitbox
-wrd:factoryblockopenwall - Factory Wall - tile.factoryblockopenwall
-wrd:gears - Gears - tile.gears
-wrd:layer7spawn - chestgen - tile.layer7spawn
-wrd:randomlootchest - random lootchest gen - tile.randomlootchest
-wrd:sawbladehalf - Saw Blade Block - tile.sawbladehalf
-wrd:sawbladehalf2 - Saw Blade Block - tile.sawbladehalf2
-wrd:wallsawbladeblockoff - Saw Blade Block - tile.wallsawbladeblockoff
-wrd:wallsawbladeblockon - Saw Blade Block - tile.wallsawbladeblockon
-wrd:wallsawbladeblockhitbox - sawbladehitbox - tile.wallsawbladeblockhitbox
-wrd:wallsawbladehalf - Saw Blade Block - tile.wallsawbladehalf
-wrd:wallsawbladehallf2 - Saw Blade Block - tile.wallsawbladehallf2
-wrd:factoryblocklucky - Factory Wall - tile.factoryblocklucky
-wrd:factoryblockunlucky - Factory Wall - tile.factoryblockunlucky
-wrd:factoryburned1 - Factory Wall - tile.factoryburned1
-wrd:factoryburned2 - Factory Wall - tile.factoryburned2
-wrd:factoryburnedwires - Factory Wall - tile.factoryburnedwires
-wrd:burnedluckyblock - Factory Wall - tile.burnedluckyblock
-wrd:burnedunluckyblock - Factory Wall - tile.burnedunluckyblock
-wrd:factoryfirespawner - Saw Blade Block - tile.factoryfirespawner
-wrd:buggedgears - Gears - tile.buggedgears
-wrd:northdoor2 - DoorUnlock - tile.northdoor2
-wrd:eastdoor2 - DoorUnlock - tile.eastdoor2
-wrd:southdoor2 - DoorUnlock - tile.southdoor2
-wrd:westdoor2 - DoorUnlock - tile.westdoor2
-wrd:doornormal2 - Door closed - tile.doornormal2
-wrd:layer9spawn - chestgen - tile.layer9spawn
-wrd:castlebricks - Castle Bricks - tile.castlebricks
-wrd:castleskull - Castle Skull - tile.castleskull
-wrd:castletrap - Castle Trap - tile.castletrap
-wrd:castletraphalf - Castle Bricks - tile.castletraphalf
-wrd:castletrapfull - Castle Bricks - tile.castletrapfull
-wrd:castletraphalf2 - Castle Bricks - tile.castletraphalf2
-wrd:hitboxcastletrap - castletraphitbox - tile.hitboxcastletrap
-wrd:castleskullnonactive - Castle Skull trap - tile.castleskullnonactive
-wrd:castleskullactive - Castle Skull active trap - tile.castleskullactive
-wrd:lazernorth - lazer-Z - tile.lazernorth
-wrd:lazersouth - lazer+Z - tile.lazersouth
-wrd:lazerwest - lazer-X - tile.lazerwest
-wrd:lazereast - lazer+X - tile.lazereast
-wrd:lazerup - lazer+Y - tile.lazerup
-wrd:lazerdown - lazer-Y - tile.lazerdown
-wrd:castlefloor - Castle Bricks - tile.castlefloor
-wrd:castlepillar - Castle Bricks - tile.castlepillar
-wrd:layer10spawn - chestgen - tile.layer10spawn
-wrd:rockwallclosed - Castle Bricks - tile.rockwallclosed
-wrd:rockwallopen - Castle Bricks - tile.rockwallopen
-wrd:closedstatue - Boss Statue - tile.closedstatue
-wrd:closedsttatue2 - Boss Statue - tile.closedsttatue2
-wrd:closedstatue3 - Boss Statue - tile.closedstatue3
-wrd:closedstatue4 - Boss Statue - tile.closedstatue4
-wrd:meupper - Castle Bricks - tile.meupper
-wrd:meupperactive - Castle Bricks - tile.meupperactive
-wrd:melower - Castle Bricks - tile.melower
-wrd:neverendingdungeons - Portal Block - tile.neverendingdungeons
-wrd:skullblock - Portal Block - tile.skullblock
-wrd:sandskullblock - Portal Block - tile.sandskullblock
-wrd:normalskullblock - Portal Block - tile.normalskullblock
-wrd:iceskullblock - Portal Block - tile.iceskullblock
-wrd:jungleskullblock - Portal Block - tile.jungleskullblock
-wrd:netherskullblock - Portal Block - tile.netherskullblock
-wrd:portalactivator - Portal Block - tile.portalactivator
-wrd:skull - Dungeon Skull - item.skull
-wrd:iceskull - Ice Dungeon Skull - item.iceskull
-wrd:desertskull - Desert Dungeon Skull - item.desertskull
-wrd:jungleskull - Jungle Dungeon Skull - item.jungleskull
-wrd:netherskull - Nether Dungeon Skull - item.netherskull
-wrd:portalspawn - portalspawn - tile.portalspawn
-wrd:teleskullblock - teleskulllock - tile.teleskullblock
-wrd:dungeonspawn - Dungeon spawn - tile.dungeonspawn
-wrd:stairsspawn - Dungeonstairs - tile.stairsspawn
-wrd:halwayspawn - hallwayspawn - tile.halwayspawn
-wrd:x8room - 8x8 room - tile.x8room
-wrd:x16room - 16x16 room - tile.x16room
-wrd:roomspawnergen - roomspawnergen - tile.roomspawnergen
-wrd:roomspawnlayer1 - roomspawnlayer1 - tile.roomspawnlayer1
-wrd:overworldnormalspawnerlayer1 - chestgen - tile.overworldnormalspawnerlayer1
-wrd:roomspawnerlayer1to2 - 1to2 - tile.roomspawnerlayer1to2
-wrd:roomspawnergenreal - 1to2 - tile.roomspawnergenreal
-wrd:overworlddesertspawner - chestgen - tile.overworlddesertspawner
-wrd:hallwayspawn2 - hallwayspawn - tile.hallwayspawn2
-wrd:overworldicespawner - chestgen - tile.overworldicespawner
-wrd:overworldjunglespawner - chestgen - tile.overworldjunglespawner
-wrd:netherspawner - chestgen - tile.netherspawner
-wrd:roomspawnergen2 - 1to2 - tile.roomspawnergen2
-wrd:roomspawnergenreal2 - 1to2 - tile.roomspawnergenreal2
-wrd:roomspawnergen3 - 1to2 - tile.roomspawnergen3
-wrd:roomspawnergenreal3 - 1to2 - tile.roomspawnergenreal3
-wrd:roomspawnergenlayer2to3 - 1to2 - tile.roomspawnergenlayer2to3
-wrd:roomspawnergen4 - 1to2 - tile.roomspawnergen4
-wrd:roomspawnergenreal4 - 1to2 - tile.roomspawnergenreal4
-wrd:roomspawnergenlayer3to4 - 1to2 - tile.roomspawnergenlayer3to4
-wrd:roomspawnerlayer4 - roomspawnlayer1 - tile.roomspawnerlayer4
-wrd:finalspawner - chestgen - tile.finalspawner
-wrd:bossspawner - chestgen - tile.bossspawner
-wrd:dungeonspawnnether - Nether Dungeon Spawn - tile.dungeonspawnnether
-wrd:finalbossroomspawner - chestgen - tile.finalbossroomspawner
-wrd:odungeonspawn2 - Dungeonspawn2 - tile.odungeonspawn2
-wrd:odungeonspawn3 - Dungeonspawn2 - tile.odungeonspawn3
-wrd:diamondapple - Diamond Apple - item.diamondapple
-wrd:enchanteddust - Enchanted Dust - item.enchanteddust
-wrd:enchantedsword - Dungeon Enchanted sword - item.enchantedsword
-wrd:enchantedpickaxe - Dungeon Enchanted Pickaxe - item.enchantedpickaxe
-wrd:axeofpower - Dungeon Enchanted Axe - item.axeofpower
-wrd:shovelofpower - Dungeon Enchanted Shovel - item.shovelofpower
-wrd:hoeofpower - Dungeon Enchanted Hoe - item.hoeofpower
-wrd:roomspawnblock - roomspawnlayer1 - tile.roomspawnblock
-wrd:roomspawnl4 - roomspawnlayer1 - tile.roomspawnl4
-wrd:dungeonmazespawn - DungeonMazeSpawn - tile.dungeonmazespawn
-wrd:decayinggen - Decaying Gen - tile.decayinggen
-wrd:crackedsandstone - Cracked Sandstone - tile.crackedsandstone
-wrd:mossysandstone - Mossy Sandstone - tile.mossysandstone
-wrd:outsidegen - OutsideGen - tile.outsidegen
-wrd:marker - Marker - tile.marker
 fhantoncore:framewood - Wooden Frame - item.framewood
 fhantoncore:framestone - Stone Frame - item.framestone
 fhantoncore:frameiron - Iron Frame - item.frameiron
