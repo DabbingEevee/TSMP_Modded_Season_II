@@ -254,6 +254,9 @@
 
 *Davoleo,      ItHurtsLikeHell*
 ***
+### Modular Diversity
+*BordListian, DJJBanx, superfluke*
+***
 ### More Swords Legacy
 <https://minecraft.curseforge.com/projects/more-swords-legacy>
 
@@ -389,6 +392,11 @@
 *Buuz135*
 ***
 ### Thermal Cultivation
+<http://www.teamcofh.com>
+
+*Team CoFH*
+***
+### Thermal Dynamics
 <http://www.teamcofh.com>
 
 *Team CoFH*
@@ -581,6 +589,11 @@
 <https://minecraft.curseforge.com/projects/ModTweaker>
 
 *Jaredlll08*
+***
+### Modular Machinery
+<https://minecraft.curseforge.com/projects/modular-machinery>
+
+*HellFirePvP, wiiv*
 ***
 ### New Materials
 *DabbingEevee*
