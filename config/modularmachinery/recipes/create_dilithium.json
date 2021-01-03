@@ -1,0 +1,34 @@
+{
+	"machine": "dilithium_crystalizer",
+	"registryName": "dilithium_crystalizer_dilithium",
+	"recipeTime": 120,
+	"requirements": [{
+			"type": "fluid",
+			"io-type": "input",
+			"fluid": "liquidlithium",
+			"amount": 1000
+		},
+		{
+			"type": "meklaser",
+			"io-type": "input",
+			"energy": 20000000
+		},
+		{
+			"type": "energy",
+			"io-type": "input",
+			"energyPerTick": 512
+		},
+		{
+			"type": "fluid",
+			"io-type": "input",
+			"fluid": "lava",
+			"amount": 1000
+		},
+		{
+			"type": "item",
+			"io-type": "output",
+			"item": "libvulpes:productgem@0",
+			"amount": 1
+		}
+	]
+}

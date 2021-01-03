@@ -1,0 +1,42 @@
+{
+    "machine": "nucleus_reconstructor",
+    "registryName": "nucleus_reconstructor_uru",
+    "recipeTime": 900,
+    "requirements": [
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "tartarite",
+            "amount": 1000
+        },
+	{
+            "type": "meklaser",
+            "io-type": "input",
+            "energy": 200000000
+        },
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 32768
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "lucraftcore:ingot_adamantium>",
+            "amount": 16,
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "lucraftcore:ingot_dwarf_star_alloy>",
+            "amount": 16,
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "lucraftcore:ingot_uru",
+            "amount": 1,
+        }
+
+    ]
+}

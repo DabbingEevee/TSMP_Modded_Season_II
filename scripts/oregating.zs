@@ -11,22 +11,27 @@ mods.orestages.OreStages.addNonDefaultingReplacement("bronze_age", <ore:oreIron>
 mods.orestages.OreStages.addNonDefaultingReplacement("bronze_age", <waveymod:netherironore:*>, <fhantoncore:unidentifiedore>);
 
 mods.orestages.OreStages.addNonDefaultingReplacement("iron_age", <waveymod:tromerosore:*>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("iron_age", <ore:oreDiamond>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("iron_age", <ore:oreEmerald>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("iron_age", <waveymod:netheremeraldore:*>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("iron_age", <waveymod:netherdiamondore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("iron_age", <ore:oreSilver>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("iron_age", <ore:oreLead>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("iron_age", <minecraft:lapis_ore:*>, <fhantoncore:unidentifiedore>);
 
-mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_age", <netherbackport:ancientdebris:*>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_age", <ore:oreGold>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_age", <waveymod:nethergoldore:*>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_age", <netherbackport:nethergoldore:*>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("automation_age", <minecraft:redstone_ore:*>, <fhantoncore:unidentifiedore>);
+
+mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <ore:oreNickel>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <ore:oreGold>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <waveymod:nethergoldore:*>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <netherbackport:nethergoldore:*>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <ore:oreDiamond>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <ore:oreOsmium>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <waveymod:netherdiamondore:*>, <fhantoncore:unidentifiedore>);
 
 mods.orestages.OreStages.addNonDefaultingReplacement("aetheric_age", <aether_legacy:ambrosium_ore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("aetheric_age", <aether_legacy:zanite_ore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("aetheric_age", <aether_legacy:gravitite_ore:*>, <fhantoncore:unidentifiedore>);
 
+mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <netherbackport:ancientdebris:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <waveymod:wavicore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <minecraft:quartz_ore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <waveymod:stellarore:*>, <fhantoncore:unidentifiedore>);
@@ -52,6 +57,7 @@ mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreCer
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <metallurgy:deep_iron_ore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreManganese>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreKalendrite>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:orePalladium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:orePrometheum>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreAdamantine>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreAtlarus>, <fhantoncore:unidentifiedore>);
@@ -59,20 +65,17 @@ mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreVyr
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreLutetium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreOureclase>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreMeutoite>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreUranium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreOrichalcum>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreInfuscolium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreMidasium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreRubracium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreAluminum>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreDwarfStarAlloy>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreVibranium>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreTitanium>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreVibranium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <mysticalagriculture:inferium_ore:*>, <fhantoncore:unidentifiedore>);
 
-mods.orestages.OreStages.addNonDefaultingReplacement("automation_age", <minecraft:redstone_ore:*>, <fhantoncore:unidentifiedore>);
-
-mods.orestages.OreStages.addNonDefaultingReplacement("electrical_age", <ore:oreOsmium>, <fhantoncore:unidentifiedore>);
-
-#mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreRadium>, <fhantoncore:unidentifiedore>);
-#mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreFusionite>, <fhantoncore:unidentifiedore>);
-#mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreVoidSpar>, <fhantoncore:unidentifiedore>);
-#mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreEnderal>, <fhantoncore:unidentifiedore>);
-#mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <tconmaterial:oreradium:*>, <fhantoncore:unidentifiedore>);
-#mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <tconmaterial:orefusionite:*>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <ore:oreIridium>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <ore:oreUru>, <fhantoncore:unidentifiedore>);

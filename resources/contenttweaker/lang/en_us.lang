@@ -1,0 +1,10 @@
+tile.contenttweaker.pulsating_block.name=Block of Pulsaton
+item.contenttweaker.pulsating_gem.name=Pulsaton Gem
+tile.contenttweaker.bluestone.name=Bluestone
+material.Dilithium.name=Dilithium
+item.resource.infinity_catalyst.name=Active Infinity Essence
+item.contenttweaker.fiery_singularity.name=§6Fiery Singularity§r
+item.contenttweaker.glowing_iron_singularity.name=§6Glowing Iron Singularity§r
+item.contenttweaker.fluxed_electrum_singularity.name=§6Fluxed Electrum Singularity§r
+item.contenttweaker.inactive_infinity_catalyst.name=Inactive Infinity Essence
+item.contenttweaker.singularity_matrix.name=Singularity Matrix

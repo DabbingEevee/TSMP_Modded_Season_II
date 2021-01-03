@@ -19,3 +19,23 @@ pulsatingBlock.setToolClass("pickaxe");
 pulsatingBlock.setToolLevel(3);
 pulsatingBlock.setBlockSoundType(<soundtype:metal>);
 pulsatingBlock.register();
+
+var fierySingularity = mods.contenttweaker.VanillaFactory.createItem("fiery_singularity");
+fierySingularity.maxStackSize = 64;
+fierySingularity.register();
+
+var glowingIronSingularity = mods.contenttweaker.VanillaFactory.createItem("glowing_iron_singularity");
+glowingIronSingularity.maxStackSize = 64;
+glowingIronSingularity.register();
+
+var fluxedSingularity = mods.contenttweaker.VanillaFactory.createItem("fluxed_electrum_singularity");
+fluxedSingularity.maxStackSize = 64;
+fluxedSingularity.register();
+
+var catalyst = mods.contenttweaker.VanillaFactory.createItem("inactive_infinity_catalyst");
+catalyst.maxStackSize = 64;
+catalyst.register();
+
+var singularityMatrix = mods.contenttweaker.VanillaFactory.createItem("singularity_matrix");
+singularityMatrix.maxStackSize = 64;
+singularityMatrix.register();

@@ -1,0 +1,46 @@
+# Configuration file
+
+~CONFIG_VERSION: 0.1.0
+
+##########################################################################################################
+# advanced
+#--------------------------------------------------------------------------------------------------------#
+# Advanced config options to change the way JEI functions.
+##########################################################################################################
+
+advanced {
+    # List of ingredients that should not be displayed in the list. Format: modId[:name[:meta]]. Hide Ingredients Mode will automatically add or remove entries here. [Default: []]
+    S:itemBlacklist <
+        galaxyspace:rocket_tier_6:1
+        galaxyspace:rocket_tier_6:2
+        galaxyspace:rocket_tier_6:3
+        galaxyspace:rocket_tier_6:4
+        extraplanets:item_tier6_rocket:1
+        extraplanets:item_tier6_rocket:2
+        extraplanets:item_tier7_rocket:1
+        extraplanets:item_tier7_rocket:2
+        extraplanets:item_tier8_rocket:1
+        extraplanets:item_tier8_rocket:2
+        extraplanets:item_tier9_rocket:1
+        extraplanets:item_tier9_rocket:2
+        extraplanets:venus_rover:1
+        extraplanets:venus_rover:2
+        galacticraftcore:buggy:2
+        galaxyspace:rocket_tier_5
+        galaxyspace:rocket_tier_5:1
+        galaxyspace:rocket_tier_5:2
+        galaxyspace:rocket_tier_5:3
+        galaxyspace:rocket_tier_5:4
+        extraplanets:item_tier5_rocket:1
+        extraplanets:item_tier5_rocket:2
+        galaxyspace:rocket_tier_6
+        armorplus:zombie_villager_trophy
+        moreplanets:creative_space_kit
+        moreplanets:dark_energy_receiver
+        galacticraftcore:buggy:1
+        galaxyspace:rocket_tier_6
+        avaritia:singularity
+     >
+}
+
+<>, <>, <>, <>, <>, <>, <>, <>, <>, <>, <>, <>, <>
