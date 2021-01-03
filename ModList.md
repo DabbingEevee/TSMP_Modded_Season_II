@@ -17,6 +17,11 @@
 
 *Jacky1356400*
 ***
+### Advanced Rocketry
+<http://minecraft.curseforge.com/projects/advanced-rocketry>
+
+*zmaster587*
+***
 ### AetherWorks
 *V0idWa1k3r*
 ***
@@ -42,9 +47,6 @@
 <http://www.minecraftforum.net/topic/480774->
 
 ***
-### YUNG's Better Mineshafts
-*YUNGNICKYOUNG*
-***
 ### Better Questing
 *Funwayguy*
 ***
@@ -60,6 +62,11 @@
 ***
 ### Block Drops Tweaker
 *TheAwesomeGem*
+***
+### Block Tweaker
+<https://minecraft.curseforge.com/projects/ore-tweaker>
+
+*Ewy*
 ***
 ### Bookshelf
 <http://minecraft.curseforge.com/projects/bookshelf>
@@ -205,10 +212,10 @@
 ### Just Enough Energistics
 *TheRealp455w0rd*
 ***
-### LandCore
-<https://minecraft.curseforge.com/projects/landcore>
+### LagGoggles
+<https://minecraft.curseforge.com/projects/laggoggles>
 
-*Landmaster (phuong0429)*
+*Terminator_NL*
 ***
 ### libVulpes
 <http://minecraft.curseforge.com/projects/libvulpes>
@@ -295,6 +302,14 @@
 ### Nomadic Tents
 *skyjay1*
 ***
+### OCRocketry
+*slava_110*
+***
+### OpenComputers
+<http://oc.cil.li/>
+
+*Sangar, Vexatos, payonel, magik6k, Lord Joda, Github Contributors*
+***
 ### OreLib Support Mod
 <https://github.com/OreCruncher/OreLib/wiki>
 
@@ -335,9 +350,6 @@
 
 *Lumien*
 ***
-### Recurrent Complex
-*Ivorius*
-***
 ### Redstone Arsenal
 <http://www.teamcofh.com>
 
@@ -353,11 +365,6 @@
 ***
 ### Resource Loader
 *lumien*
-***
-### Roguelike Dungeons
-<github.com/Greymerk/minecraft-roguelike>
-
-*Greymerk*
 ***
 ### Roots
 *EpicSquid, Martacus, Noobanidus, Davoleo, Kalaxi, Elucent*
@@ -429,9 +436,6 @@
 ### Tough Expansion
 *TheRealp455w0rd*
 ***
-### Underground Biomes
-*exterminatorJeff, Zeno410, kyeiti*
-***
 ### Unique Enchantments
 *Xaikii, Speiger*
 ***
@@ -440,19 +444,11 @@
 
 *davav, MCreator*
 ***
-### Wesley's RogueLike Dungeons
-<https://mcreator.net>
-
-*Wesley,      MCreator*
-***
 ### Wireless Crafting Terminal 2
 *TheRealp455w0rd*
 ***
 ### Wireless Pattern Terminal
 *TheRealp455w0rd*
-***
-### Zollern Galaxy
-*ZollernWolf*
 ***
 ### AE2 Stuff
 <bdew.net>
@@ -477,6 +473,11 @@
 
 *sokratis12GR*
 ***
+### Astral Sorcery
+<https://minecraft.curseforge.com/projects/astral-sorcery>
+
+*HellFirePvP, wiiv*
+***
 ### Backpack
 <http://www.minecraftforum.net/topic/1492661->
 
@@ -491,11 +492,6 @@
 <bdew.net/mods/>
 
 *bdew*
-***
-### YUNG's Better Caves
-<https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves>
-
-*YUNGNICKYOUNG*
 ***
 ### Bio Library
 <https://github.com/Mrthomas20121/biolib>
