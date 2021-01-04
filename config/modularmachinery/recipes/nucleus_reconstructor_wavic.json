@@ -1,0 +1,47 @@
+{
+    "machine": "nucleus_reconstructor",
+    "registryName": "nucleus_reconstructor_wavic",
+    "recipeTime": 120,
+    "requirements": [
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "liquidradium",
+            "amount": 144
+        },
+	{
+            "type": "meklaser",
+            "io-type": "input",
+            "energy": 2000000
+        },
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 256
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "waveymod:wavicsteak",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "waveymod:wavicorb",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "waveymod:wavicflesh",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "waveymod:wavyingot",
+            "amount": 1
+        }
+    ]
+}

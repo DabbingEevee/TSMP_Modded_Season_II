@@ -1,6 +1,3 @@
-recipes.remove(<waveymod:awakenedingot>);
-recipes.remove(<waveymod:ingotcast>);
-
 mods.extendedcrafting.TableCrafting.addShaped(4, <galacticraftcore:infinite_oxygen>, 
 [[null, null, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, null, null],
 [null, <avaritia:resource:4>, <galaxyspace:surface_ice>, <galaxyspace:surface_ice>, <galaxyspace:surface_ice>, <galaxyspace:surface_ice>, <galaxyspace:surface_ice>, <avaritia:resource:4>, null],
@@ -22,4 +19,3 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <galacticraftcore:infinite_batt
 [null, <avaritia:resource:4>, <ore:materialWoolEnergetic>, <ore:materialWoolEnergetic>, <moreplanets:black_hole_fragments>, <ore:materialWoolEnergetic>, <ore:materialWoolEnergetic>, <avaritia:resource:4>, null],
 [null, <avaritia:resource:4>, <extendedcrafting:singularity_custom>, <avaritia:resource:6>, <avaritia:resource:1>, <avaritia:resource:6>, <extendedcrafting:singularity_custom>, <avaritia:resource:4>, null],
 [null, null, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, null, null]]);
-recipes.addShapeless("auto_gen_-431811635", <waveymod:awakenedingot>, [<waveymod:blastedessenceofdragon>, <tconstruct:cast_custom:0>.giveBack(<tconstruct:cast_custom>)]);

@@ -1,0 +1,48 @@
+{
+    "machine": "nucleus_reconstructor",
+    "registryName": "nucleus_reconstructor_pure_evil",
+    "recipeTime": 60,
+    "requirements": [
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "liquidradium",
+            "amount": 144
+        },
+	{
+            "type": "meklaser",
+            "io-type": "input",
+            "energy": 200000
+        },
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 128
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "waveymod:wavystring",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "waveymod:wavycore",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:iron_ingot",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "waveymod:pure_evilingot",
+            "amount": 1
+        }
+
+    ]
+}
