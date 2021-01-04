@@ -22,7 +22,7 @@ let packFolder = "./modpack/"
 
 // INCLUDE THESE FILES AND FOLDERS 
 let files = ["version.txt"]
-let folders = ["mods/"; "config/"; "scripts/"; "resources/"]
+let folders = ["mods/"; "config/"; "scripts/"; "resources/"; "astralsorcery/"; ]
 
 let rec dirCopy sourceDir destDir =
     let dir = new DirectoryInfo(sourceDir)
