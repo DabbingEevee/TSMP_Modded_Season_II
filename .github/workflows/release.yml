@@ -26,6 +26,16 @@ jobs:
       - name: Collate mod changes
         run : | 
           dotnet fsi ./modules/ModChangeCollator.fsx  
+      - name: Commit files  
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Update Release Mod List" -a
+      - name: Push Change
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
