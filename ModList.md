@@ -73,6 +73,11 @@
 
 *darkhax,			lclc98*
 ***
+### Brandon's Core
+<http://minecraft.curseforge.com/projects/brandons-core>
+
+*brandon3055*
+***
 ### CTM
 <https://minecraft.curseforge.com/projects/ctm>
 
@@ -135,6 +140,11 @@
 <https://minecraft.curseforge.com/projects/cyclops-core>
 
 *rubensworks (aka kroeserr), immortaleeb (aka _EeB_)*
+***
+### Draconic Evolution
+<http://www.brandon3055.com/>
+
+*brandon3055*
 ***
 ### Dynamic Surroundings
 <https://dynamicsurroundings.readthedocs.io>
@@ -498,6 +508,11 @@
 
 *Mrthomas20121*
 ***
+### CC: Tweaked
+<https://github.com/SquidDev-CC/CC-Tweaked>
+
+*Daniel Ratcliffe,            Aaron Mills,            SquidDev*
+***
 ### Compact Machines 3
 *Davenonymous*
 ***
@@ -718,6 +733,10 @@
 <https://mcreator.net>
 
 *koala, MCreator*
+***
+### WorldEdit
+<http://wiki.sk89q.com/wiki/WorldEdit>
+
 ***
 ### FhantonCore
 <https://mcreator.net>
