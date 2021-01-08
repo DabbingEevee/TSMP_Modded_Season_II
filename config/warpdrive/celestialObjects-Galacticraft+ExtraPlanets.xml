@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<worldGeneration version="3"
+				 xmlns="http://warpdrive.lemadec.org"
+				 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+				 xsi:schemaLocation="http://warpdrive.lemadec.org WarpDrive.xsd"
+				 mods="galacticraftcore">
+	
+	<!--
+	  This Celestial Map is automatically selected when you have Galacticraft thanks to the worldGeneration.mods attribute.
+	  Please refer to default celestialObjects XML file for extensive comments on how to read and modify this file format.
+	  
+	  This Celestial Map is a single star system for use with Galacticraft. If you also have MrLegend's ExtraPlanets, those planets will also be added.
+	  Due to its oversized space size, this celestial map is better suited for Single player.
+	  When reaching Jupiter or further, entities may take 'random' damage from suffocation in space due to Vanilla engine limitations when going further away from the center of a dimension (0 0).
+	  
+	  This map was initially made on scale for a 1.7.10 chinese audience. Original author is ???.
+	  It was adapted since ported to 1.12.2 and integrated into the mod.
+	  Positions and rendering are fairly basic to help you getting started.
+	  -->
+	
+	<celestialObject id="Hyperspace">
+		<size x="9999999" z="9999999" />
+		<name>Hyperspace\n超空间</name>
+		<description>Your ship warp bubble is your\nonly protection.\n你的飞船扭曲气泡\n是你唯一的保护.</description>
+		
+		<dimension id="-100" isBreathable="false" isHyperspace="true" gravity="legacyHyperspace">
+			<center x="0" z="0" />
+			<provider type="WarpDriveHyperspace" />
+		</dimension>
+		
+		<skybox>
+			<backgroundColor red="1.0" green="0.0" blue="0.0" />
+			<starBrightnessBase>0.2</starBrightnessBase>
+			<starBrightnessVanilla>0.0</starBrightnessVanilla>
+			<celestialObjectOpacity>0.3</celestialObjectOpacity>
+			<fogColor red="0.15" green="0.0" blue="0.0" />
+			<fogFactor red="0.0" green="0.0" blue="0.0" />
+		</skybox>
+		
+		<celestialObject id="solarSystem">
+			<parent>
+				<center x="0" z="0" />
+			</parent>
+			<size x="9999998" z="9999998" />
+			<name>Solar system\n太阳系</name>
+			<description>The void, filled with §6resources§r.\n§r§l太阳终将燃尽\n§6寻找类地行星...</description>
+			<dimension id="-101" isBreathable="false" gravity="legacySpace">
+				<center x="0" z="0" />
+				<provider type="WarpDriveSpace" />
+				<generate group="moon" ratio="0.00125" />
+				<generate group="asteroid" ratio="0.0067" />
+				<generate group="asteroids_field" ratio="0.0016" />
+			</dimension>
+			
+			<skybox>
+				<backgroundColor red="0.0" green="0.0" blue="0.0" />
+				<starBrightnessBase>0.9</starBrightnessBase>
+				<starBrightnessVanilla>0.0</starBrightnessVanilla>
+				<celestialObjectOpacity>1.0</celestialObjectOpacity>
+				<fogColor red="0.0" green="0.0" blue="0.0" />
+				<fogFactor red="0.0" green="0.0" blue="0.0" />
+			</skybox>
+			
+			<celestialObject id="Sun\n太阳">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="500000" z="500000" /><dimension
+					isBreathable="false" id="6" gravity="normal">
+					<center x="0" z="0" />
+</dimension>
+				<render red="0.80" green="0.50" blue="0.20" alpha="1.00" texture="" />
+				<render red="0.80" green="0.70" blue="0.30" alpha="0.40" texture="warpdrive:textures/celestial/surface_icy2.png" periodU="-20" periodV="104" additive="true" />
+				<render red="0.80" green="0.55" blue="0.10" alpha="0.48" texture="warpdrive:textures/celestial/surface_metallic1.png" periodU="-40" periodV="140" additive="true" />
+				<render red="0.80" green="0.45" blue="0.30" alpha="0.34" texture="warpdrive:textures/celestial/surface_magma1.png" periodU="24" periodV="-35" additive="true" />
+				<render red="0.80" green="0.50" blue="0.20" alpha="0.08" texture="" />
+				<render red="0.75" green="0.48" blue="0.20" alpha="0.08" texture="" />
+				<render red="0.70" green="0.55" blue="0.20" alpha="0.08" texture="" />
+			</celestialObject>
+			
+			<celestialObject id="Mercury\n水星" mods="extraplanets">
+				<parent>
+					<center x="350000" z="0" />
+				</parent>
+				<size x="100000" z="100000" />
+				<dimension id="-13" isBreathable="true" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="extraplanets:textures/blocks/mercury_surface.png" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="Venus\n金星" mods="galacticraftplanets">
+				<parent>
+					<center x="0" z="450000" />
+				</parent>
+				<size x="200000" z="200000" />
+				<dimension id="-31" isBreathable="true" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftplanets:textures/blocks/venus_rock_0.png" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="Earth\n地球">
+				<parent>
+					<center x="-450000" z="0" />
+				</parent>
+				<size x="200000" z="200000" />
+				<dimension id="0" isBreathable="true" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="0.70" green="0.70" blue="0.70" alpha="1.00" texture="warpdrive:textures/celestial/surface_temperate2.png" ></render>
+				<render red="0.90" green="0.95" blue="1.00" alpha="0.15" texture="warpdrive:textures/celestial/cloud_small1.png" periodU="100" periodV="1100" additive="true" />
+				<render red="0.90" green="0.90" blue="1.00" alpha="0.15" texture="warpdrive:textures/celestial/cloud_medium1.png" periodU="300" periodV="1500" additive="false" />
+				<render red="0.80" green="0.70" blue="1.00" alpha="0.15" texture="warpdrive:textures/celestial/cloud_large1.png" periodU="500" periodV="2100" additive="false" />
+				<render red="0.50" green="0.50" blue="1.00" alpha="0.08" />
+				<render red="0.50" green="0.50" blue="1.00" alpha="0.08" />
+				<render red="0.50" green="0.50" blue="1.00" alpha="0.08" />
+				
+				<celestialObject id="Hell\n地狱">
+					<parent>
+						<center x="0" z="0" />
+					</parent>
+					<size x="5000" z="5000" />
+					<dimension id="-1" isBreathable="true" gravity="normal">
+						<center x="0" z="0" />
+					</dimension>
+				</celestialObject>
+			</celestialObject>
+
+			<celestialObject id="Moon\n月球">
+				<parent>
+					<center x="-650000" z="0" />
+				</parent>
+				<size x="100000" z="100000" />
+				<dimension id="-28" isBreathable="true" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/moon.png" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="Mars\n火星">
+				<parent>
+					<center x="0" z="-860000" />
+				</parent>
+				<size x="125000" z="125000" />
+				<dimension id="-29" isBreathable="true" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/mars.png" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="Phobos\n火卫一" mods="extraplanets">
+				<parent>
+					<center x="-100000" z="-960000" />
+				</parent>
+				<size x="75000" z="75000" />
+				<dimension id="-1502" isBreathable="true" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="extraplanets:textures/gui/celestialbodies/phobos.png" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="Deimos\n火卫二" mods="extraplanets">
+				<parent>
+					<center x="-180000" z="-1040000" />
+				</parent>
+				<size x="50000" z="50000" />
+				<dimension id="-1503" isBreathable="true" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="extraplanets:textures/gui/celestialbodies/deimos.png" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="Asteroid belt\n小行星带" mods="extraplanets">
+				<parent>
+					<center x="1460000" z="100000" />
+				</parent>
+				<size x="150000" z="150000" />
+				<dimension id="-30" isBreathable="true" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="extraplanets:textures/blocks/ash_rock.png" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="Ceres\n谷神星" mods="extraplanets">
+				<parent>
+					<center x="1460000" z="-200000" />
+				</parent>
+				<size x="75000" z="75000" />
+				<dimension id="-20" isBreathable="true" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="extraplanets:textures/gui/celestialbodies/ceres.png" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="Jupiter\n木星" mods="extraplanets">
+				<parent>
+					<center x="2900000" z="0" />
+				</parent>
+				<size x="400000" z="400000" />
+				<dimension id="-15" isBreathable="true" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="extraplanets:textures/blocks/jupiter_surface.png" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="Io\n木卫一" mods="extraplanets">
+				<parent>
+					<center x="2220000" z="-1320000" />
+				</parent>
+				<size x="100000" z="100000" />
+				<dimension id="-1500" isBreathable="true" gravity="0.43">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="extraplanets:textures/blocks/io_surface.png" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+		</celestialObject>
+		
+	</celestialObject>
+	
+</worldGeneration>

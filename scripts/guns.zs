@@ -32,7 +32,7 @@ mods.extendedcrafting.TableCrafting.addShaped(2, <techguns:laserpistol>,
 mods.extendedcrafting.TableCrafting.addShaped(2, <techguns:lasergun>, 
 [[<appliedenergistics2:material:7>, <techguns:itemshared:71>, null, null, null],
 [<techguns:itemshared:71>, <appliedenergistics2:material:7>, <techguns:itemshared:71>, null, null],
-[<waveymod:swordhandle>, <techguns:itemshared:71>, <forge:bucketfilled>, <extraplanets:tier7_items:3>, null],
-[null, <waveymod:swordhandle>, <extraplanets:tier7_items:3>, <techguns:laserpistol>, <techguns:itemshared:44>],
+[<ore:stickWood>, <techguns:itemshared:71>, <forge:bucketfilled>, <extraplanets:tier7_items:3>, null],
+[null, <ore:stickWood>, <extraplanets:tier7_items:3>, <techguns:laserpistol>, <techguns:itemshared:44>],
 [null, null, null, <ic2:lapotron_crystal:26>, null]]);
 mods.extendedcrafting.CompressionCrafting.addRecipe(<moreplanets:black_hole_fragments>, <minecraft:obsidian>, 100, <extendedcrafting:material:9>, 10000, 10);
