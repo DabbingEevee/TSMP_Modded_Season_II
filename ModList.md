@@ -463,6 +463,9 @@
 ### Dumplings
 *koalayucheng*
 ***
+### EluLib
+*Elucent*
+***
 ### Extra Utilities 2
 *RWTema*
 ***
