@@ -74,7 +74,7 @@ for item in createitem {
 }
 
 for block in createblockofore {
-        var block = mods.contenttweaker.VanillaFactory.createBlock("pulsating_block", <blockmaterial:iron>);
+        var block = mods.contenttweaker.VanillaFactory.createBlock(block, <blockmaterial:iron>);
         block.setBlockHardness(1.0);
         block.setBlockResistance(2.5);
         block.setToolClass("pickaxe");

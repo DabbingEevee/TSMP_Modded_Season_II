@@ -1,5 +1,4 @@
-
-
+import crafttweaker.item.IItemStack;
 
 val rmcook = [
 
@@ -10,7 +9,7 @@ val rmcook = [
         <lucraftcore:ingot_uru>,
         <lucraftcore:ingot_adamantium>
 
-    ] as string[];
+    ] as IItemStack[];
 
 
 for item in rmcook {
