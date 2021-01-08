@@ -8,39 +8,6 @@
 #bluestone.setBlockSoundType(<soundtype:stone>);
 #bluestone.register();
 
-var pulsatingGem = mods.contenttweaker.VanillaFactory.createItem("");
-pulsatingGem.maxStackSize = 64;
-pulsatingGem.register();
-
-var pulsatingBlock = mods.contenttweaker.VanillaFactory.createBlock("pulsating_block", <blockmaterial:iron>);
-pulsatingBlock.setBlockHardness(1.0);
-pulsatingBlock.setBlockResistance(2.5);
-pulsatingBlock.setToolClass("pickaxe");
-pulsatingBlock.setToolLevel(3);
-pulsatingBlock.setBlockSoundType(<soundtype:metal>);
-pulsatingBlock.register();
-
-var fierySingularity = mods.contenttweaker.VanillaFactory.createItem("");
-fierySingularity.maxStackSize = 64;
-fierySingularity.register();
-
-var glowingIronSingularity = mods.contenttweaker.VanillaFactory.createItem("");
-glowingIronSingularity.maxStackSize = 64;
-glowingIronSingularity.register();
-
-var fluxedSingularity = mods.contenttweaker.VanillaFactory.createItem("");
-fluxedSingularity.maxStackSize = 64;
-fluxedSingularity.register();
-
-var catalyst = mods.contenttweaker.VanillaFactory.createItem("");
-catalyst.maxStackSize = 64;
-catalyst.register();
-
-#var singularityMatrix = mods.contenttweaker.VanillaFactory.createItem("");
-#singularityMatrix.maxStackSize = 64;
-#singularityMatrix.register();
-
-
 val createitem = [
         "singularity_matrix",
         "inactive_infinity_catalyst",
@@ -60,7 +27,8 @@ val createitem = [
 val createblockofore = [
         "wavic_block",
         "awakened_block",
-        "unstable_block"
+        "unstable_block",
+        "pulsating_block"
 
 
     ] as string[];
