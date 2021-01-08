@@ -1,9 +1,4 @@
 ## Mod List
-### Baubles
-<http://www.minecraftforum.net/topic/2535073-baubles>
-
-*Azanor*
-***
 ### AE2 Wireless Terminals (AE2WTLib)
 *TheRealp455w0rd*
 ***
@@ -16,19 +11,6 @@
 <https://github.com/Jacky1356400/ActuallyBaubles>
 
 *Jacky1356400*
-***
-### Advanced Rocketry
-<http://minecraft.curseforge.com/projects/advanced-rocketry>
-
-*zmaster587*
-***
-### AetherWorks
-*V0idWa1k3r*
-***
-### AgriCraft
-<http://minecraft.curseforge.com/mc-mods/225635-agricraft>
-
-*InfinityRaider*
 ***
 ### AgriCraft
 <http://minecraft.curseforge.com/mc-mods/225635-agricraft>
@@ -43,17 +25,13 @@
 ### Avaritia
 *SpitefulFox, TTFTCUTS*
 ***
-### AtomicStryker's Battletowers
-<http://www.minecraftforum.net/topic/480774->
+### Baubles
+<http://www.minecraftforum.net/topic/2535073-baubles>
 
+*Azanor*
 ***
 ### Better Questing
 *Funwayguy*
-***
-### BiblioCraft
-<http://www.bibliocraftmod.com>
-
-*Joseph 'Nuchaz' Sinclair*
 ***
 ### Biomes O' Plenty
 <http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty>
@@ -62,11 +40,6 @@
 ***
 ### Block Drops Tweaker
 *TheAwesomeGem*
-***
-### Block Tweaker
-<https://minecraft.curseforge.com/projects/ore-tweaker>
-
-*Ewy*
 ***
 ### Bookshelf
 <http://minecraft.curseforge.com/projects/bookshelf>
@@ -118,9 +91,6 @@
 
 *ChickenBones,			covers1624*
 ***
-### Compact Void Miners
-*Quphoria*
-***
 ### ContentTweaker
 <teamacronymcoders.com>
 
@@ -141,6 +111,9 @@
 
 *rubensworks (aka kroeserr), immortaleeb (aka _EeB_)*
 ***
+### Dimension Stages
+*Darkhax*
+***
 ### Draconic Evolution
 <http://www.brandon3055.com/>
 
@@ -153,9 +126,6 @@
 ***
 ### Embers Rekindled
 *BordListian,Elucent,AlexisMachina,ShadowGamerXY,werty1124*
-***
-### Embersified
-*p455w0rd aka TheRealp455w0rd*
 ***
 ### EnderCore
 <http://enderio.com>
@@ -177,16 +147,6 @@
 
 *rubensworks (aka kroeserr)*
 ***
-### EverlastingAbilities
-<https://github.com/CyclopsMC/EverlastingAbilities>
-
-*rubensworks (aka kroeserr)*
-***
-### EverlastingAbilities-PotionCore
-<https://github.com/CyclopsMC/EverlastingAbilities-PotionCore>
-
-*rubensworks (aka kroeserr)*
-***
 ### Extended Crafting
 <https://minecraft.curseforge.com/projects/extended-crafting>
 
@@ -195,6 +155,9 @@
 ### Extra Planets
 <https://minecraft.curseforge.com/projects/extraplanets>
 
+***
+### Flowing Blocks
+*Elucent*
 ***
 ### Game Stages
 <https://minecraft.curseforge.com/projects/game-stages>
@@ -206,6 +169,11 @@
 
 *KingPhygieBoo, xJonL, 115kino, Silver_David, NewHorizons, Jonathing*
 ***
+### Gobber
+<https://minecraft.curseforge.com/projects/gobber>
+
+*kwpugh*
+***
 ### Waila
 *ProfMobius,    TehNut*
 ***
@@ -213,11 +181,6 @@
 <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2719989-infini-tic-another-tinkers-construct-add-on>
 
 *Johz, LakMoore*
-***
-### IvToolkit
-<http://minecraft.curseforge.com/projects/ivtoolkit>
-
-*Ivorius*
 ***
 ### Just Enough Energistics
 *TheRealp455w0rd*
@@ -312,9 +275,6 @@
 ### Nomadic Tents
 *skyjay1*
 ***
-### OCRocketry
-*slava_110*
-***
 ### OpenComputers
 <http://oc.cil.li/>
 
@@ -338,17 +298,10 @@
 
 *Vazkii*
 ***
-### Potion Core
-***
 ### ProjectE
 <http://minecraft.curseforge.com/mc-mods/226410-projecte>
 
 *sinkillerj, Moze_Intel*
-***
-### Quality Tools
-<https://bitbucket.org/Tmtravlr/qualitytools/wiki/Home>
-
-*Tmtravlr*
 ***
 ### Quark
 <http://www.vazkii.us>
@@ -375,9 +328,6 @@
 ***
 ### Resource Loader
 *lumien*
-***
-### Roots
-*EpicSquid, Martacus, Noobanidus, Davoleo, Kalaxi, Elucent*
 ***
 ### Serene Seasons
 *Adubbz, Forstride*
@@ -460,6 +410,9 @@
 ### Wireless Pattern Terminal
 *TheRealp455w0rd*
 ***
+### ActuallyComputers
+*canitzp*
+***
 ### AE2 Stuff
 <bdew.net>
 
@@ -478,20 +431,10 @@
 
 *AlgorithmX2*
 ***
-### ArmorPlus
-<https://minecraft.curseforge.com/projects/armorplus>
-
-*sokratis12GR*
-***
 ### Astral Sorcery
 <https://minecraft.curseforge.com/projects/astral-sorcery>
 
 *HellFirePvP, wiiv*
-***
-### Backpack
-<http://www.minecraftforum.net/topic/1492661->
-
-*Eydamos*
 ***
 ### B.A.S.E
 <http://minecraft.curseforge.com/projects/b-a-s-e>
@@ -508,16 +451,8 @@
 
 *Mrthomas20121*
 ***
-### CC: Tweaked
-<https://github.com/SquidDev-CC/CC-Tweaked>
-
-*Daniel Ratcliffe,            Aaron Mills,            SquidDev*
-***
 ### Compact Machines 3
 *Davenonymous*
-***
-### Construct's Armory
-*C4*
 ***
 ### Crimson Revelations
 *MobiusFlip*
@@ -528,11 +463,6 @@
 ### Defiled Lands
 *Lykrast*
 ***
-### dotHack Weapons
-<https://www.curseforge.com/minecraft/mc-mods/dothack-hack-weapons>
-
-*AzureDoomC*
-***
 ### Dumplings
 *koalayucheng*
 ***
@@ -540,14 +470,6 @@
 <https://github.com/terrapin47/TinkeringWithEmbers>
 
 *terrapin47*
-***
-### Entangled
-*SuperMartijn642*
-***
-### Extra Alchemy
-<http://minecraft.curseforge.com/projects/extra-alchemy>
-
-*ZaBi94*
 ***
 ### Extra Utilities 2
 *RWTema*
@@ -585,10 +507,8 @@
 
 *KingPhygieBoo, JorgeQ, Lachney*
 ***
-### LandCore
-<https://minecraft.curseforge.com/projects/landcore>
-
-*Landmaster (phuong0429)*
+### Lost Magic
+*SpitefulFox*
 ***
 ### Minerva Library
 *Zabi94*
@@ -609,9 +529,6 @@
 ### New Materials
 *DabbingEevee*
 ***
-### Mowzie's Mobs
-*BobMowzie,            pau101*
-***
 ### Music Player
 <https://u-team.info/mod/musicplayer>
 
@@ -620,9 +537,6 @@
 ### Mystical Lib
 *EpicSquid, Elucent*
 ***
-### Mystical World
-*Noobanidus, EpicSquid, Martacus, Davoleo, Kalaxi, Vulpie*
-***
 ### Natura
 <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura>
 
@@ -630,11 +544,6 @@
 ***
 ### NetherBackport
 *Broulf*
-***
-### Ore Control
-<http://minecraft.curseforge.com/projects/ore-control>
-
-*masa*
 ***
 ### Overloaded Armor Bar
 <https://github.com/Tfarcenim/OverpoweredArmorBar>
@@ -659,14 +568,6 @@
 
 *mcNETDev*
 ***
-### Rustic
-<https://github.com/the-realest-stu/Rustic>
-
-*the-realest-stu*
-***
-### Save My Stronghold!
-*YUNGNICKYOUNG*
-***
 ### Rin's So Many Enchantments?
 <https://minecraft.curseforge.com/projects/so-many-enchantments>
 
@@ -684,6 +585,9 @@
 <https://www.curseforge.com/minecraft/mc-mods/terraria-materials>
 
 *Coding: Pajojeku Textures: u/wesolekpl*
+***
+### Example Mod
+*ExampleDude*
 ***
 ### Thaumic Energistics
 <http://minecraft.curseforge.com/projects/thaumic-energistics>
@@ -723,11 +627,6 @@
 <https://u-team.info>
 
 *HyCraftHD,			MrTroble*
-***
-### Ultra Amplified Mod
-<https://minecraft.curseforge.com/projects/ultra-amplified-mod>
-
-*TelepathicGrunt*
 ***
 ### WarpResetter
 <https://mcreator.net>
