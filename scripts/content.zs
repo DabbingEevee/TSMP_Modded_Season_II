@@ -19,7 +19,6 @@ val createitem = [
         "wavic_nugget", 
         "awakened_nugget",
         "pure_evil_nugget",
-        "awakened_nugget",
         "koinos_nugget",
         "tromero_nugget"
     ] as string[];
