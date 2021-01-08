@@ -11,8 +11,8 @@ recipes.addShaped("auto_gen_893562006", <ic2:te:46>,
 [<ore:plateIron>, <minecraft:furnace>, <ore:plateIron>]]);
 recipes.addShaped("auto_gen_-54633111", <mekanism:configurator>, 
 [[null, null, <minecraft:redstone>],
-[<minecraft:redstone>, <backpack:stick:1>, null],
-[<backpack:stick:1>, <minecraft:redstone>, null]]);
+[<minecraft:redstone>, <ore:stickStone>, null],
+[<ore:stickStone>, <minecraft:redstone>, null]]);
 recipes.remove(<energeticsheep:energetic_shears>);
 recipes.addShaped("auto_gen_2001933511", <energeticsheep:energetic_shears>, 
 [[<ore:materialWoolEnergetic>, <ore:materialWoolEnergetic>, <ore:materialWoolEnergetic>],

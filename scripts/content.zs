@@ -59,7 +59,7 @@ val createitem = [
 
 val createblockofore = [
         "wavic_block",
-        "awakened_block"
+        "awakened_block",
         "unstable_block"
 
 

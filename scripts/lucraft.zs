@@ -1,11 +1,4 @@
 
-"lucraftcore:dust_dwarf_star_alloy",
-"lucraftcore:dust_gold_titanium_alloy",
-"lucraftcore:dust_intertium",
-"lucraftcore:dust_adamantium",
-"lucraftcore:dust_uru",
-"lucraftcore:ore_uru",
-"",
 
 
 val rmcook = [
