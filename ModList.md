@@ -156,9 +156,6 @@
 <https://minecraft.curseforge.com/projects/extraplanets>
 
 ***
-### Flowing Blocks
-*Elucent*
-***
 ### Game Stages
 <https://minecraft.curseforge.com/projects/game-stages>
 
