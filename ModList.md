@@ -463,14 +463,8 @@
 ### Dumplings
 *koalayucheng*
 ***
-### EluLib
-*Elucent*
-***
 ### Extra Utilities 2
 *RWTema*
-***
-### Flowing Blocks
-*Elucent*
 ***
 ### Ice and Fire
 *Alexthe666, Raptorfarian*
