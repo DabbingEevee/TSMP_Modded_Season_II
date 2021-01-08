@@ -466,11 +466,6 @@
 ### Dumplings
 *koalayucheng*
 ***
-### Tinkering With Embers
-<https://github.com/terrapin47/TinkeringWithEmbers>
-
-*terrapin47*
-***
 ### Extra Utilities 2
 *RWTema*
 ***
