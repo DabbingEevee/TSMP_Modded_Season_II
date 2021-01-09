@@ -9,7 +9,7 @@
 #bluestone.register();
 
 val createitem = [
-        "singularity_matrix",
+#        "singularity_matrix",
         "inactive_infinity_catalyst",
         "fluxed_electrum_singularity",
         "glowing_iron_singularity",
@@ -31,6 +31,15 @@ val createblockofore = [
 
 
     ] as string[];
+
+var i = 0; 
+
+while i < 10 {
+	createitem += "singularity_matrix_" + (i+1); 
+	i += 1;
+} 
+
+
 
 for item in createitem {
 
