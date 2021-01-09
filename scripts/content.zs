@@ -8,7 +8,7 @@
 #bluestone.setBlockSoundType(<soundtype:stone>);
 #bluestone.register();
 
-val createitem = [
+var createitem = [
 #        "singularity_matrix",
         "inactive_infinity_catalyst",
         "fluxed_electrum_singularity",
@@ -23,7 +23,7 @@ val createitem = [
         "tromero_nugget"
     ] as string[];
 
-val createblockofore = [
+var createblockofore = [
         "wavic_block",
         "awakened_block",
         "unstable_block",
