@@ -51,7 +51,7 @@ mods.extendedcrafting.CompressionCrafting.addRecipe(<contenttweaker:fiery_singul
 mods.extendedcrafting.CompressionCrafting.addRecipe(<contenttweaker:glowing_iron_singularity>, <moreplanets:glowing_iron_ingot>, 10000, <extendedcrafting:material:13>, 30000);
 mods.extendedcrafting.CompressionCrafting.addRecipe(<contenttweaker:fluxed_electrum_singularity>, <redstonearsenal:material:32>, 10000, <extendedcrafting:material:13>, 30000);
 furnace.addRecipe(<extendedcrafting:material:32>, <avaritia:ultimate_stew>);
-mods.extendedcrafting.TableCrafting.addShaped(4, <contenttweaker:singularity_matrix>, 
+mods.extendedcrafting.TableCrafting.addShaped(4, <contenttweaker:singularity_matrix_1>, 
 [[<contenttweaker:glowing_iron_singularity>, <contenttweaker:fluxed_electrum_singularity>, <contenttweaker:fiery_singularity>, <extendedcrafting:singularity>, <extendedcrafting:singularity:1>, <extendedcrafting:singularity:2>, <extendedcrafting:singularity:3>, <extendedcrafting:singularity:5>, <extendedcrafting:singularity:6>],
 [<extendedcrafting:singularity:7>, <extendedcrafting:singularity:16>, <extendedcrafting:singularity:17>, <extendedcrafting:singularity:18>, <extendedcrafting:singularity:19>, <extendedcrafting:singularity:20>, <extendedcrafting:singularity:21>, <extendedcrafting:singularity:22>, <extendedcrafting:singularity:23>],
 [<extendedcrafting:singularity:24>, <extendedcrafting:singularity:25>, <extendedcrafting:singularity:26>, <extendedcrafting:singularity:27>, <extendedcrafting:singularity:28>, <extendedcrafting:singularity:29>, <extendedcrafting:singularity:30>, <extendedcrafting:singularity:31>, <extendedcrafting:singularity:32>],
@@ -64,10 +64,10 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <contenttweaker:singularity_mat
 mods.extendedcrafting.TableCrafting.addShaped(4, <contenttweaker:inactive_infinity_catalyst>, 
 [[<mysticalagriculture:crafting:4>, null, null, null, <mysticalagradditions:insanium>, null, null, null, <mysticalagriculture:crafting:4>],
 [null, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, null, <mysticalagradditions:insanium>, null, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, null],
-[null, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagradditions:insanium>, <contenttweaker:singularity_matrix>, <mysticalagradditions:insanium>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, null],
+[null, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagradditions:insanium>, <contenttweaker:singularity_matrix_1>, <mysticalagradditions:insanium>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, null],
 [null, null, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>, <extendedcrafting:material:32>, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>, null, null],
-[<mysticalagradditions:insanium>, <mysticalagradditions:insanium>, <contenttweaker:singularity_matrix>, <extendedcrafting:material:32>, <contenttweaker:singularity_matrix>, <extendedcrafting:material:32>, <contenttweaker:singularity_matrix>, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>],
+[<mysticalagradditions:insanium>, <mysticalagradditions:insanium>, <contenttweaker:singularity_matrix_1>, <extendedcrafting:material:32>, <contenttweaker:singularity_matrix_1>, <extendedcrafting:material:32>, <contenttweaker:singularity_matrix_1>, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>],
 [null, null, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>, <extendedcrafting:material:32>, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>, null, null],
-[null, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagradditions:insanium>, <contenttweaker:singularity_matrix>, <mysticalagradditions:insanium>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, null],
+[null, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagradditions:insanium>, <contenttweaker:singularity_matrix_1>, <mysticalagradditions:insanium>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, null],
 [null, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, null, <mysticalagradditions:insanium>, null, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, null],
 [<mysticalagriculture:crafting:4>, null, null, null, <mysticalagradditions:insanium>, null, null, null, <mysticalagriculture:crafting:4>]]);
