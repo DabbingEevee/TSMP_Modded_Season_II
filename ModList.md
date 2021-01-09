@@ -30,6 +30,9 @@
 
 *Azanor*
 ***
+### Better Builder's Wands
+*Portablejim*
+***
 ### Better Questing
 *Funwayguy*
 ***
@@ -110,6 +113,9 @@
 <https://minecraft.curseforge.com/projects/cyclops-core>
 
 *rubensworks (aka kroeserr), immortaleeb (aka _EeB_)*
+***
+### /dank/null
+*TheRealp455w0rd*
 ***
 ### Dimension Stages
 *Darkhax*
