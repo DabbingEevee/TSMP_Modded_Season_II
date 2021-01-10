@@ -29,6 +29,6 @@ var createdecompactrecipe = [
 
 for i, item in createdecompactrecipe {
 
-        recipes.addShapeless("hmmmmmm_" + i, item[0] * 9,[item[1]])
+        recipes.addShapeless("hmmmmmm_" + i, item[0] * 9,[item[1]]);
 } 
 
