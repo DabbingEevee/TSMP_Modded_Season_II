@@ -17,3 +17,10 @@ item.contenttweaker.singularity_matrix_7.name=Singularity Matrix Tier 7
 item.contenttweaker.singularity_matrix_8.name=Singularity Matrix Tier 8
 item.contenttweaker.singularity_matrix_9.name=Singularity Matrix Tier 9
 item.contenttweaker.singularity_matrix_10.name=Singularity Matrix Tier 10
+
+
+
+tile.contenttweaker.neutron_sponge.name=Neutron Sponge
+
+tile.contenttweaker.mega_alloy_neutron_sponge.name=Partially Filled Neutron Sponge
+tile.contenttweaker.mega_alloy_neutron_sponge_completed.name=Filled Neutron Sponge
