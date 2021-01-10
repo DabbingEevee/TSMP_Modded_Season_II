@@ -14,14 +14,14 @@ import mods.contenttweaker.Item;
 
 
 
-var gems_metals = VanillaFactory.createCreativeTab("gems_metals", <minecraft:diamond>);
-gems_metals.register();
+#var gems_metals = VanillaFactory.createCreativeTab("gems_metals", <minecraft:diamond>);
+#gems_metals.register();
 
-var ore_sponge = VanillaFactory.createCreativeTab("ore_sponge", <minecraft:iron_ore>);
-ore_sponge.register();
+#var ore_sponge = VanillaFactory.createCreativeTab("ore_sponge", <minecraft:iron_ore>);
+#ore_sponge.register();
 
-var singularities = VanillaFactory.createCreativeTab("singularities", <minecraft:tnt>);
-singularities.register();
+#var singularities = VanillaFactory.createCreativeTab("singularities", <minecraft:tnt>);
+#singularities.register();
 
 var createsingularity = [
 #        "singularity_matrix",
@@ -81,7 +81,7 @@ for item in createcompat {
 
 	var item = VanillaFactory.createItem(item);
         item.maxStackSize = 64;
-        item.creativeTab = gems_metals;
+        #item.creativeTab = gems_metals;
         item.register();
 
 }
@@ -90,7 +90,7 @@ for item in createsingularity {
 
 	var item = VanillaFactory.createItem(item);
         item.maxStackSize = 64;
-        item.creativeTab = singularities;
+        #item.creativeTab = singularities;
         item.register();
 
 }
@@ -101,7 +101,7 @@ for block in createblockofore {
         block.setBlockResistance(2.5);
         block.setToolClass("pickaxe");
         block.setToolLevel(3);
-        block.creativeTab = gems_metals;
+        #block.creativeTab = gems_metals;
         block.setBlockSoundType(<soundtype:metal>);
         block.register();
 
@@ -113,7 +113,7 @@ for block in createore {
         block.setBlockResistance(2.5);
         block.setToolClass("pickaxe");
         block.setToolLevel(3);
-        block.creativeTab = ore_sponge;
+        #block.creativeTab = ore_sponge;
         block.setBlockSoundType(<soundtype:metal>);
         block.register();
 
