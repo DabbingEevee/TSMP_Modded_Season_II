@@ -1,0 +1,53 @@
+{
+    "machine": "netheric_annihilator",
+    "registryName": "netheric_annihilator_stone",
+    "recipeTime": 120,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 20
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:stone",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:netherrack",
+            "amount": 1,
+            "chance": 0.2
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "netherbackport:blackstone",
+            "amount": 1,
+            "chance": 0.2
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "netherbackport:basalt",
+            "amount": 1,
+            "chance": 0.1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "netherex:basalt",
+            "amount": 1,
+            "chance": 0.1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "mysticalagriculture:soulstone",
+            "amount": 1,
+            "chance": 0.2
+        }
+    ]
+}

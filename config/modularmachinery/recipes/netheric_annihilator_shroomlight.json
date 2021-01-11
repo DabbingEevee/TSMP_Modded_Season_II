@@ -1,0 +1,25 @@
+{
+    "machine": "netheric_annihilator",
+    "registryName": "netheric_annihilator_netherrack",
+    "recipeTime": 120,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 20
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:cropApple",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "netherbackport:shroomlight",
+            "amount": 1,
+            "chance": 0.8
+        }
+    ]
+}
