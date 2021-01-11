@@ -582,6 +582,11 @@
 
 *pWn3d_1337, Th3_St4lk3r*
 ***
+### Terraria Materials Mod
+<https://www.curseforge.com/minecraft/mc-mods/terraria-materials>
+
+*Coding: Pajojeku Textures: u/wesolekpl*
+***
 ### Example Mod
 *ExampleDude*
 ***
