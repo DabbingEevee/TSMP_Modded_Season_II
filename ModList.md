@@ -413,6 +413,9 @@
 ### Wireless Pattern Terminal
 *TheRealp455w0rd*
 ***
+### Zollern Galaxy
+*ZollernWolf*
+***
 ### ActuallyComputers
 *canitzp*
 ***
