@@ -18,8 +18,12 @@ import crafttweaker.oredict.IOreDictEntry;
 <contenttweaker:mega_alloy_neutron_sponge_completed>.addTooltip("Mega Alloy - Completed");
 
 
-mods.tconstruct.Casting.addBasinRecipe(<contenttweaker:mega_alloy_neutron_sponge:0>, <contenttweaker:neutron_sponge>, <liquid:dawnstone>, 1296, true, 200);
-mods.tconstruct.Casting.addBasinRecipe(<contenttweaker:mega_alloy_neutron_sponge:1>, <contenttweaker:mega_alloy_neutron_sponge:0>, <liquid:dawnstone>, 1296, true, 200);
-mods.tconstruct.Casting.addBasinRecipe(<contenttweaker:mega_alloy_neutron_sponge:2>, <contenttweaker:mega_alloy_neutron_sponge:1>, <liquid:dawnstone>, 1296, true, 200);
-mods.tconstruct.Casting.addBasinRecipe(<contenttweaker:mega_alloy_neutron_sponge_completed>, <contenttweaker:mega_alloy_neutron_sponge:2>, <liquid:dawnstone>, 1296, true, 200);
+mods.tconstruct.Casting.addBasinRecipe(<contenttweaker:mega_alloy_neutron_sponge_1>, <contenttweaker:neutron_sponge>, <liquid:dawnstone>, 1296, true, 200);
+mods.tconstruct.Casting.addBasinRecipe(<contenttweaker:mega_alloy_neutron_sponge_2>, <contenttweaker:mega_alloy_neutron_sponge_1>, <liquid:dawnstone>, 1296, true, 200);
+mods.tconstruct.Casting.addBasinRecipe(<contenttweaker:mega_alloy_neutron_sponge_3>, <contenttweaker:mega_alloy_neutron_sponge_2>, <liquid:dawnstone>, 1296, true, 200);
+mods.tconstruct.Casting.addBasinRecipe(<contenttweaker:mega_alloy_neutron_sponge_completed>, <contenttweaker:mega_alloy_neutron_sponge_3>, <liquid:dawnstone>, 1296, true, 200);
 
+
+JEI.removeAndHide(<contenttweaker:mega_alloy_neutron_sponge_1>);
+JEI.removeAndHide(<contenttweaker:mega_alloy_neutron_sponge_2>);
+JEI.removeAndHide(<contenttweaker:mega_alloy_neutron_sponge_3>);

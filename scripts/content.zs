@@ -52,8 +52,9 @@ var createcompat = [
 
 var createore = [
         "neutron_sponge",
-
-        "mega_alloy_neutron_sponge",
+        "mega_alloy_neutron_sponge_1",
+        "mega_alloy_neutron_sponge_2",
+        "mega_alloy_neutron_sponge_2",
         "mega_alloy_neutron_sponge_completed",
 
 
