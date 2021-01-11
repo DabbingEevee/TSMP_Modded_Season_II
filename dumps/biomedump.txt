@@ -1,0 +1,294 @@
+Name - Registry - Temp - TopBlock - FillerBlock
+Ocean - minecraft:ocean - 0.5 - minecraft:grass - minecraft:dirt
+Plains - minecraft:plains - 0.8 - minecraft:grass - minecraft:dirt
+Desert - minecraft:desert - 2.0 - minecraft:sand - minecraft:sand
+Extreme Hills - minecraft:extreme_hills - 0.2 - minecraft:grass - minecraft:dirt
+Forest - minecraft:forest - 0.7 - minecraft:grass - minecraft:dirt
+Taiga - minecraft:taiga - 0.25 - minecraft:grass - minecraft:dirt
+Swampland - minecraft:swampland - 0.8 - minecraft:grass - minecraft:dirt
+River - minecraft:river - 0.5 - minecraft:grass - minecraft:dirt
+Hell - minecraft:hell - 2.0 - minecraft:netherrack - minecraft:netherrack
+The End - minecraft:sky - 0.5 - minecraft:dirt - minecraft:dirt
+FrozenOcean - minecraft:frozen_ocean - 0.0 - minecraft:grass - minecraft:dirt
+FrozenRiver - minecraft:frozen_river - 0.0 - minecraft:grass - minecraft:dirt
+Ice Plains - minecraft:ice_flats - 0.0 - minecraft:grass - minecraft:dirt
+Ice Mountains - minecraft:ice_mountains - 0.0 - minecraft:grass - minecraft:dirt
+MushroomIsland - minecraft:mushroom_island - 0.9 - minecraft:mycelium - minecraft:dirt
+MushroomIslandShore - minecraft:mushroom_island_shore - 0.9 - minecraft:mycelium - minecraft:dirt
+Beach - minecraft:beaches - 0.8 - minecraft:sand - minecraft:sand
+DesertHills - minecraft:desert_hills - 2.0 - minecraft:sand - minecraft:sand
+ForestHills - minecraft:forest_hills - 0.7 - minecraft:grass - minecraft:dirt
+TaigaHills - minecraft:taiga_hills - 0.25 - minecraft:grass - minecraft:dirt
+Extreme Hills Edge - minecraft:smaller_extreme_hills - 0.2 - minecraft:grass - minecraft:dirt
+Jungle - minecraft:jungle - 0.95 - minecraft:grass - minecraft:dirt
+JungleHills - minecraft:jungle_hills - 0.95 - minecraft:grass - minecraft:dirt
+JungleEdge - minecraft:jungle_edge - 0.95 - minecraft:grass - minecraft:dirt
+Deep Ocean - minecraft:deep_ocean - 0.5 - minecraft:grass - minecraft:dirt
+Stone Beach - minecraft:stone_beach - 0.2 - minecraft:stone - minecraft:stone
+Cold Beach - minecraft:cold_beach - 0.05 - minecraft:sand - minecraft:sand
+Birch Forest - minecraft:birch_forest - 0.6 - minecraft:grass - minecraft:dirt
+Birch Forest Hills - minecraft:birch_forest_hills - 0.6 - minecraft:grass - minecraft:dirt
+Roofed Forest - minecraft:roofed_forest - 0.7 - minecraft:grass - minecraft:dirt
+Cold Taiga - minecraft:taiga_cold - -0.5 - minecraft:grass - minecraft:dirt
+Cold Taiga Hills - minecraft:taiga_cold_hills - -0.5 - minecraft:grass - minecraft:dirt
+Mega Taiga - minecraft:redwood_taiga - 0.3 - minecraft:grass - minecraft:dirt
+Mega Taiga Hills - minecraft:redwood_taiga_hills - 0.3 - minecraft:grass - minecraft:dirt
+Extreme Hills+ - minecraft:extreme_hills_with_trees - 0.2 - minecraft:grass - minecraft:dirt
+Savanna - minecraft:savanna - 1.2 - minecraft:grass - minecraft:dirt
+Savanna Plateau - minecraft:savanna_rock - 1.0 - minecraft:grass - minecraft:dirt
+Mesa - minecraft:mesa - 2.0 - minecraft:sand - minecraft:stained_hardened_clay
+Mesa Plateau F - minecraft:mesa_rock - 2.0 - minecraft:sand - minecraft:stained_hardened_clay
+Mesa Plateau - minecraft:mesa_clear_rock - 2.0 - minecraft:sand - minecraft:stained_hardened_clay
+The Void - minecraft:void - 0.5 - minecraft:grass - minecraft:dirt
+Sunflower Plains - minecraft:mutated_plains - 0.8 - minecraft:grass - minecraft:dirt
+Desert M - minecraft:mutated_desert - 2.0 - minecraft:sand - minecraft:sand
+Extreme Hills M - minecraft:mutated_extreme_hills - 0.2 - minecraft:grass - minecraft:dirt
+Flower Forest - minecraft:mutated_forest - 0.7 - minecraft:grass - minecraft:dirt
+Taiga M - minecraft:mutated_taiga - 0.25 - minecraft:grass - minecraft:dirt
+Swampland M - minecraft:mutated_swampland - 0.8 - minecraft:grass - minecraft:dirt
+Ice Plains Spikes - minecraft:mutated_ice_flats - 0.0 - minecraft:snow - minecraft:dirt
+Jungle M - minecraft:mutated_jungle - 0.95 - minecraft:grass - minecraft:dirt
+JungleEdge M - minecraft:mutated_jungle_edge - 0.95 - minecraft:grass - minecraft:dirt
+Birch Forest M - minecraft:mutated_birch_forest - 0.6 - minecraft:grass - minecraft:dirt
+Birch Forest Hills M - minecraft:mutated_birch_forest_hills - 0.6 - minecraft:grass - minecraft:dirt
+Roofed Forest M - minecraft:mutated_roofed_forest - 0.7 - minecraft:grass - minecraft:dirt
+Cold Taiga M - minecraft:mutated_taiga_cold - -0.5 - minecraft:grass - minecraft:dirt
+Mega Spruce Taiga - minecraft:mutated_redwood_taiga - 0.25 - minecraft:grass - minecraft:dirt
+Redwood Taiga Hills M - minecraft:mutated_redwood_taiga_hills - 0.25 - minecraft:grass - minecraft:dirt
+Extreme Hills+ M - minecraft:mutated_extreme_hills_with_trees - 0.2 - minecraft:grass - minecraft:dirt
+Savanna M - minecraft:mutated_savanna - 1.1 - minecraft:grass - minecraft:dirt
+Savanna Plateau M - minecraft:mutated_savanna_rock - 1.0 - minecraft:grass - minecraft:dirt
+Mesa (Bryce) - minecraft:mutated_mesa - 2.0 - minecraft:sand - minecraft:stained_hardened_clay
+Mesa Plateau F M - minecraft:mutated_mesa_rock - 2.0 - minecraft:sand - minecraft:stained_hardened_clay
+Mesa Plateau M - minecraft:mutated_mesa_clear_rock - 2.0 - minecraft:sand - minecraft:stained_hardened_clay
+Gravel Beach - biomesoplenty:gravel_beach - 0.6 - minecraft:gravel - minecraft:gravel
+White Beach - biomesoplenty:white_beach - 1.0 - biomesoplenty:white_sand - biomesoplenty:white_sand
+Origin Beach - biomesoplenty:origin_beach - 0.6 - minecraft:sand - minecraft:sand
+Alps - biomesoplenty:alps - -0.25 - minecraft:snow - minecraft:snow
+Bamboo Forest - biomesoplenty:bamboo_forest - 0.9 - minecraft:dirt - minecraft:dirt
+Bayou - biomesoplenty:bayou - 0.95 - minecraft:grass - minecraft:dirt
+Bog - biomesoplenty:bog - 0.5 - biomesoplenty:grass - biomesoplenty:dirt
+Boreal Forest - biomesoplenty:boreal_forest - 0.3 - minecraft:grass - minecraft:dirt
+Brushland - biomesoplenty:brushland - 1.5 - biomesoplenty:grass - biomesoplenty:dirt
+Chaparral - biomesoplenty:chaparral - 0.8 - minecraft:grass - minecraft:dirt
+Cherry Blossom Grove - biomesoplenty:cherry_blossom_grove - 0.55 - biomesoplenty:grass - biomesoplenty:dirt
+Cold Desert - biomesoplenty:cold_desert - 0.2 - minecraft:gravel - minecraft:stone
+Coniferous Forest - biomesoplenty:coniferous_forest - 0.45 - biomesoplenty:grass - biomesoplenty:dirt
+Crag - biomesoplenty:crag - 0.5 - minecraft:gravel - minecraft:stone
+Dead Forest - biomesoplenty:dead_forest - 0.3 - biomesoplenty:grass - biomesoplenty:dirt
+Dead Swamp - biomesoplenty:dead_swamp - 0.6 - biomesoplenty:grass - biomesoplenty:dirt
+Eucalyptus Forest - biomesoplenty:eucalyptus_forest - 0.95 - minecraft:grass - minecraft:dirt
+Fen - biomesoplenty:fen - 0.4 - biomesoplenty:grass - biomesoplenty:dirt
+Flower Field - biomesoplenty:flower_field - 0.7 - minecraft:grass - minecraft:dirt
+Grassland - biomesoplenty:grassland - 0.6 - minecraft:grass - minecraft:dirt
+Grove - biomesoplenty:grove - 0.6 - minecraft:grass - minecraft:dirt
+Highland - biomesoplenty:highland - 0.6 - minecraft:grass - minecraft:dirt
+Land of Lakes - biomesoplenty:land_of_lakes - 0.5 - biomesoplenty:grass - biomesoplenty:dirt
+Lavender Fields - biomesoplenty:lavender_fields - 0.7 - biomesoplenty:grass - biomesoplenty:dirt
+Lush Desert - biomesoplenty:lush_desert - 1.2 - minecraft:hardened_clay - minecraft:hardened_clay
+Lush Swamp - biomesoplenty:lush_swamp - 0.7 - minecraft:grass - minecraft:dirt
+Mangrove - biomesoplenty:mangrove - 0.85 - biomesoplenty:mud - biomesoplenty:mud
+Maple Woods - biomesoplenty:maple_woods - 0.25 - minecraft:grass - minecraft:dirt
+Marsh - biomesoplenty:marsh - 0.6 - biomesoplenty:grass - biomesoplenty:dirt
+Meadow - biomesoplenty:meadow - 0.4 - minecraft:grass - minecraft:dirt
+Moor - biomesoplenty:moor - 0.6 - biomesoplenty:grass - biomesoplenty:dirt
+Mountain - biomesoplenty:mountain - 0.5 - minecraft:grass - minecraft:dirt
+Mystic Grove - biomesoplenty:mystic_grove - 0.7 - biomesoplenty:grass - biomesoplenty:dirt
+Ominous Woods - biomesoplenty:ominous_woods - 0.6 - biomesoplenty:grass - biomesoplenty:dirt
+Orchard - biomesoplenty:orchard - 0.7 - minecraft:grass - minecraft:dirt
+Outback - biomesoplenty:outback - 2.0 - minecraft:sand - minecraft:sand
+Overgrown Cliffs - biomesoplenty:overgrown_cliffs - 0.95 - biomesoplenty:grass - minecraft:stone
+Prairie - biomesoplenty:prairie - 0.8 - biomesoplenty:grass - biomesoplenty:dirt
+Quagmire - biomesoplenty:quagmire - 0.6 - biomesoplenty:mud - biomesoplenty:mud
+Rainforest - biomesoplenty:rainforest - 0.95 - minecraft:grass - minecraft:dirt
+RedwoodForest - biomesoplenty:redwood_forest - 0.7 - minecraft:dirt - minecraft:dirt
+Sacred Springs - biomesoplenty:sacred_springs - 0.85 - minecraft:grass - minecraft:dirt
+Seasonal Forest - biomesoplenty:seasonal_forest - 0.4 - minecraft:grass - minecraft:dirt
+Shield - biomesoplenty:shield - 0.4 - minecraft:grass - minecraft:dirt
+Shrubland - biomesoplenty:shrubland - 0.6 - minecraft:grass - minecraft:dirt
+Snowy Coniferous Forest - biomesoplenty:snowy_coniferous_forest - -0.25 - biomesoplenty:grass - biomesoplenty:dirt
+Snowy Forest - biomesoplenty:snowy_forest - -0.25 - biomesoplenty:grass - biomesoplenty:dirt
+Steppe - biomesoplenty:steppe - 0.75 - biomesoplenty:grass - biomesoplenty:dirt
+Temperate Rainforest - biomesoplenty:temperate_rainforest - 0.75 - minecraft:grass - minecraft:dirt
+Tropical Rainforest - biomesoplenty:tropical_rainforest - 1.0 - minecraft:grass - minecraft:dirt
+Tundra - biomesoplenty:tundra - 0.2 - biomesoplenty:grass - biomesoplenty:dirt
+Wasteland - biomesoplenty:wasteland - 2.0 - biomesoplenty:dried_sand - biomesoplenty:dried_sand
+Wetland - biomesoplenty:wetland - 0.6 - minecraft:grass - minecraft:dirt
+Woodland - biomesoplenty:woodland - 0.7 - minecraft:grass - minecraft:dirt
+Xeric Shrubland - biomesoplenty:xeric_shrubland - 1.75 - minecraft:sand - minecraft:sand
+AlpsFoothills - biomesoplenty:alps_foothills - -0.25 - biomesoplenty:grass - minecraft:stone
+MountainFoothills - biomesoplenty:mountain_foothills - 0.5 - minecraft:grass - minecraft:dirt
+RedwoodForestEdge - biomesoplenty:redwood_forest_edge - 0.7 - minecraft:dirt - minecraft:dirt
+Pasture - biomesoplenty:pasture - 0.8 - biomesoplenty:grass - biomesoplenty:dirt
+Glacier - biomesoplenty:glacier - -0.5 - minecraft:ice - biomesoplenty:hard_ice
+Oasis - biomesoplenty:oasis - 2.0 - minecraft:sand - minecraft:sand
+SnowyTundra - biomesoplenty:snowy_tundra - 0.0 - biomesoplenty:grass - biomesoplenty:dirt
+Coral Reef - biomesoplenty:coral_reef - 0.5 - minecraft:grass - minecraft:dirt
+Kelp Forest - biomesoplenty:kelp_forest - 0.5 - minecraft:grass - minecraft:dirt
+Origin Island - biomesoplenty:origin_island - 0.6 - biomesoplenty:grass - minecraft:dirt
+Tropical Island - biomesoplenty:tropical_island - 0.95 - minecraft:grass - minecraft:dirt
+Volcanic Island - biomesoplenty:volcanic_island - 1.2 - biomesoplenty:ash_block - biomesoplenty:ash_block
+Flower Island - biomesoplenty:flower_island - 0.8 - biomesoplenty:grass - minecraft:dirt
+Corrupted Sands - biomesoplenty:corrupted_sands - 2.0 - minecraft:soul_sand - minecraft:soul_sand
+Fungi Forest - biomesoplenty:fungi_forest - 2.0 - minecraft:netherrack - minecraft:netherrack
+Phantasmagoric Inferno - biomesoplenty:phantasmagoric_inferno - 2.0 - biomesoplenty:ash_block - biomesoplenty:ash_block
+Undergarden - biomesoplenty:undergarden - 2.0 - biomesoplenty:grass - minecraft:netherrack
+Visceral Heap - biomesoplenty:visceral_heap - 2.0 - biomesoplenty:flesh - biomesoplenty:flesh
+Zollus - zollerngalaxy:zollus - 0.5 - zollerngalaxy:zolsurfacerock - zollerngalaxy:zoldirt
+Kriffon - zollerngalaxy:kriffon - 0.5 - zollerngalaxy:kriffrock - zollerngalaxy:kriffdirt
+Purgotary - zollerngalaxy:purgotary - 0.5 - zollerngalaxy:purgrock - zollerngalaxy:purgdirt
+Limbo - zollerngalaxy:limbo - 0.5 - zollerngalaxy:blackrock - zollerngalaxy:whiterock
+Green Lands - zollerngalaxy:green lands - 0.5 - zollerngalaxy:edensurfacerock - zollerngalaxy:edensoil
+Blood Desert - zollerngalaxy:blood desert - 0.5 - zollerngalaxy:bloodsand - zollerngalaxy:bloodstone
+Rock Mountains - zollerngalaxy:rock mountains - 0.5 - zollerngalaxy:edenrock - zollerngalaxy:edencobblerock
+Terran Valley - zollerngalaxy:terran valley - 0.5 - zollerngalaxy:edengrass - zollerngalaxy:edensoil
+Snowy Plains - zollerngalaxy:snowy plains - 0.5 - zollerngalaxy:edengrass_snow - zollerngalaxy:edenwinterrock
+Golden Meadow - zollerngalaxy:golden meadow - 0.5 - zollerngalaxy:edengoldengrass - zollerngalaxy:edensoil
+Paradise Woods - zollerngalaxy:paradise woods - 0.5 - zollerngalaxy:edengrass_autumn - zollerngalaxy:edensoil
+Swamplands - zollerngalaxy:swamplands - 0.5 - zollerngalaxy:edenswampgrass - zollerngalaxy:edensoil
+Edenwood Forest - zollerngalaxy:edenwood forest - 0.5 - zollerngalaxy:edengrass - zollerngalaxy:edensoil
+The Garden - zollerngalaxy:the garden - 0.5 - zollerngalaxy:edengrass - zollerngalaxy:edensoil
+Asteroid Craters - zollerngalaxy:asteroid craters - 0.5 - zollerngalaxy:crater_rock - zollerngalaxy:crater_rock
+Redshroom Hills - zollerngalaxy:redshroom hills - 0.5 - zollerngalaxy:redshroomblock - zollerngalaxy:redshroomstem
+Ocean of Eden - zollerngalaxy:ocean of eden - 0.5 - minecraft:air - minecraft:air
+Abstract Plains - zollerngalaxy:abstract plains - 0.5 - zollerngalaxy:xathgrass - zollerngalaxy:xathdirt
+Xathius Ocean - zollerngalaxy:xathius ocean - 0.5 - minecraft:air - minecraft:air
+Bluelands - zollerngalaxy:bluelands - 0.5 - zollerngalaxy:xathrock - zollerngalaxy:xathgravel
+Xathian Mountains - zollerngalaxy:xathian mountains - 0.5 - zollerngalaxy:xathstone - zollerngalaxy:xathstone
+Oasis Plains - zollerngalaxy:oasis plains - 0.5 - zollerngalaxy:oasisgrass - zollerngalaxy:oasisdirt
+Red Sea - zollerngalaxy:red sea - 0.5 - minecraft:air - minecraft:air
+Redlands - zollerngalaxy:redlands - 0.5 - zollerngalaxy:oasisrock - zollerngalaxy:oasisgravel
+Xantheon - zollerngalaxy:xantheon - 0.5 - zollerngalaxy:xantheonrock - zollerngalaxy:xantheonchrome
+Candy Mountain - zollerngalaxy:candy mountain - 0.5 - zollerngalaxy:candycube_red - zollerngalaxy:candycube_white
+Chocolate Ocean - zollerngalaxy:chocolate ocean - 0.5 - minecraft:air - minecraft:air
+Jolly Watermelon Plains - zollerngalaxy:jolly watermelon plains - 0.5 - zollerngalaxy:candycube_green - zollerngalaxy:candycube_red
+Blueberry Hills - zollerngalaxy:blueberry hills - 0.5 - zollerngalaxy:candycube_blue - zollerngalaxy:candycube_cyan
+Cookie Lands - zollerngalaxy:cookie lands - 0.5 - zollerngalaxy:cookieblock - zollerngalaxy:candycube_brown
+Golden Constructs - zollerngalaxy:golden constructs - 0.5 - zollerngalaxy:atheonrock - zollerngalaxy:atheonluxrock
+Radiolarian Ocean - zollerngalaxy:radiolarian ocean - 0.5 - minecraft:air - minecraft:air
+Lost Desert - zollerngalaxy:lost desert - 0.5 - zollerngalaxy:perdsand - zollerngalaxy:perdrock
+Lost Hallows - zollerngalaxy:lost hallows - 0.5 - zollerngalaxy:perdsoil - zollerngalaxy:perdcreepstone
+Lost Oasis - zollerngalaxy:lost oasis - 0.5 - zollerngalaxy:perdgrass - zollerngalaxy:perddirt
+Fueltonium Ocean - zollerngalaxy:fueltonium ocean - 0.5 - minecraft:air - minecraft:air
+Lost Mountains - zollerngalaxy:lost mountains - 0.5 - zollerngalaxy:perdstone - zollerngalaxy:perdcobble
+Rocky Isles - zollerngalaxy:rocky isles - 0.5 - zollerngalaxy:altumrock - zollerngalaxy:altumdirt
+Sanctum Beach - zollerngalaxy:sanctum beach - 0.5 - zollerngalaxy:altumsand - zollerngalaxy:altumcobble
+The Abyss - zollerngalaxy:the abyss - 0.5 - minecraft:air - minecraft:air
+Rocky Shore - zollerngalaxy:rocky shore - 0.5 - zollerngalaxy:altumstone - zollerngalaxy:altumcobble
+Upside Down - zollerngalaxy:upside down - 0.5 - zollerngalaxy:caligrosurfacerock - zollerngalaxy:caligrodirt
+Creeplands - zollerngalaxy:creeplands - 0.5 - zollerngalaxy:creepstone - zollerngalaxy:creepdirt
+Rocky Veins - zollerngalaxy:rocky veins - 0.5 - zollerngalaxy:caligrorock - zollerngalaxy:caligrocobblestone
+Witherlands - zollerngalaxy:witherlands - 0.5 - zollerngalaxy:witherrack - zollerngalaxy:caligrostone
+Corrupted Mesa - zollerngalaxy:corrupted mesa - 0.5 - zollerngalaxy:corruptrock - zollerngalaxy:corruptcobble
+A mod doesn't support extended biome IDs -- report to JEID - jeid:error_biome - 0.5 - minecraft:grass - minecraft:dirt
+Diona - moreplanets:diona - 0.2 - minecraft:grass - minecraft:dirt
+Chalos Plains - moreplanets:chalos_plains - 0.8 - moreplanets:cheese_grass_block - moreplanets:cheese_dirt
+Chalos Moutains - moreplanets:chalos_moutains - 0.2 - moreplanets:cheese_grass_block - moreplanets:cheese_dirt
+Slimely Stream - moreplanets:slimely_stream - 0.5 - moreplanets:cheese_slime_block - moreplanets:cheese_slime_block
+Infected Plains - moreplanets:infected_plains - 0.8 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Infested Plains - moreplanets:infected_infested_plains - 0.8 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Dead Savanna - moreplanets:infected_dead_savanna - 1.2 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Dead Savanna Plateau - moreplanets:infected_dead_savanna_plateau - 1.0 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Desert - moreplanets:infected_desert - 2.0 - moreplanets:infected_sand - moreplanets:infected_sand
+Infected Desert Hills - moreplanets:infected_desert_hills - 2.0 - moreplanets:infected_sand - moreplanets:infected_sand
+Infected River - moreplanets:infected_river - 0.5 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Frozen River - moreplanets:infected_frozen_river - 0.0 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Ocean - moreplanets:infected_ocean - 0.5 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Forest - moreplanets:infected_forest - 0.7 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Wooded Hills - moreplanets:infected_wooded_hills - 0.7 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Deep Ocean - moreplanets:infected_deep_ocean - 0.5 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Dead Dark Forest - moreplanets:infected_dead_dark_forest - 0.7 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Mountains - moreplanets:infected_mountains - 0.2 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Mountains Edge - moreplanets:infected_mountains_edge - 0.2 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Wooded Mountains - moreplanets:infected_wooded_mountains - 0.2 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Swamp - moreplanets:infected_swamp - 0.8 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Taiga - moreplanets:infected_taiga - 0.25 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Taiga Hills - moreplanets:infected_taiga_hills - 0.25 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Snowy Taiga - moreplanets:infected_snowy_taiga - -0.5 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Snowy Taiga Hills - moreplanets:infected_snowy_taiga_hills - -0.5 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Giant Tree Taiga - moreplanets:infected_giant_tree_taiga - 0.3 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Giant Tree Taiga Hills - moreplanets:infected_giant_tree_taiga_hills - 0.3 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Giant Spruce Taiga - moreplanets:infected_giant_spruce_taiga - 0.25 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Giant Spruce Taiga Hills - moreplanets:infected_giant_spruce_taiga_hills - 0.25 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Jungle - moreplanets:infected_jungle - 0.95 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Jungle Hills - moreplanets:infected_jungle_hills - 0.95 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Jungle Edge - moreplanets:infected_jungle_edge - 0.95 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Snowy Tundra - moreplanets:infected_snowy_tundra - 0.0 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Snowy Mountains - moreplanets:infected_snowy_mountains - 0.0 - moreplanets:infected_grass_block - moreplanets:infected_dirt
+Infected Ice Spikes - moreplanets:infected_ice_spikes - 0.0 - moreplanets:infected_snow - moreplanets:infected_dirt
+Green Vein Fields - moreplanets:green_vein_fields - 0.9 - moreplanets:green_vein_grass_block - moreplanets:infected_dirt
+Cold Green Vein Mountains - moreplanets:cold_green_vein_moutains - 0.0 - moreplanets:green_vein_grass_block - moreplanets:infected_dirt
+Green Vein Field Shore - moreplanets:green_vein_field_shore - 0.9 - moreplanets:green_vein_grass_block - moreplanets:infected_dirt
+Infected Beach - moreplanets:infected_beaches - 0.8 - moreplanets:infected_sand - moreplanets:infected_sand
+Infected Stone Shore - moreplanets:infected_stone_shore - 0.8 - moreplanets:nibiru_rock - moreplanets:nibiru_rock
+Infected Snowy Beach - moreplanets:infected_snowy_beach - 0.05 - moreplanets:infected_sand - moreplanets:infected_sand
+Infected Badlands - moreplanets:infected_badlands - 2.0 - moreplanets:infected_sand - minecraft:stained_hardened_clay
+Infected Wooded Badlands Plateau - moreplanets:infected_wooded_badlands_plateau - 2.0 - moreplanets:infected_sand - minecraft:stained_hardened_clay
+Infected Badlands Plateau - moreplanets:infected_badlands_plateau - 2.0 - moreplanets:infected_sand - minecraft:stained_hardened_clay
+Fronos Meadow - moreplanets:fronos_meadow - 0.8 - moreplanets:fronos_grass_block - moreplanets:fronos_dirt
+Fronos Plains - moreplanets:fronos_plains - 0.8 - moreplanets:fronos_grass_block - moreplanets:fronos_dirt
+Fronos River - moreplanets:fronos_river - 0.5 - moreplanets:fronos_grass_block - moreplanets:fronos_dirt
+Fronos Forest - moreplanets:fronos_forest - 0.7 - moreplanets:fronos_grass_block - moreplanets:fronos_dirt
+Spectral - randomthings:spectral - 0.2 - minecraft:grass - minecraft:dirt
+Storage Cell - appliedenergistics2:storage_biome - -100.0 - minecraft:grass - minecraft:dirt
+Magical Forest - thaumcraft:magical_forest - 0.8 - minecraft:grass - minecraft:dirt
+Eerie - thaumcraft:eerie - 0.8 - minecraft:grass - minecraft:dirt
+Outer Lands - thaumcraft:eldritch - 0.8 - minecraft:dirt - minecraft:dirt
+Twilight Lake - twilightforest:twilight_lake - 0.66 - minecraft:grass - minecraft:dirt
+Twilight Forest - twilightforest:twilight_forest - 0.5 - minecraft:grass - minecraft:dirt
+Dense Twilight Forest - twilightforest:dense_twilight_forest - 0.7 - minecraft:grass - minecraft:dirt
+Twilight Highlands - twilightforest:twilight_highlands - 0.4 - minecraft:grass - minecraft:dirt
+Mushroom Forest - twilightforest:mushroom_forest - 0.8 - minecraft:grass - minecraft:dirt
+Twilight Swamp - twilightforest:twilight_swamp - 0.8 - minecraft:grass - minecraft:dirt
+Twilight Stream - twilightforest:twilight_stream - 0.5 - minecraft:grass - minecraft:dirt
+Snowy Forest - twilightforest:snowy_forest - 0.09 - minecraft:grass - minecraft:dirt
+Twilight Glacier - twilightforest:twilight_glacier - 0.0 - minecraft:grass - minecraft:dirt
+Twilight Clearing - twilightforest:twilight_clearing - 0.8 - minecraft:grass - minecraft:dirt
+Oak Savanna - twilightforest:oak_savannah - 0.9 - minecraft:grass - minecraft:dirt
+Firefly Forest - twilightforest:firefly_forest - 0.5 - minecraft:grass - minecraft:dirt
+Deep Mushroom Forest - twilightforest:deep_mushroom_forest - 0.8 - minecraft:grass - minecraft:dirt
+Dark Forest - twilightforest:dark_forest - 0.7 - minecraft:grass - minecraft:dirt
+Enchanted Forest - twilightforest:enchanted_forest - 0.5 - minecraft:grass - minecraft:dirt
+Fire Swamp - twilightforest:fire_swamp - 1.0 - minecraft:grass - minecraft:dirt
+Dark Forest Center - twilightforest:dark_forest_center - 0.5 - minecraft:grass - minecraft:dirt
+Final Plateau - twilightforest:highlands_center - 0.3 - twilightforest:deadrock - twilightforest:deadrock
+Thornlands - twilightforest:thornlands - 0.3 - twilightforest:deadrock - twilightforest:deadrock
+Spooky Forest - twilightforest:spooky_forest - 0.5 - minecraft:grass - minecraft:dirt
+Space - galacticraftcore:outer space - 0.5 - minecraft:grass - minecraft:dirt
+Venus Mountain - galacticraftplanets:outer space 1 - 4.0 - minecraft:grass - minecraft:dirt
+Venus Valley - galacticraftplanets:outer space 2 - 4.0 - minecraft:grass - minecraft:dirt
+Terran Valley - zollerngalaxy:outer space 3 - 0.5 - minecraft:grass - minecraft:dirt
+Snowy Plains - zollerngalaxy:outer space 4 - 0.5 - minecraft:grass - minecraft:dirt
+Golden Meadow - zollerngalaxy:outer space 5 - 0.5 - minecraft:grass - minecraft:dirt
+Swamplands - zollerngalaxy:outer space 6 - 0.5 - minecraft:grass - minecraft:dirt
+Edenwood Forest - zollerngalaxy:outer space 7 - 0.5 - minecraft:grass - minecraft:dirt
+Paradise Woods - zollerngalaxy:outer space 8 - 0.5 - minecraft:grass - minecraft:dirt
+The Garden - zollerngalaxy:outer space 9 - 0.5 - minecraft:grass - minecraft:dirt
+Asteroid Craters - zollerngalaxy:outer space 10 - 0.5 - minecraft:grass - minecraft:dirt
+Redshroom Hills - zollerngalaxy:outer space 11 - 0.5 - minecraft:grass - minecraft:dirt
+Ocean of Eden - zollerngalaxy:outer space 12 - 0.5 - minecraft:grass - minecraft:dirt
+Space - galaxyspace:space - 0.5 - minecraft:grass - minecraft:dirt
+SpaceLowPlains - galaxyspace:spacelowplains - 0.5 - minecraft:grass - minecraft:dirt
+SpaceMidPlains - galaxyspace:spacemidplains - 0.5 - minecraft:grass - minecraft:dirt
+SpaceLowHills - galaxyspace:spacelowhills - 0.5 - minecraft:grass - minecraft:dirt
+SpaceMidHills - galaxyspace:spacemidhills - 0.5 - minecraft:grass - minecraft:dirt
+-=|WorldEngine|=- - asmodeuscore:-=|worldengine|=- - 0.5 - minecraft:grass - minecraft:dirt
+Defiled Desert - defiledlands:desert_defiled - 2.0 - defiledlands:sand_defiled - defiledlands:sand_defiled
+Defiled Plains - defiledlands:plains_defiled - 0.8 - defiledlands:grass_defiled - defiledlands:dirt_defiled
+Tenebra Forest - defiledlands:forest_tenebra - 0.7 - defiledlands:grass_defiled - defiledlands:dirt_defiled
+Vilespine Forest - defiledlands:forest_vilespine - 0.7 - defiledlands:grass_defiled - defiledlands:dirt_defiled
+Defiled Hills - defiledlands:hills_defiled - 0.2 - defiledlands:grass_defiled - defiledlands:dirt_defiled
+Defiled Swamp - defiledlands:swamp_defiled - 0.8 - defiledlands:grass_defiled - defiledlands:dirt_defiled
+Defiled Ice Plains - defiledlands:ice_plains_defiled - 0.0 - defiledlands:grass_defiled - defiledlands:dirt_defiled
+Glacier - iceandfire:glacier - 0.0 - minecraft:snow - minecraft:packed_ice
+Ruthless Sands - netherex:ruthless_sands - 2.0 - minecraft:soul_sand - netherex:gloomy_netherrack
+Fungi Forest - netherex:fungi_forest - 1.1 - netherex:hyphae - netherex:lively_netherrack
+Torrid Wasteland - netherex:torrid_wasteland - 4.0 - netherex:fiery_netherrack - netherex:fiery_netherrack
+Arctic Abyss - netherex:arctic_abyss - 0.0 - netherex:frostburn_ice - netherex:icy_netherrack
+Tent - yurtmod:tent - 0.5 - minecraft:grass - minecraft:dirt
+Emptiness - thaumicaugmentation:emptiness - 0.25 - thaumicaugmentation:stone - thaumicaugmentation:stone
+Tainted Lands - thaumicaugmentation:tainted_lands - 0.25 - thaumicaugmentation:stone - thaumicaugmentation:stone
+Emptiness Highlands - thaumicaugmentation:emptiness_highlands - 0.25 - thaumicaugmentation:stone - thaumicaugmentation:stone
+Aether Highlands - aether_legacy:aether_highlands - 0.5 - aether_legacy:aether_grass - aether_legacy:holystone
+Glacidus - glacidus:glacidus - 0.5 - minecraft:grass - minecraft:dirt
+Wavic Biome - waveymod:wavicbiome - 2.0 - waveymod:wavicdirt - waveymod:wavicstone
