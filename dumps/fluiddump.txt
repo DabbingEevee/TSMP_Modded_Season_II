@@ -301,7 +301,7 @@ Molten Adamantium - adamantium - 2000 - 10000 - 1000 - Block{lucraftcore:molten_
 Molten Uru - uru - 2000 - 10000 - 1000 - Block{lucraftcore:molten_uru}
 Glacium§r - glacium - 5000 - 6000 - -1500 - Block{glacidus:glacium}
 Molten Amaranth - amaranth - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenamaranth}
-Molten Astral Starmetal - astral_starmetal - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenastralstarmetal}
+Molten Astral Starmetal - astral_starmetal - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenastralstarmetal} - 
 Molten Carbon - carbon - 2000 - 10000 - 500 - Block{jaopca:fluid_moltencarbon}
 Molten Crystal - crystal - 2000 - 10000 - 500 - Block{jaopca:fluid_moltencrystal}
 Molten Dark Iron - dark_iron - 2000 - 10000 - 500 - Block{jaopca:fluid_moltendarkiron}
@@ -309,7 +309,7 @@ Molten Desh - desh - 2000 - 10000 - 500 - Block{jaopca:fluid_moltendesh}
 Molten Draconium - draconium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltendraconium}
 Molten Etrium - etrium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenetrium}
 Molten Evenium - evenium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenevenium}
-Molten Fusionite - fusionite - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenfusionite}
+Molten Fusionite - fusionite - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenfusionite} - 
 Molten Magnesium - magnesium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenmagnesium}
 Molten Mercury - mercury - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenmercury}
 Molten Meteoric Iron - meteoric_iron - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenmeteoriciron}
