@@ -424,6 +424,9 @@
 
 *bdew*
 ***
+### Aether Additions
+*VirtualEsence*
+***
 ### Aether Continuation
 *Raptor__*
 ***
@@ -510,6 +513,11 @@
 ***
 ### Lost Magic
 *SpitefulFox*
+***
+### Materialis
+<https://minecraft.curseforge.com/projects/materialis>
+
+*RCXcrafter*
 ***
 ### Minerva Library
 *Zabi94*
@@ -601,10 +609,10 @@
 ### Tinkers' Reforged
 *Mrthomas20121*
 ***
-### Tinker's Aether
-<https://minecraft.curseforge.com/projects/tinkers-aether>
+### Tinkers' Aether
+<https://www.curseforge.com/minecraft/mc-mods/tinkers-aether>
 
-*Shnupbups*
+*Shnupbups, Diamondman121314*
 ***
 ### Tinkers' Compendium
 *Lance5057*
