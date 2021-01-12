@@ -427,13 +427,13 @@
 ### Aether Additions
 *VirtualEsence*
 ***
+### The Aether
+<https://www.curseforge.com/minecraft/mc-mods/the-aether>
+
+*bconlon, Oscar Payn, Hugo Payn, JellySquid*
+***
 ### Aether Continuation
 *Raptor__*
-***
-### Aether Legacy
-<https://www.moddinglegacy.com/>
-
-*115kino, KingPhygieBoo, xJonL*
 ***
 ### Applied Energistics 2
 <http://ae2.ae-mod.info>
