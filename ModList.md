@@ -156,6 +156,11 @@
 
 *rubensworks (aka kroeserr)*
 ***
+### Erebus
+<http://minecraft.curseforge.com/projects/the-erebus>
+
+*vadis365, ganymedes01*
+***
 ### Extended Crafting
 <https://minecraft.curseforge.com/projects/extended-crafting>
 
@@ -474,6 +479,11 @@
 ***
 ### Dumplings
 *koalayucheng*
+***
+### ErebusFix
+<http://github.com/noobanidus/erebusfix>
+
+*Noobanidus*
 ***
 ### Extra Utilities 2
 *RWTema*
