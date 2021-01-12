@@ -52,6 +52,11 @@
 
 *darkhax,			lclc98*
 ***
+### Botania
+<http://www.botaniamod.net>
+
+*Vazkii, williewillus, wiiv, dylan4ever*
+***
 ### Brandon's Core
 <http://minecraft.curseforge.com/projects/brandons-core>
 
@@ -505,6 +510,9 @@
 <https://github.com/mezz/JustEnoughItems>
 
 *mezz*
+***
+### libnine
+*phantamanta44*
 ***
 ### LLibrary
 <https://github.com/iLexiconn/LLibrary>
