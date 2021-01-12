@@ -11,7 +11,7 @@
         {
             "type": "item",
             "io-type": "input",
-            "item": "ore:log",
+            "item": "ore:logWood",
             "amount": 1
         },
         {
@@ -31,7 +31,7 @@
         {
             "type": "item",
             "io-type": "output",
-            "item": "biomesoplenty:log_0@11",
+            "item": "biomesoplenty:log_2@7",
             "amount": 1,
             "chance": 0.2
         }

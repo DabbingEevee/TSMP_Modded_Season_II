@@ -1,7 +1,7 @@
 {
     "machine": "netheric_annihilator",
     "registryName": "netheric_annihilator_netherrack",
-    "recipeTime": 120,
+    "recipeTime": 10,
     "requirements": [
         {
             "type": "energy",
@@ -11,7 +11,7 @@
         {
             "type": "item",
             "io-type": "input",
-            "item": "ore:cropApple",
+            "item": "minecraft:apple",
             "amount": 1
         },
         {
