@@ -638,9 +638,6 @@
 ### Tinkers' Compendium
 *Lance5057*
 ***
-### Tinkers World
-*Mrthomas20121*
-***
 ### Corail Tombstone
 <https://www.curseforge.com/minecraft/mc-mods/corail-tombstone>
 
