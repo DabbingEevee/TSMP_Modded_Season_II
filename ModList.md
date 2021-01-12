@@ -12,6 +12,9 @@
 
 *Jacky1356400*
 ***
+### Aether Continuation
+*Raptor__*
+***
 ### AgriCraft
 <http://minecraft.curseforge.com/mc-mods/225635-agricraft>
 
@@ -431,9 +434,6 @@
 <https://www.curseforge.com/minecraft/mc-mods/the-aether>
 
 *bconlon, Oscar Payn, Hugo Payn, JellySquid*
-***
-### Aether Continuation
-*Raptor__*
 ***
 ### Applied Energistics 2
 <http://ae2.ae-mod.info>
