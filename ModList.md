@@ -595,6 +595,9 @@
 ### TC6 Aspects for JEI
 *ZaBi94*
 ***
+### Tinkers' Evolution
+*phantamanta44*
+***
 ### Techguns
 <https://github.com/pWn3d1337/Techguns2>
 
@@ -626,6 +629,9 @@
 ***
 ### Tinkers' Compendium
 *Lance5057*
+***
+### Tinkers World
+*Mrthomas20121*
 ***
 ### Corail Tombstone
 <https://www.curseforge.com/minecraft/mc-mods/corail-tombstone>
