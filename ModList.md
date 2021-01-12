@@ -627,9 +627,6 @@
 ### TheDragonLib
 *sokratis12GR and Moritz30 in association with TheDragonTeam.*
 ***
-### Tinkers' Reforged
-*Mrthomas20121*
-***
 ### Tinkers' Aether
 <https://www.curseforge.com/minecraft/mc-mods/tinkers-aether>
 
@@ -637,6 +634,9 @@
 ***
 ### Tinkers' Compendium
 *Lance5057*
+***
+### Tinkers World
+*Mrthomas20121*
 ***
 ### Corail Tombstone
 <https://www.curseforge.com/minecraft/mc-mods/corail-tombstone>
