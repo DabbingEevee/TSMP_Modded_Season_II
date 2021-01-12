@@ -19,6 +19,10 @@ item.contenttweaker.singularity_matrix_9.name=Singularity Matrix Tier 9
 item.contenttweaker.singularity_matrix_10.name=Singularity Matrix Tier 10
 
 
+material.chaotic_metal.name=Restructured Chaos
+material.draconium.name=Formed Draconium
+material.wyvern_metal.name=Coalesced Wyvern
+
 
 tile.contenttweaker.neutron_sponge.name=Neutron Sponge
 
