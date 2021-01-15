@@ -23,17 +23,20 @@ import mods.contenttweaker.Item;
 #var singularities = VanillaFactory.createCreativeTab("singularities", <minecraft:tnt>);
 #singularities.register();
 
-var createsingularity = [
-#        "singularity_matrix",
-        "inactive_infinity_catalyst",
-        "fluxed_electrum_singularity",
-        "glowing_iron_singularity",
-        "pulsating_gem",
-        "fiery_singularity"
-
+var createfullset = [
+	"uru",
+	"mega_alloy",
+	"dwarf_star_alloy",
+	"metallic_red_matter",
+	"gilded_netherite",
+	"gold_titanium_alloy",
+	"intertium",
+	"vibranium",
+	"adamantium"
     ] as string[];
 
-var createcompat = [
+
+var createitem = [
         "wavic_nugget", 
         "wavic_dust", 
         "awakened_nugget",
@@ -45,9 +48,14 @@ var createcompat = [
         "tromero_nugget",
         "tromero_dust",
         "unstable_dust",
-        "mega_alloy_nugget",
-        "mega_alloy_dust",
-        "mega_alloy_ingot"
+        #"mega_alloy_nugget",
+        #"mega_alloy_dust",
+        #"mega_alloy_ingot",
+        "inactive_infinity_catalyst",
+        "fluxed_electrum_singularity",
+        "glowing_iron_singularity",
+        "pulsating_gem",
+        "fiery_singularity"
     ] as string[];
 
 var createore = [
@@ -62,7 +70,7 @@ var createore = [
     ] as string[];
 
 var createblockofore = [
-        "mega_alloy_block",
+        #"mega_alloy_block",
         "wavic_block",
         "awakened_block",
         "unstable_block",
@@ -71,6 +79,13 @@ var createblockofore = [
 
     ] as string[];
 
+for item in createfullset {
+	createblockofore += (item + "_block")
+	createitem += (item + "_nugget")
+	createitem += (item + "_ingot")
+	createitem += (item + "_dust")
+}
+
 var i = 0; 
 
 while i < 10 {
@@ -78,20 +93,11 @@ while i < 10 {
 	i += 1;
 } 
 
-for item in createcompat {
+for item in createitem {
 
 	var item = VanillaFactory.createItem(item);
         item.maxStackSize = 64;
         #item.creativeTab = gems_metals;
-        item.register();
-
-}
-
-for item in createsingularity {
-
-	var item = VanillaFactory.createItem(item);
-        item.maxStackSize = 64;
-        #item.creativeTab = singularities;
         item.register();
 
 }
