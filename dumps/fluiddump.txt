@@ -77,18 +77,18 @@ Lingering Potion - potion_lingering - 500 - 1500 - 300 - null
 Destabilized Redstone - redstone - 1200 - 1500 - 300 - Block{thermalfoundation:fluid_redstone}
 Energized Glowstone - glowstone - -500 - 100 - 300 - Block{thermalfoundation:fluid_glowstone}
 Resonant Ender - ender - 4000 - 2500 - 300 - Block{thermalfoundation:fluid_ender}
-Blazing Pyrotheum - pyrotheum - 2000 - 1200 - 2000 - Block{thermalfoundation:fluid_pyrotheum}
+Blazing Pyrotheum - pyrotheum - 2000 - 1200 - 4000 - Block{thermalfoundation:fluid_pyrotheum}
 Gelid Cryotheum - cryotheum - 4000 - 4000 - 50 - Block{thermalfoundation:fluid_cryotheum}
 Zephyrean Aerotheum - aerotheum - -800 - 100 - 300 - Block{thermalfoundation:fluid_aerotheum}
 Tectonic Petrotheum - petrotheum - 4000 - 1500 - 350 - Block{thermalfoundation:fluid_petrotheum}
 Primal Mana - mana - 600 - 6000 - 350 - Block{thermalfoundation:fluid_mana}
-Molten Platinum - platinum - 1000 - 1000 - 1400 - Block{tconstruct:molten_platinum}
-Molten Iridium - iridium - 1000 - 1000 - 1400 - Block{tconstruct:molten_iridium}
-Molten Invar - invar - 1000 - 1000 - 1400 - Block{tconstruct:molten_invar}
+Molten Platinum - platinum - 1000 - 1000 - 1400 - null
+Molten Iridium - iridium - 1000 - 1000 - 1400 - null
+Molten Invar - invar - 1000 - 1000 - 1400 - null
 Molten Constantan - constantan - 1000 - 1000 - 650 - null
-Molten Signalum - signalum - 1000 - 1000 - 1000 - Block{tconstruct:molten_signalum}
+Molten Signalum - signalum - 1000 - 1000 - 1000 - null
 Molten Lumium - lumium - 1000 - 1000 - 1000 - Block{tconstruct:molten_lumium}
-Molten Enderium - enderium - 1000 - 1000 - 1600 - Block{tconstruct:molten_enderium}
+Molten Enderium - enderium - 1000 - 1000 - 1600 - null
 Molten Electrical Steel - electrical_steel - 9000 - 3000 - 1475 - Block{enderio:block_fluid_electrical_steel}
 Molten Energetic Alloy - energetic_alloy - 9000 - 3000 - 1128 - Block{enderio:block_fluid_energetic_alloy}
 Molten Vibrant Alloy - vibrant_alloy - 9000 - 3000 - 913 - Block{enderio:block_fluid_vibrant_alloy}
@@ -152,6 +152,10 @@ Dwarven Oil - oil_dwarf - 2000 - 1000 - 300 - null
 Dwarven Fuel Gas - gas_dwarf - -1500 - 200 - 950 - null
 Molten Dawnstone - dawnstone - 2000 - 6000 - 900 - Block{embers:dawnstone}
 Alchemical Slurry - alchemical_redstone - 2000 - 6000 - 900 - Block{embers:alchemical_redstone}
+Anti-Venom - anti_venom - 1000 - 2000 - 300 - null
+Beetle Juice - beetle_juice - 1000 - 1000 - 300 - null
+Milk - milk - 1000 - 1000 - 300 - null
+Formic Acid - formic_acid - 1000 - 1000 - 300 - Block{erebus:formic_acid}
 Conductive Chargium - chargium - 1000 - 1000 - 300 - Block{zollerngalaxy:fluid_chargium}
 Radiolaria - whitelava - 1000 - 1000 - 300 - Block{zollerngalaxy:fluid_whitelava}
 Molten Fueltonium - fueltonium - 1000 - 1000 - 300 - Block{zollerngalaxy:fluid_fueltonium}
@@ -167,6 +171,48 @@ Liquid Helium-Hydrogen - heliumhydrogen - 1200 - 140 - 90 - Block{galaxyspace:bl
 Molten Fire Dragonsteel - dragonsteel_fire - 2000 - 10000 - 769 - Block{tconstruct:molten_dragonsteel_fire}
 Molten Ice Dragonsteel - dragonsteel_ice - 2000 - 10000 - 769 - Block{tconstruct:molten_dragonsteel_ice}
 fluid.unused.name - infinifluid - 2000 - 10000 - 1000 - Block{infinitic:infinifluid}
+Molten Soulium - soulium - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_soulium}
+Molten Base Essence - base_essence - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_base_essence}
+Molten Inferium - inferium - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_inferium}
+Molten Prudentium - prudentium - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_prudentium}
+Molten Intermedium - intermedium - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_intermedium}
+Molten Superium - superium - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_superium}
+Molten Supremium - supremium - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_supremium}
+Molten Sunnarium - sunnarium - 2000 - 10000 - 3000 - null
+Molten Sky Stone - sky_stone - 2000 - 10000 - 1250 - null
+Molten Fluix Steel - fluix_steel - 2000 - 10000 - 1100 - null
+Molten Starmetal - starmetal - 2000 - 10000 - 1360 - null
+Amorphous Crystal Matrix - crystal_matrix - 2000 - 10000 - 2400 - null
+Hyperdense Neutron Fluid - neutronium - 2000 - 10000 - 3100 - null
+Flow of Infinity - infinity_metal - 2000 - 10000 - 6660 - null
+Molten Bound Metal - bound_metal - 2000 - 10000 - 1700 - null
+Fluidic Sentience - sentient_metal - 2000 - 10000 - 1300 - null
+Molten Livingrock - livingrock - 2000 - 10000 - 1000 - null
+Molten Manasteel - manasteel - 2000 - 10000 - 800 - null
+Molten Terrasteel - terrasteel - 2000 - 10000 - 1200 - null
+Molten Elementium - elementium - 2000 - 10000 - 900 - null
+Molten Draconium - draconium - 2000 - 10000 - 800 - null
+Wyvern Coalescence - wyvern_metal - 2000 - 10000 - 1200 - null
+Draconic Coalescence - draconic_metal - 2000 - 10000 - 1700 - null
+Destructured Chaos - chaotic_metal - 2000 - 10000 - 3400 - null
+Molten Mica - mica - 2000 - 10000 - 900 - null
+Molten Metallic Essence - essence_metal - 2000 - 10000 - 1000 - null
+Molten Pink Metal - pink_metal - 2000 - 10000 - 1600 - null
+Molten Energium Metal - energetic_metal - 2000 - 10000 - 1400 - null
+Eutectic UU-Metal Alloy - universal_metal - 2000 - 10000 - 420 - null
+Molten Osmium - osmium - 2000 - 10000 - 1516 - null
+Dark Liquid - dark_matter - 2000 - 10000 - 2700 - null
+Red Liquid - red_matter - 2000 - 10000 - 3400 - null
+Molten Fluxed Electrum - fluxed_electrum - 2000 - 10000 - 2800 - null
+Molten Gelid Enderium - gelid_enderium - 2000 - 10000 - 3200 - null
+Molten Thaumium - thaumium - 2000 - 10000 - 940 - null
+Molten Void Metal - void_metal - 2000 - 10000 - 1120 - null
+Molten Primal Metal - primal_metal - 2000 - 10000 - 1760 - null
+Molten Fairy - fairy - 2000 - 10000 - 900 - Block{materialis:molten_fairy}
+Molten Pokefennium - pokefennium - 2000 - 10000 - 850 - Block{materialis:molten_pokefennium}
+Molten Red Aurum - red_aurum - 2000 - 10000 - 455 - Block{materialis:molten_red_aurum}
+Molten Drulloy - drulloy - 2000 - 10000 - 643 - Block{materialis:molten_drulloy}
+Molten Alumite - alumite - 2000 - 10000 - 940 - Block{materialis:molten_alumite}
 Molten Amordrine - amordrine - 800 - 4000 - 360 - Block{metallurgy:molten_amordrine}
 Molten Haderoth - haderoth - 800 - 4000 - 720 - Block{metallurgy:molten_haderoth}
 Molten Alduorite - alduorite - 800 - 4000 - 360 - Block{metallurgy:molten_alduorite}
@@ -182,8 +228,8 @@ Molten Eximite - eximite - 800 - 4000 - 540 - Block{metallurgy:molten_eximite}
 Molten Desichalkos - desichalkos - 800 - 4000 - 540 - Block{metallurgy:molten_desichalkos}
 Molten Celenegil - celenegil - 800 - 4000 - 720 - Block{metallurgy:molten_celenegil}
 Molten Shadow Iron - shadow_iron - 800 - 4000 - 360 - Block{metallurgy:molten_shadow_iron}
-Molten Mithril - mithril - 800 - 4000 - 540 - Block{metallurgy:molten_mithril}
 Molten Carmot - carmot - 800 - 4000 - 540 - Block{metallurgy:molten_carmot}
+Molten Mithril - mithril - 800 - 4000 - 540 - Block{metallurgy:molten_mithril}
 Molten Ceruclase - ceruclase - 800 - 4000 - 540 - Block{metallurgy:molten_ceruclase}
 Molten Deep Iron - deep_iron - 800 - 4000 - 360 - Block{metallurgy:molten_deep_iron}
 Molten Angmallen - angmallen - 800 - 4000 - 360 - Block{metallurgy:molten_angmallen}
@@ -194,10 +240,9 @@ Molten Prometheum - prometheum - 800 - 4000 - 360 - Block{metallurgy:molten_prom
 Molten Adamantine - adamantine - 800 - 4000 - 540 - Block{metallurgy:molten_adamantine}
 Molten Tartarite - tartarite - 800 - 4000 - 720 - Block{metallurgy:molten_tartarite}
 Molten Atlarus - atlarus - 800 - 4000 - 540 - Block{metallurgy:molten_atlarus}
-Molten Black Steel - black_steel - 800 - 4000 - 540 - Block{metallurgy:molten_black_steel}
 Molten Vyroxeres - vyroxeres - 800 - 4000 - 540 - Block{metallurgy:molten_vyroxeres}
+Molten Black Steel - black_steel - 800 - 4000 - 540 - Block{metallurgy:molten_black_steel}
 Molten Lutetium - lutetium - 800 - 4000 - 540 - Block{metallurgy:molten_lutetium}
-Molten Osmium - osmium - 800 - 4000 - 720 - Block{metallurgy:molten_osmium}
 Molten Oureclase - oureclase - 800 - 4000 - 540 - Block{metallurgy:molten_oureclase}
 Molten Inolashite - inolashite - 800 - 4000 - 720 - Block{metallurgy:molten_inolashite}
 Molten Meutoite - meutoite - 800 - 4000 - 540 - Block{metallurgy:molten_meutoite}
@@ -218,34 +263,15 @@ Helium Gas - helium_gas - -2000 - 1000 - 300 - Block{moreplanets:helium_gas}
 Nuclear Waste - nuclear_waste_fluid - 3000 - 8000 - 2600 - Block{moreplanets:nuclear_waste_fluid}
 Purified Water - purified_water_fluid - 1000 - 1000 - 300 - Block{moreplanets:purified_water_fluid}
 Insanium - insanium - 2000 - 10000 - 1000 - Block{mysticaladaptations:molten_insanium}
-Molten Soulium - soulium - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_soulium}
-Molten Base Essence - base_essence - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_base_essence}
-Molten Inferium - inferium - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_inferium}
-Molten Prudentium - prudentium - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_prudentium}
-Molten Intermedium - intermedium - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_intermedium}
-Molten Superium - superium - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_superium}
-Molten Supremium - supremium - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_supremium}
-Molten Alumite - alumite - 2000 - 10000 - 890 - Block{plustic:plustic.molten_alumite}
 Molten Refined Obsidian - refinedobsidian - 2000 - 10000 - 860 - Block{plustic:plustic.molten_refinedobsidian}
 Refined Glowstone - refinedglowstone - 2000 - 10000 - 1111 - Block{plustic:plustic.molten_refinedglowstone}
+Molten Osgloglas - osgloglas - 2000 - 10000 - 1300 - Block{plustic:plustic.molten_osgloglas}
+Molten Osmiridium - osmiridium - 2000 - 10000 - 840 - Block{plustic:plustic.molten_osmiridium}
+Molten Titanium - titanium - 2000 - 10000 - 790 - Block{plustic:plustic.molten_titanium}
+Molten Mirion - mirion - 2000 - 10000 - 777 - Block{plustic:plustic.molten_mirion}
 Molten Infinity - infinity - 2000 - 10000 - 1400 - Block{plustic:plustic.molten_infinity}
-Molten Thaumium - thaumium - 2000 - 10000 - 945 - Block{plustic:plustic.molten_thaumium}
-Molten Starmetal - starmetal - 2000 - 10000 - 999 - Block{plustic:plustic.molten_starmetal}
 XP Juice - xpjuice - 800 - 1500 - 300 - null
-Milk - milk - 1000 - 1000 - 320 - null
 Creeper Acid - creeper_acid - 100 - 1000 - 300 - Block{techguns:block_creeper_acid}
-Molten Qivium - qivium - 1000 - 1000 - 750 - Block{tconstruct:molten_qivium}
-Molten Lavium - lavium - 1000 - 1000 - 750 - Block{tconstruct:molten_lavium}
-Molten Kovar - kovar - 8 - 1000 - 750 - Block{tinkers_reforged:molten_kovar}
-Molten Black Quartz - black_quartz - 1000 - 1000 - 500 - Block{tconstruct:molten_black_quartz}
-Molten Enori - enori - 1000 - 1000 - 900 - Block{tconstruct:molten_enori}
-Molten Void - void - 1000 - 1000 - 900 - Block{tconstruct:molten_void}
-Molten Emeradic - emeradic - 1000 - 1000 - 900 - Block{tconstruct:molten_emeradic}
-Molten Palis - palis - 1000 - 1000 - 900 - Block{tconstruct:molten_palis}
-Molten Diamantine - diamantine - 1000 - 1000 - 900 - Block{tconstruct:molten_diamantine}
-Molten Redstonia - redstonia - 1000 - 1000 - 900 - Block{tconstruct:molten_redstonia}
-Molten Refined Obsidian - refined_obsidian - 1000 - 1000 - 700 - Block{tconstruct:molten_refined_obsidian}
-Molten Refined Glowstone - refined_glowstone - 1000 - 1000 - 700 - Block{tconstruct:molten_refined_glowstone}
 Molten Gravitite - gravitite - 2000 - 10000 - 900 - Block{tinkersaether:molten_gravitite}
 Molten Valkyrie Metal - valkyrie - 2000 - 10000 - 1000 - Block{tinkersaether:molten_valkyrie}
 Chocolate Liquor - chocolate_liquor - 1000 - 1000 - 500 - Block{tcomplement:liquid_chocolate_liquor}
@@ -259,7 +285,16 @@ Molten Nihilite - nihilite - 2000 - 10000 - 800 - Block{tinkerscompendium:molten
 Molten Pandorium - pandorium - 2000 - 10000 - 800 - Block{tinkerscompendium:molten_pandorium}
 Molten Rosegold - rosegold - 2000 - 10000 - 800 - Block{tinkerscompendium:molten_rosegold}
 Molten Valyriansteel - valyriansteel - 2000 - 10000 - 800 - Block{tinkerscompendium:molten_valyriansteel}
-Molten Froststeel - froststeel - 2000 - 10000 - 800 - Block{tinkerscompendium:molten_froststeel}
+Molten Allactite - allactite - 2000 - 10000 - 800 - null
+Molten Bismuth - bismuth - 2000 - 10000 - 650 - null
+Molten Bivorium - bivorium - 2000 - 10000 - 900 - null
+Molten Frostium - frostium - 2000 - 10000 - 750 - null
+Molten Froststeel - froststeel - 2000 - 10000 - 750 - null
+Molten Sapphire - sapphire - 2000 - 10000 - 750 - null
+Molten Shivorium - shivorium - 2000 - 10000 - 900 - null
+Molten Sulfur - sulfur - 2000 - 10000 - 1 - null
+Molten Zirconium - zirconium - 2000 - 10000 - 500 - null
+Molten Zircaloy - zircaloy - 2000 - 10000 - 900 - null
 Purified Water - purified_water - 1000 - 1000 - 300 - Block{toughasnails:purified_water}
 WavicWater - wavicwater - 1000 - 1000 - 300 - Block{waveymod:wavicwater}
 Nutrient Distillation - nutrient_distillation - 1500 - 3000 - 300 - Block{enderio:block_fluid_nutrient_distillation}
@@ -282,6 +317,9 @@ Molten Emerald - emerald - 2000 - 10000 - 999 - Block{tconstruct:molten_emerald}
 Molten Glass - glass - 2000 - 10000 - 625 - Block{tconstruct:molten_glass}
 Liquid Blue Slime - blueslime - 1500 - 1500 - 310 - Block{tconstruct:blueslime}
 Liquid Purple Slime - purpleslime - 1600 - 1600 - 370 - Block{tconstruct:purpleslime}
+Fluid Yellorium - yellorium - 100 - 100 - 295 - Block{bigreactors:yellorium}
+Fluid Cyanite - cyanite - 100 - 100 - 295 - Block{bigreactors:cyanite}
+fluid.fuelcolumn - fuelcolumn - 1000 - 1000 - 300 - null
 Ichor - ichor - 1000 - 3500 - 300 - Block{netherex:ichor}
 Chorus Juice - chorusjuice - 1000 - 1000 - 300 - Block{tconstruct:chorusjuice}
 Vile Liquid - vile - 1000 - 1000 - 300 - Block{tconstruct:vile}
@@ -290,32 +328,23 @@ Liquid Slush - slush - 1000 - 1000 - 300 - Block{tconstruct:slush}
 Molten Nether Quartz - quartz - 2000 - 10000 - 1000 - Block{tconstruct:molten_quartz}
 liquid Dragons Breath - dragonsbreath - 2000 - 10000 - 1000 - Block{tconstruct:molten_dragonsbreath}
 Liquid Starlight - astralsorcery.liquidstarlight - 1001 - 300 - 120 - Block{astralsorcery:fluidblockliquidstarlight}
-Molten Palladium - palladium - 2000 - 10000 - 500 - Block{lucraftcore:molten_palladium}
-Molten Titanium - titanium - 2000 - 10000 - 800 - Block{lucraftcore:molten_titanium}
-Molten Vibranium - vibranium - 2000 - 10000 - 950 - Block{lucraftcore:molten_vibranium}
-Molten Dwarf Star Alloy - dwarfstaralloy - 2000 - 10000 - 760 - Block{lucraftcore:molten_dwarf_star_alloy}
-Molten Gold-Titanium-Alloy - goldtitaniumalloy - 2000 - 10000 - 850 - Block{lucraftcore:molten_gold_titanium_alloy}
-Molten Intertium - intertium - 2000 - 10000 - 752 - Block{lucraftcore:molten_intertium}
-Molten Uranium - uranium - 2000 - 10000 - 0 - Block{lucraftcore:molten_uranium}
-Molten Adamantium - adamantium - 2000 - 10000 - 1000 - Block{lucraftcore:molten_adamantium}
-Molten Uru - uru - 2000 - 10000 - 1000 - Block{lucraftcore:molten_uru}
 Glacium§r - glacium - 5000 - 6000 - -1500 - Block{glacidus:glacium}
 Molten Amaranth - amaranth - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenamaranth}
-Molten Astral Starmetal - astral_starmetal - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenastralstarmetal} - 
 Molten Carbon - carbon - 2000 - 10000 - 500 - Block{jaopca:fluid_moltencarbon}
 Molten Crystal - crystal - 2000 - 10000 - 500 - Block{jaopca:fluid_moltencrystal}
 Molten Dark Iron - dark_iron - 2000 - 10000 - 500 - Block{jaopca:fluid_moltendarkiron}
 Molten Desh - desh - 2000 - 10000 - 500 - Block{jaopca:fluid_moltendesh}
-Molten Draconium - draconium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltendraconium}
 Molten Etrium - etrium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenetrium}
 Molten Evenium - evenium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenevenium}
-Molten Fusionite - fusionite - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenfusionite} - 
 Molten Magnesium - magnesium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenmagnesium}
 Molten Mercury - mercury - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenmercury}
 Molten Meteoric Iron - meteoric_iron - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenmeteoriciron}
+Molten Palladium - palladium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenpalladium}
+Molten Plutonium - plutonium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenplutonium}
 Molten Shinium - shinium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenshinium}
 Molten Silicon - silicon - 2000 - 10000 - 500 - Block{jaopca:fluid_moltensilicon}
 Molten Tungsten - tungsten - 2000 - 10000 - 500 - Block{jaopca:fluid_moltentungsten}
+Molten Uranium - uranium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenuranium}
 Molten Virinium - virinium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenvirinium}
 Molten Zollernium - zollernium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenzollernium}
 fluid.oilgc - oilgc - 800 - 1500 - 300 - null

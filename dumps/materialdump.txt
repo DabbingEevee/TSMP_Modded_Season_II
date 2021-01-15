@@ -1,0 +1,288 @@
+Name - Registry - Fluid - (TraitName - TraitRegistry)
+Disruption - materialspacetimedisruption - null - (Lightweight, lightweight), (Dense, dense)
+Void Spar - materialvoidspar - null - (Voidic, voidic), (Dense, dense), (Ecological, ecological)
+Enderal - materialenderal - null - (Enderference, enderference), (Endspeed, endspeed), (Jagged, jagged), (Your Tool does a bit of extra damage in the end., pulsation)
+Gallium - materialgallium - null - (Aquadynamic, aquadynamic), (Low Melting Point, lowmeltingpoint), (Crumbling, crumbling)
+Ironwood - materialironwood - null - (Twilit, twilit), (Ecological, ecological)
+Electrical Steel - electrical_steel - electrical_steel - (Lightweight, lightweight), (Shocking, shocking)
+Energetic Alloy - energetic_alloy - energetic_alloy - (Petramor, petramor), (Unnatural, unnatural), (Holy, holy)
+Vibrant Alloy - vibrant_alloy - vibrant_alloy - (Direct, enderpickup), (Vanishing II, enderport-4)
+Redstone Alloy - redstone_alloy - redstone_alloy - (Crude, crude1), (Shocking, shocking), (Writable, writable1)
+Conductive Iron - conductive_iron - conductive_iron - (Lightweight, lightweight), (Crude II, crude2)
+Pulsating Iron - pulsating_iron - pulsating_iron - (Vanishing, enderport-1), (Vanishing, enderport-2), (Vanishing, enderport-3), (Vanishing III, enderport-0), (Poisonous, poisonous)
+Dark Steel - dark_steel - dark_steel - (Unnatural, unnatural), (Enderference, enderference), (Dense, dense)
+Soularium - soularium - soularium - (Duritae, duritos), (Hellish, hellish), (Splinters, splinters), (Flammable, flammable), (Writable, writable1)
+End Steel - end_steel - end_steel - (Unnatural, unnatural), (Enderference, enderference), (Alien, alien)
+Iron Alloy - construction_alloy - construction_alloy - (Cheapskate, cheapskate)
+material.crude_steel.name - crude_steel - crude_steel - null
+material.crystalline_alloy.name - crystalline_alloy - crystalline_alloy - null
+material.melodic_alloy.name - melodic_alloy - melodic_alloy - null
+material.stellar_alloy.name - stellar_alloy - stellar_alloy - null
+material.crystalline_pink_slime.name - crystalline_pink_slime - crystalline_pink_slime - null
+material.energetic_silver.name - energetic_silver - energetic_silver - null
+material.vivid_alloy.name - vivid_alloy - vivid_alloy - null
+Bamboo - bamboo - null - (Ecological, ecological)
+Ghostwood - ghostwood - null - (Intangible, intangible)
+Ghostwood - ghostwood_leaf - null - (Phasing, phasing)
+Bloodwood - bloodwood - null - (Bloodthirst, bloodthirst)
+Darkwood - darkwood - null - (Blinding, blinding)
+Naga Scale - nagascale - null - (Twilit, twilit), (Precipitate, precipitate)
+Steeleaf - steeleaf - null - (Twilit, twilit), (Synergy, synergy)
+Fiery - fierymetal - fierymetal - (Twilit, twilit), (Flammable, flammable), (Autosmelt, autosmelt), (Superheat, superheat)
+Knightly - knightmetal - knightmetal - (Twilit, twilit), (Stalwart, stalwart)
+Raven Feather - raven_feather - null - (Twilit, twilit), (Veiled, veiled)
+Fusionite - materialfusionite - liquidfusionite - (Cold Fire, cold_fire), (Enderference, enderference), (Alien, alien), (Dense, dense)
+Radium - materialradium - liquidradium - (Radioactive, radioactive), (Momentum, momentum)
+Solar Steel - materialsolarsteel - liquidsolarsteel - (Flammable, flammable), (Superheat, superheat), (Dense, dense), (Autosmelt, autosmelt)
+Penguinite - materialpenguinite - liquidpenguinite - (Twilit, twilit), (Cold-Blooded, coldblooded), (Freezing, freezing)
+Stone - stone - null - (Cheap, cheap), (Cheapskate, cheapskate), (Blockhead, td_blockhead), (Stoned, td_stoned), (Earthbound, td_earthbound), (Dulling, td_dulling)
+Flint - flint - null - (Crude, crude1), (Crude II, crude2), (Glassine, td_glassine), (Firestarter, td_firestarter)
+Cactus - cactus - null - (Spiky, spiky), (Prickly, prickly), (Peyote, td_peyote), (Spiny, td_spiny), (Prickly, td_pricked), (Barbed, td_barbed)
+Bone - bone - null - (Fractured, fractured), (Splintering, splintering), (Splitting, splitting), (Thickheaded, td_thickheaded), (Calcium, td_calcium), (Collagen, td_collagen), (Bonespurs, td_bonespurs), (Dog Toy, td_dogtoy)
+Obsidian - obsidian - obsidian - (Duritae, duritos), (Pele's hair, td_peleshair), (Glassine, td_glassine), (Pillars of Titans, td_pillarsoftitans), (Emberwalker, td_emberwalker)
+Prismarine - prismarine - null - (Aquadynamic, aquadynamic), (Jagged, jagged), (Gills, td_gills), (Buoyant, td_buoyant), (Currentrider, td_currentrider), (Finned, td_finned)
+End - endstone - null - (Enderference, enderference), (Alien, alien), (Enderwarped, td_warpedmind), (Enderperception, td_td_warp), (Hydrophobic, td_hydrophobic), (modifier.td_voidcall.name, td_voidcall)
+Paper - paper - null - (Writable, writable1), (Writable, writable2), (Arrowcatcher, td_arrowcatcher), (Novel, td_novel)
+Sponge - sponge - null - (Squeaky, squeaky), (Soggy, td_soggy)
+Firewood - firewood - null - (Autosmelt, autosmelt), (Incinerate, td_incinerate), (Hothead, td_hothead), (Toasty, td_toasty), (Hotfoot, td_hotfoot)
+Iron - iron - iron - (Magnetic, magnetic1), (Magnetic II, magnetic2), (Magnetism, td_magnetism), (Hardhat, td_hardhat), (Ironclad, td_ironclad), (Maglock, td_maglock)
+Pig Iron - pigiron - pigiron - (Tasty, tasty), (Baconlicious, baconlicious), (Piggy, td_piggy), (Hog, td_hog), (Hog, td_sounder), (Trotters, td_trotters)
+Knightslime - knightslime - knightslime - (Unnatural, unnatural), (Crumbling, crumbling), (Shifting, td_shifting), (Gumshoe II, td_gumshoe2)
+Slime - slime - null - (Slimey, slimey_green), (Forest Mask, td_forestmask), (Photosynthetic, photosynthetic1), (Slick, td_slick), (Green Thumb, td_greenthum)
+Blue Slime - blueslime - null - (Slimey, slimey_blue), (Goggles, td_goggles), (Aqua Lung, td_aqualung), (Slick, td_slick), (Finned, td_finned)
+Magma Slime - magmaslime - null - (Flammable, flammable), (Superheat, superheat), (Pyrosynthetic I, td_pyrosynthetic_1), (Hellbound, td_hellbound), (Pyrosynthetic II, td_pyrosynthetic_2), (Slick, td_slick), (Firewalker, td_firewalker)
+Netherrack - netherrack - null - (Hellish, hellish), (Aridiculous, aridiculous), (Demonic, td_demonic), (Hellbound, td_hellbound), (Damnation, td_damnation), (Ignite, td_ignite)
+Cobalt - cobalt - cobalt - (Lightweight, lightweight), (Momentum, momentum), (Windy, td_windy), (Aerodynamic, td_aerodynamic), (Supersonic, td_supersonic), (Flexible, td_flexible)
+Ardite - ardite - ardite - (Petramor, petramor), (Stonebound, stonebound), (Hardhat, td_hardhat), (Statuesque, td_statuesque), (Stonekin, td_stonekin), (Heavy Weight, td_heavyweight)
+Manyullyn - manyullyn - manyullyn - (Cold-Blooded, coldblooded), (Insatiable, insatiable), (Combat Advantage, td_combatadvantage), (Battle Hardened, td_battlehardened), (Reflex, td_reflex), (modifier.td_stablestance.name, td_stablestance)
+Copper - copper - copper - (Well-Established, established), (Welucated, td_acknowledged), (Work-Hardened, td_workhardened)
+Bronze - bronze - bronze - (Dense, dense), (Heroic, td_heroic)
+Lead - lead - lead - (Poisonous, poisonous), (Heavy, heavy)
+Silver - silver - silver - (Holy, holy), (Retribution I, td_retribution1)
+Electrum - electrum - electrum - (Shocking, shocking), (Tempered, td_tempered), (Maglock, td_maglock)
+Steel - steel - steel - (Stiff, stiff), (Sharp, sharp), (Rigid, td_rigid), (Tempered, td_tempered)
+String - string - null - null
+Slimevine - slimevine_blue - null - null
+Slimevine - slimevine_purple - null - null
+Vines - vine - null - null
+Blazerod - blaze - null - (Hovering, hovering)
+Reeds - reed - null - (Breakable, breakable)
+Ice - ice - null - (Freezing, freezing)
+Endrod - endrod - null - (Endspeed, endspeed)
+Slimeleaf - slimeleaf_blue - null - null
+Slimeleaf - slimeleaf_orange - null - null
+Slimeleaf - slimeleaf_purple - null - null
+Umbrium - umbrium - umbrium - (Defiled, defiled)
+Corruption - materialcorruption - null - (Corrupted, trait_corrupted)
+Magical Wood - xu_magical_wood - null - (Magically Modifiable, magical_modifier), (Magically Brittle, brittle)
+Evil Infused Iron - xu_evil_metal - xu_evil_metal - (Evil Aura, xu_withering)
+Enchanted Metal - xu_enchanted_metal - xu_enchanted_metal - (Experience Boost, xu_xp_boost)
+Demonic Metal - xu_demonic_metal - xu_demonic_metal - (Whispering, xu_whispering)
+Dragon Bone - dragonbone - null - (Splintering II, splintering2), (Splitting II, splitting2), (Fractured II, fractured2)
+Desert Myrmex Chitin - desert_myrmex - null - (Hive Defender, hive_defender), (Poisonous, poisonous)
+Jungle Myrmex Chitin - jungle_myrmex - null - (Hive Defender, hive_defender), (Poisonous, poisonous)
+Fire Dragonsteel - dragonsteel_fire - dragonsteel_fire - (Inferno II, flame2), (Sharp, sharp)
+Ice Dragonsteel - dragonsteel_ice - dragonsteel_ice - (Blizzard II, frost2), (Sharp, sharp)
+Stymphalian Bird Feather - stymph_feather - null - (Anti-Gravity, antigravity)
+Amphithere Feather - amphithere_feather - null - (Flying Knockback, arrow_knockback)
+Weezer - weezer - null - (In The Garage, in_the_garage), (Undone, sweater_song), (Surf Wax America, surf_wax_america)
+Prosperity Shard - ma.prosperity - null - (Writable, writable1), (Writable, writable2)
+Soulium - ma.soulium - soulium - (Chunky§r, chunky)
+Base Essence - ma.base_essence - base_essence - (Prosperous, prosperous)
+Inferium - ma.inferium - inferium - (Prosperous, prosperous)
+Prudentium - ma.prudentium - prudentium - (Prosperous, prosperous)
+Intermedium - ma.intermedium - intermedium - (Prosperous, prosperous)
+Superium - ma.superium - superium - (Prosperous, prosperous)
+Supremium - ma.supremium - supremium - (Prosperous, prosperous), (Duritae, duritos)
+Black Quartz - black_quartz - null - (Depth Digger, depthdigger), (Jagged, jagged)
+Restonia Crystal - restonia_crystal - null - (Crystalline, tconevo.crystalline), (Piezoelectric, tconevo.piezoelectric)
+Palis Crystal - palis_crystal - null - (Crystalline, tconevo.crystalline), (Well-Established, established)
+Diamatine Crystal - diamantine_crystal - null - (Crystalline, tconevo.crystalline), (Aftershock, tconevo.aftershock1)
+Void Crystal - void_crystal - null - (Crystalline, tconevo.crystalline), (Cheapskate, cheapskate)
+Emeradic Crystal - emeraldic_crystal - null - (Momentum, momentum), (Crystalline, tconevo.crystalline), (Cold-Blooded, coldblooded)
+Enori Crystal - enori_crystal - null - (Crystalline, tconevo.crystalline), (Magnetic, magnetic1)
+Sky Stone - sky_stone - sky_stone - (Stonebound, stonebound), (Crumbling, crumbling)
+Certus Quartz - certus_quartz - null - (Crystalline, tconevo.crystalline), (Lightweight, lightweight)
+Fluix - fluix - null - (Crystalline, tconevo.crystalline), (Shocking, shocking)
+Aquamarine - aquamarine - null - (Crystalline, tconevo.crystalline), (Astral, tconevo.astral)
+Starmetal - starmetal - starmetal - (Unnatural, unnatural), (Astral, tconevo.astral)
+Crystal Matrix - crystal_matrix - crystal_matrix - (Crystalline, tconevo.crystalline), (Aftershock III, tconevo.aftershock3), (Insatiable, insatiable)
+Neutronium - neutronium - neutronium - (Dense, dense), (Heavy, heavy), (Condensing, tconevo.condensing1)
+Infinity - infinity_metal - infinity_metal - (Infinitum, tconevo.infinitum), (Omnipotence, tconevo.omnipotence)
+Livingrock - livingrock - livingrock - (Stonebound, stonebound), (Sundering, tconevo.sundering)
+Livingwood - livingwood - null - (Modifiable, tconevo.modifiable1), (Ecological, ecological)
+Dreamwood - dreamwood - null - (Aura Siphon, tconevo.aura_siphon), (Ecological, ecological)
+Manasteel - manasteel - manasteel - (Momentum, momentum), (Mana-Infused, tconevo.mana_infused)
+Terrasteel - terrasteel - terrasteel - (Gaia's Wrath, tconevo.gaia_wrath), (Mortal Wounds, tconevo.mortal_wounds), (Mana-Infused, tconevo.mana_infused), (Staggering, tconevo.staggering)
+Elementium - elementium - elementium - (Opportunist, tconevo.opportunist), (Cascading, tconevo.cascading), (Mana-Infused, tconevo.mana_infused), (Voice of the Fae, tconevo.fae_voice)
+Mana-Infused - mana_string - null - (Mana-Infused, tconevo.mana_infused)
+Mana Diamond - mana_diamond - null - (Crystalline, tconevo.crystalline), (Mana-Infused, tconevo.mana_infused)
+Mana Pearl - mana_pearl - null - (Endspeed, endspeed), (Mana-Infused, tconevo.mana_infused)
+Dragonstone - dragonstone - null - (Voice of the Fae, tconevo.fae_voice), (Mana-Infused, tconevo.mana_infused)
+Draconium - draconium - draconium - (Alien, alien), (Soul Rend, tconevo.soul_rend1)
+Wyvern - wyvern_metal - wyvern_metal - (Soul Rend, tconevo.soul_rend1), (Evolved, tconevo.evolved)
+Draconic - draconic_metal - draconic_metal - (Soul Rend II, tconevo.soul_rend2), (Evolved, tconevo.evolved)
+Chaotic - chaotic_metal - chaotic_metal - (Soul Rend III, tconevo.soul_rend3), (Evolved, tconevo.evolved)
+Ender Crystal - ender_crystal - null - (Endspeed, endspeed)
+Pulsating Crystal - pulsating_crystal - null - (Enderference, enderference)
+Vibrant Crystal - vibrant_crystal - null - (Chain Lightning, tconevo.chain_lightning)
+Weather Crystal - weather_crystal - null - (Thundergod's Wrath, tconevo.thundergod_wrath)
+Rubber - rubber - null - (Crude, crude1), (Squeaky, squeaky)
+Advanced Alloy - advanced_alloy - null - (Dense, dense), (Force of Impact, tconevo.impact_force)
+Energium - energetic_metal - energetic_metal - (Electric, tconevo.electric)
+Carbon Fiber - carbon_fiber - null - (Lightweight, lightweight), (Relentless, tconevo.relentless)
+Iridium - iridium - iridium - (Overwhelm, tconevo.overwhelm), (Momentum, momentum)
+UU-Metal - universal_metal - universal_metal - (Ruination, tconevo.ruination), (Crumbling, crumbling)
+Osmium - osmium - osmium - (Dense, dense), (Stiff, stiff)
+HDPE - polyethylene - null - (Cheap, cheap), (Crude, crude1), (Fleet of Foot, tconevo.foot_fleet)
+Fusewood - fusewood - null - (Blasting, tconevo.blasting), (Ecological, ecological)
+Dark Matter - dark_matter - dark_matter - (Culling, tconevo.culling), (Staggering, tconevo.staggering), (Eternal Density, tconevo.eternal_density1)
+Red Matter - red_matter - red_matter - (Juggernaut, tconevo.juggernaut), (Overwhelm, tconevo.overwhelm), (Eternal Density II, tconevo.eternal_density2)
+Fluxed Electrum - fluxed_electrum - fluxed_electrum - (Energized, tconevo.energized1), (Magnetic II, magnetic2)
+Flux Crystal - flux_crystal - null - (Energized, tconevo.energized1), (Aftershock, tconevo.aftershock1)
+Thaumium - thaumium - thaumium - (Modifiable, tconevo.modifiable1), (Opportunist, tconevo.opportunist)
+Void Metal - void_metal - void_metal - (Ruination, tconevo.ruination), (Sundering, tconevo.sundering), (Warping, tconevo.warping)
+Primal Metal - primal_metal - primal_metal - (Corrupting, tconevo.corrupting), (Culling, tconevo.culling)
+Amber - amber - null - (Opportunist, tconevo.opportunist)
+Quicksilver - quicksilver - quicksilver - (Modifiable II, tconevo.modifiable2)
+Nickel - nickel - nickel - (Magnetic, magnetic1), (Force of Impact, tconevo.impact_force)
+Platinum - platinum - platinum - (Deadly Precision, tconevo.deadly_precision), (Cold-Blooded, coldblooded)
+Invar - invar - invar - (Duritae, duritos), (Stiff, stiff)
+Constantan - constantan - constantan - (Freezing, freezing), (Aridiculous, aridiculous)
+Signalum - signalum - signalum - (Relentless, tconevo.relentless), (Aftershock, tconevo.aftershock1)
+Lumium - lumium - lumium - (Opportunist, tconevo.opportunist), (Luminiferous, tconevo.luminiferous)
+Enderium - enderium - enderium - (Enderference, enderference), (Mortal Wounds, tconevo.mortal_wounds)
+Gold - gold - gold - (Fancy, fancy)
+Nether Quartz - quartz - null - (Sharp, sharp)
+Diamond - diamond - null - (Crumbling, crumbling), (Crude, crude1)
+Tin - tin - tin - (Depth Digger, depthdigger)
+Zinc - zinc - zinc - (Fractured, fractured)
+Brass - brass - brass - (Momentum, momentum)
+Aluminum - aluminum - aluminum - (Lightweight, lightweight)
+Aluminum Brass - alubrass - alubrass - (Cold-Blooded, coldblooded)
+Fairy - fairy - fairy - (Unnatural, unnatural), (Holy, holy)
+Pokefennium - pokefennium - pokefennium - (Unlimited, unlimited), (Limited, limited)
+Red Aurum - red_aurum - red_aurum - (Sharp, sharp)
+Drulloy - drulloy - drulloy - (Heavy, heavy), (Dense, dense)
+Alumite - alumite - alumite - (Duritae, duritos)
+Jade - jade - null - (Well-Established, established)
+Fly Wing - fly_wing - null - null
+Dragonfly Wing - dragonfly_wing - null - null
+Amordrine - amordrine - amordrine - null
+Haderoth - haderoth - haderoth - null
+Alduorite - alduorite - alduorite - (Unnatural, unnatural)
+Vulcanite - vulcanite - vulcanite - (Volcanic, vulcan_trait1), (Superheat, superheat)
+Ignatius - ignatius - ignatius - (Volcanic, vulcan_trait0)
+Etherium - etherium - etherium - null
+Astral Silver - astral_silver - astral_silver - null
+Hepatizon - hepatizon - hepatizon - null
+Lemurite - lemurite - lemurite - null
+Sanguinite - sanguinite - sanguinite - (Life Steal, life_steal_trait)
+Eximite - eximite - eximite - (Enderference, enderference)
+Desichalkos - desichalkos - desichalkos - (King Dice, king_dice_trait)
+Celenegil - celenegil - celenegil - null
+Shadow Iron - shadow_iron - shadow_iron - (Obscure, obscure_trait)
+Carmot - carmot - carmot - null
+Mithril - mithril - mithril - null
+Ceruclase - ceruclase - ceruclase - null
+Deep Iron - deep_iron - deep_iron - (Opistognathus, opistognathus_trait)
+Angmallen - angmallen - angmallen - null
+Manganese - manganese - manganese - null
+Kalendrite - kalendrite - kalendrite - null
+Damascus Steel - damascus_steel - damascus_steel - (Duritae, duritos)
+Prometheum - prometheum - prometheum - null
+Adamantine - adamantine - adamantine - null
+Tartarite - tartarite - tartarite - (Wither, wither_trait)
+Atlarus - atlarus - atlarus - null
+Vyroxeres - vyroxeres - vyroxeres - (Poisonous, poisonous)
+Black Steel - black_steel - black_steel - null
+Lutetium - lutetium - lutetium - null
+Oureclase - oureclase - oureclase - null
+Inolashite - inolashite - inolashite - null
+Meutoite - meutoite - meutoite - null
+Orichalcum - orichalcum - orichalcum - null
+Infuscolium - infuscolium - infuscolium - null
+Midasium - midasium - midasium - (Writable, writable2), (Duplication, duplication_trait)
+Shadow Steel - shadow_steel - shadow_steel - null
+Krik - krik - krik - null
+Rubracium - rubracium - rubracium - null
+Insanium - mysticaladaptations.insanium - insanium - (Prosperous, prosperous), (Duritae, duritos)
+TNT - tnt - null - (Explosive, explosive)
+Ruby - ruby - null - (Bloody Mary, bloodymary), (Sharp, sharp)
+Peridot - peridot - null - (Nature's Blessing, naturesblessing)
+Malachite - malachite_gem - null - (Nature's Wrath, natureswrath)
+Topaz - topaz - null - (Nature's Power, naturespower)
+Tanzanite - tanzanite - null - (Freezing, freezing)
+Amethyst - amethyst - null - (Apocalypse, apocalypse)
+Refined Obsidian - refinedobsidian - refinedobsidian - (Dense, dense), (Duritae, duritos)
+Refined Glowstone - refinedglowstone - refinedglowstone - (Sassy, sassy), (Illuminati, illuminati)
+Osgloglas - osgloglas - osgloglas - (Brown Magic, brownmagic), (Sassy, sassy), (Global Traveler, global)
+Osmiridium - osmiridium - osmiridium - (Devil's Strength, devilsstrength), (Anti-Corrosion, anticorrosion)
+Lumium - lumium_plustic - lumium - (Illuminati, illuminati), (Glowing, glowing)
+Void - void_actadd_plustic - null - (He Who Must Not Be Named, unnamed), (Crude, crude1)
+Skyroot - skyroot - null - (Skyrooted, skyrooted), (Ecological, ecological)
+Holystone - holystone - null - (Enlightened, enlightened), (Cheapskate, cheapskate), (Cheap, cheap)
+Zanite - zanite - null - (Gilded, gilded), (Zany, zany), (Jagged, jagged)
+Gravitite - gravitite - gravitite - (Antigravity, antigrav), (Launching, launching), (Gilded, gilded)
+Golden Amber - golden_amber - null - (Gilded, gilded)
+Valkyrie - valkyrie - valkyrie - (Gilded, gilded), (Reach, reach)
+Swet - swet - null - (Swetty, swetty)
+Candy Cane - candy_cane - null - (Festive, festive), (Tasty, tasty)
+Cold Aercloud - aercloud_cold - null - (Cushy, cushy)
+Blue Aercloud - aercloud_blue - null - (Cushy, cushy), (Launching, launching)
+Golden Aercloud - aercloud_gold - null - (Cushy, cushy)
+Icestone - icestone - null - (Refrigeration, refrigeration)
+Skyroot Leaf - skyroot_leaf - null - null
+Golden Oak Leaf - golden_oak_leaf - null - null
+Crystal Leaf - crystal_leaf - null - null
+Holiday Leaf - holiday_leaf - null - null
+Golden Feather - golden_feather - null - null
+material.quartzblack.name - quartzblack - null - null
+Aeonsteel - aeonsteel - aeonsteel - (Tick-Tock, ticktock), (Ethereal, td_ethereal), (modifier.td_clockstopper.name, td_clockstopper), (Truesight, td_truesight), (Intangable, td_td_intangible), (Undo [NYI], td_undo_nyi), (Timewarp, td_td_timewarp)
+Queensgold - queensgold - queensgold - (modifier.regal.name, regal)
+Dogbearium - dogbearium - dogbearium - (Toothy, td_toothy), (Cornered, td_cornered), (modifier.td_poundofflesh.name, td_poundofflesh), (I Hunger, td_ihunger), (Hellbeast, td_hellbeast), (Alpha, td_alpha), (Hunter, td_hunt)
+Sinisterium - sinisterium - sinisterium - null
+Nihilite - nihilite - nihilite - null
+Pandorium - pandorium - pandorium - null
+Rosegold - rosegold - rosegold - null
+Valyriansteel - valyriansteel - valyriansteel - null
+Black Wool - blackcloth - null - null
+Red Wool - redcloth - null - null
+Green Wool - greencloth - null - null
+Brown Wool - browncloth - null - null
+Blue Wool - bluecloth - null - null
+Purple Wool - purplecloth - null - null
+Cyan Wool - cyancloth - null - null
+Lightgray Wool - lightgraycloth - null - null
+Gray Wool - graycloth - null - null
+Pink Wool - pinkcloth - null - null
+Lime Wool - limecloth - null - null
+Yellow Wool - yellowcloth - null - null
+Lightblue Wool - lightbluecloth - null - null
+Magenta Wool - magentacloth - null - null
+Orange Wool - orangecloth - null - null
+White Wool - whitecloth - null - null
+Silky Enchanted - silky - null - null
+material.roughspun.name - roughspun - null - null
+Zirconium - zirconium - zirconium - (Lux, tw_lux), (Dense, dense)
+Zircaloy - zircaloy - zircaloy - (Lux, tw_lux), (Dense, dense)
+Allactite - allactite - allactite - (Protect, tw_protect), (Sharp, sharp)
+Sapphire - sapphire - sapphire - (Crystalline, tw_crystalline), (Backburner, tw_backburner), (Pacifist, tw_pacifist)
+Shivorium - shivorium - shivorium - (Balance, tw_balance), (Rust, tw_rust)
+Bivorium - bivorium - bivorium - (Ivory, tw_ivory), (Rust, tw_rust)
+Frostium - frostium - frostium - (Frost Fang, tw_frostfang), (Cold-Blooded, coldblooded)
+Froststeel - froststeel - froststeel - (Frost Fang, tw_frostfang), (Stiff, stiff)
+Mirion - mirion - mirion - (Mirabile Visu, mirabile), (Mana, mana)
+Livingwood - livingwood_plustic - null - (Botanical II, botanical2), (Ecological, ecological), (Botanical, botanical1)
+Dark Matter - darkmatter - null - (Ignoble, ignoble), (Dark Traveler, darktraveler)
+Red Matter - redmatter - null - (Democratic People's Republic of Korea, dprk)
+Flamestring - flamestring_plustic - null - (Naphtha, naphtha)
+Bloodwood - bloodwood_plustic - null - (Bloody Mary, bloodymary), (Ecological, ecological)
+Fusewood - fusewood_plustic - null - (Democratic People's Republic of Korea, dprk), (Ecological, ecological)
+Wyvern - wyvern_plustic - null - (Brown Magic, brownmagic), (Blind Bandit, blindbandit), (Portly Gentleman, portly)
+Awakened - awakened_plustic - null - (Rude Awakening, rudeawakening), (Brown Magic, brownmagic), (Blind Bandit, blindbandit), (Apocalypse, apocalypse), (Global Traveler, global)
+Chaotic - chaotic_plustic - null - (Hail Hydra, hailhydra), (Vindictive, vindictive), (Dark Traveler, darktraveler)
+Emerald - emerald_plustic - emerald - (Terrafirma, terrafirma1), (Elemental, elemental)
+Wood - wood - null - (Ecological, ecological), (Photosynthetic II, photosynthetic2), (Photosynthetic, photosynthetic1), (Rooted, td_rooted), (Securiphilic, td_securiphilic)
+Leaf - leaf - null - null
+Feather - feather - null - null

@@ -180,6 +180,7 @@ Creeplands - zollerngalaxy:creeplands - 0.5 - zollerngalaxy:creepstone - zollern
 Rocky Veins - zollerngalaxy:rocky veins - 0.5 - zollerngalaxy:caligrorock - zollerngalaxy:caligrocobblestone
 Witherlands - zollerngalaxy:witherlands - 0.5 - zollerngalaxy:witherrack - zollerngalaxy:caligrostone
 Corrupted Mesa - zollerngalaxy:corrupted mesa - 0.5 - zollerngalaxy:corruptrock - zollerngalaxy:corruptcobble
+Azural Plains - zollerngalaxy:azural plains - 0.5 - zollerngalaxy:exodusgrass - zollerngalaxy:exodusdirt
 A mod doesn't support extended biome IDs -- report to JEID - jeid:error_biome - 0.5 - minecraft:grass - minecraft:dirt
 Diona - moreplanets:diona - 0.2 - minecraft:grass - minecraft:dirt
 Chalos Plains - moreplanets:chalos_plains - 0.8 - moreplanets:cheese_grass_block - moreplanets:cheese_dirt
@@ -280,6 +281,15 @@ Vilespine Forest - defiledlands:forest_vilespine - 0.7 - defiledlands:grass_defi
 Defiled Hills - defiledlands:hills_defiled - 0.2 - defiledlands:grass_defiled - defiledlands:dirt_defiled
 Defiled Swamp - defiledlands:swamp_defiled - 0.8 - defiledlands:grass_defiled - defiledlands:dirt_defiled
 Defiled Ice Plains - defiledlands:ice_plains_defiled - 0.0 - defiledlands:grass_defiled - defiledlands:dirt_defiled
+Underground Jungle - erebus:underground_jungle - 0.5 - minecraft:grass - minecraft:dirt
+Volcanic Desert - erebus:volcanic_desert - 0.5 - minecraft:sand - minecraft:sandstone
+Subterranean Savannah - erebus:subterranean_savannah - 0.5 - minecraft:grass - minecraft:dirt
+Elysian Fields - erebus:elysian_fields - 0.5 - minecraft:grass - minecraft:dirt
+Ulterior Outback - erebus:ulterior_outback - 0.5 - minecraft:sand - minecraft:red_sandstone
+Fungal Forest - erebus:fungal_forest - 0.5 - minecraft:grass - minecraft:dirt
+Submerged Swamp - erebus:submerged_swamp - 0.5 - minecraft:grass - minecraft:dirt
+Elysian Forest - erebus:fields_sub_forest - 0.5 - minecraft:grass - minecraft:dirt
+Petrified Forest - erebus:petrified_forest - 0.5 - erebus:volcanic_rock - erebus:volcanic_rock
 Glacier - iceandfire:glacier - 0.0 - minecraft:snow - minecraft:packed_ice
 Ruthless Sands - netherex:ruthless_sands - 2.0 - minecraft:soul_sand - netherex:gloomy_netherrack
 Fungi Forest - netherex:fungi_forest - 1.1 - netherex:hyphae - netherex:lively_netherrack
@@ -289,6 +299,6 @@ Tent - yurtmod:tent - 0.5 - minecraft:grass - minecraft:dirt
 Emptiness - thaumicaugmentation:emptiness - 0.25 - thaumicaugmentation:stone - thaumicaugmentation:stone
 Tainted Lands - thaumicaugmentation:tainted_lands - 0.25 - thaumicaugmentation:stone - thaumicaugmentation:stone
 Emptiness Highlands - thaumicaugmentation:emptiness_highlands - 0.25 - thaumicaugmentation:stone - thaumicaugmentation:stone
-Aether Highlands - aether_legacy:aether_highlands - 0.5 - aether_legacy:aether_grass - aether_legacy:holystone
+Aether - aether_legacy:aether_highlands - 0.5 - aether_legacy:aether_grass - aether_legacy:holystone
 Glacidus - glacidus:glacidus - 0.5 - minecraft:grass - minecraft:dirt
 Wavic Biome - waveymod:wavicbiome - 2.0 - waveymod:wavicdirt - waveymod:wavicstone
