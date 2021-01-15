@@ -175,6 +175,11 @@
 <https://minecraft.curseforge.com/projects/extraplanets>
 
 ***
+### Extreme Reactors
+<http://zerono.it/extreme-reactors>
+
+*ErogenousBeef, ZeroNoRyouki, ABookFreak*
+***
 ### Game Stages
 <https://minecraft.curseforge.com/projects/game-stages>
 
@@ -201,6 +206,11 @@
 ### Just Enough Energistics
 *TheRealp455w0rd*
 ***
+### Just Enough Reactors
+<https://minecraft.curseforge.com/projects/just-enough-reactors>
+
+*The_BrainStone*
+***
 ### LagGoggles
 <https://minecraft.curseforge.com/projects/laggoggles>
 
@@ -215,11 +225,6 @@
 <https://minecraft.curseforge.com/projects/libraryex>
 
 *LogicTechCorp*
-***
-### Lucraft: Core
-<https://minecraft.curseforge.com/projects/lucraft-core>
-
-*Lucraft,	  Nictogen*
 ***
 ### Smeltery IO
 <https://www.curseforge.com/minecraft/mc-mods/mct-smeltery-io>
@@ -674,4 +679,9 @@
 ***
 ### ZenUtils
 *youyihj*
+***
+### Zero CORE
+<http://zerono.it/>
+
+*ZeroNoRyouki*
 ***
