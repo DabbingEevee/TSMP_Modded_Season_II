@@ -80,10 +80,10 @@ var createblockofore = [
     ] as string[];
 
 for item in createfullset {
-	createblockofore += (item + "_block")
-	createitem += (item + "_nugget")
-	createitem += (item + "_ingot")
-	createitem += (item + "_dust")
+	createblockofore += (item + "_block");
+	createitem += (item + "_nugget");
+	createitem += (item + "_ingot");
+	createitem += (item + "_dust");
 }
 
 var i = 0; 

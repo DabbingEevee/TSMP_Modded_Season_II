@@ -71,11 +71,7 @@ mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreInf
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreMidasium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreRubracium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreAluminum>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreDwarfStarAlloy>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreVibranium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreTitanium>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreVibranium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <mysticalagriculture:inferium_ore:*>, <fhantoncore:unidentifiedore>);
 
 mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <ore:oreIridium>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <ore:oreUru>, <fhantoncore:unidentifiedore>);
