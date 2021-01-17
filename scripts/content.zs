@@ -89,7 +89,7 @@ for item in createfullset {
 var i = 0; 
 
 while i < 10 {
-	createsingularity += "singularity_matrix_" + (i+1); 
+	createitem += "singularity_matrix_" + (i+1); 
 	i += 1;
 } 
 
