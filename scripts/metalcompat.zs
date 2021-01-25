@@ -1,8 +1,9 @@
+#norun
 import crafttweaker.item.IItemStack;
 
 
-<ore:oreMegaAlloy>.add(<contenttweaker:mega_alloy_neutron_sponge_completed>);
-<ore:ingotMegaAlloy>.add(<contenttweaker:mega_alloy_nugget>);
+#<ore:oreMegaAlloy>.add(<contenttweaker:mega_alloy_neutron_sponge_completed>);
+#<ore:ingotMegaAlloy>.add(<contenttweaker:mega_alloy_nugget>);
 <ore:nuggetMegaAlloy>.add(<contenttweaker:mega_alloy_ingot>);
 <ore:blockMegaAlloy>.add(<contenttweaker:mega_alloy_block>);
 

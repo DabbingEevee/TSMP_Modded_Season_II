@@ -12,7 +12,7 @@ import crafttweaker.oredict.IOreDict;
 import mods.contenttweaker.CreativeTab;
 import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Item;
-
+import mods.contenttweaker.tconstruct.Material;
 
 
 #var gems_metals = VanillaFactory.createCreativeTab("gems_metals", <minecraft:diamond>);
@@ -101,7 +101,7 @@ for item in createitem {
         #item.creativeTab = gems_metals;
         item_a.register();
 	if (item.startsWith("ingot") || item.startsWith("nugget") || item.startsWith("dust")) {
-		oreDict.get(item).add(itemUtils.getItem("contenttweaker:" + item.toLowerCase))
+		oreDict.get(item).add(itemUtils.getItem("contenttweaker:" + item.toLowerCase));
 	}
 
 }
@@ -144,3 +144,11 @@ function capitalize(a as string) as string{
 	str1 = str1.toUpperCase();
 	return string1 + string2;
 }
+
+
+
+
+
+
+
+<ticonmaterial:infinity_metal>.addTrait("cosmic");
