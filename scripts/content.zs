@@ -25,15 +25,15 @@ import mods.contenttweaker.tconstruct.Material;
 #singularities.register();
 
 var createfullset = [
-	"uru",
-	"megaAlloy",
-	"dwarfStarAlloy",
-	"metallicRedMatter",
-	"gildedNetherite",
-	"goldTitaniumAlloy",
-	"intertium",
-	"vibranium",
-	"adamantium"
+	"Uru",
+	"MegaAlloy",
+	"DwarfStarAlloy",
+	"MetallicRedMatter",
+	"GildedNetherite",
+	"GoldTitaniumAlloy",
+	"Intertium",
+	"Vibranium",
+	"Adamantium"
     ] as string[];
 
 
@@ -82,9 +82,9 @@ var createblockofore = [
 
 for item in createfullset {
 	createblockofore += ("block" + item);
-	createitem += ("nugget" + capitalize(item));
-	createitem += ("ingot" + capitalize(item));
-	createitem += ("dust" + capitalize(item));
+	createitem += ("nugget" + item);
+	createitem += ("ingot" + item);
+	createitem += ("dust" + item);
 }
 
 var i = 0; 
@@ -132,19 +132,6 @@ for block in createore {
 
 #val nuggetArray = ["wavic", "awakened"] as string[];
 #val blockArray = ["wavic", "awakened", "unstable"] as string[];
-
-function add(a as int,b as int) as int{
-	//returns the sum of a and b
-	return a+b;
-}
-
-function capitalize(a as string) as string{
-	val str1 = a.substring(0, 1);
-	val str2 = a.substring(1, name.length());
-	str1 = str1.toUpperCase();
-	return string1 + string2;
-}
-
 
 
 
