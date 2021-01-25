@@ -80,10 +80,10 @@ var createblockofore = [
     ] as string[];
 
 for item in createfullset {
-	createblockofore += (item + "_block");
-	createitem += (item + "_nugget");
-	createitem += (item + "_ingot");
-	createitem += (item + "_dust");
+	createblockofore += ("block" + item);
+	createitem += ("nugget" + capitalize(item));
+	createitem += ("ingot" + capitalize(item));
+	createitem += ("dust" + capitalize(item));
 }
 
 var i = 0; 
@@ -95,10 +95,13 @@ while i < 10 {
 
 for item in createitem {
 
-	var item = VanillaFactory.createItem(item);
-        item.maxStackSize = 64;
+	var item_a = VanillaFactory.createItem(item);
+        item_a.maxStackSize = 64;
         #item.creativeTab = gems_metals;
-        item.register();
+        item_a.register();
+	if item.startsWith("ingot") {
+		
+	}
 
 }
 
@@ -129,4 +132,14 @@ for block in createore {
 #val nuggetArray = ["wavic", "awakened"] as string[];
 #val blockArray = ["wavic", "awakened", "unstable"] as string[];
 
+function add(a as int,b as int) as int{
+	//returns the sum of a and b
+	return a+b;
+}
 
+function capitalize(a as string) as int{
+	val str1 = a.substring(0, 1);
+	val str2 = a.substring(1, name.length());
+	str1 = str1.toUpperCase();
+	return string1 + string2;
+}

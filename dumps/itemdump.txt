@@ -30,11 +30,11 @@ Cobweb - minecraft:web - 0 - null
 Shrub - minecraft:tallgrass - 0 - null
 Dead Bush - minecraft:deadbush - 0 - null
 Piston - minecraft:piston - 0 - craftingPiston
-White Wool - minecraft:wool - 0 - wool, woolWhite, blockWoolWhite, blockWool, woolBlock
+White Wool - minecraft:wool - 0 - wool, woolWhite, woolBlock, blockWoolWhite, blockWool
 Dandelion - minecraft:yellow_flower - 0 - flowerYellow
 Poppy - minecraft:red_flower - 0 - flowerRed
-Mushroom - minecraft:brown_mushroom - 0 - mushroomAny, listAllmushroom, cropMushroomBrown, foodMushroom
-Mushroom - minecraft:red_mushroom - 0 - mushroomAny, listAllmushroom, cropMushroomRed, foodMushroom
+Mushroom - minecraft:brown_mushroom - 0 - cropMushroomBrown, mushroomAny, listAllmushroom, foodMushroom
+Mushroom - minecraft:red_mushroom - 0 - cropMushroomRed, mushroomAny, listAllmushroom, foodMushroom
 Block of Gold - minecraft:gold_block - 0 - blockGold, blockMetal
 Block of Iron - minecraft:iron_block - 0 - blockIron, blockMetal
 Stone Slab - minecraft:stone_slab - 0 - slabStone
@@ -71,7 +71,7 @@ Button - minecraft:stone_button - 0 - null
 Snow - minecraft:snow_layer - 0 - snowLayer
 Ice - minecraft:ice - 0 - ice
 Snow - minecraft:snow - 0 - blockSnow
-Cactus - minecraft:cactus - 0 - cropCactus, blockCactus
+Cactus - minecraft:cactus - 0 - blockCactus, cropCactus
 Clay - minecraft:clay - 0 - blockClay
 Jukebox - minecraft:jukebox - 0 - null
 Oak Fence - minecraft:fence - 0 - fenceWood
@@ -148,7 +148,7 @@ Block of Coal - minecraft:coal_block - 0 - blockCoal
 Packed Ice - minecraft:packed_ice - 0 - null
 Acacia Wood Stairs - minecraft:acacia_stairs - 0 - stairWood
 Dark Oak Wood Stairs - minecraft:dark_oak_stairs - 0 - stairWood
-Green Slime Block - minecraft:slime - 0 - blockSlime, blockSlimeGreen
+Green Slime Block - minecraft:slime - 0 - blockSlimeGreen, blockSlime
 Grass Path - minecraft:grass_path - 0 - null
 Sunflower - minecraft:double_plant - 0 - null
 White Stained Glass - minecraft:stained_glass - 0 - blockGlass, blockGlassWhite
@@ -166,22 +166,22 @@ Red Nether Brick - minecraft:red_nether_brick - 0 - null
 Bone Block - minecraft:bone_block - 0 - blockBone
 Structure Void - minecraft:structure_void - 0 - null
 Observer - minecraft:observer - 0 - null
-White Shulker Box - minecraft:white_shulker_box - 0 - shulkerBox, chest
-Orange Shulker Box - minecraft:orange_shulker_box - 0 - shulkerBox, chest
-Magenta Shulker Box - minecraft:magenta_shulker_box - 0 - shulkerBox, chest
-Light Blue Shulker Box - minecraft:light_blue_shulker_box - 0 - shulkerBox, chest
-Yellow Shulker Box - minecraft:yellow_shulker_box - 0 - shulkerBox, chest
-Lime Shulker Box - minecraft:lime_shulker_box - 0 - shulkerBox, chest
-Pink Shulker Box - minecraft:pink_shulker_box - 0 - shulkerBox, chest
-Gray Shulker Box - minecraft:gray_shulker_box - 0 - shulkerBox, chest
-Light Gray Shulker Box - minecraft:silver_shulker_box - 0 - shulkerBox, chest
-Cyan Shulker Box - minecraft:cyan_shulker_box - 0 - shulkerBox, chest
-Purple Shulker Box - minecraft:purple_shulker_box - 0 - shulkerBox, chest
-Blue Shulker Box - minecraft:blue_shulker_box - 0 - shulkerBox, chest
-Brown Shulker Box - minecraft:brown_shulker_box - 0 - shulkerBox, chest
-Green Shulker Box - minecraft:green_shulker_box - 0 - shulkerBox, chest
-Red Shulker Box - minecraft:red_shulker_box - 0 - shulkerBox, chest
-Black Shulker Box - minecraft:black_shulker_box - 0 - shulkerBox, chest
+White Shulker Box - minecraft:white_shulker_box - 0 - chest, shulkerBox
+Orange Shulker Box - minecraft:orange_shulker_box - 0 - chest, shulkerBox
+Magenta Shulker Box - minecraft:magenta_shulker_box - 0 - chest, shulkerBox
+Light Blue Shulker Box - minecraft:light_blue_shulker_box - 0 - chest, shulkerBox
+Yellow Shulker Box - minecraft:yellow_shulker_box - 0 - chest, shulkerBox
+Lime Shulker Box - minecraft:lime_shulker_box - 0 - chest, shulkerBox
+Pink Shulker Box - minecraft:pink_shulker_box - 0 - chest, shulkerBox
+Gray Shulker Box - minecraft:gray_shulker_box - 0 - chest, shulkerBox
+Light Gray Shulker Box - minecraft:silver_shulker_box - 0 - chest, shulkerBox
+Cyan Shulker Box - minecraft:cyan_shulker_box - 0 - chest, shulkerBox
+Purple Shulker Box - minecraft:purple_shulker_box - 0 - chest, shulkerBox
+Blue Shulker Box - minecraft:blue_shulker_box - 0 - chest, shulkerBox
+Brown Shulker Box - minecraft:brown_shulker_box - 0 - chest, shulkerBox
+Green Shulker Box - minecraft:green_shulker_box - 0 - chest, shulkerBox
+Red Shulker Box - minecraft:red_shulker_box - 0 - chest, shulkerBox
+Black Shulker Box - minecraft:black_shulker_box - 0 - chest, shulkerBox
 White Glazed Terracotta - minecraft:white_glazed_terracotta - 0 - null
 Orange Glazed Terracotta - minecraft:orange_glazed_terracotta - 0 - null
 Magenta Glazed Terracotta - minecraft:magenta_glazed_terracotta - 0 - null
@@ -208,7 +208,7 @@ Flint and Steel - minecraft:flint_and_steel - 64 - null
 Apple - minecraft:apple - 0 - cropApple, listAllfruit
 Bow - minecraft:bow - 384 - null
 Arrow - minecraft:arrow - 0 - arrow
-Coal - minecraft:coal - 0 - gemCoal, itemCoal, coal
+Coal - minecraft:coal - 0 - itemCoal, coal, gemCoal
 Diamond - minecraft:diamond - 0 - gemDiamond
 Iron Ingot - minecraft:iron_ingot - 0 - ingotIron
 Gold Ingot - minecraft:gold_ingot - 0 - ingotGold
@@ -240,8 +240,8 @@ Stone Hoe - minecraft:stone_hoe - 131 - toolHoe
 Iron Hoe - minecraft:iron_hoe - 250 - toolHoe
 Diamond Hoe - minecraft:diamond_hoe - 1561 - toolHoe
 Golden Hoe - minecraft:golden_hoe - 32 - toolHoe
-Seeds - minecraft:wheat_seeds - 0 - seed, seedWheat, listAllseed
-Wheat - minecraft:wheat - 0 - listAllgrain, flourEqualswheat, cropWheat
+Seeds - minecraft:wheat_seeds - 0 - seedWheat, listAllseed, seed
+Wheat - minecraft:wheat - 0 - flourEqualswheat, cropWheat, listAllgrain
 Bread - minecraft:bread - 0 - bread, foodBread
 Leather Cap - minecraft:leather_helmet - 55 - null
 Leather Tunic - minecraft:leather_chestplate - 80 - null
@@ -265,7 +265,7 @@ Golden Leggings - minecraft:golden_leggings - 105 - null
 Golden Boots - minecraft:golden_boots - 91 - null
 Flint - minecraft:flint - 0 - itemFlint, materialStoneTool
 Raw Porkchop - minecraft:porkchop - 0 - listAllporkraw, listAllmeatraw, foodMeat
-Cooked Porkchop - minecraft:cooked_porkchop - 0 - listAllmeatcooked, listAllporkcooked, foodMeat
+Cooked Porkchop - minecraft:cooked_porkchop - 0 - listAllporkcooked, listAllmeatcooked, foodMeat
 Painting - minecraft:painting - 0 - null
 Golden Apple - minecraft:golden_apple - 0 - null
 Sign - minecraft:sign - 0 - null
@@ -279,10 +279,10 @@ Iron Door - minecraft:iron_door - 0 - doorIron
 Redstone - minecraft:redstone - 0 - alloyBasic, dustRedstone
 Snowball - minecraft:snowball - 0 - null
 Oak Boat - minecraft:boat - 0 - null
-Leather - minecraft:leather - 0 - itemLeather, leather
+Leather - minecraft:leather - 0 - leather, itemLeather
 Milk - minecraft:milk_bucket - 0 - listAllmilk
 Brick - minecraft:brick - 0 - ingotBrick
-Clay - minecraft:clay_ball - 0 - itemClay, clay
+Clay - minecraft:clay_ball - 0 - clay, itemClay
 Sugar Canes - minecraft:reeds - 0 - sugarcane
 Paper - minecraft:paper - 0 - paper
 Book - minecraft:book - 0 - null
@@ -306,15 +306,15 @@ Cookie - minecraft:cookie - 0 - null
 Map - minecraft:filled_map - 0 - null
 Shears - minecraft:shears - 238 - toolShears
 Melon - minecraft:melon - 0 - null
-Pumpkin Seeds - minecraft:pumpkin_seeds - 0 - seed, seedPumpkin, listAllseed
-Melon Seeds - minecraft:melon_seeds - 0 - seed, seedMelon, listAllseed
+Pumpkin Seeds - minecraft:pumpkin_seeds - 0 - seedPumpkin, listAllseed, seed
+Melon Seeds - minecraft:melon_seeds - 0 - seedMelon, listAllseed, seed
 Raw Beef - minecraft:beef - 0 - listAllbeefraw, listAllmeatraw, foodMeat
 Steak - minecraft:cooked_beef - 0 - listAllmeatcooked, listAllbeefcooked, foodMeat
-Raw Chicken - minecraft:chicken - 0 - listAllchickenraw, listAllmeatraw, foodMeat
+Raw Chicken - minecraft:chicken - 0 - listAllmeatraw, foodMeat, listAllchickenraw
 Cooked Chicken - minecraft:cooked_chicken - 0 - listAllchickencooked, listAllmeatcooked, foodMeat
 Rotten Flesh - minecraft:rotten_flesh - 0 - null
 Ender Pearl - minecraft:ender_pearl - 0 - enderpearl, ingredientEnchantedGraveKey, materialEnderPearl
-Blaze Rod - minecraft:blaze_rod - 0 - rodBlaze, itemBlazeRod
+Blaze Rod - minecraft:blaze_rod - 0 - itemBlazeRod, rodBlaze
 Ghast Tear - minecraft:ghast_tear - 0 - itemGhastTear
 Gold Nugget - minecraft:gold_nugget - 0 - nuggetGold
 Nether Wart - minecraft:nether_wart - 0 - cropNetherWart
@@ -322,7 +322,7 @@ Uncraftable Potion - minecraft:potion - 0 - cofh:potion
 Glass Bottle - minecraft:glass_bottle - 0 - null
 Spider Eye - minecraft:spider_eye - 0 - null
 Fermented Spider Eye - minecraft:fermented_spider_eye - 0 - null
-Blaze Powder - minecraft:blaze_powder - 0 - gemBlazePowder, itemBlazePowder, powderBlaze, dustBlaze
+Blaze Powder - minecraft:blaze_powder - 0 - gemBlazePowder, powderBlaze, itemBlazePowder, dustBlaze
 Magma Cream - minecraft:magma_cream - 0 - null
 Brewing Stand - minecraft:brewing_stand - 0 - null
 Cauldron - minecraft:cauldron - 0 - null
@@ -356,8 +356,8 @@ Minecart with TNT - minecraft:tnt_minecart - 0 - null
 Minecart with Hopper - minecraft:hopper_minecart - 0 - null
 Prismarine Shard - minecraft:prismarine_shard - 0 - gemPrismarine
 Prismarine Crystals - minecraft:prismarine_crystals - 0 - dustPrismarine
-Raw Rabbit - minecraft:rabbit - 0 - foodRabbitraw, listAllmeatraw, listAllrabbitraw, foodMeat
-Cooked Rabbit - minecraft:cooked_rabbit - 0 - listAllmeatcooked, foodRabbitcooked, foodMeat, listAllrabbitcooked
+Raw Rabbit - minecraft:rabbit - 0 - foodRabbitraw, listAllmeatraw, foodMeat, listAllrabbitraw
+Cooked Rabbit - minecraft:cooked_rabbit - 0 - foodRabbitcooked, listAllmeatcooked, foodMeat, listAllrabbitcooked
 Rabbit Stew - minecraft:rabbit_stew - 0 - null
 Rabbit's Foot - minecraft:rabbit_foot - 0 - null
 Rabbit Hide - minecraft:rabbit_hide - 0 - null
@@ -368,7 +368,7 @@ Diamond Horse Armor - minecraft:diamond_horse_armor - 0 - null
 Lead - minecraft:lead - 0 - null
 Name Tag - minecraft:name_tag - 0 - null
 Minecart with Command Block - minecraft:command_block_minecart - 0 - null
-Raw Mutton - minecraft:mutton - 0 - listAllmeatraw, listAllmuttonraw, foodMeat, foodMuttonraw
+Raw Mutton - minecraft:mutton - 0 - listAllmuttonraw, listAllmeatraw, foodMeat, foodMuttonraw
 Cooked Mutton - minecraft:cooked_mutton - 0 - listAllmeatcooked, listAllmuttoncooked, foodMeat, foodMuttoncooked
 Black Banner - minecraft:banner - 0 - null
 End Crystal - minecraft:end_crystal - 0 - null
@@ -380,7 +380,7 @@ Dark Oak Door - minecraft:dark_oak_door - 0 - doorWood
 Chorus Fruit - minecraft:chorus_fruit - 0 - listAllfruit
 Popped Chorus Fruit - minecraft:chorus_fruit_popped - 0 - null
 Beetroot - minecraft:beetroot - 0 - cropBeet, listAllveggie, cropBeetroot
-Beetroot Seeds - minecraft:beetroot_seeds - 0 - seedBeetroot, seed, listAllseed, seedBeet
+Beetroot Seeds - minecraft:beetroot_seeds - 0 - seedBeetroot, listAllseed, seed, seedBeet
 Beetroot Soup - minecraft:beetroot_soup - 0 - null
 Dragon's Breath - minecraft:dragon_breath - 0 - null
 Splash Uncraftable Potion - minecraft:splash_potion - 0 - null
@@ -2118,8 +2118,8 @@ Oscalea Log - moreplanets:oscalea_log - 0 - logWood
 Frolia Log - moreplanets:frolia_log - 0 - logWood
 Oscalea Planks - moreplanets:oscalea_planks - 0 - plankWood
 Frolia Planks - moreplanets:frolia_planks - 0 - plankWood
-Infected Oak Planks - moreplanets:infected_oak_planks - 0 - infectedPlank, plankWood
-Infected Spruce Planks - moreplanets:infected_spruce_planks - 0 - infectedPlank, plankWood
+Infected Oak Planks - moreplanets:infected_oak_planks - 0 - plankWood, infectedPlank
+Infected Spruce Planks - moreplanets:infected_spruce_planks - 0 - plankWood, infectedPlank
 Alien Berry Oak Planks - moreplanets:alien_berry_oak_planks - 0 - plankWood
 Infected Oak Leaves - moreplanets:infected_oak_leaves - 0 - treeLeaves
 Infected Spruce Leaves - moreplanets:infected_spruce_leaves - 0 - treeLeaves
@@ -2479,7 +2479,7 @@ Processing Plate - randomthings:plate_processing - 0 - null
 Spectre Coil - randomthings:spectrecoil_normal - 0 - null
 Redstone Spectre Coil - randomthings:spectrecoil_redstone - 0 - null
 Ender Spectre Coil - randomthings:spectrecoil_ender - 0 - null
-Spectre Coil Nr. 477 - randomthings:spectrecoil_number - 0 - null
+Spectre Coil Nr. 360 - randomthings:spectrecoil_number - 0 - null
 Genesis Spectre Coil - randomthings:spectrecoil_genesis - 0 - null
 Advanced Redstone Repeater - randomthings:advancedredstonerepeater - 0 - null
 Advanced Redstone Torch - randomthings:advancedredstonetorch_on - 0 - null
@@ -3498,7 +3498,7 @@ Ender Boots - enderio:item_end_steel_boots - 650 - null
 Ender Shield - enderio:item_end_steel_shield - 1800 - null
 Staff of Levity - enderio:item_staff_of_levity - 0 - null
 Blank Dark Steel Upgrade - enderio:item_dark_steel_upgrade - 0 - null
-Owl Egg - enderio:item_owl_egg - 0 - eggOwl, egg
+Owl Egg - enderio:item_owl_egg - 0 - egg, eggOwl
 Crude Steel Block - enderio:block_alloy_endergy - 0 - blockCrudeSteel
 Crude Steel Ingot - enderio:item_alloy_endergy_ingot - 0 - ingotCrudeSteel
 Crude Steel Nugget - enderio:item_alloy_endergy_nugget - 0 - nuggetCrudeSteel
@@ -3966,7 +3966,7 @@ Sortingwood Gate - twilightforest:sort_gate - 0 - fenceGateWood
 Sortingwood Pressure Plate - twilightforest:sort_plate - 0 - null
 Materials and You - tconstruct:book - 0 - null
 Grout - tconstruct:soil - 0 - null
-Slime Block - tconstruct:slime - 0 - blockSlime, blockSlimeGreen
+Slime Block - tconstruct:slime - 0 - blockSlimeGreen, blockSlime
 Congealed Slime Block - tconstruct:slime_congealed - 0 - blockSlimeCongealed
 Cobalt Ore - tconstruct:ore - 0 - oreCobalt
 Lavawood - tconstruct:firewood - 0 - null
@@ -4436,9 +4436,6 @@ Cobalt Spade - galaxyspace:cobalt_spade - 250 - null
 Cobalt Hoe - galaxyspace:cobalt_hoe - 250 - null
 Electric Jetpack - galaxyspace:jetpack - 200 - null
 Geological Scanner - galaxyspace:geo_scanner - 100 - null
-Proxima B Surface - galaxyspace:proxima_b_blocks - 0 - null
-Burnt Wood - galaxyspace:proxima_b_log_1 - 0 - null
-Frozen Wood - galaxyspace:proxima_b_log_2 - 0 - null
 Barnarda C Grass - galaxyspace:barnarda_c_grasses - 0 - null
 Barnarda C Dirt - galaxyspace:barnarda_c_blocks - 0 - dirt
 Barnarda C Sand - galaxyspace:barnarda_c_falling_blocks - 0 - sand
@@ -4451,22 +4448,164 @@ tile.barnarda_c_water_grass.name - galaxyspace:barnarda_c_water_grass - 0 - null
 Coal Ore - galaxyspace:barnarda_c_ores - 0 - oreCoal
 Violet Reeds - galaxyspace:br_basic - 0 - null
 Yellow Fruits - galaxyspace:br_foods - 0 - null
+Proxima B Surface - galaxyspace:proxima_b_blocks - 0 - null
+Burnt Wood - galaxyspace:proxima_b_log_1 - 0 - null
+Frozen Wood - galaxyspace:proxima_b_log_2 - 0 - null
 Stone Torch - galacticraftcore:unlit_torch_stone - 0 - null
 Stone Torch - galacticraftcore:unlit_torch_stone_lit - 0 - null
 Glass Shard - quark:glass_shards - 0 - shardGlass
+Spruce Trapdoor - quark:spruce_trapdoor - 0 - trapdoorWood
+Birch Trapdoor - quark:birch_trapdoor - 0 - trapdoorWood
+Jungle Trapdoor - quark:jungle_trapdoor - 0 - trapdoorWood
+Acacia Trapdoor - quark:acacia_trapdoor - 0 - trapdoorWood
+Dark Oak Trapdoor - quark:dark_oak_trapdoor - 0 - trapdoorWood
+Paper Wall - quark:paper_wall - 0 - null
+Big Paper Wall - quark:paper_wall_big - 0 - null
+Decorated Paper Wall - quark:paper_wall_sakura - 0 - null
+Iron Ladder - quark:iron_ladder - 0 - null
+Paper Lamp - quark:paper_lantern - 0 - null
+White Flower Pot - quark:colored_flowerpot_white - 0 - null
+Orange Flower Pot - quark:colored_flowerpot_orange - 0 - null
+Magenta Flower Pot - quark:colored_flowerpot_magenta - 0 - null
+Light Blue Flower Pot - quark:colored_flowerpot_light_blue - 0 - null
+Yellow Flower Pot - quark:colored_flowerpot_yellow - 0 - null
+Lime Flower Pot - quark:colored_flowerpot_lime - 0 - null
+Pink Flower Pot - quark:colored_flowerpot_pink - 0 - null
+Gray Flower Pot - quark:colored_flowerpot_gray - 0 - null
+Light Gray Flower Pot - quark:colored_flowerpot_silver - 0 - null
+Cyan Flower Pot - quark:colored_flowerpot_cyan - 0 - null
+Purple Flower Pot - quark:colored_flowerpot_purple - 0 - null
+Blue Flower Pot - quark:colored_flowerpot_blue - 0 - null
+Brown Flower Pot - quark:colored_flowerpot_brown - 0 - null
+Green Flower Pot - quark:colored_flowerpot_green - 0 - null
+Red Flower Pot - quark:colored_flowerpot_red - 0 - null
+Black Flower Pot - quark:colored_flowerpot_black - 0 - null
+Spruce Bookshelf - quark:custom_bookshelf - 0 - bookshelfSpruce, bookshelf
+White Item Frame - quark:colored_item_frame - 0 - null
+Lit Redstone Lamp - quark:lit_lamp - 0 - null
+Spruce Chest - quark:custom_chest - 0 - chest, chestWood
+Spruce Trapped Chest - quark:custom_chest_trap - 0 - chest, chestTrapped
+White Candle - quark:candle - 0 - blockCandle
+Tallow - quark:tallow - 0 - tallow
+Rope Coil - quark:rope - 0 - null
+Blaze Lantern - quark:blaze_lantern - 0 - null
+Nether Brick Fence Gate - quark:nether_brick_fence_gate - 0 - null
+Oak Leaf Carpet - quark:leaf_carpet - 0 - null
+Spruce Pressure Plate - quark:spruce_pressure_plate - 0 - pressurePlateWood
+Birch Pressure Plate - quark:birch_pressure_plate - 0 - pressurePlateWood
+Jungle Pressure Plate - quark:jungle_pressure_plate - 0 - pressurePlateWood
+Acacia Pressure Plate - quark:acacia_pressure_plate - 0 - pressurePlateWood
+Dark Oak Pressure Plate - quark:dark_oak_pressure_plate - 0 - pressurePlateWood
+Spruce Button - quark:spruce_button - 0 - buttonWood
+Birch Button - quark:birch_button - 0 - buttonWood
+Jungle Button - quark:jungle_button - 0 - buttonWood
+Acacia Button - quark:acacia_button - 0 - buttonWood
+Dark Oak Button - quark:dark_oak_button - 0 - buttonWood
+Iron Grate - quark:grate - 0 - null
+Glass Item Frame - quark:glass_item_frame - 0 - null
+Chute - quark:chute - 0 - null
+Sugar Block - quark:sugar_block - 0 - null
+Redstone Randomizer - quark:redstone_randomizer - 0 - null
+Iron Button - quark:iron_button - 0 - null
+Gold Button - quark:gold_button - 0 - null
+Iron Rod - quark:iron_rod - 0 - null
+Red Slime Block - quark:color_slime - 0 - blockSlimeRed, blockSlime
+Gravisand - quark:gravisand - 0 - null
+Redstone Inductor - quark:redstone_inductor - 0 - null
+Obsidian Pressure Plate - quark:obsidian_pressure_plate - 0 - null
+Weather Sensor - quark:rain_detector - 0 - null
+Iron Chain - quark:chain - 0 - null
+Cave Roots - quark:roots - 0 - null
+Cave Root - quark:root - 0 - null
+Cave Roots - quark:roots_blue_flower - 0 - null
+Cave Roots - quark:roots_black_flower - 0 - null
+Cave Roots - quark:roots_white_flower - 0 - null
+Blue Sprout - quark:root_flower - 0 - null
+Blue Dye - quark:root_dye - 0 - dyeBlue
+Heart of Diamond - quark:diamond_heart - 0 - null
+Archaeologist Hat - quark:archaeologist_hat - 55 - null
+Swamp Oak Leaves - quark:variant_leaves - 0 - treeLeaves
+Swamp Oak Sapling - quark:variant_sapling - 0 - treeSapling
+White Cave Crystal - quark:crystal - 0 - null
+White Cave Crystal Sheet - quark:crystal_pane - 0 - null
+Stone Speleothem - quark:stone_speleothem - 0 - null
+Granite Speleothem - quark:granite_speleothem - 0 - null
+Diorite Speleothem - quark:diorite_speleothem - 0 - null
+Andesite Speleothem - quark:andesite_speleothem - 0 - null
+Netherrack Speleothem - quark:netherrack_speleothem - 0 - null
+Basalt Speleothem - quark:basalt_speleothem - 0 - null
+Marble Speleothem - quark:marble_speleothem - 0 - null
+Limestone Speleothem - quark:limestone_speleothem - 0 - null
+Jasper Speleothem - quark:jasper_speleothem - 0 - null
+Slate Speleothem - quark:slate_speleothem - 0 - null
+Ender Biotite Ore - quark:biotite_ore - 0 - oreEnderBiotite
+Block of Biotite - quark:biotite_block - 0 - null
+Ender Biotite - quark:biotite - 0 - gemEnderBiotite
+Biotite Slab - quark:biotite_slab - 0 - null
+Biotite Stairs - quark:biotite_stairs - 0 - null
+Biotite Wall - quark:biotite_wall - 0 - null
+Monster Box - quark:monster_box - 0 - null
+Basalt - quark:basalt - 0 - stoneBasalt
+Basalt Slab - quark:stone_basalt_slab - 0 - null
+Basalt Stairs - quark:stone_basalt_stairs - 0 - null
+Basalt Wall - quark:basalt_wall - 0 - null
+Frog Leg - quark:frog_leg - 0 - null
+Cooked Frog Leg - quark:cooked_frog_leg - 0 - null
+Golden Frog Leg - quark:golden_frog_leg - 0 - null
+Pirate Hat - quark:pirate_hat - -1 - null
+Crab Leg - quark:crab_leg - 0 - null
+Cooked Crab Leg - quark:cooked_crab_leg - 0 - null
+Crab Shell Fragment - quark:crab_shell - 0 - null
+Marble - quark:marble - 0 - stoneMarble
+Marble Slab - quark:stone_marble_slab - 0 - null
+Marble Stairs - quark:stone_marble_stairs - 0 - null
+Marble Wall - quark:marble_wall - 0 - null
+Limestone - quark:limestone - 0 - stoneLimestone
+Limestone Slab - quark:stone_limestone_slab - 0 - null
+Limestone Stairs - quark:stone_limestone_stairs - 0 - null
+Limestone Wall - quark:limestone_wall - 0 - null
+Jasper - quark:jasper - 0 - stoneJasper
+Jasper Slab - quark:stone_jasper_slab - 0 - null
+Jasper Stairs - quark:stone_jasper_stairs - 0 - null
+Jasper Wall - quark:jasper_wall - 0 - null
+Slate - quark:slate - 0 - stoneSlate
+Slate Slab - quark:stone_slate_slab - 0 - null
+Slate Stairs - quark:stone_slate_stairs - 0 - null
+Slate Wall - quark:slate_wall - 0 - null
+Brimstone - quark:biome_cobblestone - 0 - stoneBrimstone
+Brimstone Bricks - quark:biome_brick - 0 - stoneBrimstonePolished
+Elder Prismarine - quark:elder_prismarine - 0 - blockPrismarine, blockPrismarineElder
+Elder Sea Lantern - quark:elder_sea_lantern - 0 - null
+Brimstone Slab - quark:fire_stone_slab - 0 - null
+Brimstone Stairs - quark:fire_stone_stairs - 0 - null
+Brimstone Bricks Slab - quark:fire_stone_brick_slab - 0 - null
+Brimstone Bricks Stairs - quark:fire_stone_brick_stairs - 0 - null
+Permafrost Slab - quark:icy_stone_slab - 0 - null
+Permafrost Stairs - quark:icy_stone_stairs - 0 - null
+Permafrost Bricks Slab - quark:icy_stone_brick_slab - 0 - null
+Permafrost Bricks Stairs - quark:icy_stone_brick_stairs - 0 - null
+Cobbedstone Slab - quark:cobbed_stone_slab - 0 - null
+Cobbedstone Stairs - quark:cobbed_stone_stairs - 0 - null
+Elder Prismarine Slab - quark:elder_prismarine_slab - 0 - null
+Elder Prismarine Stairs - quark:elder_prismarine_stairs - 0 - null
+Elder Prismarine Brick Slab - quark:elder_prismarine_bricks_slab - 0 - null
+Elder Prismarine Brick Stairs - quark:elder_prismarine_bricks_stairs - 0 - null
+Dark Elder Prismarine Slab - quark:elder_prismarine_dark_slab - 0 - null
+Dark Elder Prismarine Stairs - quark:elder_prismarine_dark_stairs - 0 - null
+Brimstone Wall - quark:fire_stone_wall - 0 - null
+Permafrost Wall - quark:icy_stone_wall - 0 - null
+Cobbedstone Wall - quark:cobbed_stone_wall - 0 - null
+Brimstone Bricks Wall - quark:fire_stone_brick_wall - 0 - null
+Permafrost Bricks Wall - quark:icy_stone_brick_wall - 0 - null
+Elder Prismarine Wall - quark:elder_prismarine_wall - 0 - null
+Elder Prismarine Brick Wall - quark:elder_prismarine_bricks_wall - 0 - null
+Dark Elder Prismarine Wall - quark:elder_prismarine_dark_wall - 0 - null
+Glowcelium - quark:glowcelium - 0 - null
+Glowshroom - quark:glowshroom - 0 - mushroomAny
+Glowshroom - quark:glowshroom_block - 0 - null
+Soul Bead - quark:soul_bead - 0 - null
+Nether Smoker - quark:smoker - 0 - null
 Witch Hat - quark:witch_hat - 55 - null
-Pickarang - quark:pickarang - 800 - null
-Ender Arrow - quark:arrow_ender - 0 - null
-Explosive Arrow - quark:arrow_explosive - 0 - null
-Torch Arrow - quark:arrow_torch - 0 - null
-Slime in a Bucket - quark:slime_bucket - 0 - slimeball
-White Rune - quark:rune - 0 - null
-Wither Ash - quark:black_ash - 0 - null
-Ancient Tome - quark:ancient_tome - 0 - null
-Horse Whistle - quark:horse_whistle - 0 - null
-Soul Powder - quark:soul_powder - 0 - null
-Red Parrot Egg - quark:parrot_egg - 0 - null
-Dragon Scale - quark:enderdragon_scale - 0 - null
 Polished Sandstone - quark:sandstone_new - 0 - null
 Sandstone Brick Stairs - quark:sandstone_bricks_stairs - 0 - null
 Red Sandstone Brick Stairs - quark:red_sandstone_bricks_stairs - 0 - null
@@ -4682,161 +4821,173 @@ Netherwrought Brick Slab - quark:polished_netherrack_bricks_slab - 0 - null
 Netherwrought Brick Wall - quark:polished_netherrack_bricks_wall - 0 - null
 Trowel - quark:trowel - 255 - null
 White Quilted Wool - quark:quilted_wool - 0 - null
-Spruce Trapdoor - quark:spruce_trapdoor - 0 - trapdoorWood
-Birch Trapdoor - quark:birch_trapdoor - 0 - trapdoorWood
-Jungle Trapdoor - quark:jungle_trapdoor - 0 - trapdoorWood
-Acacia Trapdoor - quark:acacia_trapdoor - 0 - trapdoorWood
-Dark Oak Trapdoor - quark:dark_oak_trapdoor - 0 - trapdoorWood
-Paper Wall - quark:paper_wall - 0 - null
-Big Paper Wall - quark:paper_wall_big - 0 - null
-Decorated Paper Wall - quark:paper_wall_sakura - 0 - null
-Iron Ladder - quark:iron_ladder - 0 - null
-Paper Lamp - quark:paper_lantern - 0 - null
-White Flower Pot - quark:colored_flowerpot_white - 0 - null
-Orange Flower Pot - quark:colored_flowerpot_orange - 0 - null
-Magenta Flower Pot - quark:colored_flowerpot_magenta - 0 - null
-Light Blue Flower Pot - quark:colored_flowerpot_light_blue - 0 - null
-Yellow Flower Pot - quark:colored_flowerpot_yellow - 0 - null
-Lime Flower Pot - quark:colored_flowerpot_lime - 0 - null
-Pink Flower Pot - quark:colored_flowerpot_pink - 0 - null
-Gray Flower Pot - quark:colored_flowerpot_gray - 0 - null
-Light Gray Flower Pot - quark:colored_flowerpot_silver - 0 - null
-Cyan Flower Pot - quark:colored_flowerpot_cyan - 0 - null
-Purple Flower Pot - quark:colored_flowerpot_purple - 0 - null
-Blue Flower Pot - quark:colored_flowerpot_blue - 0 - null
-Brown Flower Pot - quark:colored_flowerpot_brown - 0 - null
-Green Flower Pot - quark:colored_flowerpot_green - 0 - null
-Red Flower Pot - quark:colored_flowerpot_red - 0 - null
-Black Flower Pot - quark:colored_flowerpot_black - 0 - null
-Spruce Bookshelf - quark:custom_bookshelf - 0 - bookshelfSpruce, bookshelf
-White Item Frame - quark:colored_item_frame - 0 - null
-Lit Redstone Lamp - quark:lit_lamp - 0 - null
-Spruce Chest - quark:custom_chest - 0 - chest, chestWood
-Spruce Trapped Chest - quark:custom_chest_trap - 0 - chest, chestTrapped
-White Candle - quark:candle - 0 - blockCandle
-Tallow - quark:tallow - 0 - tallow
-Rope Coil - quark:rope - 0 - null
-Blaze Lantern - quark:blaze_lantern - 0 - null
-Nether Brick Fence Gate - quark:nether_brick_fence_gate - 0 - null
-Oak Leaf Carpet - quark:leaf_carpet - 0 - null
-Spruce Pressure Plate - quark:spruce_pressure_plate - 0 - pressurePlateWood
-Birch Pressure Plate - quark:birch_pressure_plate - 0 - pressurePlateWood
-Jungle Pressure Plate - quark:jungle_pressure_plate - 0 - pressurePlateWood
-Acacia Pressure Plate - quark:acacia_pressure_plate - 0 - pressurePlateWood
-Dark Oak Pressure Plate - quark:dark_oak_pressure_plate - 0 - pressurePlateWood
-Spruce Button - quark:spruce_button - 0 - buttonWood
-Birch Button - quark:birch_button - 0 - buttonWood
-Jungle Button - quark:jungle_button - 0 - buttonWood
-Acacia Button - quark:acacia_button - 0 - buttonWood
-Dark Oak Button - quark:dark_oak_button - 0 - buttonWood
-Iron Grate - quark:grate - 0 - null
-Glass Item Frame - quark:glass_item_frame - 0 - null
-Cave Roots - quark:roots - 0 - null
-Cave Root - quark:root - 0 - null
-Cave Roots - quark:roots_blue_flower - 0 - null
-Cave Roots - quark:roots_black_flower - 0 - null
-Cave Roots - quark:roots_white_flower - 0 - null
-Blue Sprout - quark:root_flower - 0 - null
-Blue Dye - quark:root_dye - 0 - dyeBlue
-Heart of Diamond - quark:diamond_heart - 0 - null
-Archaeologist Hat - quark:archaeologist_hat - 55 - null
-Swamp Oak Leaves - quark:variant_leaves - 0 - treeLeaves
-Swamp Oak Sapling - quark:variant_sapling - 0 - treeSapling
-White Cave Crystal - quark:crystal - 0 - null
-White Cave Crystal Sheet - quark:crystal_pane - 0 - null
-Stone Speleothem - quark:stone_speleothem - 0 - null
-Granite Speleothem - quark:granite_speleothem - 0 - null
-Diorite Speleothem - quark:diorite_speleothem - 0 - null
-Andesite Speleothem - quark:andesite_speleothem - 0 - null
-Netherrack Speleothem - quark:netherrack_speleothem - 0 - null
-Basalt Speleothem - quark:basalt_speleothem - 0 - null
-Marble Speleothem - quark:marble_speleothem - 0 - null
-Limestone Speleothem - quark:limestone_speleothem - 0 - null
-Jasper Speleothem - quark:jasper_speleothem - 0 - null
-Slate Speleothem - quark:slate_speleothem - 0 - null
-Ender Biotite Ore - quark:biotite_ore - 0 - oreEnderBiotite
-Block of Biotite - quark:biotite_block - 0 - null
-Ender Biotite - quark:biotite - 0 - gemEnderBiotite
-Biotite Slab - quark:biotite_slab - 0 - null
-Biotite Stairs - quark:biotite_stairs - 0 - null
-Biotite Wall - quark:biotite_wall - 0 - null
-Monster Box - quark:monster_box - 0 - null
-Basalt - quark:basalt - 0 - stoneBasalt
-Basalt Slab - quark:stone_basalt_slab - 0 - null
-Basalt Stairs - quark:stone_basalt_stairs - 0 - null
-Basalt Wall - quark:basalt_wall - 0 - null
-Frog Leg - quark:frog_leg - 0 - null
-Cooked Frog Leg - quark:cooked_frog_leg - 0 - null
-Golden Frog Leg - quark:golden_frog_leg - 0 - null
-Pirate Hat - quark:pirate_hat - -1 - null
-Crab Leg - quark:crab_leg - 0 - null
-Cooked Crab Leg - quark:cooked_crab_leg - 0 - null
-Crab Shell Fragment - quark:crab_shell - 0 - null
-Marble - quark:marble - 0 - stoneMarble
-Marble Slab - quark:stone_marble_slab - 0 - null
-Marble Stairs - quark:stone_marble_stairs - 0 - null
-Marble Wall - quark:marble_wall - 0 - null
-Limestone - quark:limestone - 0 - stoneLimestone
-Limestone Slab - quark:stone_limestone_slab - 0 - null
-Limestone Stairs - quark:stone_limestone_stairs - 0 - null
-Limestone Wall - quark:limestone_wall - 0 - null
-Jasper - quark:jasper - 0 - stoneJasper
-Jasper Slab - quark:stone_jasper_slab - 0 - null
-Jasper Stairs - quark:stone_jasper_stairs - 0 - null
-Jasper Wall - quark:jasper_wall - 0 - null
-Slate - quark:slate - 0 - stoneSlate
-Slate Slab - quark:stone_slate_slab - 0 - null
-Slate Stairs - quark:stone_slate_stairs - 0 - null
-Slate Wall - quark:slate_wall - 0 - null
-Brimstone - quark:biome_cobblestone - 0 - stoneBrimstone
-Brimstone Bricks - quark:biome_brick - 0 - stoneBrimstonePolished
-Elder Prismarine - quark:elder_prismarine - 0 - blockPrismarine, blockPrismarineElder
-Elder Sea Lantern - quark:elder_sea_lantern - 0 - null
-Brimstone Slab - quark:fire_stone_slab - 0 - null
-Brimstone Stairs - quark:fire_stone_stairs - 0 - null
-Brimstone Bricks Slab - quark:fire_stone_brick_slab - 0 - null
-Brimstone Bricks Stairs - quark:fire_stone_brick_stairs - 0 - null
-Permafrost Slab - quark:icy_stone_slab - 0 - null
-Permafrost Stairs - quark:icy_stone_stairs - 0 - null
-Permafrost Bricks Slab - quark:icy_stone_brick_slab - 0 - null
-Permafrost Bricks Stairs - quark:icy_stone_brick_stairs - 0 - null
-Cobbedstone Slab - quark:cobbed_stone_slab - 0 - null
-Cobbedstone Stairs - quark:cobbed_stone_stairs - 0 - null
-Elder Prismarine Slab - quark:elder_prismarine_slab - 0 - null
-Elder Prismarine Stairs - quark:elder_prismarine_stairs - 0 - null
-Elder Prismarine Brick Slab - quark:elder_prismarine_bricks_slab - 0 - null
-Elder Prismarine Brick Stairs - quark:elder_prismarine_bricks_stairs - 0 - null
-Dark Elder Prismarine Slab - quark:elder_prismarine_dark_slab - 0 - null
-Dark Elder Prismarine Stairs - quark:elder_prismarine_dark_stairs - 0 - null
-Brimstone Wall - quark:fire_stone_wall - 0 - null
-Permafrost Wall - quark:icy_stone_wall - 0 - null
-Cobbedstone Wall - quark:cobbed_stone_wall - 0 - null
-Brimstone Bricks Wall - quark:fire_stone_brick_wall - 0 - null
-Permafrost Bricks Wall - quark:icy_stone_brick_wall - 0 - null
-Elder Prismarine Wall - quark:elder_prismarine_wall - 0 - null
-Elder Prismarine Brick Wall - quark:elder_prismarine_bricks_wall - 0 - null
-Dark Elder Prismarine Wall - quark:elder_prismarine_dark_wall - 0 - null
-Glowcelium - quark:glowcelium - 0 - null
-Glowshroom - quark:glowshroom - 0 - mushroomAny
-Glowshroom - quark:glowshroom_block - 0 - null
-Soul Bead - quark:soul_bead - 0 - null
-Nether Smoker - quark:smoker - 0 - null
-Chute - quark:chute - 0 - null
-Sugar Block - quark:sugar_block - 0 - null
-Redstone Randomizer - quark:redstone_randomizer - 0 - null
-Iron Button - quark:iron_button - 0 - null
-Gold Button - quark:gold_button - 0 - null
-Iron Rod - quark:iron_rod - 0 - null
-Red Slime Block - quark:color_slime - 0 - blockSlime, blockSlimeRed
-Gravisand - quark:gravisand - 0 - null
-Redstone Inductor - quark:redstone_inductor - 0 - null
-Obsidian Pressure Plate - quark:obsidian_pressure_plate - 0 - null
-Weather Sensor - quark:rain_detector - 0 - null
-Iron Chain - quark:chain - 0 - null
+Pickarang - quark:pickarang - 800 - null
+Ender Arrow - quark:arrow_ender - 0 - null
+Explosive Arrow - quark:arrow_explosive - 0 - null
+Torch Arrow - quark:arrow_torch - 0 - null
+Slime in a Bucket - quark:slime_bucket - 0 - slimeball
+White Rune - quark:rune - 0 - null
+Wither Ash - quark:black_ash - 0 - null
+Ancient Tome - quark:ancient_tome - 0 - null
+Horse Whistle - quark:horse_whistle - 0 - null
+Soul Powder - quark:soul_powder - 0 - null
+Red Parrot Egg - quark:parrot_egg - 0 - null
+Dragon Scale - quark:enderdragon_scale - 0 - null
 Item Placeholder - betterquesting:placeholder - 0 - null
 Extra Life - betterquesting:extra_life - 0 - null
 Better Questing Starter Guide - betterquesting:guide_book - 0 - null
 Object Submission Station (OSS) - betterquesting:submit_station - 0 - null
+Lexica Botania - botania:lexicon - 0 - lexicaBotania
+Mystical White Petal - botania:petal - 0 - petalWhite
+Floral White Powder - botania:dye - 0 - dyeWhite, dye
+Pestle and Mortar - botania:pestleandmortar - 0 - pestleAndMortar
+Wand of the Forest - botania:twigwand - 0 - null
+Manasteel Ingot - botania:manaresource - 0 - ingotManasteel
+Mana Lens - botania:lens - 0 - null
+Rune of Water - botania:rune - 0 - runeWaterB
+Mana Tablet - botania:manatablet - 0 - null
+Mana Blaster - botania:managun - 30 - null
+Biscuit of Totality - botania:manacookie - 0 - null
+Floral Fertilizer - botania:fertilizer - 0 - null
+Pasture Seeds - botania:grassseeds - 0 - null
+Rod of the Lands - botania:dirtrod - 0 - null
+Rod of the Terra Firma - botania:terraformrod - 0 - null
+Horn of the Wild - botania:grasshorn - 0 - null
+Mana Mirror - botania:manamirror - 1000 - null
+Manasteel Helmet - botania:manasteelhelm - 176 - null
+Manasteel Helmet of Revealing - botania:manasteelhelmreveal - 176 - null
+Manasteel Chestplate - botania:manasteelchest - 256 - null
+Manasteel Leggings - botania:manasteellegs - 240 - null
+Manasteel Boots - botania:manasteelboots - 208 - null
+Manasteel Pickaxe - botania:manasteelpick - 300 - null
+Manasteel Shovel - botania:manasteelshovel - 300 - null
+Manasteel Axe - botania:manasteelaxe - 300 - null
+Manasteel Sword - botania:manasteelsword - 300 - null
+Manasteel Shears - botania:manasteelshears - 238 - null
+Terrasteel Helmet - botania:terrasteelhelm - 374 - null
+Terrasteel Helmet of Revealing - botania:terrasteelhelmreveal - 374 - null
+Terrasteel Chestplate - botania:terrasteelchest - 544 - null
+Terrasteel Leggings - botania:terrasteellegs - 510 - null
+Terrasteel Boots - botania:terrasteelboots - 442 - null
+Terra Blade - botania:terrasword - 2300 - null
+Tiny Planet - botania:tinyplanet - 0 - null
+Band of Mana - botania:manaring - 0 - null
+Band of Aura - botania:auraring - 0 - null
+Greater Band of Mana - botania:manaringgreater - 0 - null
+Greater Band of Aura - botania:auraringgreater - 0 - null
+Soujourner's Sash - botania:travelbelt - 0 - null
+Tectonic Girdle - botania:knockbackbelt - 0 - null
+Snowflake Pendant - botania:icependant - 0 - null
+Pyroclast Pendant - botania:lavapendant - 0 - null
+Ring of Magnetization - botania:magnetring - 0 - null
+Ring of Chordata - botania:waterring - 0 - null
+Ring of the Mantle - botania:miningring - 0 - null
+Terra Shatterer - botania:terrapick - 2300 - null
+Charm of the Diva - botania:divacharm - 0 - null
+Flügel Tiara - botania:flighttiara - 0 - null
+Soulscribe - botania:enderdagger - 69 - null
+Smokey Quartz - botania:quartz - 0 - quartzDark
+Rod of the Seas - botania:waterrod - 0 - null
+Elementium Helmet - botania:elementiumhelm - 198 - null
+Elementium Helmet of Revealing - botania:elementiumhelmreveal - 198 - null
+Elementium Chestplate - botania:elementiumchest - 288 - null
+Elementium Leggings - botania:elementiumlegs - 270 - null
+Elementium Boots - botania:elementiumboots - 234 - null
+Elementium Pickaxe - botania:elementiumpick - 720 - null
+Elementium Shovel - botania:elementiumshovel - 720 - null
+Elementium Axe - botania:elementiumaxe - 720 - null
+Elementium Sword - botania:elementiumsword - 720 - null
+Elementium Shears - botania:elementiumshears - 238 - null
+Extrapolated Bucket - botania:openbucket - 0 - null
+Life Aggregator - botania:spawnermover - 0 - null
+Great Fairy Ring - botania:pixiering - 0 - null
+Globetrotter's Sash - botania:supertravelbelt - 0 - null
+Rod of the Bifrost - botania:rainbowrod - 0 - null
+Rod of the Skies - botania:tornadorod - 60 - null
+Rod of the Hells - botania:firerod - 0 - null
+Vine Ball - botania:vineball - 0 - null
+Livingwood Slingshot - botania:slingshot - 0 - null
+Mana in a Bottle - botania:manabottle - 6 - null
+Shard of Laputa - botania:laputashard - 0 - null
+Necrodermal Virus - botania:virus - 0 - null
+Ring of Far Reach - botania:reachring - 0 - null
+Rod of the Highlands - botania:skydirtrod - 0 - null
+The Spectator - botania:itemfinder - 0 - null
+Crimson Pendant - botania:superlavapendant - 0 - null
+Hand of Ender - botania:enderhand - 0 - null
+Vitreous Pickaxe - botania:glasspick - 125 - null
+Spark - botania:spark - 0 - null
+Spark Augment: Dispersive - botania:sparkupgrade - 0 - null
+Rod of the Plentiful Mantle - botania:diviningrod - 0 - null
+Rod of the Shaded Mesa - botania:gravityrod - 0 - null
+Botanurgist's Inkwell - botania:manainkwell - 150 - null
+Managlass Vial - botania:vial - 0 - bVial
+Vial of Fallback (§l4§r) - botania:brewvial - 0 - null
+Flask of Fallback (§l6§r) - botania:brewflask - 0 - null
+Tainted Blood Pendant - botania:bloodpendant - 0 - null
+Rod of the Unstable Reservoir - botania:missilerod - 0 - null
+Cloak of Virtue - botania:holycloak - 0 - null
+Cloak of Sin - botania:unholycloak - 0 - null
+Cloak of Balance - botania:balancecloak - 0 - null
+Assembly Halo - botania:craftinghalo - 0 - null
+Black Lotus - botania:blacklotus - 0 - null
+Manaseer Monocle - botania:monocle - 0 - null
+Lens Clip - botania:clip - 0 - null
+Rod of the Depths - botania:cobblerod - 0 - null
+Rod of the Molten Core - botania:smeltrod - 0 - null
+World Seed - botania:worldseed - 0 - null
+Spellbinding Cloth - botania:spellcloth - 35 - null
+Thorn Chakram - botania:thornchakram - 0 - null
+Overgrowth Seed - botania:overgrowthseed - 0 - null
+Crafting Pattern #1: 1x1 - botania:craftpattern - 0 - null
+Will of Ahrim - botania:ancientwill - 0 - null
+Corporea Spark - botania:corporeaspark - 0 - null
+Livingwood Bow - botania:livingwoodbow - 500 - null
+Crystal Bow - botania:crystalbow - 500 - null
+Black Bowtie - botania:cosmetic - 0 - null
+Ring of Correction - botania:swapring - 0 - null
+Flower Pouch - botania:flowerbag - 0 - null
+Phantom Ink - botania:phantomink - 0 - null
+Minecart with Mana Pool - botania:poolminecart - 0 - null
+The Pinkinator - botania:pinkinator - 0 - null
+The Fruit of Grisaia - botania:infinitefruit - 0 - null
+Key of the King's Law - botania:kingkey - 0 - null
+Eye of the Flügel - botania:flugeleye - 0 - null
+Ring of Thor - botania:thorring - 0 - null
+Ring of Odin - botania:odinring - 0 - null
+Ring of Loki - botania:lokiring - 0 - null
+Dice of Fate - botania:dice - 0 - null
+Resolute Ivy - botania:keepivy - 0 - null
+Black Hole Talisman - botania:blackholetalisman - 0 - null
+Scathed Music Disc - botania:recordgaia1 - 0 - null
+Scathed Music Disc - botania:recordgaia2 - 0 - null
+Stone of Temperance - botania:temperancestone - 0 - null
+Incense Stick - botania:incensestick - 0 - null
+Terra Truncator - botania:terraaxe - 2300 - null
+Bowl of Water - botania:waterbowl - 0 - null
+Floral Obedience Stick - botania:obediencestick - 0 - null
+Cacophonium - botania:cacophonium - 0 - null
+Slime in a Bottle - botania:slimebottle - 0 - null
+Starcaller - botania:starsword - 2300 - null
+Rod of the Shifting Crust - botania:exchangerod - 0 - null
+Greater Ring of Magnetization - botania:magnetringgreater - 0 - null
+Thundercaller - botania:thundersword - 2300 - null
+Manaweave Cowl - botania:manaweavehelm - 55 - null
+Manaweave Robe Top - botania:manaweavechest - 80 - null
+Manaweave Robe Bottom - botania:manaweavelegs - 75 - null
+Manaweave Boots - botania:manaweaveboots - 65 - null
+Manufactory Halo - botania:autocraftinghalo - 0 - null
+Gaia Guardian's Head - botania:gaiahead - 0 - null
+Worldshaper's Sextant - botania:sextant - 0 - null
+Planestrider's Sash - botania:speedupbelt - 0 - null
+Bauble Case - botania:baublebox - 0 - null
+Ring of Dexterous Motion - botania:dodgering - 0 - null
+Invisibility Cloak - botania:invisibilitycloak - 0 - null
+Cirrus Amulet - botania:cloudpendant - 0 - null
+Nimbus Amulet - botania:supercloudpendant - 0 - null
+Third Eye - botania:thirdeye - 0 - null
+Worldshaper's Astrolabe - botania:astrolabe - 0 - null
+Benevolent Goddess' Charm - botania:goddesscharm - 0 - null
 Livingwood Stairs - botania:livingwood0stairs - 0 - null
 Livingwood Slab - botania:livingwood0slab - 0 - null
 Livingwood Wall - botania:livingwood0wall - 0 - null
@@ -5022,157 +5173,6 @@ Shimmerwood Planks - botania:shimmerwoodplanks - 0 - null
 Livingwood Avatar - botania:avatar - 0 - null
 Dry Grass - botania:altgrass - 0 - null
 Animated Torch - botania:animatedtorch - 0 - null
-Lexica Botania - botania:lexicon - 0 - lexicaBotania
-Mystical White Petal - botania:petal - 0 - petalWhite
-Floral White Powder - botania:dye - 0 - dyeWhite, dye
-Pestle and Mortar - botania:pestleandmortar - 0 - pestleAndMortar
-Wand of the Forest - botania:twigwand - 0 - null
-Manasteel Ingot - botania:manaresource - 0 - ingotManasteel
-Mana Lens - botania:lens - 0 - null
-Rune of Water - botania:rune - 0 - runeWaterB
-Mana Tablet - botania:manatablet - 0 - null
-Mana Blaster - botania:managun - 30 - null
-Biscuit of Totality - botania:manacookie - 0 - null
-Floral Fertilizer - botania:fertilizer - 0 - null
-Pasture Seeds - botania:grassseeds - 0 - null
-Rod of the Lands - botania:dirtrod - 0 - null
-Rod of the Terra Firma - botania:terraformrod - 0 - null
-Horn of the Wild - botania:grasshorn - 0 - null
-Mana Mirror - botania:manamirror - 1000 - null
-Manasteel Helmet - botania:manasteelhelm - 176 - null
-Manasteel Helmet of Revealing - botania:manasteelhelmreveal - 176 - null
-Manasteel Chestplate - botania:manasteelchest - 256 - null
-Manasteel Leggings - botania:manasteellegs - 240 - null
-Manasteel Boots - botania:manasteelboots - 208 - null
-Manasteel Pickaxe - botania:manasteelpick - 300 - null
-Manasteel Shovel - botania:manasteelshovel - 300 - null
-Manasteel Axe - botania:manasteelaxe - 300 - null
-Manasteel Sword - botania:manasteelsword - 300 - null
-Manasteel Shears - botania:manasteelshears - 238 - null
-Terrasteel Helmet - botania:terrasteelhelm - 374 - null
-Terrasteel Helmet of Revealing - botania:terrasteelhelmreveal - 374 - null
-Terrasteel Chestplate - botania:terrasteelchest - 544 - null
-Terrasteel Leggings - botania:terrasteellegs - 510 - null
-Terrasteel Boots - botania:terrasteelboots - 442 - null
-Terra Blade - botania:terrasword - 2300 - null
-Tiny Planet - botania:tinyplanet - 0 - null
-Band of Mana - botania:manaring - 0 - null
-Band of Aura - botania:auraring - 0 - null
-Greater Band of Mana - botania:manaringgreater - 0 - null
-Greater Band of Aura - botania:auraringgreater - 0 - null
-Soujourner's Sash - botania:travelbelt - 0 - null
-Tectonic Girdle - botania:knockbackbelt - 0 - null
-Snowflake Pendant - botania:icependant - 0 - null
-Pyroclast Pendant - botania:lavapendant - 0 - null
-Ring of Magnetization - botania:magnetring - 0 - null
-Ring of Chordata - botania:waterring - 0 - null
-Ring of the Mantle - botania:miningring - 0 - null
-Terra Shatterer - botania:terrapick - 2300 - null
-Charm of the Diva - botania:divacharm - 0 - null
-Flügel Tiara - botania:flighttiara - 0 - null
-Soulscribe - botania:enderdagger - 69 - null
-Smokey Quartz - botania:quartz - 0 - quartzDark
-Rod of the Seas - botania:waterrod - 0 - null
-Elementium Helmet - botania:elementiumhelm - 198 - null
-Elementium Helmet of Revealing - botania:elementiumhelmreveal - 198 - null
-Elementium Chestplate - botania:elementiumchest - 288 - null
-Elementium Leggings - botania:elementiumlegs - 270 - null
-Elementium Boots - botania:elementiumboots - 234 - null
-Elementium Pickaxe - botania:elementiumpick - 720 - null
-Elementium Shovel - botania:elementiumshovel - 720 - null
-Elementium Axe - botania:elementiumaxe - 720 - null
-Elementium Sword - botania:elementiumsword - 720 - null
-Elementium Shears - botania:elementiumshears - 238 - null
-Extrapolated Bucket - botania:openbucket - 0 - null
-Life Aggregator - botania:spawnermover - 0 - null
-Great Fairy Ring - botania:pixiering - 0 - null
-Globetrotter's Sash - botania:supertravelbelt - 0 - null
-Rod of the Bifrost - botania:rainbowrod - 0 - null
-Rod of the Skies - botania:tornadorod - 60 - null
-Rod of the Hells - botania:firerod - 0 - null
-Vine Ball - botania:vineball - 0 - null
-Livingwood Slingshot - botania:slingshot - 0 - null
-Mana in a Bottle - botania:manabottle - 6 - null
-Shard of Laputa - botania:laputashard - 0 - null
-Necrodermal Virus - botania:virus - 0 - null
-Ring of Far Reach - botania:reachring - 0 - null
-Rod of the Highlands - botania:skydirtrod - 0 - null
-The Spectator - botania:itemfinder - 0 - null
-Crimson Pendant - botania:superlavapendant - 0 - null
-Hand of Ender - botania:enderhand - 0 - null
-Vitreous Pickaxe - botania:glasspick - 125 - null
-Spark - botania:spark - 0 - null
-Spark Augment: Dispersive - botania:sparkupgrade - 0 - null
-Rod of the Plentiful Mantle - botania:diviningrod - 0 - null
-Rod of the Shaded Mesa - botania:gravityrod - 0 - null
-Botanurgist's Inkwell - botania:manainkwell - 150 - null
-Managlass Vial - botania:vial - 0 - bVial
-Vial of Fallback (§l4§r) - botania:brewvial - 0 - null
-Flask of Fallback (§l6§r) - botania:brewflask - 0 - null
-Tainted Blood Pendant - botania:bloodpendant - 0 - null
-Rod of the Unstable Reservoir - botania:missilerod - 0 - null
-Cloak of Virtue - botania:holycloak - 0 - null
-Cloak of Sin - botania:unholycloak - 0 - null
-Cloak of Balance - botania:balancecloak - 0 - null
-Assembly Halo - botania:craftinghalo - 0 - null
-Black Lotus - botania:blacklotus - 0 - null
-Manaseer Monocle - botania:monocle - 0 - null
-Lens Clip - botania:clip - 0 - null
-Rod of the Depths - botania:cobblerod - 0 - null
-Rod of the Molten Core - botania:smeltrod - 0 - null
-World Seed - botania:worldseed - 0 - null
-Spellbinding Cloth - botania:spellcloth - 35 - null
-Thorn Chakram - botania:thornchakram - 0 - null
-Overgrowth Seed - botania:overgrowthseed - 0 - null
-Crafting Pattern #1: 1x1 - botania:craftpattern - 0 - null
-Will of Ahrim - botania:ancientwill - 0 - null
-Corporea Spark - botania:corporeaspark - 0 - null
-Livingwood Bow - botania:livingwoodbow - 500 - null
-Crystal Bow - botania:crystalbow - 500 - null
-Black Bowtie - botania:cosmetic - 0 - null
-Ring of Correction - botania:swapring - 0 - null
-Flower Pouch - botania:flowerbag - 0 - null
-Phantom Ink - botania:phantomink - 0 - null
-Minecart with Mana Pool - botania:poolminecart - 0 - null
-The Pinkinator - botania:pinkinator - 0 - null
-The Fruit of Grisaia - botania:infinitefruit - 0 - null
-Key of the King's Law - botania:kingkey - 0 - null
-Eye of the Flügel - botania:flugeleye - 0 - null
-Ring of Thor - botania:thorring - 0 - null
-Ring of Odin - botania:odinring - 0 - null
-Ring of Loki - botania:lokiring - 0 - null
-Dice of Fate - botania:dice - 0 - null
-Resolute Ivy - botania:keepivy - 0 - null
-Black Hole Talisman - botania:blackholetalisman - 0 - null
-Scathed Music Disc - botania:recordgaia1 - 0 - null
-Scathed Music Disc - botania:recordgaia2 - 0 - null
-Stone of Temperance - botania:temperancestone - 0 - null
-Incense Stick - botania:incensestick - 0 - null
-Terra Truncator - botania:terraaxe - 2300 - null
-Bowl of Water - botania:waterbowl - 0 - null
-Floral Obedience Stick - botania:obediencestick - 0 - null
-Cacophonium - botania:cacophonium - 0 - null
-Slime in a Bottle - botania:slimebottle - 0 - null
-Starcaller - botania:starsword - 2300 - null
-Rod of the Shifting Crust - botania:exchangerod - 0 - null
-Greater Ring of Magnetization - botania:magnetringgreater - 0 - null
-Thundercaller - botania:thundersword - 2300 - null
-Manaweave Cowl - botania:manaweavehelm - 55 - null
-Manaweave Robe Top - botania:manaweavechest - 80 - null
-Manaweave Robe Bottom - botania:manaweavelegs - 75 - null
-Manaweave Boots - botania:manaweaveboots - 65 - null
-Manufactory Halo - botania:autocraftinghalo - 0 - null
-Gaia Guardian's Head - botania:gaiahead - 0 - null
-Worldshaper's Sextant - botania:sextant - 0 - null
-Planestrider's Sash - botania:speedupbelt - 0 - null
-Bauble Case - botania:baublebox - 0 - null
-Ring of Dexterous Motion - botania:dodgering - 0 - null
-Invisibility Cloak - botania:invisibilitycloak - 0 - null
-Cirrus Amulet - botania:cloudpendant - 0 - null
-Nimbus Amulet - botania:supercloudpendant - 0 - null
-Third Eye - botania:thirdeye - 0 - null
-Worldshaper's Astrolabe - botania:astrolabe - 0 - null
-Benevolent Goddess' Charm - botania:goddesscharm - 0 - null
 Capture Base - capsule:capsulemarker - 0 - null
 §rEmpty Capsule - capsule:capsule - 0 - null
 Unfired Clay Bucket - ceramics:unfired_clay - 0 - null
@@ -6121,16 +6121,16 @@ Heavy Oxygen Tank - extraplanets:oxygen_tank_heavy_full_magenta - 2700 - null
 Heavy Oxygen Tank - extraplanets:oxygen_tank_heavy_full_orange - 2700 - null
 Heavy Oxygen Tank - extraplanets:oxygen_tank_heavy_full_white - 2700 - null
 Debug Tool - zerocore:debugtool - 0 - null
-Yellorium Ingot - bigreactors:ingotyellorium - 0 - ingotUranium, ingotYellorium
+Yellorium Ingot - bigreactors:ingotyellorium - 0 - ingotYellorium
 Cyanite Ingot - bigreactors:ingotcyanite - 0 - ingotCyanite
 Graphite Bar - bigreactors:ingotgraphite - 0 - ingotGraphite
-Blutonium Ingot - bigreactors:ingotblutonium - 0 - ingotBlutonium, ingotPlutonium
+Blutonium Ingot - bigreactors:ingotblutonium - 0 - ingotBlutonium
 Ludicrite Ingot - bigreactors:ingotludicrite - 0 - ingotLudicrite
 Steel Ingot - bigreactors:ingotsteel - 0 - ingotSteel
-Yellorium Dust - bigreactors:dustyellorium - 0 - dustUranium, dustYellorium
+Yellorium Dust - bigreactors:dustyellorium - 0 - dustYellorium
 Cyanite Dust - bigreactors:dustcyanite - 0 - dustCyanite
 Graphite Dust - bigreactors:dustgraphite - 0 - dustGraphite
-Blutonium Dust - bigreactors:dustblutonium - 0 - dustPlutonium, dustBlutonium
+Blutonium Dust - bigreactors:dustblutonium - 0 - dustBlutonium
 Ludicrite Dust - bigreactors:dustludicrite - 0 - dustLudicrite
 Steel Dust - bigreactors:duststeel - 0 - dustSteel
 Anglesite (PbSO4) - bigreactors:mineralanglesite - 0 - null
@@ -6497,7 +6497,7 @@ Dragon Horn - iceandfire:dragon_horn_ice - 0 - null
 Dragon Bone Flute - iceandfire:dragon_flute - 0 - null
 Fire Dragon Summoning Crystal - iceandfire:summoning_crystal_fire - 0 - null
 Ice Dragon Summoning Crystal - iceandfire:summoning_crystal_ice - 0 - null
-Hippogryph Egg - iceandfire:hippogryph_egg - 0 - listAllEgg, objectEgg, bakingEgg, ingredientEgg, foodSimpleEgg, egg
+Hippogryph Egg - iceandfire:hippogryph_egg - 0 - ingredientEgg, foodSimpleEgg, egg, listAllEgg, objectEgg, bakingEgg
 Iron Hippogryph Armor - iceandfire:iron_hippogryph_armor - 0 - null
 Gold Hippogryph Armor - iceandfire:gold_hippogryph_armor - 0 - null
 Diamond Hippogryph Armor - iceandfire:diamond_hippogryph_armor - 0 - null
@@ -6534,7 +6534,7 @@ Red Death Worm Chitin Helmet - iceandfire:deathworm_red_helmet - 165 - null
 Red Death Worm Chitin Chestplate - iceandfire:deathworm_red_chestplate - 240 - null
 Red Death Worm Chitin Leggings - iceandfire:deathworm_red_leggings - 225 - null
 Red Death Worm Chitin Boots - iceandfire:deathworm_red_boots - 195 - null
-Death Worm Egg - iceandfire:iceandfire.deathworm_egg - 0 - listAllEgg, objectEgg, bakingEgg, ingredientEgg, foodSimpleEgg, egg
+Death Worm Egg - iceandfire:iceandfire.deathworm_egg - 0 - ingredientEgg, foodSimpleEgg, egg, listAllEgg, objectEgg, bakingEgg
 Death Worm Tongue - iceandfire:deathworm_tounge - 0 - null
 Death Worm Gauntlet - iceandfire:deathworm_gauntlet_yellow - 500 - null
 Death Worm Gauntlet - iceandfire:deathworm_gauntlet_white - 500 - null
@@ -6547,8 +6547,8 @@ Stymphalian Arrow - iceandfire:stymphalian_arrow - 0 - null
 Stymphalian Bird Feather Bundle - iceandfire:stymphalian_feather_bundle - 0 - null
 Stymphalian Bird Dagger - iceandfire:stymphalian_bird_dagger - 500 - null
 Troll Tusk - iceandfire:troll_tusk - 0 - null
-Desert Myrmex Egg - iceandfire:myrmex_desert_egg - 0 - listAllEgg, desertMyrmexEgg, objectEgg, bakingEgg, ingredientEgg, foodSimpleEgg, egg
-Jungle Myrmex Egg - iceandfire:myrmex_jungle_egg - 0 - listAllEgg, objectEgg, jungleMyrmexEgg, bakingEgg, ingredientEgg, foodSimpleEgg, egg
+Desert Myrmex Egg - iceandfire:myrmex_desert_egg - 0 - ingredientEgg, foodSimpleEgg, egg, listAllEgg, desertMyrmexEgg, objectEgg, bakingEgg
+Jungle Myrmex Egg - iceandfire:myrmex_jungle_egg - 0 - ingredientEgg, foodSimpleEgg, egg, listAllEgg, objectEgg, jungleMyrmexEgg, bakingEgg
 Desert Myrmex Resin Chunk - iceandfire:myrmex_desert_resin - 0 - null
 Jungle Myrmex Resin Chunk - iceandfire:myrmex_jungle_resin - 0 - null
 Desert Myrmex Chitin - iceandfire:myrmex_desert_chitin - 0 - null
@@ -7358,6 +7358,17 @@ Platinum Helmet - metallurgy:platinum_helmet - 187 - null
 Platinum Chestplate - metallurgy:platinum_chestplate - 272 - null
 Platinum Leggings - metallurgy:platinum_leggings - 255 - null
 Platinum Boots - metallurgy:platinum_boots - 221 - null
+Tin Ore - metallurgy:tin_ore - 0 - oreTin
+Tin Block - metallurgy:tin_block - 0 - blockTin
+Tin Engraved Block - metallurgy:tin_engraved_block - 0 - null
+Tin Large Bricks - metallurgy:tin_large_bricks - 0 - null
+Tin Bricks - metallurgy:tin_bricks - 0 - null
+Tin Crystals - metallurgy:tin_crystals - 0 - null
+Tin Hazard Block - metallurgy:tin_hazard_block - 0 - null
+Tin Reinforced Glass - metallurgy:tin_reinforced_glass - 0 - null
+Tin Ingot - metallurgy:tin_ingot - 0 - ingotTin
+Tin Dust - metallurgy:tin_dust - 0 - dustTin
+Tin Nugget - metallurgy:tin_nugget - 0 - nuggetTin
 Vulcanite Ore - metallurgy:vulcanite_ore - 0 - oreVulcanite
 Vulcanite Block - metallurgy:vulcanite_block - 0 - blockVulcanite
 Vulcanite Engraved Block - metallurgy:vulcanite_engraved_block - 0 - null
@@ -7378,17 +7389,6 @@ Vulcanite Helmet - metallurgy:vulcanite_helmet - 1650 - null
 Vulcanite Chestplate - metallurgy:vulcanite_chestplate - 2400 - null
 Vulcanite Leggings - metallurgy:vulcanite_leggings - 2250 - null
 Vulcanite Boots - metallurgy:vulcanite_boots - 1950 - null
-Tin Ore - metallurgy:tin_ore - 0 - oreTin
-Tin Block - metallurgy:tin_block - 0 - blockTin
-Tin Engraved Block - metallurgy:tin_engraved_block - 0 - null
-Tin Large Bricks - metallurgy:tin_large_bricks - 0 - null
-Tin Bricks - metallurgy:tin_bricks - 0 - null
-Tin Crystals - metallurgy:tin_crystals - 0 - null
-Tin Hazard Block - metallurgy:tin_hazard_block - 0 - null
-Tin Reinforced Glass - metallurgy:tin_reinforced_glass - 0 - null
-Tin Ingot - metallurgy:tin_ingot - 0 - ingotTin
-Tin Dust - metallurgy:tin_dust - 0 - dustTin
-Tin Nugget - metallurgy:tin_nugget - 0 - nuggetTin
 Ignatius Ore - metallurgy:ignatius_ore - 0 - oreIgnatius
 Ignatius Block - metallurgy:ignatius_block - 0 - blockIgnatius
 Ignatius Engraved Block - metallurgy:ignatius_engraved_block - 0 - null
@@ -7409,6 +7409,17 @@ Ignatius Helmet - metallurgy:ignatius_helmet - 264 - null
 Ignatius Chestplate - metallurgy:ignatius_chestplate - 384 - null
 Ignatius Leggings - metallurgy:ignatius_leggings - 360 - null
 Ignatius Boots - metallurgy:ignatius_boots - 312 - null
+Zinc Ore - metallurgy:zinc_ore - 0 - oreZinc
+Zinc Block - metallurgy:zinc_block - 0 - blockZinc
+Zinc Engraved Block - metallurgy:zinc_engraved_block - 0 - null
+Zinc Large Bricks - metallurgy:zinc_large_bricks - 0 - null
+Zinc Bricks - metallurgy:zinc_bricks - 0 - null
+Zinc Crystals - metallurgy:zinc_crystals - 0 - null
+Zinc Hazard Block - metallurgy:zinc_hazard_block - 0 - null
+Zinc Reinforced Glass - metallurgy:zinc_reinforced_glass - 0 - null
+Zinc Ingot - metallurgy:zinc_ingot - 0 - ingotZinc
+Zinc Dust - metallurgy:zinc_dust - 0 - dustZinc
+Zinc Nugget - metallurgy:zinc_nugget - 0 - nuggetZinc
 Etherium Block - metallurgy:etherium_block - 0 - blockEtherium
 Etherium Engraved Block - metallurgy:etherium_engraved_block - 0 - null
 Etherium Large Bricks - metallurgy:etherium_large_bricks - 0 - null
@@ -7428,17 +7439,6 @@ Etherium Helmet - metallurgy:etherium_helmet - 825 - null
 Etherium Chestplate - metallurgy:etherium_chestplate - 1200 - null
 Etherium Leggings - metallurgy:etherium_leggings - 1125 - null
 Etherium Boots - metallurgy:etherium_boots - 975 - null
-Zinc Ore - metallurgy:zinc_ore - 0 - oreZinc
-Zinc Block - metallurgy:zinc_block - 0 - blockZinc
-Zinc Engraved Block - metallurgy:zinc_engraved_block - 0 - null
-Zinc Large Bricks - metallurgy:zinc_large_bricks - 0 - null
-Zinc Bricks - metallurgy:zinc_bricks - 0 - null
-Zinc Crystals - metallurgy:zinc_crystals - 0 - null
-Zinc Hazard Block - metallurgy:zinc_hazard_block - 0 - null
-Zinc Reinforced Glass - metallurgy:zinc_reinforced_glass - 0 - null
-Zinc Ingot - metallurgy:zinc_ingot - 0 - ingotZinc
-Zinc Dust - metallurgy:zinc_dust - 0 - dustZinc
-Zinc Nugget - metallurgy:zinc_nugget - 0 - nuggetZinc
 Quicksilver Block - metallurgy:quicksilver_block - 0 - blockQuicksilver
 Quicksilver Engraved Block - metallurgy:quicksilver_engraved_block - 0 - null
 Quicksilver Large Bricks - metallurgy:quicksilver_large_bricks - 0 - null
@@ -7644,6 +7644,25 @@ Celenegil Helmet - metallurgy:celenegil_helmet - 1760 - null
 Celenegil Chestplate - metallurgy:celenegil_chestplate - 2560 - null
 Celenegil Leggings - metallurgy:celenegil_leggings - 2400 - null
 Celenegil Boots - metallurgy:celenegil_boots - 2080 - null
+Steel Block - metallurgy:steel_block - 0 - blockSteel
+Steel Engraved Block - metallurgy:steel_engraved_block - 0 - null
+Steel Large Bricks - metallurgy:steel_large_bricks - 0 - null
+Steel Bricks - metallurgy:steel_bricks - 0 - null
+Steel Crystals - metallurgy:steel_crystals - 0 - null
+Steel Hazard Block - metallurgy:steel_hazard_block - 0 - null
+Steel Reinforced Glass - metallurgy:steel_reinforced_glass - 0 - null
+Steel Ingot - metallurgy:steel_ingot - 0 - ingotSteel
+Steel Dust - metallurgy:steel_dust - 0 - dustSteel
+Steel Nugget - metallurgy:steel_nugget - 0 - nuggetSteel
+Steel Axe - metallurgy:steel_axe - 750 - null
+Steel Hoe - metallurgy:steel_hoe - 750 - null
+Steel Pickaxe - metallurgy:steel_pickaxe - 750 - null
+Steel Shovel - metallurgy:steel_shovel - 750 - null
+Steel Sword - metallurgy:steel_sword - 750 - null
+Steel Helmet - metallurgy:steel_helmet - 440 - null
+Steel Chestplate - metallurgy:steel_chestplate - 640 - null
+Steel Leggings - metallurgy:steel_leggings - 600 - null
+Steel Boots - metallurgy:steel_boots - 520 - null
 Shadow Iron Ore - metallurgy:shadow_iron_ore - 0 - oreShadowIron
 Shadow Iron Block - metallurgy:shadow_iron_block - 0 - blockShadowIron
 Shadow Iron Engraved Block - metallurgy:shadow_iron_engraved_block - 0 - null
@@ -7664,45 +7683,6 @@ Shadow Iron Helmet - metallurgy:shadow_iron_helmet - 352 - null
 Shadow Iron Chestplate - metallurgy:shadow_iron_chestplate - 512 - null
 Shadow Iron Leggings - metallurgy:shadow_iron_leggings - 480 - null
 Shadow Iron Boots - metallurgy:shadow_iron_boots - 416 - null
-Steel Block - metallurgy:steel_block - 0 - blockSteel
-Steel Engraved Block - metallurgy:steel_engraved_block - 0 - null
-Steel Large Bricks - metallurgy:steel_large_bricks - 0 - null
-Steel Bricks - metallurgy:steel_bricks - 0 - null
-Steel Crystals - metallurgy:steel_crystals - 0 - null
-Steel Hazard Block - metallurgy:steel_hazard_block - 0 - null
-Steel Reinforced Glass - metallurgy:steel_reinforced_glass - 0 - null
-Steel Ingot - metallurgy:steel_ingot - 0 - ingotSteel
-Steel Dust - metallurgy:steel_dust - 0 - dustSteel
-Steel Nugget - metallurgy:steel_nugget - 0 - nuggetSteel
-Steel Axe - metallurgy:steel_axe - 750 - null
-Steel Hoe - metallurgy:steel_hoe - 750 - null
-Steel Pickaxe - metallurgy:steel_pickaxe - 750 - null
-Steel Shovel - metallurgy:steel_shovel - 750 - null
-Steel Sword - metallurgy:steel_sword - 750 - null
-Steel Helmet - metallurgy:steel_helmet - 440 - null
-Steel Chestplate - metallurgy:steel_chestplate - 640 - null
-Steel Leggings - metallurgy:steel_leggings - 600 - null
-Steel Boots - metallurgy:steel_boots - 520 - null
-Carmot Ore - metallurgy:carmot_ore - 0 - oreCarmot
-Carmot Block - metallurgy:carmot_block - 0 - blockCarmot
-Carmot Engraved Block - metallurgy:carmot_engraved_block - 0 - null
-Carmot Large Bricks - metallurgy:carmot_large_bricks - 0 - null
-Carmot Bricks - metallurgy:carmot_bricks - 0 - null
-Carmot Crystals - metallurgy:carmot_crystals - 0 - null
-Carmot Hazard Block - metallurgy:carmot_hazard_block - 0 - null
-Carmot Reinforced Glass - metallurgy:carmot_reinforced_glass - 0 - null
-Carmot Ingot - metallurgy:carmot_ingot - 0 - ingotCarmot
-Carmot Dust - metallurgy:carmot_dust - 0 - dustCarmot
-Carmot Nugget - metallurgy:carmot_nugget - 0 - nuggetCarmot
-Carmot Axe - metallurgy:carmot_axe - 500 - null
-Carmot Hoe - metallurgy:carmot_hoe - 500 - null
-Carmot Pickaxe - metallurgy:carmot_pickaxe - 500 - null
-Carmot Shovel - metallurgy:carmot_shovel - 500 - null
-Carmot Sword - metallurgy:carmot_sword - 500 - null
-Carmot Helmet - metallurgy:carmot_helmet - 308 - null
-Carmot Chestplate - metallurgy:carmot_chestplate - 448 - null
-Carmot Leggings - metallurgy:carmot_leggings - 420 - null
-Carmot Boots - metallurgy:carmot_boots - 364 - null
 Mithril Ore - metallurgy:mithril_ore - 0 - oreMithril
 Mithril Block - metallurgy:mithril_block - 0 - blockMithril
 Mithril Engraved Block - metallurgy:mithril_engraved_block - 0 - null
@@ -7723,6 +7703,26 @@ Mithril Helmet - metallurgy:mithril_helmet - 231 - null
 Mithril Chestplate - metallurgy:mithril_chestplate - 336 - null
 Mithril Leggings - metallurgy:mithril_leggings - 315 - null
 Mithril Boots - metallurgy:mithril_boots - 273 - null
+Carmot Ore - metallurgy:carmot_ore - 0 - oreCarmot
+Carmot Block - metallurgy:carmot_block - 0 - blockCarmot
+Carmot Engraved Block - metallurgy:carmot_engraved_block - 0 - null
+Carmot Large Bricks - metallurgy:carmot_large_bricks - 0 - null
+Carmot Bricks - metallurgy:carmot_bricks - 0 - null
+Carmot Crystals - metallurgy:carmot_crystals - 0 - null
+Carmot Hazard Block - metallurgy:carmot_hazard_block - 0 - null
+Carmot Reinforced Glass - metallurgy:carmot_reinforced_glass - 0 - null
+Carmot Ingot - metallurgy:carmot_ingot - 0 - ingotCarmot
+Carmot Dust - metallurgy:carmot_dust - 0 - dustCarmot
+Carmot Nugget - metallurgy:carmot_nugget - 0 - nuggetCarmot
+Carmot Axe - metallurgy:carmot_axe - 500 - null
+Carmot Hoe - metallurgy:carmot_hoe - 500 - null
+Carmot Pickaxe - metallurgy:carmot_pickaxe - 500 - null
+Carmot Shovel - metallurgy:carmot_shovel - 500 - null
+Carmot Sword - metallurgy:carmot_sword - 500 - null
+Carmot Helmet - metallurgy:carmot_helmet - 308 - null
+Carmot Chestplate - metallurgy:carmot_chestplate - 448 - null
+Carmot Leggings - metallurgy:carmot_leggings - 420 - null
+Carmot Boots - metallurgy:carmot_boots - 364 - null
 Ceruclase Ore - metallurgy:ceruclase_ore - 0 - oreCeruclase
 Ceruclase Block - metallurgy:ceruclase_block - 0 - blockCeruclase
 Ceruclase Engraved Block - metallurgy:ceruclase_engraved_block - 0 - null
@@ -7950,6 +7950,25 @@ Atlarus Helmet - metallurgy:atlarus_helmet - 385 - null
 Atlarus Chestplate - metallurgy:atlarus_chestplate - 560 - null
 Atlarus Leggings - metallurgy:atlarus_leggings - 525 - null
 Atlarus Boots - metallurgy:atlarus_boots - 455 - null
+Black Steel Block - metallurgy:black_steel_block - 0 - blockBlackSteel
+Black Steel Engraved Block - metallurgy:black_steel_engraved_block - 0 - null
+Black Steel Large Bricks - metallurgy:black_steel_large_bricks - 0 - null
+Black Steel Bricks - metallurgy:black_steel_bricks - 0 - null
+Black Steel Crystals - metallurgy:black_steel_crystals - 0 - null
+Black Steel Hazard Block - metallurgy:black_steel_hazard_block - 0 - null
+Black Steel Reinforced Glass - metallurgy:black_steel_reinforced_glass - 0 - null
+Black Steel Ingot - metallurgy:black_steel_ingot - 0 - ingotBlackSteel
+Black Steel Dust - metallurgy:black_steel_dust - 0 - dustBlackSteel
+Black Steel Nugget - metallurgy:black_steel_nugget - 0 - nuggetBlackSteel
+Black Steel Axe - metallurgy:black_steel_axe - 500 - null
+Black Steel Hoe - metallurgy:black_steel_hoe - 500 - null
+Black Steel Pickaxe - metallurgy:black_steel_pickaxe - 500 - null
+Black Steel Shovel - metallurgy:black_steel_shovel - 500 - null
+Black Steel Sword - metallurgy:black_steel_sword - 500 - null
+Black Steel Helmet - metallurgy:black_steel_helmet - 550 - null
+Black Steel Chestplate - metallurgy:black_steel_chestplate - 800 - null
+Black Steel Leggings - metallurgy:black_steel_leggings - 750 - null
+Black Steel Boots - metallurgy:black_steel_boots - 650 - null
 Vyroxeres Ore - metallurgy:vyroxeres_ore - 0 - oreVyroxeres
 Vyroxeres Block - metallurgy:vyroxeres_block - 0 - blockVyroxeres
 Vyroxeres Engraved Block - metallurgy:vyroxeres_engraved_block - 0 - null
@@ -7970,25 +7989,6 @@ Vyroxeres Helmet - metallurgy:vyroxeres_helmet - 407 - null
 Vyroxeres Chest - metallurgy:vyroxeres_chestplate - 592 - null
 Vyroxeres Leggings - metallurgy:vyroxeres_leggings - 555 - null
 Vyroxeres Boots - metallurgy:vyroxeres_boots - 481 - null
-Black Steel Block - metallurgy:black_steel_block - 0 - blockBlackSteel
-Black Steel Engraved Block - metallurgy:black_steel_engraved_block - 0 - null
-Black Steel Large Bricks - metallurgy:black_steel_large_bricks - 0 - null
-Black Steel Bricks - metallurgy:black_steel_bricks - 0 - null
-Black Steel Crystals - metallurgy:black_steel_crystals - 0 - null
-Black Steel Hazard Block - metallurgy:black_steel_hazard_block - 0 - null
-Black Steel Reinforced Glass - metallurgy:black_steel_reinforced_glass - 0 - null
-Black Steel Ingot - metallurgy:black_steel_ingot - 0 - ingotBlackSteel
-Black Steel Dust - metallurgy:black_steel_dust - 0 - dustBlackSteel
-Black Steel Nugget - metallurgy:black_steel_nugget - 0 - nuggetBlackSteel
-Black Steel Axe - metallurgy:black_steel_axe - 500 - null
-Black Steel Hoe - metallurgy:black_steel_hoe - 500 - null
-Black Steel Pickaxe - metallurgy:black_steel_pickaxe - 500 - null
-Black Steel Shovel - metallurgy:black_steel_shovel - 500 - null
-Black Steel Sword - metallurgy:black_steel_sword - 500 - null
-Black Steel Helmet - metallurgy:black_steel_helmet - 550 - null
-Black Steel Chestplate - metallurgy:black_steel_chestplate - 800 - null
-Black Steel Leggings - metallurgy:black_steel_leggings - 750 - null
-Black Steel Boots - metallurgy:black_steel_boots - 650 - null
 Lutetium Ore - metallurgy:lutetium_ore - 0 - oreLutetium
 Lutetium Block - metallurgy:lutetium_block - 0 - blockLutetium
 Lutetium Engraved Block - metallurgy:lutetium_engraved_block - 0 - null
@@ -8401,7 +8401,7 @@ Witch Essence - mysticalcreations:witch_essence - 0 - null
 Witch Seeds - mysticalcreations:witch_seeds - 0 - null
 Witch Chunk - mysticalcreations:witch_chunk - 0 - null
 Cloud - natura:clouds - 0 - null
-Barley - natura:materials - 0 - listAllgrain, cropBarley
+Barley - natura:materials - 0 - cropBarley, listAllgrain
 Empty Ghostwood Bowl - natura:empty_bowls - 0 - bowlWood
 Raw Imphide - natura:edibles - 0 - null
 Mushroom Stew - natura:soups - 0 - null
@@ -8467,7 +8467,7 @@ Ghostwood Slab - natura:nether_slab - 0 - slabWood
 Heat Sand - natura:nether_heat_sand - 0 - null
 Tainted Soil - natura:nether_tainted_soil - 0 - taintedSoil
 Thornvines - natura:nether_thorn_vines - 0 - cropVine
-Soul Glass - natura:nether_glass - 0 - glass, glassSoul
+Soul Glass - natura:nether_glass - 0 - glassSoul, glass
 Ghostwood Stairs - natura:nether_stairs_ghostwood - 0 - stairWood
 Blood Stairs - natura:nether_stairs_bloodwood - 0 - stairWood
 Darkwood Stairs - natura:nether_stairs_darkwood - 0 - stairWood
@@ -8542,7 +8542,7 @@ Redwood Trap Door - natura:redwood_trap_door - 0 - null
 Redwood Fence - natura:redwood_fence - 0 - null
 Redwood Fence Gate - natura:redwood_fence_gate - 0 - null
 Maple Bookshelf - natura:overworld_bookshelves - 0 - bookshelf
-Maple Workbench - natura:overworld_workbenches - 0 - crafterWood, craftingTableWood
+Maple Workbench - natura:overworld_workbenches - 0 - craftingTableWood, crafterWood
 Ghostwood Button - natura:ghostwood_button - 0 - null
 Ghostwood Pressure Plate - natura:ghostwood_pressure_plate - 0 - null
 Ghostwood Trap Door - natura:ghostwood_trap_door - 0 - null
@@ -8564,7 +8564,7 @@ Darkwood Trap Door - natura:darkwood_trap_door - 0 - null
 Darkwood Fence - natura:darkwood_fence - 0 - null
 Darkwood Fence Gate - natura:darkwood_fence_gate - 0 - null
 Ghostwood Bookshelf - natura:nether_bookshelves - 0 - bookshelf
-Ghostwood Workbench - natura:nether_workbenches - 0 - crafterWood, craftingTableWood
+Ghostwood Workbench - natura:nether_workbenches - 0 - craftingTableWood, crafterWood
 Impskin Helmet - natura:imp_armor_helmet - 363 - null
 Impskin Jerkin - natura:imp_armor_chestplate - 528 - null
 Impskin Leggings - natura:imp_armor_leggings - 495 - null
@@ -8599,6 +8599,60 @@ Quartz Shovel - natura:netherquartz_shovel - 131 - null
 Quartz Hatchet - natura:netherquartz_axe - 131 - null
 Quartz Kama - natura:netherquartz_kama - 131 - null
 Flint and Blaze - natura:flint_and_blaze - 64 - null
+Gloomy Nether Brick - netherex:gloomy_netherbrick - 0 - ingotBrickNether
+Lively Nether Brick - netherex:lively_netherbrick - 0 - ingotBrickNether
+Fiery Nether Brick - netherex:fiery_netherbrick - 0 - ingotBrickNether
+Icy Nether Brick - netherex:icy_netherbrick - 0 - ingotBrickNether
+Wither Bone - netherex:wither_bone - 0 - boneWithered
+Wither Dust - netherex:wither_dust - 0 - dyeBlack
+Frost Rod - netherex:frost_rod - 0 - null
+Frost Powder - netherex:frost_powder - 0 - null
+Blazed Wither Bone - netherex:blazed_wither_bone - 0 - boneWitheredBlazed
+Frosted Wither Bone - netherex:frosted_wither_bone - 0 - boneWitheredFrosted
+Orange Salamander Hide - netherex:orange_salamander_hide - 0 - null
+Black Salamander Hide - netherex:black_salamander_hide - 0 - null
+Nether Amethyst Crystal - netherex:amethyst_crystal - 0 - gemAmethyst
+Nether Rime Crystal - netherex:rime_crystal - 0 - gemRime
+Rime and Steel - netherex:rime_and_steel - 64 - null
+Spore - netherex:spore - 0 - null
+Frost Fang - netherex:coolmar_spider_fang - 0 - null
+Ghast Queen Tears - netherex:ghast_queen_tear - 0 - null
+Obsidian Boat - netherex:obsidian_boat - 0 - null
+Raw Ghast Meat - netherex:ghast_meat_raw - 0 - listAllmeatraw, listAllghastraw, foodMeats
+Cooked Ghast Meat - netherex:ghast_meat_cooked - 0 - listAllmeatcooked, foodMeats, listAllghastcooked
+Congealed Magma Cream - netherex:congealed_magma_cream - 0 - foodCongealedmagmacream
+Enoki Mushroom - netherex:enoki_mushroom - 0 - mushroomAny, listAllmushroom, listAllveggie, cropEnokimushroom
+Dull Mirror - netherex:dull_mirror - 6 - null
+Withered Amedian Sword - netherex:withered_amedian_sword - 2250 - null
+Withered Amedian Pickaxe - netherex:withered_amedian_pickaxe - 2250 - null
+Withered Amedian Shovel - netherex:withered_amedian_shovel - 2250 - null
+Withered Amedian Axe - netherex:withered_amedian_axe - 2250 - null
+Withered Amedian Hoe - netherex:withered_amedian_hoe - 2250 - null
+Withered Amedian Hammer - netherex:withered_amedian_hammer - 2250 - null
+Blazed Amedian Sword - netherex:blazed_amedian_sword - 2250 - null
+Blazed Amedian Pickaxe - netherex:blazed_amedian_pickaxe - 2250 - null
+Blazed Amedian Shovel - netherex:blazed_amedian_shovel - 2250 - null
+Blazed Amedian Axe - netherex:blazed_amedian_axe - 2250 - null
+Blazed Amedian Hoe - netherex:blazed_amedian_hoe - 2250 - null
+Blazed Amedian Hammer - netherex:blazed_amedian_hammer - 2250 - null
+Frosted Amedian Sword - netherex:frosted_amedian_sword - 2250 - null
+Frosted Amedian Pickaxe - netherex:frosted_amedian_pickaxe - 2250 - null
+Frosted Amedian Shovel - netherex:frosted_amedian_shovel - 2250 - null
+Frosted Amedian Axe - netherex:frosted_amedian_axe - 2250 - null
+Frosted Amedian Hoe - netherex:frosted_amedian_hoe - 2250 - null
+Frosted Amedian Hammer - netherex:frosted_amedian_hammer - 2250 - null
+Wither Bone Helmet - netherex:wither_bone_helmet - 88 - null
+Wither Bone Chestplate - netherex:wither_bone_chestplate - 128 - null
+Wither Bone Leggings - netherex:wither_bone_leggings - 120 - null
+Wither Bone Boots - netherex:wither_bone_boots - 104 - null
+Orange Salamander Hide Helmet - netherex:orange_salamander_hide_helmet - 110 - null
+Orange Salamander Hide Chestplate - netherex:orange_salamander_hide_chestplate - 160 - null
+Orange Salamander Hide Leggings - netherex:orange_salamander_hide_leggings - 150 - null
+Orange Salamander Hide Boots - netherex:orange_salamander_hide_boots - 130 - null
+Black Salamander Hide Helmet - netherex:black_salamander_hide_helmet - 110 - null
+Black Salamander Hide Chestplate - netherex:black_salamander_hide_chestplate - 160 - null
+Black Salamander Hide Leggings - netherex:black_salamander_hide_leggings - 150 - null
+Black Salamander Hide Boots - netherex:black_salamander_hide_boots - 130 - null
 Gloomy Netherrack - netherex:gloomy_netherrack - 0 - netherrack
 Lively Netherrack - netherex:lively_netherrack - 0 - netherrack
 Fiery Netherrack - netherex:fiery_netherrack - 0 - netherrack
@@ -8614,8 +8668,8 @@ Fiery Nether Bricks - netherex:fiery_nether_brick - 0 - blockBrickNether, blockN
 Icy Nether Bricks - netherex:icy_nether_brick - 0 - blockBrickNether, blockNetherBrick
 Basalt - netherex:basalt - 0 - stoneBasalt
 Smooth Basalt - netherex:smooth_basalt - 0 - stoneBasalt, stoneBasaltPolished
-Basalt Bricks - netherex:basalt_brick - 0 - stoneBasalt, stoneBasaltBrick
-Basalt Pillar - netherex:basalt_pillar - 0 - stoneBasalt, stoneBasaltBrick
+Basalt Bricks - netherex:basalt_brick - 0 - stoneBasaltBrick, stoneBasalt
+Basalt Pillar - netherex:basalt_pillar - 0 - stoneBasaltBrick, stoneBasalt
 Hyphae - netherex:hyphae - 0 - null
 Frostburn Ice - netherex:frostburn_ice - 0 - blockIce
 Soul Glass - netherex:soul_glass - 0 - blockGlass
@@ -8688,60 +8742,6 @@ Gloomy Nether Brick Fence Gate - netherex:gloomy_nether_brick_fence_gate - 0 - n
 Lively Nether Brick Fence Gate - netherex:lively_nether_brick_fence_gate - 0 - null
 Fiery Nether Brick Fence Gate - netherex:fiery_nether_brick_fence_gate - 0 - null
 Icy Nether Brick Fence Gate - netherex:icy_nether_brick_fence_gate - 0 - null
-Gloomy Nether Brick - netherex:gloomy_netherbrick - 0 - ingotBrickNether
-Lively Nether Brick - netherex:lively_netherbrick - 0 - ingotBrickNether
-Fiery Nether Brick - netherex:fiery_netherbrick - 0 - ingotBrickNether
-Icy Nether Brick - netherex:icy_netherbrick - 0 - ingotBrickNether
-Wither Bone - netherex:wither_bone - 0 - boneWithered
-Wither Dust - netherex:wither_dust - 0 - dyeBlack
-Frost Rod - netherex:frost_rod - 0 - null
-Frost Powder - netherex:frost_powder - 0 - null
-Blazed Wither Bone - netherex:blazed_wither_bone - 0 - boneWitheredBlazed
-Frosted Wither Bone - netherex:frosted_wither_bone - 0 - boneWitheredFrosted
-Orange Salamander Hide - netherex:orange_salamander_hide - 0 - null
-Black Salamander Hide - netherex:black_salamander_hide - 0 - null
-Nether Amethyst Crystal - netherex:amethyst_crystal - 0 - gemAmethyst
-Nether Rime Crystal - netherex:rime_crystal - 0 - gemRime
-Rime and Steel - netherex:rime_and_steel - 64 - null
-Spore - netherex:spore - 0 - null
-Frost Fang - netherex:coolmar_spider_fang - 0 - null
-Ghast Queen Tears - netherex:ghast_queen_tear - 0 - null
-Obsidian Boat - netherex:obsidian_boat - 0 - null
-Raw Ghast Meat - netherex:ghast_meat_raw - 0 - listAllghastraw, foodMeats, listAllmeatraw
-Cooked Ghast Meat - netherex:ghast_meat_cooked - 0 - foodMeats, listAllghastcooked, listAllmeatcooked
-Congealed Magma Cream - netherex:congealed_magma_cream - 0 - foodCongealedmagmacream
-Enoki Mushroom - netherex:enoki_mushroom - 0 - mushroomAny, cropEnokimushroom, listAllmushroom, listAllveggie
-Dull Mirror - netherex:dull_mirror - 6 - null
-Withered Amedian Sword - netherex:withered_amedian_sword - 2250 - null
-Withered Amedian Pickaxe - netherex:withered_amedian_pickaxe - 2250 - null
-Withered Amedian Shovel - netherex:withered_amedian_shovel - 2250 - null
-Withered Amedian Axe - netherex:withered_amedian_axe - 2250 - null
-Withered Amedian Hoe - netherex:withered_amedian_hoe - 2250 - null
-Withered Amedian Hammer - netherex:withered_amedian_hammer - 2250 - null
-Blazed Amedian Sword - netherex:blazed_amedian_sword - 2250 - null
-Blazed Amedian Pickaxe - netherex:blazed_amedian_pickaxe - 2250 - null
-Blazed Amedian Shovel - netherex:blazed_amedian_shovel - 2250 - null
-Blazed Amedian Axe - netherex:blazed_amedian_axe - 2250 - null
-Blazed Amedian Hoe - netherex:blazed_amedian_hoe - 2250 - null
-Blazed Amedian Hammer - netherex:blazed_amedian_hammer - 2250 - null
-Frosted Amedian Sword - netherex:frosted_amedian_sword - 2250 - null
-Frosted Amedian Pickaxe - netherex:frosted_amedian_pickaxe - 2250 - null
-Frosted Amedian Shovel - netherex:frosted_amedian_shovel - 2250 - null
-Frosted Amedian Axe - netherex:frosted_amedian_axe - 2250 - null
-Frosted Amedian Hoe - netherex:frosted_amedian_hoe - 2250 - null
-Frosted Amedian Hammer - netherex:frosted_amedian_hammer - 2250 - null
-Wither Bone Helmet - netherex:wither_bone_helmet - 88 - null
-Wither Bone Chestplate - netherex:wither_bone_chestplate - 128 - null
-Wither Bone Leggings - netherex:wither_bone_leggings - 120 - null
-Wither Bone Boots - netherex:wither_bone_boots - 104 - null
-Orange Salamander Hide Helmet - netherex:orange_salamander_hide_helmet - 110 - null
-Orange Salamander Hide Chestplate - netherex:orange_salamander_hide_chestplate - 160 - null
-Orange Salamander Hide Leggings - netherex:orange_salamander_hide_leggings - 150 - null
-Orange Salamander Hide Boots - netherex:orange_salamander_hide_boots - 130 - null
-Black Salamander Hide Helmet - netherex:black_salamander_hide_helmet - 110 - null
-Black Salamander Hide Chestplate - netherex:black_salamander_hide_chestplate - 160 - null
-Black Salamander Hide Leggings - netherex:black_salamander_hide_leggings - 150 - null
-Black Salamander Hide Boots - netherex:black_salamander_hide_boots - 130 - null
 Small Yurt - yurtmod:tent - 0 - null
 Mallet - yurtmod:mallet - 250 - null
 Super Tent Mallet - yurtmod:super_mallet - 1561 - null
@@ -8837,14 +8837,14 @@ Brown Shamiyana Wall (Cosmetic) - yurtmod:cos_shamiana_brown - 0 - null
 Green Shamiyana Wall (Cosmetic) - yurtmod:cos_shamiana_green - 0 - null
 Red Shamiyana Wall (Cosmetic) - yurtmod:cos_shamiana_red - 0 - null
 Black Shamiyana Wall (Cosmetic) - yurtmod:cos_shamiana_black - 0 - null
-Mirion Nugget - plustic:mirionnugget - 0 - nuggetMirion
-Mirion Ingot - plustic:mirioningot - 0 - ingotMirion
-Mirion Block - plustic:mirionblock - 0 - blockMirion
 Pipe Piece - plustic:pipe_piece - 0 - null
 Laser Medium - plustic:laser_medium - 0 - null
 Battery Cell - plustic:battery_cell - 0 - null
 Laser Gun - plustic:laser_gun - 0 - null
 Katana - plustic:katana - 0 - null
+Mirion Nugget - plustic:mirionnugget - 0 - nuggetMirion
+Mirion Ingot - plustic:mirioningot - 0 - ingotMirion
+Mirion Block - plustic:mirionblock - 0 - blockMirion
 Tome of Alkahestry - xreliquary:alkahestry_tome - 1001 - null
 Rib Bone - xreliquary:mob_ingredient - 0 - null
 Cross of Mercy - xreliquary:mercy_cross - 64 - null
@@ -9666,8 +9666,8 @@ Large Storage Crate - actuallyadditions:block_giant_chest_large - 0 - null
 Crusher - actuallyadditions:block_grinder - 0 - null
 Double Crusher - actuallyadditions:block_grinder_double - 0 - null
 Powered Furnace - actuallyadditions:block_furnace_double - 0 - null
-ESD (Ending Serious Daughter) - actuallyadditions:block_inputter - 0 - null
-Advanced ESD (Expelling Sugar Dagger) - actuallyadditions:block_inputter_advanced - 0 - null
+ESD (Efficient Sucking Dilettant) - actuallyadditions:block_inputter - 0 - null
+Advanced ESD (Energy Stuff Distributor) - actuallyadditions:block_inputter_advanced - 0 - null
 Fishing Net - actuallyadditions:block_fishing_net - 0 - null
 Solar Panel - actuallyadditions:block_furnace_solar - 0 - null
 Heat Collector - actuallyadditions:block_heat_collector - 0 - null
@@ -9859,7 +9859,7 @@ Aether Dirt - aether_legacy:aether_dirt - 0 - null
 Holystone - aether_legacy:holystone - 0 - holystone
 Mossy Holystone - aether_legacy:mossy_holystone - 0 - null
 Holystone Brick - aether_legacy:holystone_brick - 0 - null
-Cold Aercloud - aether_legacy:aercloud - 0 - aercloud, aercloudCold
+Cold Aercloud - aether_legacy:aercloud - 0 - aercloudCold, aercloud
 Quicksoil - aether_legacy:quicksoil - 0 - null
 Icestone - aether_legacy:icestone - 0 - icestone
 Ambrosium Ore - aether_legacy:ambrosium_ore - 0 - oreAmbrosium
@@ -9882,8 +9882,8 @@ Carved Stone - aether_legacy:locked_dungeon_block - 0 - null
 Carved Stone - aether_legacy:dungeon_trap - 0 - null
 Aether Portal - aether_legacy:aether_portal - 0 - null
 Ambrosium Torch - aether_legacy:ambrosium_torch - 0 - torch
-Chest Mimic - aether_legacy:chest_mimic - 0 - chestMimic, chest, chestWood
-Treasure Chest - aether_legacy:treasure_chest - 0 - chestTreasure, chest
+Chest Mimic - aether_legacy:chest_mimic - 0 - chest, chestWood, chestMimic
+Treasure Chest - aether_legacy:treasure_chest - 0 - chest, chestTreasure
 Purple Flower - aether_legacy:purple_flower - 0 - null
 White Flower - aether_legacy:white_flower - 0 - null
 Skyroot Sapling - aether_legacy:skyroot_sapling - 0 - treeSapling
@@ -9932,7 +9932,7 @@ Zanite Gemstone - aether_legacy:zanite_gemstone - 0 - gemZanite
 Ambrosium Shard - aether_legacy:ambrosium_shard - 0 - gemAmbrosium
 Golden Amber - aether_legacy:golden_amber - 0 - gemGoldenAmber
 Aechor Petal - aether_legacy:aechor_petal - 0 - null
-Swet Ball - aether_legacy:swetty_ball - 0 - slimeballSwet, slimeball
+Swet Ball - aether_legacy:swetty_ball - 0 - slimeball, slimeballSwet
 Skyroot Pickaxe - aether_legacy:skyroot_pickaxe - 59 - null
 Skyroot Axe - aether_legacy:skyroot_axe - 59 - null
 Skyroot Shovel - aether_legacy:skyroot_shovel - 59 - null
@@ -9982,7 +9982,7 @@ Ginger Bread Man - aether_legacy:ginger_bread_man - 0 - null
 Skyroot Stick - aether_legacy:skyroot_stick - 0 - stickSkyroot, stickWood
 Victory Medal - aether_legacy:victory_medal - 0 - null
 Bronze Key - aether_legacy:dungeon_key - 0 - null
-Skyroot Bucket - aether_legacy:skyroot_bucket - 0 - milkBucket, listAllmilk
+Skyroot Bucket - aether_legacy:skyroot_bucket - 0 - listAllmilk, milkBucket
 Cold Parachute - aether_legacy:cold_parachute - 20 - null
 Golden Parachute - aether_legacy:golden_parachute - 20 - null
 item.moa_egg - aether_legacy:moa_egg - 0 - listAllegg, egg
@@ -10047,7 +10047,7 @@ Skyroot Bed - aether_legacy:skyroot_bed_item - 0 - null
 Aether Portal Frame - aether_legacy:aether_portal_frame - 0 - null
 Skyroot Crafting Table - aether_legacy:skyroot_crafting_table - 0 - workbench
 Skyroot Chest - aether_legacy:skyroot_chest - 0 - chest, chestWood
-Aetherion Chest - aether_legacy:aetherion_chest - 0 - chestAetherion, chest
+Aetherion Chest - aether_legacy:aetherion_chest - 0 - chest, chestAetherion
 Skyroot Ladder - aether_legacy:skyroot_ladder - 0 - null
 Quicksoil Glass Pane - aether_legacy:quicksoil_glass_pane - 0 - paneGlass
 Zanite Bars - aether_legacy:zanite_bars - 0 - null
@@ -10162,6 +10162,77 @@ Stone Wand - betterbuilderswands:wandstone - 131 - null
 Iron Wand - betterbuilderswands:wandiron - 250 - null
 Diamond Wand - betterbuilderswands:wanddiamond - 1561 - null
 Unbreakable Wand - betterbuilderswands:wandunbreakable - 0 - null
+tile.contenttweaker.uru_block.name - contenttweaker:uru_block - 0 - null
+item.contenttweaker.metallic_red_matter_ingot.name - contenttweaker:metallic_red_matter_ingot - 0 - null
+§6Fluxed Electrum Singularity§r - contenttweaker:fluxed_electrum_singularity - 0 - null
+item.contenttweaker.gilded_netherite_nugget.name - contenttweaker:gilded_netherite_nugget - 0 - null
+tile.contenttweaker.vibranium_block.name - contenttweaker:vibranium_block - 0 - null
+item.contenttweaker.tromero_nugget.name - contenttweaker:tromero_nugget - 0 - null
+item.contenttweaker.pure_evil_dust.name - contenttweaker:pure_evil_dust - 0 - null
+item.contenttweaker.intertium_nugget.name - contenttweaker:intertium_nugget - 0 - null
+item.contenttweaker.adamantium_nugget.name - contenttweaker:adamantium_nugget - 0 - null
+tile.contenttweaker.unstable_block.name - contenttweaker:unstable_block - 0 - null
+item.contenttweaker.mega_alloy_ingot.name - contenttweaker:mega_alloy_ingot - 0 - nuggetMegaAlloy
+item.contenttweaker.uru_dust.name - contenttweaker:uru_dust - 0 - null
+Neutron Sponge - contenttweaker:neutron_sponge - 0 - null
+item.contenttweaker.gilded_netherite_dust.name - contenttweaker:gilded_netherite_dust - 0 - null
+item.contenttweaker.adamantium_ingot.name - contenttweaker:adamantium_ingot - 0 - null
+item.contenttweaker.wavic_nugget.name - contenttweaker:wavic_nugget - 0 - null
+item.contenttweaker.vibranium_ingot.name - contenttweaker:vibranium_ingot - 0 - null
+item.contenttweaker.dwarf_star_alloy_dust.name - contenttweaker:dwarf_star_alloy_dust - 0 - null
+tile.contenttweaker.gold_titanium_alloy_block.name - contenttweaker:gold_titanium_alloy_block - 0 - null
+Singularity Matrix Tier 8 - contenttweaker:singularity_matrix_8 - 0 - null
+Singularity Matrix Tier 9 - contenttweaker:singularity_matrix_9 - 0 - null
+Singularity Matrix Tier 6 - contenttweaker:singularity_matrix_6 - 0 - null
+Singularity Matrix Tier 7 - contenttweaker:singularity_matrix_7 - 0 - null
+item.contenttweaker.uru_ingot.name - contenttweaker:uru_ingot - 0 - null
+item.contenttweaker.gold_titanium_alloy_dust.name - contenttweaker:gold_titanium_alloy_dust - 0 - null
+item.contenttweaker.dwarf_star_alloy_ingot.name - contenttweaker:dwarf_star_alloy_ingot - 0 - null
+item.contenttweaker.unstable_dust.name - contenttweaker:unstable_dust - 0 - null
+Inactive Infinity Essence - contenttweaker:inactive_infinity_catalyst - 0 - null
+item.contenttweaker.intertium_ingot.name - contenttweaker:intertium_ingot - 0 - null
+item.contenttweaker.intertium_dust.name - contenttweaker:intertium_dust - 0 - null
+item.contenttweaker.vibranium_dust.name - contenttweaker:vibranium_dust - 0 - null
+item.contenttweaker.uru_nugget.name - contenttweaker:uru_nugget - 0 - null
+item.contenttweaker.adamantium_dust.name - contenttweaker:adamantium_dust - 0 - null
+item.contenttweaker.awakened_nugget.name - contenttweaker:awakened_nugget - 0 - null
+Block of Pulsaton - contenttweaker:pulsating_block - 0 - null
+tile.contenttweaker.dwarf_star_alloy_block.name - contenttweaker:dwarf_star_alloy_block - 0 - null
+item.contenttweaker.tromero_dust.name - contenttweaker:tromero_dust - 0 - null
+tile.contenttweaker.wavic_block.name - contenttweaker:wavic_block - 0 - null
+tile.contenttweaker.awakened_block.name - contenttweaker:awakened_block - 0 - null
+item.contenttweaker.koinos_dust.name - contenttweaker:koinos_dust - 0 - null
+item.contenttweaker.dwarf_star_alloy_nugget.name - contenttweaker:dwarf_star_alloy_nugget - 0 - null
+tile.contenttweaker.gilded_netherite_block.name - contenttweaker:gilded_netherite_block - 0 - null
+§6Glowing Iron Singularity§r - contenttweaker:glowing_iron_singularity - 0 - null
+Singularity Matrix Tier 10 - contenttweaker:singularity_matrix_10 - 0 - null
+Filled Neutron Sponge - contenttweaker:mega_alloy_neutron_sponge_completed - 0 - oreMegaAlloy
+tile.contenttweaker.intertium_block.name - contenttweaker:intertium_block - 0 - null
+Singularity Matrix Tier 4 - contenttweaker:singularity_matrix_4 - 0 - null
+item.contenttweaker.metallic_red_matter_dust.name - contenttweaker:metallic_red_matter_dust - 0 - null
+item.contenttweaker.gold_titanium_alloy_ingot.name - contenttweaker:gold_titanium_alloy_ingot - 0 - null
+Singularity Matrix Tier 5 - contenttweaker:singularity_matrix_5 - 0 - null
+Singularity Matrix Tier 2 - contenttweaker:singularity_matrix_2 - 0 - null
+item.contenttweaker.mega_alloy_dust.name - contenttweaker:mega_alloy_dust - 0 - null
+Singularity Matrix Tier 3 - contenttweaker:singularity_matrix_3 - 0 - null
+Singularity Matrix Tier 1 - contenttweaker:singularity_matrix_1 - 0 - null
+Partially Filled Neutron Sponge - contenttweaker:mega_alloy_neutron_sponge_1 - 0 - null
+Partially Filled Neutron Sponge - contenttweaker:mega_alloy_neutron_sponge_2 - 0 - null
+item.contenttweaker.koinos_nugget.name - contenttweaker:koinos_nugget - 0 - null
+item.contenttweaker.vibranium_nugget.name - contenttweaker:vibranium_nugget - 0 - null
+Partially Filled Neutron Sponge - contenttweaker:mega_alloy_neutron_sponge_3 - 0 - null
+Pulsaton Gem - contenttweaker:pulsating_gem - 0 - null
+item.contenttweaker.pure_evil_nugget.name - contenttweaker:pure_evil_nugget - 0 - null
+§6Fiery Singularity§r - contenttweaker:fiery_singularity - 0 - null
+tile.contenttweaker.metallic_red_matter_block.name - contenttweaker:metallic_red_matter_block - 0 - null
+item.contenttweaker.awakened_dust.name - contenttweaker:awakened_dust - 0 - null
+item.contenttweaker.mega_alloy_nugget.name - contenttweaker:mega_alloy_nugget - 0 - ingotMegaAlloy
+item.contenttweaker.metallic_red_matter_nugget.name - contenttweaker:metallic_red_matter_nugget - 0 - null
+item.contenttweaker.gilded_netherite_ingot.name - contenttweaker:gilded_netherite_ingot - 0 - null
+item.contenttweaker.gold_titanium_alloy_nugget.name - contenttweaker:gold_titanium_alloy_nugget - 0 - null
+item.contenttweaker.wavic_dust.name - contenttweaker:wavic_dust - 0 - null
+tile.contenttweaker.adamantium_block.name - contenttweaker:adamantium_block - 0 - null
+tile.contenttweaker.mega_alloy_block.name - contenttweaker:mega_alloy_block - 0 - blockMegaAlloy
 Caminite Brick Slab - embers:block_caminite_brick_slab - 0 - null
 Ashen Stone Slab - embers:ashen_stone_slab - 0 - null
 Ashen Brick Slab - embers:ashen_brick_slab - 0 - null
@@ -10524,11 +10595,11 @@ Glacidite Helmet - glacidus:glacidite_helmet - 363 - null
 Glacidite Chestplate - glacidus:glacidite_chestplate - 528 - null
 Glacidite Leggings - glacidus:glacidite_leggings - 495 - null
 Glacidite Boots - glacidus:glacidite_boots - 429 - null
-Pink Slimy Mud - tconevo:earth_material_block - 0 - null
-Wyvern Metal Block - tconevo:metal_block - 0 - blockWyvernMetal
 Coalescence Matrix - tconevo:material - 0 - null
 Wyvern Metal Ingot - tconevo:metal - 0 - ingotWyvernMetal
 Raw Meat Ingot - tconevo:edible - 0 - null
+Pink Slimy Mud - tconevo:earth_material_block - 0 - null
+Wyvern Metal Block - tconevo:metal_block - 0 - blockWyvernMetal
 Internal Item - tconevo:mana_giver - 0 - null
 Arcane Focus - tconevo:part_arcane_focus - 0 - null
 Sceptre - tconevo:tool_sceptre - 0 - null
@@ -10655,8 +10726,8 @@ Blackstone Stairs - netherbackport:blackstonestairs - 0 - null
 Polished Blackstone Stairs - netherbackport:polishedblackstonestairs - 0 - null
 Polished Blackstone Bricks Stairs - netherbackport:polishedblackstonebricksstairs - 0 - null
 Chiseled Nether Bricks - netherbackport:chiselednetherbricks - 0 - null
-Cracked Nether Bricks - netherbackport:crackednetherbricks - 0 - null
 Chain - netherbackport:chain - 0 - null
+Cracked Nether Bricks - netherbackport:crackednetherbricks - 0 - null
 Quartz Bricks - netherbackport:quartzbricks - 0 - null
 Netherite Block - netherbackport:netheriteblock - 0 - null
 Ancient Debris - netherbackport:ancientdebris - 0 - null
@@ -10703,32 +10774,32 @@ Blackberry Seed - harvestcraft:blackberryseeditem - 0 - listAllseed, seedBlackbe
 Blueberry - harvestcraft:blueberryitem - 0 - cropBlueberry, listAllberry, listAllfruit
 Blueberry Seed - harvestcraft:blueberryseeditem - 0 - listAllseed, seedBlueberry
 Candleberry - harvestcraft:candleberryitem - 0 - cropCandle, cropCandleberry
-Candleberry Seed - harvestcraft:candleberryseeditem - 0 - seedCandleberry, listAllseed
+Candleberry Seed - harvestcraft:candleberryseeditem - 0 - listAllseed, seedCandleberry
 Raspberry - harvestcraft:raspberryitem - 0 - cropRaspberry, listAllberry, listAllfruit
 Raspberry Seed - harvestcraft:raspberryseeditem - 0 - listAllseed, seedRaspberry
-Strawberry - harvestcraft:strawberryitem - 0 - listAllberry, listAllfruit, cropStrawberry
-Strawberry Seed - harvestcraft:strawberryseeditem - 0 - seedStrawberry, listAllseed
-Cactus Fruit - harvestcraft:cactusfruititem - 0 - cropCactusfruit, listAllfruit
+Strawberry - harvestcraft:strawberryitem - 0 - listAllberry, cropStrawberry, listAllfruit
+Strawberry Seed - harvestcraft:strawberryseeditem - 0 - listAllseed, seedStrawberry
+Cactus Fruit - harvestcraft:cactusfruititem - 0 - listAllfruit, cropCactusfruit
 Cactus Fruit Seed - harvestcraft:cactusfruitseeditem - 0 - seedCactusfruit, listAllseed
-Asparagus - harvestcraft:asparagusitem - 0 - listAllveggie, listAllgreenveggie, cropAsparagus
+Asparagus - harvestcraft:asparagusitem - 0 - listAllgreenveggie, cropAsparagus, listAllveggie
 Asparagus Seed - harvestcraft:asparagusseeditem - 0 - listAllseed, seedAsparagus
-Barley - harvestcraft:barleyitem - 0 - listAllgrain, cropBarley
+Barley - harvestcraft:barleyitem - 0 - cropBarley, listAllgrain
 Barley Seed - harvestcraft:barleyseeditem - 0 - seedBarley, listAllseed
-Oats - harvestcraft:oatsitem - 0 - listAllgrain, cropOats
+Oats - harvestcraft:oatsitem - 0 - cropOats, listAllgrain
 Oats Seed - harvestcraft:oatsseeditem - 0 - seedOats, listAllseed
-Rye - harvestcraft:ryeitem - 0 - listAllgrain, cropRye
+Rye - harvestcraft:ryeitem - 0 - cropRye, listAllgrain
 Rye Seed - harvestcraft:ryeseeditem - 0 - seedRye, listAllseed
 Corn - harvestcraft:cornitem - 0 - cropCorn, listAllveggie
 Corn Seed - harvestcraft:cornseeditem - 0 - listAllseed, seedCorn
 Bamboo Shoot - harvestcraft:bambooshootitem - 0 - cropBambooshoot, listAllveggie
-Bamboo Shoot Seed - harvestcraft:bambooshootseeditem - 0 - seedBambooshoot, listAllseed
+Bamboo Shoot Seed - harvestcraft:bambooshootseeditem - 0 - listAllseed, seedBambooshoot
 Cantaloupe - harvestcraft:cantaloupeitem - 0 - cropCantaloupe, listAllfruit
 Cantaloupe Seed - harvestcraft:cantaloupeseeditem - 0 - seedCantaloupe, listAllseed
-Cucumber - harvestcraft:cucumberitem - 0 - listAllveggie, cropCucumber, listAllgreenveggie
+Cucumber - harvestcraft:cucumberitem - 0 - cropCucumber, listAllgreenveggie, listAllveggie
 Cucumber Seed - harvestcraft:cucumberseeditem - 0 - listAllseed, seedCucumber
 Winter Squash - harvestcraft:wintersquashitem - 0 - cropWintersquash, listAllveggie
 Winter Squash Seed - harvestcraft:wintersquashseeditem - 0 - seedWintersquash, listAllseed
-Zucchini - harvestcraft:zucchiniitem - 0 - cropZucchini, listAllveggie, listAllgreenveggie
+Zucchini - harvestcraft:zucchiniitem - 0 - cropZucchini, listAllgreenveggie, listAllveggie
 Zucchini Seed - harvestcraft:zucchiniseeditem - 0 - seedZucchini, listAllseed
 Beet - harvestcraft:beetitem - 0 - cropBeet, listAllveggie
 Beet Seed - harvestcraft:beetseeditem - 0 - listAllseed, seedBeet
@@ -10739,16 +10810,16 @@ Parsnip Seed - harvestcraft:parsnipseeditem - 0 - listAllseed, seedParsnip
 Peanut - harvestcraft:peanutitem - 0 - listAllnut, cropPeanut
 Peanut Seed - harvestcraft:peanutseeditem - 0 - listAllseed, seedPeanut
 Radish - harvestcraft:radishitem - 0 - listAllrootveggie, listAllveggie, cropRadish
-Radish Seed - harvestcraft:radishseeditem - 0 - seedRadish, listAllseed
+Radish Seed - harvestcraft:radishseeditem - 0 - listAllseed, seedRadish
 Rutabaga - harvestcraft:rutabagaitem - 0 - cropRutabaga, listAllrootveggie, listAllveggie
 Rutabaga Seed - harvestcraft:rutabagaseeditem - 0 - seedRutabaga, listAllseed
 Sweet Potato - harvestcraft:sweetpotatoitem - 0 - listAllrootveggie, listAllveggie, cropSweetpotato
 Sweet Potato Seed - harvestcraft:sweetpotatoseeditem - 0 - listAllseed, seedSweetpotato
 Turnip - harvestcraft:turnipitem - 0 - cropTurnip, listAllrootveggie, listAllveggie
 Turnip Seed - harvestcraft:turnipseeditem - 0 - seedTurnip, listAllseed
-Rhubarb - harvestcraft:rhubarbitem - 0 - listAllveggie, cropRhubarb
+Rhubarb - harvestcraft:rhubarbitem - 0 - cropRhubarb, listAllveggie
 Rhubarb Seed - harvestcraft:rhubarbseeditem - 0 - listAllseed, seedRhubarb
-Celery - harvestcraft:celeryitem - 0 - cropCelery, listAllveggie, listAllgreenveggie
+Celery - harvestcraft:celeryitem - 0 - cropCelery, listAllgreenveggie, listAllveggie
 Celery Seed - harvestcraft:celeryseeditem - 0 - seedCelery, listAllseed
 Garlic - harvestcraft:garlicitem - 0 - cropGarlic, listAllherb
 Garlic Seed - harvestcraft:garlicseeditem - 0 - listAllseed, seedGarlic
@@ -10757,28 +10828,28 @@ Ginger Seed - harvestcraft:gingerseeditem - 0 - listAllseed, seedGinger
 Spice Leaf - harvestcraft:spiceleafitem - 0 - listAllgreenveggie, cropSpiceleaf, listAllspice
 Spice Leaf Seed - harvestcraft:spiceleafseeditem - 0 - listAllseed, seedSpiceleaf
 Tea Leaf - harvestcraft:tealeafitem - 0 - cropTea
-Tea Seed - harvestcraft:teaseeditem - 0 - seedTea, listAllseed
+Tea Seed - harvestcraft:teaseeditem - 0 - listAllseed, seedTea
 Coffee Beans - harvestcraft:coffeebeanitem - 0 - cropCoffee
 Coffee Seed - harvestcraft:coffeeseeditem - 0 - listAllseed, seedCoffee
 Mustard Seeds - harvestcraft:mustardseedsitem - 0 - cropMustard, listAllspice
 Mustard Seed - harvestcraft:mustardseeditem - 0 - seedMustard, listAllseed
-Broccoli - harvestcraft:broccoliitem - 0 - cropBroccoli, listAllveggie, listAllgreenveggie
-Broccoli Seed - harvestcraft:broccoliseeditem - 0 - seedBroccoli, listAllseed
+Broccoli - harvestcraft:broccoliitem - 0 - listAllgreenveggie, listAllveggie, cropBroccoli
+Broccoli Seed - harvestcraft:broccoliseeditem - 0 - listAllseed, seedBroccoli
 Cauliflower - harvestcraft:caulifloweritem - 0 - cropCauliflower, listAllveggie
 Cauliflower Seed - harvestcraft:cauliflowerseeditem - 0 - seedCauliflower, listAllseed
 Leek - harvestcraft:leekitem - 0 - listAllveggie, cropLeek
-Leek Seed - harvestcraft:leekseeditem - 0 - seedLeek, listAllseed
-Lettuce - harvestcraft:lettuceitem - 0 - cropLettuce, listAllveggie, listAllgreenveggie
+Leek Seed - harvestcraft:leekseeditem - 0 - listAllseed, seedLeek
+Lettuce - harvestcraft:lettuceitem - 0 - listAllgreenveggie, listAllveggie, cropLettuce
 Lettuce Seed - harvestcraft:lettuceseeditem - 0 - seedLettuce, listAllseed
 Scallion - harvestcraft:scallionitem - 0 - cropScallion, listAllveggie
 Scallion Seed - harvestcraft:scallionseeditem - 0 - seedScallion, listAllseed
-Artichoke - harvestcraft:artichokeitem - 0 - cropArtichoke, listAllveggie, listAllgreenveggie
+Artichoke - harvestcraft:artichokeitem - 0 - cropArtichoke, listAllgreenveggie, listAllveggie
 Artichoke Seed - harvestcraft:artichokeseeditem - 0 - seedArtichoke, listAllseed
-Brussel Sprout - harvestcraft:brusselsproutitem - 0 - listAllveggie, listAllgreenveggie, cropBrusselsprout
+Brussel Sprout - harvestcraft:brusselsproutitem - 0 - listAllgreenveggie, listAllveggie, cropBrusselsprout
 Brussel Sprout Seed - harvestcraft:brusselsproutseeditem - 0 - listAllseed, seedBrusselsprout
-Cabbage - harvestcraft:cabbageitem - 0 - listAllveggie, listAllgreenveggie, cropCabbage
-Cabbage Seed - harvestcraft:cabbageseeditem - 0 - seedCabbage, listAllseed
-Spinach - harvestcraft:spinachitem - 0 - cropSpinach, listAllveggie, listAllgreenveggie
+Cabbage - harvestcraft:cabbageitem - 0 - listAllgreenveggie, listAllveggie, cropCabbage
+Cabbage Seed - harvestcraft:cabbageseeditem - 0 - listAllseed, seedCabbage
+Spinach - harvestcraft:spinachitem - 0 - cropSpinach, listAllgreenveggie, listAllveggie
 Spinach Seed - harvestcraft:spinachseeditem - 0 - listAllseed, seedSpinach
 White Mushroom - harvestcraft:whitemushroomitem - 0 - cropWhitemushroom, listAllmushroom, listAllveggie
 White Mushroom Spore - harvestcraft:whitemushroomseeditem - 0 - seedWhitemushroom, listAllseed
@@ -10792,25 +10863,25 @@ Chili Pepper - harvestcraft:chilipepperitem - 0 - cropChilipepper, listAllpepper
 Chili Pepper Seed - harvestcraft:chilipepperseeditem - 0 - seedChilipepper, listAllseed
 Eggplant - harvestcraft:eggplantitem - 0 - listAllveggie, cropEggplant
 Eggplant Seed - harvestcraft:eggplantseeditem - 0 - listAllseed, seedEggplant
-Okra - harvestcraft:okraitem - 0 - cropOkra, listAllveggie, listAllgreenveggie
+Okra - harvestcraft:okraitem - 0 - cropOkra, listAllgreenveggie, listAllveggie
 Okra Seed - harvestcraft:okraseeditem - 0 - seedOkra, listAllseed
-Peas - harvestcraft:peasitem - 0 - cropPeas, listAllveggie, listAllgreenveggie
+Peas - harvestcraft:peasitem - 0 - cropPeas, listAllgreenveggie, listAllveggie
 Peas Seed - harvestcraft:peasseeditem - 0 - listAllseed, seedPeas
-Tomato - harvestcraft:tomatoitem - 0 - cropTomato, listAllveggie
+Tomato - harvestcraft:tomatoitem - 0 - listAllveggie, cropTomato
 Tomato Seed - harvestcraft:tomatoseeditem - 0 - seedTomato, listAllseed
 Cotton - harvestcraft:cottonitem - 0 - cropCotton
 Cotton Seed - harvestcraft:cottonseeditem - 0 - seedCotton, listAllseed
 Pineapple - harvestcraft:pineappleitem - 0 - cropPineapple, listAllfruit
 Pineapple Seed - harvestcraft:pineappleseeditem - 0 - listAllseed, seedPineapple
-Grape - harvestcraft:grapeitem - 0 - listAllfruit, cropGrape
-Grape Seed - harvestcraft:grapeseeditem - 0 - seedGrape, listAllseed
+Grape - harvestcraft:grapeitem - 0 - cropGrape, listAllfruit
+Grape Seed - harvestcraft:grapeseeditem - 0 - listAllseed, seedGrape
 Kiwi - harvestcraft:kiwiitem - 0 - cropKiwi, listAllfruit
 Kiwi Seed - harvestcraft:kiwiseeditem - 0 - seedKiwi, listAllseed
 Cranberry - harvestcraft:cranberryitem - 0 - listAllberry, cropCranberry, listAllfruit
-Cranberry Seed - harvestcraft:cranberryseeditem - 0 - seedCranberry, listAllseed
+Cranberry Seed - harvestcraft:cranberryseeditem - 0 - listAllseed, seedCranberry
 Rice - harvestcraft:riceitem - 0 - cropRice
 Rice Seed - harvestcraft:riceseeditem - 0 - seedRice, listAllseed
-Seaweed - harvestcraft:seaweeditem - 0 - listAllveggie, listAllgreenveggie, cropSeaweed
+Seaweed - harvestcraft:seaweeditem - 0 - listAllgreenveggie, listAllveggie, cropSeaweed
 Seaweed Seed - harvestcraft:seaweedseeditem - 0 - listAllseed, seedSeaweed
 Curry Leaf - harvestcraft:curryleafitem - 0 - cropCurryleaf
 Curry Leaf Seed - harvestcraft:curryleafseeditem - 0 - listAllseed, seedCurryleaf
@@ -10818,22 +10889,22 @@ Sesame Seeds - harvestcraft:sesameseedsitem - 0 - cropSesame
 Sesame Seeds Seed - harvestcraft:sesameseedsseeditem - 0 - listAllseed, seedSesameseed
 Water Chestnut - harvestcraft:waterchestnutitem - 0 - listAllveggie, cropWaterchestnut
 Water Chestnut Seed - harvestcraft:waterchestnutseeditem - 0 - seedWaterchestnut, listAllseed
-Giga Pickle - harvestcraft:gigapickleitem - 0 - foodGigapickle, foodPickles
-Giga Pickle Seed - harvestcraft:gigapickleseeditem - 0 - seedGigapickle, listAllseed
+Giga Pickle - harvestcraft:gigapickleitem - 0 - foodPickles, foodGigapickle
+Giga Pickle Seed - harvestcraft:gigapickleseeditem - 0 - listAllseed, seedGigapickle
 Kale - harvestcraft:kaleitem - 0 - cropKale, listAllgreenveggie
 Kale Seed - harvestcraft:kaleseeditem - 0 - seedKale, listAllseed
 Agave - harvestcraft:agaveitem - 0 - cropAgave, listAllfruit
 Agave Seed - harvestcraft:agaveseeditem - 0 - seedAgave, listAllseed
-Amaranth - harvestcraft:amaranthitem - 0 - listAllgrain, cropAmaranth
+Amaranth - harvestcraft:amaranthitem - 0 - cropAmaranth, listAllgrain
 Amaranth Seed - harvestcraft:amaranthseeditem - 0 - listAllseed, seedAmaranth
-Arrowroot - harvestcraft:arrowrootitem - 0 - listAllveggie, cropArrowroot
+Arrowroot - harvestcraft:arrowrootitem - 0 - cropArrowroot, listAllveggie
 Arrowroot Seed - harvestcraft:arrowrootseeditem - 0 - listAllseed, seedArrowroot
 Cassava - harvestcraft:cassavaitem - 0 - listAllveggie, cropCassava
 Cassava Seed - harvestcraft:cassavaseeditem - 0 - listAllseed, seedCassava
 Chickpeas - harvestcraft:chickpeaitem - 0 - listAllveggie, cropChickpea
 Chickpea Seed - harvestcraft:chickpeaseeditem - 0 - listAllseed, seedChickpea
-Elderberry - harvestcraft:elderberryitem - 0 - cropElderberry, listAllberry, listAllfruit
-Elderberry Seed - harvestcraft:elderberryseeditem - 0 - seedElderberry, listAllseed
+Elderberry - harvestcraft:elderberryitem - 0 - listAllberry, cropElderberry, listAllfruit
+Elderberry Seed - harvestcraft:elderberryseeditem - 0 - listAllseed, seedElderberry
 Flax - harvestcraft:flaxitem - 0 - listAllfiber, cropFlax
 Flax Seed - harvestcraft:flaxseeditem - 0 - listAllseed, seedFlax
 Green Grape - harvestcraft:greengrapeitem - 0 - cropGreengrape, cropGrape, listAllfruit
@@ -10841,7 +10912,7 @@ Green Grape Seed - harvestcraft:greengrapeseeditem - 0 - seedGreengrape, listAll
 Huckleberry - harvestcraft:huckleberryitem - 0 - cropHuckleberry, listAllberry, listAllfruit
 Huckleberry Seed - harvestcraft:huckleberryseeditem - 0 - seedHuckleberry, listAllseed
 Jicama - harvestcraft:jicamaitem - 0 - cropJicama, listAllveggie
-Jicama Seed - harvestcraft:jicamaseeditem - 0 - seedJicama, listAllseed
+Jicama Seed - harvestcraft:jicamaseeditem - 0 - listAllseed, seedJicama
 Jute - harvestcraft:juteitem - 0 - listAllfiber, cropJute
 Jute Seed - harvestcraft:juteseeditem - 0 - listAllseed, seedJute
 Kenaf - harvestcraft:kenafitem - 0 - listAllfiber, cropKenaf
@@ -10849,18 +10920,18 @@ Kenaf Seed - harvestcraft:kenafseeditem - 0 - listAllseed, seedKenaf
 Kohlrabi - harvestcraft:kohlrabiitem - 0 - listAllveggie, cropKohlrabi
 Kohlrabi Seed - harvestcraft:kohlrabiseeditem - 0 - listAllseed, seedKohlrabi
 Lentils - harvestcraft:lentilitem - 0 - listAllveggie, cropLentil
-Lentil Seed - harvestcraft:lentilseeditem - 0 - seedLentil, listAllseed
+Lentil Seed - harvestcraft:lentilseeditem - 0 - listAllseed, seedLentil
 Millet - harvestcraft:milletitem - 0 - listAllgrain, cropMillet
 Millet Seed - harvestcraft:milletseeditem - 0 - seedMillet, listAllseed
 Mulberry - harvestcraft:mulberryitem - 0 - cropMulberry, listAllberry, listAllfruit
 Mulberry Seed - harvestcraft:mulberryseeditem - 0 - seedMulberry, listAllseed
-Quinoa - harvestcraft:quinoaitem - 0 - listAllgrain, cropQuinoa
+Quinoa - harvestcraft:quinoaitem - 0 - cropQuinoa, listAllgrain
 Quinoa Seed - harvestcraft:quinoaseeditem - 0 - seedQuinoa, listAllseed
 Sisal - harvestcraft:sisalitem - 0 - listAllfiber, cropSisal
-Sisal Seed - harvestcraft:sisalseeditem - 0 - seedSisal, listAllseed
+Sisal Seed - harvestcraft:sisalseeditem - 0 - listAllseed, seedSisal
 Taro - harvestcraft:taroitem - 0 - cropTaro, listAllveggie
 Taro Seed - harvestcraft:taroseeditem - 0 - listAllseed, seedTaro
-Tomatillo - harvestcraft:tomatilloitem - 0 - listAllveggie, cropTomatillo
+Tomatillo - harvestcraft:tomatilloitem - 0 - cropTomatillo, listAllveggie
 Tomatillo Seed - harvestcraft:tomatilloseeditem - 0 - listAllseed, seedTomatillo
 Juniperberry - harvestcraft:juniperberryitem - 0 - listAllberry, cropJuniperberry, listAllfruit
 Juniperberry Seed - harvestcraft:juniperberryseeditem - 0 - listAllseed, seedJuniperberry
@@ -10932,7 +11003,7 @@ Pecan Sapling - harvestcraft:pecan_sapling - 0 - treeSapling
 Pecan - harvestcraft:pecanitem - 0 - listAllnut, cropPecan
 Pecan - harvestcraft:pampecan - 0 - null
 Pistachio Sapling - harvestcraft:pistachio_sapling - 0 - treeSapling
-Pistachio - harvestcraft:pistachioitem - 0 - cropPistachio, listAllnut
+Pistachio - harvestcraft:pistachioitem - 0 - listAllnut, cropPistachio
 Pistachio - harvestcraft:pampistachio - 0 - null
 Hazelnut Sapling - harvestcraft:hazelnut_sapling - 0 - treeSapling
 Hazelnut - harvestcraft:hazelnutitem - 0 - null
@@ -11051,8 +11122,8 @@ Red Velvet Cake - harvestcraft:redvelvetcake - 0 - null
 Garlic Coin - harvestcraft:garliccoinitem - 0 - coinGarlic
 Edible Root - harvestcraft:ediblerootitem - 0 - cropEdibleroot
 Sunflower Seeds - harvestcraft:sunflowerseedsitem - 0 - cropSunflower
-Raw Calamari - harvestcraft:calamarirawitem - 0 - foodCalamariraw, listAllfishraw, listAllfishfresh
-Cooked Calamari - harvestcraft:calamaricookeditem - 0 - foodCalamaricooked, listAllfishcooked
+Raw Calamari - harvestcraft:calamarirawitem - 0 - listAllfishraw, listAllfishfresh, foodCalamariraw
+Cooked Calamari - harvestcraft:calamaricookeditem - 0 - listAllfishcooked, foodCalamaricooked
 Salt - harvestcraft:saltitem - 0 - itemSalt, dustSalt, foodSalt
 Woven Cotton - harvestcraft:wovencottonitem - 0 - materialCloth
 Fresh Water - harvestcraft:freshwateritem - 0 - listAllwater
@@ -11086,7 +11157,7 @@ Apple Juice - harvestcraft:applejuiceitem - 0 - listAlljuice, foodApplejuice
 Melon Juice - harvestcraft:melonjuiceitem - 0 - listAlljuice, foodMelonjuice
 Carrot Juice - harvestcraft:carrotjuiceitem - 0 - foodCarrotjuice, listAlljuice
 Strawberry Juice - harvestcraft:strawberryjuiceitem - 0 - listAlljuice, foodStrawberryjuice
-Grape Juice - harvestcraft:grapejuiceitem - 0 - foodGrapejuice, listAlljuice
+Grape Juice - harvestcraft:grapejuiceitem - 0 - listAlljuice, foodGrapejuice
 Blueberry Juice - harvestcraft:blueberryjuiceitem - 0 - foodBlueberryjuice, listAlljuice
 Cherry Juice - harvestcraft:cherryjuiceitem - 0 - listAlljuice, foodCherryjuice
 Papaya Juice - harvestcraft:papayajuiceitem - 0 - foodPapayajuice, listAlljuice
@@ -11098,7 +11169,7 @@ Mango Juice - harvestcraft:mangojuiceitem - 0 - foodMangojuice, listAlljuice
 Pomegranate Juice - harvestcraft:pomegranatejuiceitem - 0 - foodPomegranatejuice, listAlljuice
 Blackberry Juice - harvestcraft:blackberryjuiceitem - 0 - foodBlackberryjuice, listAlljuice
 Raspberry Juice - harvestcraft:raspberryjuiceitem - 0 - listAlljuice, foodRaspberryjuice
-Kiwi Juice - harvestcraft:kiwijuiceitem - 0 - foodKiwijuice, listAlljuice
+Kiwi Juice - harvestcraft:kiwijuiceitem - 0 - listAlljuice, foodKiwijuice
 Cranberry Juice - harvestcraft:cranberryjuiceitem - 0 - listAlljuice, foodCranberryjuice
 Cactus Fruit Juice - harvestcraft:cactusfruitjuiceitem - 0 - listAlljuice, foodCactusfruitjuice
 Plum Juice - harvestcraft:plumjuiceitem - 0 - listAlljuice, foodPlumjuice
@@ -11169,18 +11240,18 @@ Nachos - harvestcraft:nachoesitem - 0 - foodNachoes
 Taco - harvestcraft:tacoitem - 0 - foodTaco
 Fish Taco - harvestcraft:fishtacoitem - 0 - foodFishtaco
 Creamed Corn - harvestcraft:creamedcornitem - 0 - foodCreamedcorn
-Strawberry Smoothie - harvestcraft:strawberrysmoothieitem - 0 - listAllsmoothie, foodStrawberrysmoothie
+Strawberry Smoothie - harvestcraft:strawberrysmoothieitem - 0 - foodStrawberrysmoothie, listAllsmoothie
 Strawberry Pie - harvestcraft:strawberrypieitem - 0 - foodStrawberrypie
 Strawberry Salad - harvestcraft:strawberrysaladitem - 0 - foodStrawberrysalad
 Chocolate Strawberry - harvestcraft:chocolatestrawberryitem - 0 - foodChocolatestrawberry
 Peanut Butter - harvestcraft:peanutbutteritem - 0 - foodPeanutbutter, listAllnutbutter
 Trail Mix - harvestcraft:trailmixitem - 0 - foodTrailmix
 PB&J - harvestcraft:pbandjitem - 0 - foodPbandj
-Peanut Butter Cookies - harvestcraft:peanutbuttercookiesitem - 0 - listAllcookie, foodPeanutbuttercookies
+Peanut Butter Cookies - harvestcraft:peanutbuttercookiesitem - 0 - foodPeanutbuttercookies, listAllcookie
 Vinegar - harvestcraft:vinegaritem - 0 - foodVinegar
 Grape Jelly - harvestcraft:grapejellyitem - 0 - foodGrapejelly
 Grape Salad - harvestcraft:grapesaladitem - 0 - foodGrapesalad
-Raisin Cookies - harvestcraft:raisincookiesitem - 0 - listAllcookie, foodRaisincookies
+Raisin Cookies - harvestcraft:raisincookiesitem - 0 - foodRaisincookies, listAllcookie
 Pickles - harvestcraft:picklesitem - 0 - foodPickles
 Cucumber Salad - harvestcraft:cucumbersaladitem - 0 - foodCucumbersalad
 Cucumber Soup - harvestcraft:cucumbersoupitem - 0 - foodCucumbersoup
@@ -11211,14 +11282,14 @@ Lemon Smoothie - harvestcraft:lemonsmoothieitem - 0 - foodLemonsmoothie, listAll
 Lemon Meringue - harvestcraft:lemonmeringueitem - 0 - foodLemonmeringue
 Candied Lemon - harvestcraft:candiedlemonitem - 0 - foodCandiedlemon
 Lemon Chicken - harvestcraft:lemonchickenitem - 0 - foodLemonchicken
-Blueberry Smoothie - harvestcraft:blueberrysmoothieitem - 0 - listAllsmoothie, foodBlueberrysmoothie
+Blueberry Smoothie - harvestcraft:blueberrysmoothieitem - 0 - foodBlueberrysmoothie, listAllsmoothie
 Blueberry Pie - harvestcraft:blueberrypieitem - 0 - foodBlueberrypie
 Blueberry Muffin - harvestcraft:blueberrymuffinitem - 0 - foodBlueberrymuffin
 Pancakes - harvestcraft:pancakesitem - 0 - foodPancakes
 Blueberry Pancakes - harvestcraft:blueberrypancakesitem - 0 - foodBlueberrypancakes
 Cherry Pie - harvestcraft:cherrypieitem - 0 - foodCherrypie
 Chocolate Cherry - harvestcraft:chocolatecherryitem - 0 - foodChocolatecherry
-Cherry Smoothie - harvestcraft:cherrysmoothieitem - 0 - listAllsmoothie, foodCherrysmoothie
+Cherry Smoothie - harvestcraft:cherrysmoothieitem - 0 - foodCherrysmoothie, listAllsmoothie
 Stuffed Eggplant - harvestcraft:stuffedeggplantitem - 0 - foodStuffedeggplant
 Eggplant Parm - harvestcraft:eggplantparmitem - 0 - foodEggplantparm
 Raspberry Iced Tea - harvestcraft:raspberryicedteaitem - 0 - foodRaspberryicedtea
@@ -11268,9 +11339,9 @@ Asparagus Soup - harvestcraft:asparagussoupitem - 0 - foodAsparagussoup
 Walnut Raisin Bread - harvestcraft:walnutraisinbreaditem - 0 - foodWalnutraisinbread
 Candied Walnuts - harvestcraft:candiedwalnutsitem - 0 - foodCandiedwalnuts
 Brownie - harvestcraft:brownieitem - 0 - foodBrownie
-Papaya Smoothie - harvestcraft:papayasmoothieitem - 0 - listAllsmoothie, foodPapayasmoothie
+Papaya Smoothie - harvestcraft:papayasmoothieitem - 0 - foodPapayasmoothie, listAllsmoothie
 Papaya Yogurt - harvestcraft:papayayogurtitem - 0 - listAllyogurt, foodPapayayogurt
-Starfruit Smoothie - harvestcraft:starfruitsmoothieitem - 0 - listAllsmoothie, foodStarfruitsmoothie
+Starfruit Smoothie - harvestcraft:starfruitsmoothieitem - 0 - foodStarfruitsmoothie, listAllsmoothie
 Starfruit Yogurt - harvestcraft:starfruityogurtitem - 0 - listAllyogurt, foodStarfruityogurt
 Guacamole - harvestcraft:guacamoleitem - 0 - foodGuacamole
 Cream of Avocado Soup - harvestcraft:creamofavocadosoupitem - 0 - foodCreamofavocadosoup
@@ -11288,17 +11359,17 @@ Chicken Curry - harvestcraft:chickencurryitem - 0 - foodChickencurry
 Coconut Shrimp - harvestcraft:coconutshrimpitem - 0 - foodCoconutshrimp
 Coconut Yogurt - harvestcraft:coconutyogurtitem - 0 - listAllyogurt, foodCoconutyogurt
 Orange Chicken - harvestcraft:orangechickenitem - 0 - foodOrangechicken
-Orange Smoothie - harvestcraft:orangesmoothieitem - 0 - listAllsmoothie, foodOrangesmoothie
+Orange Smoothie - harvestcraft:orangesmoothieitem - 0 - foodOrangesmoothie, listAllsmoothie
 Orange Yogurt - harvestcraft:orangeyogurtitem - 0 - listAllyogurt, foodOrangeyogurt
 Peach Cobbler - harvestcraft:peachcobbleritem - 0 - foodPeachcobbler
-Peach Smoothie - harvestcraft:peachsmoothieitem - 0 - listAllsmoothie, foodPeachsmoothie
+Peach Smoothie - harvestcraft:peachsmoothieitem - 0 - foodPeachsmoothie, listAllsmoothie
 Peach Yogurt - harvestcraft:peachyogurtitem - 0 - listAllyogurt, foodPeachyogurt
 Keylime Pie - harvestcraft:keylimepieitem - 0 - foodKeylimepie
 Lime Smoothie - harvestcraft:limesmoothieitem - 0 - foodLimesmoothie, listAllsmoothie
 Lime Yogurt - harvestcraft:limeyogurtitem - 0 - listAllyogurt, foodLimeyogurt
-Mango Smoothie - harvestcraft:mangosmoothieitem - 0 - listAllsmoothie, foodMangosmoothie
+Mango Smoothie - harvestcraft:mangosmoothieitem - 0 - foodMangosmoothie, listAllsmoothie
 Mango Yogurt - harvestcraft:mangoyogurtitem - 0 - listAllyogurt, foodMangoyogurt
-Pomegranate Smoothie - harvestcraft:pomegranatesmoothieitem - 0 - listAllsmoothie, foodPomegranatesmoothie
+Pomegranate Smoothie - harvestcraft:pomegranatesmoothieitem - 0 - foodPomegranatesmoothie, listAllsmoothie
 Pomegranate Yogurt - harvestcraft:pomegranateyogurtitem - 0 - listAllyogurt, foodPomegranateyogurt
 Vanilla Yogurt - harvestcraft:vanillayogurtitem - 0 - listAllyogurt, foodVanillayogurt
 Cinnamon Roll - harvestcraft:cinnamonrollitem - 0 - foodCinnamonroll
@@ -11315,23 +11386,23 @@ Seed Soup - harvestcraft:seedsoupitem - 0 - foodSeedsoup
 Soft Pretzel - harvestcraft:softpretzelitem - 0 - foodSoftpretzel
 Jellybeans - harvestcraft:jellybeansitem - 0 - foodJellybeans
 Biscuit - harvestcraft:biscuititem - 0 - foodBiscuit
-Cream Cookie - harvestcraft:creamcookieitem - 0 - listAllcookie, foodCreamcookie
+Cream Cookie - harvestcraft:creamcookieitem - 0 - foodCreamcookie, listAllcookie
 Jaffa - harvestcraft:jaffaitem - 0 - foodJaffa
 Fried Chicken - harvestcraft:friedchickenitem - 0 - foodFriedchicken
 Footlong - harvestcraft:footlongitem - 0 - foodFootlong
 Blueberry Yogurt - harvestcraft:blueberryyogurtitem - 0 - listAllyogurt, foodBlueberryyogurt
 Lemon Yogurt - harvestcraft:lemonyogurtitem - 0 - listAllyogurt, foodLemonyogurt
-Cherry Yogurt - harvestcraft:cherryyogurtitem - 0 - foodCherryyogurt, listAllyogurt
-Strawberry Yogurt - harvestcraft:strawberryyogurtitem - 0 - foodStrawberryyogurt, listAllyogurt
+Cherry Yogurt - harvestcraft:cherryyogurtitem - 0 - listAllyogurt, foodCherryyogurt
+Strawberry Yogurt - harvestcraft:strawberryyogurtitem - 0 - listAllyogurt, foodStrawberryyogurt
 Grape Yogurt - harvestcraft:grapeyogurtitem - 0 - listAllyogurt, foodGrapeyogurt
 Chocolate Yogurt - harvestcraft:chocolateyogurtitem - 0 - listAllyogurt, foodChocolateyogurt
 Blackberry Cobbler - harvestcraft:blackberrycobbleritem - 0 - foodBlackberrycobbler
-Blackberry Smoothie - harvestcraft:blackberrysmoothieitem - 0 - listAllsmoothie, foodBlackberrysmoothie
+Blackberry Smoothie - harvestcraft:blackberrysmoothieitem - 0 - foodBlackberrysmoothie, listAllsmoothie
 Blackberry Yogurt - harvestcraft:blackberryyogurtitem - 0 - listAllyogurt, foodBlackberryyogurt
 Chocolate Milk - harvestcraft:chocolatemilkitem - 0 - foodChocolatemilk
 Pumpkin Yogurt - harvestcraft:pumpkinyogurtitem - 0 - listAllyogurt, foodPumpkinyogurt
 Raspberry Pie - harvestcraft:raspberrypieitem - 0 - foodRaspberrypie
-Raspberry Smoothie - harvestcraft:raspberrysmoothieitem - 0 - listAllsmoothie, foodRaspberrysmoothie
+Raspberry Smoothie - harvestcraft:raspberrysmoothieitem - 0 - foodRaspberrysmoothie, listAllsmoothie
 Raspberry Yogurt - harvestcraft:raspberryyogurtitem - 0 - listAllyogurt, foodRaspberryyogurt
 Cinnamon Sugar Donut - harvestcraft:cinnamonsugardonutitem - 0 - foodCinnamonsugardonut
 Melon Yogurt - harvestcraft:melonyogurtitem - 0 - listAllyogurt, foodMelonyogurt
@@ -11420,7 +11491,7 @@ Oven Roasted Cauliflower - harvestcraft:ovenroastedcaulifloweritem - 0 - foodOve
 Leek Bacon Soup - harvestcraft:leekbaconsoupitem - 0 - foodLeekbaconsoup
 Herb Butter Parsnips - harvestcraft:herbbutterparsnipsitem - 0 - foodHerbbutterparsnips
 Scallion Baked Potato - harvestcraft:scallionbakedpotatoitem - 0 - foodScallionbakedpotato
-Soy Milk - harvestcraft:soymilkitem - 0 - foodSoymilk, listAllmilk
+Soy Milk - harvestcraft:soymilkitem - 0 - listAllmilk, foodSoymilk
 Firm Tofu - harvestcraft:firmtofuitem - 0 - foodFirmtofu
 Silken Tofu - harvestcraft:silkentofuitem - 0 - foodSilkentofu, listAllheavycream, listAllicecream
 Bamboo Steamed Rice - harvestcraft:bamboosteamedriceitem - 0 - foodBamboosteamedrice
@@ -11431,7 +11502,7 @@ Apricot Yogurt - harvestcraft:apricotyogurtitem - 0 - listAllyogurt, foodApricot
 Apricot Glazed Pork - harvestcraft:apricotglazedporkitem - 0 - foodApricotglazedpork
 Apricot Jelly - harvestcraft:apricotjellyitem - 0 - foodApricotjelly
 Apricot Jelly Sandwich - harvestcraft:apricotjellysandwichitem - 0 - foodApricotjellysandwich
-Apricot Smoothie - harvestcraft:apricotsmoothieitem - 0 - listAllsmoothie, foodApricotsmoothie
+Apricot Smoothie - harvestcraft:apricotsmoothieitem - 0 - foodApricotsmoothie, listAllsmoothie
 Fig Bar - harvestcraft:figbaritem - 0 - foodFigbar
 Fig Jelly - harvestcraft:figjellyitem - 0 - foodFigjelly
 Fig Jelly Sandwich - harvestcraft:figjellysandwichitem - 0 - foodFigjellysandwich
@@ -11439,14 +11510,14 @@ Fig Smoothie - harvestcraft:figsmoothieitem - 0 - foodFigsmoothie, listAllsmooth
 Fig Yogurt - harvestcraft:figyogurtitem - 0 - listAllyogurt, foodFigyogurt
 Grapefruit Jelly - harvestcraft:grapefruitjellyitem - 0 - foodGrapefruitjelly
 Grapefruit Jelly Sandwich - harvestcraft:grapefruitjellysandwichitem - 0 - foodGrapefruitjellysandwich
-Grapefruit Smoothie - harvestcraft:grapefruitsmoothieitem - 0 - listAllsmoothie, foodGrapefruitjellysmoothie
+Grapefruit Smoothie - harvestcraft:grapefruitsmoothieitem - 0 - foodGrapefruitjellysmoothie, listAllsmoothie
 Grapefruit Yogurt - harvestcraft:grapefruityogurtitem - 0 - listAllyogurt, foodGrapefruityogurt
 Grapefruit Soda - harvestcraft:grapefruitsodaitem - 0 - foodGrapefruitsoda, listAllsoda
 Citrus Salad - harvestcraft:citrussaladitem - 0 - foodCitrussalad
 Pecan Pie - harvestcraft:pecanpieitem - 0 - foodPecanpie
 Pralines - harvestcraft:pralinesitem - 0 - foodPralines
 Persimmon Yogurt - harvestcraft:persimmonyogurtitem - 0 - listAllyogurt, foodPersimmonyogurt
-Persimmon Smoothie - harvestcraft:persimmonsmoothieitem - 0 - listAllsmoothie, foodPersimmonsmoothie
+Persimmon Smoothie - harvestcraft:persimmonsmoothieitem - 0 - foodPersimmonsmoothie, listAllsmoothie
 Persimmon Jelly - harvestcraft:persimmonjellyitem - 0 - foodPersimmonjelly
 Persimmon Jelly Sandwich - harvestcraft:persimmonjellysandwichitem - 0 - foodPersimmonjellysanwich
 Pistachio Baked Salmon - harvestcraft:pistachiobakedsalmonitem - 0 - foodPistachiobakedsalmon
@@ -11480,7 +11551,7 @@ Tim Tam - harvestcraft:timtamitem - 0 - foodTimtam
 Damper - harvestcraft:damperitem - 0 - foodDamper
 Gherkin - harvestcraft:gherkinitem - 0 - foodGherkin
 Caesar Salad - harvestcraft:ceasarsaladitem - 0 - foodCeasarsalad
-Chaos Cookie - harvestcraft:chaoscookieitem - 0 - listAllcookie, foodChaoscookie
+Chaos Cookie - harvestcraft:chaoscookieitem - 0 - foodChaoscookie, listAllcookie
 Chocolate Bacon - harvestcraft:chocolatebaconitem - 0 - foodChocolatebacon
 Lamb Kebab - harvestcraft:lambkebabitem - 0 - foodLambkebab
 Nutella - harvestcraft:nutellaitem - 0 - foodNutella
@@ -11515,7 +11586,7 @@ Pumpkin Muffin - harvestcraft:pumpkinmuffinitem - 0 - null
 Suadero - harvestcraft:suaderoitem - 0 - null
 Raw Turkey - harvestcraft:turkeyrawitem - 0 - foodTurkeyraw, listAllmeatraw, listAllturkeyraw
 Cooked Turkey - harvestcraft:turkeycookeditem - 0 - foodTurkeycooked, listAllmeatcooked, listAllturkeycooked
-Raw Venison - harvestcraft:venisonrawitem - 0 - listAllmeatraw, foodVenisonraw, listAllvenisonraw
+Raw Venison - harvestcraft:venisonrawitem - 0 - foodVenisonraw, listAllmeatraw, listAllvenisonraw
 Cooked Venison - harvestcraft:venisoncookeditem - 0 - listAllmeatcooked, foodVenisoncooked, listAllvenisoncooked
 Strawberry Milkshake - harvestcraft:strawberrymilkshakeitem - 0 - foodStrawberrymilkshake
 Chocolate Milkshake - harvestcraft:chocolatemilkshakeitem - 0 - foodChocolatemilkshake
@@ -11544,7 +11615,7 @@ Gooseberry Jelly - harvestcraft:gooseberryjellyitem - 0 - foodGooseberryjelly
 Gooseberry Jelly Sandwich - harvestcraft:gooseberryjellysandwichitem - 0 - foodGooseberryjellysandwich
 Gooseberry Milkshake - harvestcraft:gooseberrymilkshakeitem - 0 - foodGooseberrymilkeshake
 Gooseberry Pie - harvestcraft:gooseberrypieitem - 0 - foodGooseberrypie
-Gooseberry Smoothie - harvestcraft:gooseberrysmoothieitem - 0 - listAllsmoothie, foodGooseberrysmoothie
+Gooseberry Smoothie - harvestcraft:gooseberrysmoothieitem - 0 - foodGooseberrysmoothie, listAllsmoothie
 Gooseberry Yogurt - harvestcraft:gooseberryyogurtitem - 0 - listAllyogurt, foodGooseberryyogurt
 Hushpuppies - harvestcraft:hushpuppiesitem - 0 - foodHushpuppies
 Kimchi - harvestcraft:kimchiitem - 0 - foodKimchi
@@ -11553,7 +11624,7 @@ Muesli - harvestcraft:museliitem - 0 - foodMuseli
 Naan - harvestcraft:naanitem - 0 - foodNaan
 Okra Chips - harvestcraft:okrachipsitem - 0 - foodOkrachips
 Okra Creole - harvestcraft:okracreoleitem - 0 - foodOkracreole
-Pistachio Butter - harvestcraft:pistachiobutteritem - 0 - foodPistachiobutter, listAllnutbutter
+Pistachio Butter - harvestcraft:pistachiobutteritem - 0 - listAllnutbutter, foodPistachiobutter
 Pork Lo Mein - harvestcraft:porklomeinitem - 0 - foodPorklomein
 Salmon Patties - harvestcraft:salmonpattiesitem - 0 - foodSalmonpatties
 Sausage - harvestcraft:sausageitem - 0 - foodSausage
@@ -11565,15 +11636,15 @@ Soy Sauce - harvestcraft:soysauceitem - 0 - foodSoysauce
 Sweet Pickle - harvestcraft:sweetpickleitem - 0 - foodPickles, foodSweetpickle
 Veggie Strips - harvestcraft:veggiestripsitem - 0 - foodVeggiestrips
 Vindaloo - harvestcraft:vindalooitem - 0 - foodVindaloo
-Apple Smoothie - harvestcraft:applesmoothieitem - 0 - listAllsmoothie, foodApplesmoothie
+Apple Smoothie - harvestcraft:applesmoothieitem - 0 - foodApplesmoothie, listAllsmoothie
 Coconut Smoothie - harvestcraft:coconutsmoothieitem - 0 - foodCoconutsmoothie, listAllsmoothie
-Cranberry Smoothie - harvestcraft:cranberrysmoothieitem - 0 - listAllsmoothie, foodCranberrysmoothie
+Cranberry Smoothie - harvestcraft:cranberrysmoothieitem - 0 - foodCranberrysmoothie, listAllsmoothie
 Cranberry Yogurt - harvestcraft:cranberryyogurtitem - 0 - listAllyogurt, foodCranberryyogurt
-Grape Smoothie - harvestcraft:grapesmoothieitem - 0 - listAllsmoothie, foodGrapesmoothie
-Pear Smoothie - harvestcraft:pearsmoothieitem - 0 - listAllsmoothie, foodPearsmoothie
+Grape Smoothie - harvestcraft:grapesmoothieitem - 0 - foodGrapesmoothie, listAllsmoothie
+Pear Smoothie - harvestcraft:pearsmoothieitem - 0 - foodPearsmoothie, listAllsmoothie
 Pear Jelly - harvestcraft:pearjellyitem - 0 - foodPearjelly
 Pear Jelly Sandwich - harvestcraft:pearjellysandwichitem - 0 - foodPearjellysandwich
-Plum Smoothie - harvestcraft:plumsmoothieitem - 0 - listAllsmoothie, foodPlumsmoothie
+Plum Smoothie - harvestcraft:plumsmoothieitem - 0 - foodPlumsmoothie, listAllsmoothie
 Plum Jelly - harvestcraft:plumjellyitem - 0 - foodPlumjelly
 Plum Jelly Sandwich - harvestcraft:plumjellysandwichitem - 0 - foodPlumjellysandwich
 Honey Sandwich - harvestcraft:honeysandwichitem - 0 - foodHoneysandwich
@@ -11605,7 +11676,7 @@ Bacon and Eggs - harvestcraft:baconandeggsitem - 0 - foodBaconandeggs
 Biscuits and Gravy - harvestcraft:biscuitsandgravyitem - 0 - foodBiscuitsandgravy
 Apple Fritter - harvestcraft:applefritteritem - 0 - foodApplefritter
 Sweet Tea - harvestcraft:sweetteaitem - 0 - foodSweettea
-Creeper Cookie - harvestcraft:creepercookieitem - 0 - listAllcookie, foodCreepercookie
+Creeper Cookie - harvestcraft:creepercookieitem - 0 - foodCreepercookie, listAllcookie
 Honey Bread - harvestcraft:honeybreaditem - 0 - foodHoneybread
 Honeybun - harvestcraft:honeybunitem - 0 - foodHoneybun
 Honey Glazed Carrots - harvestcraft:honeyglazedcarrotsitem - 0 - foodHoneyglazedcarrots
@@ -11645,7 +11716,7 @@ Ham and Cheese Sandwich - harvestcraft:hamandcheesesandwichitem - 0 - foodHamand
 Tuna Salad - harvestcraft:tunasaladitem - 0 - foodTunasalad
 Grits - harvestcraft:gritsitem - 0 - foodGrits
 Butter Cookie - harvestcraft:buttercookieitem - 0 - listAllcookie, foodButtercookie
-Sugar Cookie - harvestcraft:sugarcookieitem - 0 - listAllcookie, foodSugarcookie
+Sugar Cookie - harvestcraft:sugarcookieitem - 0 - foodSugarcookie, listAllcookie
 Potato Chips - harvestcraft:potatochipsitem - 0 - foodPotatochips
 BBQ Potato Chips - harvestcraft:bbqpotatochipsitem - 0 - foodBbqpotatochips
 Sour Cream and Onion Potato Chips - harvestcraft:sourcreamandonionpotatochipsitem - 0 - foodSourcreamandonionpotatochips
@@ -11655,7 +11726,7 @@ Chips and Dip - harvestcraft:chipsanddipitem - 0 - foodChipsanddip
 Cheeze Puffs - harvestcraft:cheezepuffsitem - 0 - foodCheezepuffs
 Surf and Turf - harvestcraft:surfandturfitem - 0 - foodSurfandturf
 Liver and Onions - harvestcraft:liverandonionsitem - 0 - foodLiverandonions
-Fortune Cookie - harvestcraft:fortunecookieitem - 0 - listAllcookie, foodFortunecookie
+Fortune Cookie - harvestcraft:fortunecookieitem - 0 - foodFortunecookie, listAllcookie
 Deviled Egg - harvestcraft:deviledeggitem - 0 - foodDeviledegg
 Mozzerella Sticks - harvestcraft:mozzerellasticksitem - 0 - foodMozzerellasticks
 Succotash - harvestcraft:succotashitem - 0 - foodSuccotash
@@ -11696,8 +11767,8 @@ Festival Bread - harvestcraft:festivalbreaditem - 0 - foodFestivalbread
 Fruit Cream Festival Bread - harvestcraft:fruitcreamfestivalbreaditem - 0 - foodFruitcreamfestivalbread
 Pho - harvestcraft:phoitem - 0 - foodPho
 Bubble Tea - harvestcraft:bubbleteaitem - 0 - foodBubbletea
-Raw Duck - harvestcraft:duckrawitem - 0 - listAllduckraw, listAllmeatraw, foodDuckraw
-Cooked Duck - harvestcraft:duckcookeditem - 0 - listAllduckcooked, listAllmeatcooked, foodDuckcooked
+Raw Duck - harvestcraft:duckrawitem - 0 - listAllmeatraw, foodDuckraw, listAllduckraw
+Cooked Duck - harvestcraft:duckcookeditem - 0 - listAllmeatcooked, foodDuckcooked, listAllduckcooked
 Wonton Soup - harvestcraft:wontonsoupitem - 0 - foodWontonsoup
 Spring Rolls - harvestcraft:springrollitem - 0 - foodSpringroll
 Meaty Stirfry - harvestcraft:meatystirfryitem - 0 - foodMeatystirfry
@@ -11833,33 +11904,33 @@ Corn Chips - harvestcraft:cornchipsitem - 0 - foodCornchips
 Marshmellow Chicks - harvestcraft:marshmellowchicksitem - 0 - foodMarshmellowchicks
 Pizza Slice - harvestcraft:pizzasliceitem - 0 - foodPizzaslice
 Ground Beef - harvestcraft:groundbeefitem - 0 - listAllbeefraw, listAllmeatraw, foodGroundbeef
-Ground Chicken - harvestcraft:groundchickenitem - 0 - listAllchickenraw, listAllmeatraw, foodGroundchicken
-Ground Duck - harvestcraft:groundduckitem - 0 - listAllduckraw, listAllmeatraw, foodGroundduck
+Ground Chicken - harvestcraft:groundchickenitem - 0 - listAllmeatraw, foodGroundchicken, listAllchickenraw
+Ground Duck - harvestcraft:groundduckitem - 0 - listAllmeatraw, foodGroundduck, listAllduckraw
 Ground Fish - harvestcraft:groundfishitem - 0 - listAllfishraw, listAllmeatraw, foodGroundfish
-Ground Mutton - harvestcraft:groundmuttonitem - 0 - listAllmeatraw, listAllmuttonraw, foodGroundmutton
+Ground Mutton - harvestcraft:groundmuttonitem - 0 - listAllmuttonraw, listAllmeatraw, foodGroundmutton
 Ground Pork - harvestcraft:groundporkitem - 0 - listAllporkraw, listAllmeatraw, foodGroundpork
 Ground Rabbit - harvestcraft:groundrabbititem - 0 - listAllmeatraw, listAllrabbitraw, foodGroundrabbit
-Ground Turkey - harvestcraft:groundturkeyitem - 0 - foodGroundturkey, listAllmeatraw, listAllturkeyraw
-Ground Venison - harvestcraft:groundvenisonitem - 0 - foodGroundvenison, listAllmeatraw, listAllvenisonraw
-Raw Tofeak - harvestcraft:rawtofeakitem - 0 - listAllmeatraw, listAllbeefraw
+Ground Turkey - harvestcraft:groundturkeyitem - 0 - listAllmeatraw, listAllturkeyraw, foodGroundturkey
+Ground Venison - harvestcraft:groundvenisonitem - 0 - listAllmeatraw, listAllvenisonraw, foodGroundvenison
+Raw Tofeak - harvestcraft:rawtofeakitem - 0 - listAllbeefraw, listAllmeatraw
 Raw Tofacon - harvestcraft:rawtofaconitem - 0 - listAllporkraw, listAllmeatraw
 Raw Tofeeg - harvestcraft:rawtofeegitem - 0 - listAllegg
 Raw Tofutton - harvestcraft:rawtofuttonitem - 0 - listAllmeatraw, listAllmuttonraw
-Raw Toficken - harvestcraft:rawtofickenitem - 0 - listAllchickenraw, listAllmeatraw
+Raw Toficken - harvestcraft:rawtofickenitem - 0 - listAllmeatraw, listAllchickenraw
 Raw Tofabbit - harvestcraft:rawtofabbititem - 0 - listAllmeatraw, listAllrabbitraw
 Raw Tofurkey - harvestcraft:rawtofurkeyitem - 0 - listAllmeatraw, listAllturkeyraw
 Raw Tofenison - harvestcraft:rawtofenisonitem - 0 - listAllmeatraw, listAllvenisonraw
-Raw Tofuduck - harvestcraft:rawtofuduckitem - 0 - listAllduckraw, listAllmeatraw
-Cooked Tofeak - harvestcraft:cookedtofeakitem - 0 - listAlltofu, listAllmeatcooked, listAllbeefcooked
-Cooked Tofacon - harvestcraft:cookedtofaconitem - 0 - listAlltofu, listAllmeatcooked, listAllporkcooked
+Raw Tofuduck - harvestcraft:rawtofuduckitem - 0 - listAllmeatraw, listAllduckraw
+Cooked Tofeak - harvestcraft:cookedtofeakitem - 0 - listAllmeatcooked, listAllbeefcooked, listAlltofu
+Cooked Tofacon - harvestcraft:cookedtofaconitem - 0 - listAllporkcooked, listAllmeatcooked, listAlltofu
 Cooked Tofish - harvestcraft:cookedtofishitem - 0 - listAllfishcooked
 Cooked Tofeeg - harvestcraft:cookedtofeegitem - 0 - null
-Cooked Tofutton - harvestcraft:cookedtofuttonitem - 0 - listAlltofu, listAllmeatcooked, listAllmuttoncooked
-Cooked Toficken - harvestcraft:cookedtofickenitem - 0 - listAlltofu, listAllchickencooked, listAllmeatcooked
-Cooked Tofabbit - harvestcraft:cookedtofabbititem - 0 - listAlltofu, listAllmeatcooked, listAllrabbitcooked
-Cooked Tofurkey - harvestcraft:cookedtofurkeyitem - 0 - listAlltofu, listAllmeatcooked, listAllturkeycooked
-Cooked Tofenison - harvestcraft:cookedtofenisonitem - 0 - listAlltofu, listAllmeatcooked, listAllvenisoncooked
-Cooked Tofuduck - harvestcraft:cookedtofuduckitem - 0 - listAlltofu, listAllduckcooked, listAllmeatcooked
+Cooked Tofutton - harvestcraft:cookedtofuttonitem - 0 - listAllmeatcooked, listAllmuttoncooked, listAlltofu
+Cooked Toficken - harvestcraft:cookedtofickenitem - 0 - listAllchickencooked, listAllmeatcooked, listAlltofu
+Cooked Tofabbit - harvestcraft:cookedtofabbititem - 0 - listAllmeatcooked, listAllrabbitcooked, listAlltofu
+Cooked Tofurkey - harvestcraft:cookedtofurkeyitem - 0 - listAllmeatcooked, listAllturkeycooked, listAlltofu
+Cooked Tofenison - harvestcraft:cookedtofenisonitem - 0 - listAllmeatcooked, listAllvenisoncooked, listAlltofu
+Cooked Tofuduck - harvestcraft:cookedtofuduckitem - 0 - listAllmeatcooked, listAlltofu, listAllduckcooked
 Carrot Cake - harvestcraft:carrotcakeitem - 0 - foodCarrotcake
 Holiday Cake - harvestcraft:holidaycakeitem - 0 - foodHolidaycake
 Pumpkin Cheese Cake - harvestcraft:pumpkincheesecakeitem - 0 - null
@@ -11972,7 +12043,7 @@ Bakeware - harvestcraft:bakewareitem - 0 - toolBakeware
 Mortar and Pestle - harvestcraft:mortarandpestleitem - 0 - toolMortarandpestle
 Mixing Bowl - harvestcraft:mixingbowlitem - 0 - toolMixingbowl
 Juicer - harvestcraft:juiceritem - 0 - toolJuicer
-Raw Anchovy - harvestcraft:anchovyrawitem - 0 - foodAnchovyraw, listAllfishraw, listAllfishfresh
+Raw Anchovy - harvestcraft:anchovyrawitem - 0 - listAllfishraw, listAllfishfresh, foodAnchovyraw
 Raw Bass - harvestcraft:bassrawitem - 0 - listAllfishraw, foodBassraw, listAllfishfresh
 Raw Carp - harvestcraft:carprawitem - 0 - listAllfishraw, foodCarpraw, listAllfishfresh
 Raw Catfish - harvestcraft:catfishrawitem - 0 - listAllfishraw, foodCatfishraw, listAllfishfresh
@@ -11987,7 +12058,7 @@ Raw Herring - harvestcraft:herringrawitem - 0 - listAllfishraw, listAllfishfresh
 Raw Jellyfish - harvestcraft:jellyfishrawitem - 0 - foodJellyfishraw
 Raw Mudfish - harvestcraft:mudfishrawitem - 0 - listAllfishraw, listAllfishfresh, foodMudfishraw
 Raw Octopus - harvestcraft:octopusrawitem - 0 - foodOctopusraw
-Raw Perch - harvestcraft:perchrawitem - 0 - foodPerchraw, listAllfishraw, listAllfishfresh
+Raw Perch - harvestcraft:perchrawitem - 0 - listAllfishraw, listAllfishfresh, foodPerchraw
 Raw Scallop - harvestcraft:scalloprawitem - 0 - foodScallopraw
 Raw Shrimp - harvestcraft:shrimprawitem - 0 - foodShrimpraw
 Raw Snail - harvestcraft:snailrawitem - 0 - foodSnailraw
@@ -12110,8 +12181,8 @@ Wavy Slingshot - waveymod:wavyslingshot - 1200 - null
 Bullet - waveymod:bullet - 0 - null
 Slingshot - waveymod:slingshot - 180 - null
 Wavy String - waveymod:wavystring - 0 - null
-Holy Slingshot - waveymod:holyslingshot - 2000 - null
 Holy Bullet - waveymod:holybullet - 0 - null
+Holy Slingshot - waveymod:holyslingshot - 2000 - null
 Holy Flower - waveymod:holyflower - 0 - null
 Demonic Bullet - waveymod:demonicbullet - 0 - null
 Demonic Flower - waveymod:demonicflower - 0 - null
@@ -12194,7 +12265,6 @@ Midasium Crops - jaopca:block_mysticalcropsmidasium - 0 - mysticalCropsMidasium
 Orichalcum Crops - jaopca:block_mysticalcropsorichalcum - 0 - mysticalCropsOrichalcum
 Oureclase Crops - jaopca:block_mysticalcropsoureclase - 0 - mysticalCropsOureclase
 Palladium Crops - jaopca:block_mysticalcropspalladium - 0 - mysticalCropsPalladium
-Plutonium Crops - jaopca:block_mysticalcropsplutonium - 0 - mysticalCropsPlutonium
 Prometheum Crops - jaopca:block_mysticalcropsprometheum - 0 - mysticalCropsPrometheum
 Radium Crops - jaopca:block_mysticalcropsradium - 0 - mysticalCropsRadium
 Rubracium Crops - jaopca:block_mysticalcropsrubracium - 0 - mysticalCropsRubracium
@@ -12216,6 +12286,7 @@ Heartium Crops - jaopca:block_mysticalcropsheartium - 0 - mysticalCropsHeartium
 Hephaestite Crops - jaopca:block_mysticalcropshephaestite - 0 - mysticalCropsHephaestite
 Lost Diamond Crops - jaopca:block_mysticalcropslostdiamond - 0 - mysticalCropsLostDiamond
 Opal Crops - jaopca:block_mysticalcropsopal - 0 - mysticalCropsOpal
+Plutonium Crops - jaopca:block_mysticalcropsplutonium - 0 - mysticalCropsPlutonium
 Promethean Crops - jaopca:block_mysticalcropspromethean - 0 - mysticalCropsPromethean
 Purple Diamond Crops - jaopca:block_mysticalcropspurplediamond - 0 - mysticalCropsPurpleDiamond
 Black Quartz Crops - jaopca:block_mysticalcropsquartzblack - 0 - mysticalCropsQuartzBlack
@@ -12244,133 +12315,133 @@ Block of Yellow Diamond - jaopca:block_blockyellowdiamond - 0 - blockYellowDiamo
 Block of Phosphorus - jaopca:block_blockphosphorus - 0 - blockPhosphorus
 Block of Potash - jaopca:block_blockpotash - 0 - blockPotash
 Alduorite Essence - jaopca:item_essencealduorite - 0 - essenceAlduorite, essenceTier3
-Amaranth Essence - jaopca:item_essenceamaranth - 0 - essenceTier3, essenceAmaranth
-Astral Silver Essence - jaopca:item_essenceastralsilver - 0 - essenceTier3, essenceAstralSilver
-Astral Starmetal Essence - jaopca:item_essenceastralstarmetal - 0 - essenceTier3, essenceAstralStarmetal
-Atlarus Essence - jaopca:item_essenceatlarus - 0 - essenceTier3, essenceAtlarus
-Carbon Essence - jaopca:item_essencecarbon - 0 - essenceTier3, essenceCarbon
+Amaranth Essence - jaopca:item_essenceamaranth - 0 - essenceAmaranth, essenceTier3
+Astral Silver Essence - jaopca:item_essenceastralsilver - 0 - essenceAstralSilver, essenceTier3
+Astral Starmetal Essence - jaopca:item_essenceastralstarmetal - 0 - essenceAstralStarmetal, essenceTier3
+Atlarus Essence - jaopca:item_essenceatlarus - 0 - essenceAtlarus, essenceTier3
+Carbon Essence - jaopca:item_essencecarbon - 0 - essenceCarbon, essenceTier3
 Carmot Essence - jaopca:item_essencecarmot - 0 - essenceTier3, essenceCarmot
 Ceruclase Essence - jaopca:item_essenceceruclase - 0 - essenceTier3, essenceCeruclase
 Chargium Essence - jaopca:item_essencechargium - 0 - essenceTier3, essenceChargium
 Crystal Essence - jaopca:item_essencecrystal - 0 - essenceTier3, essenceCrystal
 Dark Iron Essence - jaopca:item_essencedarkiron - 0 - essenceTier3, essenceDarkIron
 Deep Iron Essence - jaopca:item_essencedeepiron - 0 - essenceTier3, essenceDeepIron
-Etrium Essence - jaopca:item_essenceetrium - 0 - essenceEtrium, essenceTier3
-Evenium Essence - jaopca:item_essenceevenium - 0 - essenceEvenium, essenceTier3
+Etrium Essence - jaopca:item_essenceetrium - 0 - essenceTier3, essenceEtrium
+Evenium Essence - jaopca:item_essenceevenium - 0 - essenceTier3, essenceEvenium
 Eximite Essence - jaopca:item_essenceeximite - 0 - essenceEximite, essenceTier3
 Fueltonium Essence - jaopca:item_essencefueltonium - 0 - essenceFueltonium, essenceTier3
 Fusionite Essence - jaopca:item_essencefusionite - 0 - essenceFusionite, essenceTier3
-Ignatius Essence - jaopca:item_essenceignatius - 0 - essenceTier3, essenceIgnatius
-Infuscolium Essence - jaopca:item_essenceinfuscolium - 0 - essenceTier3, essenceInfuscolium
-Kalendrite Essence - jaopca:item_essencekalendrite - 0 - essenceTier3, essenceKalendrite
-Lemurite Essence - jaopca:item_essencelemurite - 0 - essenceTier3, essenceLemurite
-Lutetium Essence - jaopca:item_essencelutetium - 0 - essenceTier3, essenceLutetium
+Ignatius Essence - jaopca:item_essenceignatius - 0 - essenceIgnatius, essenceTier3
+Infuscolium Essence - jaopca:item_essenceinfuscolium - 0 - essenceInfuscolium, essenceTier3
+Kalendrite Essence - jaopca:item_essencekalendrite - 0 - essenceKalendrite, essenceTier3
+Lemurite Essence - jaopca:item_essencelemurite - 0 - essenceLemurite, essenceTier3
+Lutetium Essence - jaopca:item_essencelutetium - 0 - essenceLutetium, essenceTier3
 Manganese Essence - jaopca:item_essencemanganese - 0 - essenceTier3, essenceManganese
 Mercury Essence - jaopca:item_essencemercury - 0 - essenceTier3, essenceMercury
 Meutoite Essence - jaopca:item_essencemeutoite - 0 - essenceTier3, essenceMeutoite
 Midasium Essence - jaopca:item_essencemidasium - 0 - essenceTier3, essenceMidasium
 Orichalcum Essence - jaopca:item_essenceorichalcum - 0 - essenceTier3, essenceOrichalcum
 Oureclase Essence - jaopca:item_essenceoureclase - 0 - essenceTier3, essenceOureclase
-Palladium Essence - jaopca:item_essencepalladium - 0 - essencePalladium, essenceTier3
-Plutonium Essence - jaopca:item_essenceplutonium - 0 - essencePlutonium, essenceTier3
-Prometheum Essence - jaopca:item_essenceprometheum - 0 - essencePrometheum, essenceTier3
+Palladium Essence - jaopca:item_essencepalladium - 0 - essenceTier3, essencePalladium
+Prometheum Essence - jaopca:item_essenceprometheum - 0 - essenceTier3, essencePrometheum
 Radium Essence - jaopca:item_essenceradium - 0 - essenceRadium, essenceTier3
 Rubracium Essence - jaopca:item_essencerubracium - 0 - essenceRubracium, essenceTier3
-Sanguinite Essence - jaopca:item_essencesanguinite - 0 - essenceTier3, essenceSanguinite
-Shadow Iron Essence - jaopca:item_essenceshadowiron - 0 - essenceTier3, essenceShadowIron
-Shinium Essence - jaopca:item_essenceshinium - 0 - essenceTier3, essenceShinium
-Umbrium Essence - jaopca:item_essenceumbrium - 0 - essenceTier3, essenceUmbrium
-Virinium Essence - jaopca:item_essencevirinium - 0 - essenceTier3, essenceVirinium
-Vulcanite Essence - jaopca:item_essencevulcanite - 0 - essenceTier3, essenceVulcanite
+Sanguinite Essence - jaopca:item_essencesanguinite - 0 - essenceSanguinite, essenceTier3
+Shadow Iron Essence - jaopca:item_essenceshadowiron - 0 - essenceShadowIron, essenceTier3
+Shinium Essence - jaopca:item_essenceshinium - 0 - essenceShinium, essenceTier3
+Umbrium Essence - jaopca:item_essenceumbrium - 0 - essenceUmbrium, essenceTier3
+Virinium Essence - jaopca:item_essencevirinium - 0 - essenceVirinium, essenceTier3
+Vulcanite Essence - jaopca:item_essencevulcanite - 0 - essenceVulcanite, essenceTier3
 Vyroxeres Essence - jaopca:item_essencevyroxeres - 0 - essenceTier3, essenceVyroxeres
 Zollernium Essence - jaopca:item_essencezollernium - 0 - essenceTier3, essenceZollernium
 Ascendium Essence - jaopca:item_essenceascendium - 0 - essenceTier3, essenceAscendium
 Azurite Essence - jaopca:item_essenceazurite - 0 - essenceTier3, essenceAzurite
 Blue Diamond Essence - jaopca:item_essencebluediamond - 0 - essenceTier3, essenceBlueDiamond
-Blue Gem Essence - jaopca:item_essencebluegem - 0 - essenceBlueGem, essenceTier3
-Garnet Essence - jaopca:item_essencegarnet - 0 - essenceGarnet, essenceTier3
-Green Diamond Essence - jaopca:item_essencegreendiamond - 0 - essenceGreenDiamond, essenceTier3
+Blue Gem Essence - jaopca:item_essencebluegem - 0 - essenceTier3, essenceBlueGem
+Garnet Essence - jaopca:item_essencegarnet - 0 - essenceTier3, essenceGarnet
+Green Diamond Essence - jaopca:item_essencegreendiamond - 0 - essenceTier3, essenceGreenDiamond
 Heartium Essence - jaopca:item_essenceheartium - 0 - essenceHeartium, essenceTier3
 Hephaestite Essence - jaopca:item_essencehephaestite - 0 - essenceHephaestite, essenceTier3
-Lost Diamond Essence - jaopca:item_essencelostdiamond - 0 - essenceTier3, essenceLostDiamond
-Opal Essence - jaopca:item_essenceopal - 0 - essenceTier3, essenceOpal
-Promethean Essence - jaopca:item_essencepromethean - 0 - essenceTier3, essencePromethean
-Purple Diamond Essence - jaopca:item_essencepurplediamond - 0 - essenceTier3, essencePurpleDiamond
-Black Quartz Essence - jaopca:item_essencequartzblack - 0 - essenceTier3, essenceQuartzBlack
+Lost Diamond Essence - jaopca:item_essencelostdiamond - 0 - essenceLostDiamond, essenceTier3
+Opal Essence - jaopca:item_essenceopal - 0 - essenceOpal, essenceTier3
+Plutonium Essence - jaopca:item_essenceplutonium - 0 - essencePlutonium, essenceTier3
+Promethean Essence - jaopca:item_essencepromethean - 0 - essencePromethean, essenceTier3
+Purple Diamond Essence - jaopca:item_essencepurplediamond - 0 - essencePurpleDiamond, essenceTier3
+Black Quartz Essence - jaopca:item_essencequartzblack - 0 - essenceQuartzBlack, essenceTier3
 Red Diamond Essence - jaopca:item_essencereddiamond - 0 - essenceTier3, essenceRedDiamond
 Red Gem Essence - jaopca:item_essenceredgem - 0 - essenceTier3, essenceRedGem
 Scarlite Essence - jaopca:item_essencescarlite - 0 - essenceTier3, essenceScarlite
 Super Charged Coal Essence - jaopca:item_essencesuperchargedcoal - 0 - essenceTier3, essenceSuperChargedCoal
 Void Spar Essence - jaopca:item_essencevoidspar - 0 - essenceTier3, essenceVoidSpar
 White Gem Essence - jaopca:item_essencewhitegem - 0 - essenceTier3, essenceWhiteGem
-Witherite Essence - jaopca:item_essencewitherite - 0 - essenceWitherite, essenceTier3
-Yellow Diamond Essence - jaopca:item_essenceyellowdiamond - 0 - essenceYellowDiamond, essenceTier3
+Witherite Essence - jaopca:item_essencewitherite - 0 - essenceTier3, essenceWitherite
+Yellow Diamond Essence - jaopca:item_essenceyellowdiamond - 0 - essenceTier3, essenceYellowDiamond
 Phosphorus Essence - jaopca:item_essencephosphorus - 0 - essencePhosphorus, essenceTier3
 Potash Essence - jaopca:item_essencepotash - 0 - essencePotash, essenceTier3
-Alduorite Seeds - jaopca:item_mysticalseedsalduorite - 0 - seedsTier3, mysticalSeedsAlduorite
-Amaranth Seeds - jaopca:item_mysticalseedsamaranth - 0 - seedsTier3, mysticalSeedsAmaranth
-Astral Silver Seeds - jaopca:item_mysticalseedsastralsilver - 0 - seedsTier3, mysticalSeedsAstralSilver
-Astral Starmetal Seeds - jaopca:item_mysticalseedsastralstarmetal - 0 - seedsTier3, mysticalSeedsAstralStarmetal
-Atlarus Seeds - jaopca:item_mysticalseedsatlarus - 0 - seedsTier3, mysticalSeedsAtlarus
-Carbon Seeds - jaopca:item_mysticalseedscarbon - 0 - seedsTier3, mysticalSeedsCarbon
-Carmot Seeds - jaopca:item_mysticalseedscarmot - 0 - seedsTier3, mysticalSeedsCarmot
+Alduorite Seeds - jaopca:item_mysticalseedsalduorite - 0 - mysticalSeedsAlduorite, seedsTier3
+Amaranth Seeds - jaopca:item_mysticalseedsamaranth - 0 - mysticalSeedsAmaranth, seedsTier3
+Astral Silver Seeds - jaopca:item_mysticalseedsastralsilver - 0 - mysticalSeedsAstralSilver, seedsTier3
+Astral Starmetal Seeds - jaopca:item_mysticalseedsastralstarmetal - 0 - mysticalSeedsAstralStarmetal, seedsTier3
+Atlarus Seeds - jaopca:item_mysticalseedsatlarus - 0 - mysticalSeedsAtlarus, seedsTier3
+Carbon Seeds - jaopca:item_mysticalseedscarbon - 0 - mysticalSeedsCarbon, seedsTier3
+Carmot Seeds - jaopca:item_mysticalseedscarmot - 0 - mysticalSeedsCarmot, seedsTier3
 Ceruclase Seeds - jaopca:item_mysticalseedsceruclase - 0 - seedsTier3, mysticalSeedsCeruclase
 Chargium Seeds - jaopca:item_mysticalseedschargium - 0 - seedsTier3, mysticalSeedsChargium
 Crystal Seeds - jaopca:item_mysticalseedscrystal - 0 - seedsTier3, mysticalSeedsCrystal
 Dark Iron Seeds - jaopca:item_mysticalseedsdarkiron - 0 - seedsTier3, mysticalSeedsDarkIron
 Deep Iron Seeds - jaopca:item_mysticalseedsdeepiron - 0 - seedsTier3, mysticalSeedsDeepIron
-Etrium Seeds - jaopca:item_mysticalseedsetrium - 0 - mysticalSeedsEtrium, seedsTier3
+Etrium Seeds - jaopca:item_mysticalseedsetrium - 0 - seedsTier3, mysticalSeedsEtrium
 Evenium Seeds - jaopca:item_mysticalseedsevenium - 0 - seedsTier3, mysticalSeedsEvenium
-Eximite Seeds - jaopca:item_mysticalseedseximite - 0 - seedsTier3, mysticalSeedsEximite
-Fueltonium Seeds - jaopca:item_mysticalseedsfueltonium - 0 - seedsTier3, mysticalSeedsFueltonium
-Fusionite Seeds - jaopca:item_mysticalseedsfusionite - 0 - seedsTier3, mysticalSeedsFusionite
-Ignatius Seeds - jaopca:item_mysticalseedsignatius - 0 - seedsTier3, mysticalSeedsIgnatius
-Infuscolium Seeds - jaopca:item_mysticalseedsinfuscolium - 0 - seedsTier3, mysticalSeedsInfuscolium
-Kalendrite Seeds - jaopca:item_mysticalseedskalendrite - 0 - seedsTier3, mysticalSeedsKalendrite
-Lemurite Seeds - jaopca:item_mysticalseedslemurite - 0 - seedsTier3, mysticalSeedsLemurite
-Lutetium Seeds - jaopca:item_mysticalseedslutetium - 0 - seedsTier3, mysticalSeedsLutetium
-Manganese Seeds - jaopca:item_mysticalseedsmanganese - 0 - seedsTier3, mysticalSeedsManganese
+Eximite Seeds - jaopca:item_mysticalseedseximite - 0 - mysticalSeedsEximite, seedsTier3
+Fueltonium Seeds - jaopca:item_mysticalseedsfueltonium - 0 - mysticalSeedsFueltonium, seedsTier3
+Fusionite Seeds - jaopca:item_mysticalseedsfusionite - 0 - mysticalSeedsFusionite, seedsTier3
+Ignatius Seeds - jaopca:item_mysticalseedsignatius - 0 - mysticalSeedsIgnatius, seedsTier3
+Infuscolium Seeds - jaopca:item_mysticalseedsinfuscolium - 0 - mysticalSeedsInfuscolium, seedsTier3
+Kalendrite Seeds - jaopca:item_mysticalseedskalendrite - 0 - mysticalSeedsKalendrite, seedsTier3
+Lemurite Seeds - jaopca:item_mysticalseedslemurite - 0 - mysticalSeedsLemurite, seedsTier3
+Lutetium Seeds - jaopca:item_mysticalseedslutetium - 0 - mysticalSeedsLutetium, seedsTier3
+Manganese Seeds - jaopca:item_mysticalseedsmanganese - 0 - mysticalSeedsManganese, seedsTier3
 Mercury Seeds - jaopca:item_mysticalseedsmercury - 0 - seedsTier3, mysticalSeedsMercury
 Meutoite Seeds - jaopca:item_mysticalseedsmeutoite - 0 - seedsTier3, mysticalSeedsMeutoite
 Midasium Seeds - jaopca:item_mysticalseedsmidasium - 0 - seedsTier3, mysticalSeedsMidasium
 Orichalcum Seeds - jaopca:item_mysticalseedsorichalcum - 0 - seedsTier3, mysticalSeedsOrichalcum
 Oureclase Seeds - jaopca:item_mysticalseedsoureclase - 0 - seedsTier3, mysticalSeedsOureclase
-Palladium Seeds - jaopca:item_mysticalseedspalladium - 0 - mysticalSeedsPalladium, seedsTier3
-Plutonium Seeds - jaopca:item_mysticalseedsplutonium - 0 - seedsTier3, mysticalSeedsPlutonium
+Palladium Seeds - jaopca:item_mysticalseedspalladium - 0 - seedsTier3, mysticalSeedsPalladium
 Prometheum Seeds - jaopca:item_mysticalseedsprometheum - 0 - seedsTier3, mysticalSeedsPrometheum
-Radium Seeds - jaopca:item_mysticalseedsradium - 0 - seedsTier3, mysticalSeedsRadium
-Rubracium Seeds - jaopca:item_mysticalseedsrubracium - 0 - seedsTier3, mysticalSeedsRubracium
-Sanguinite Seeds - jaopca:item_mysticalseedssanguinite - 0 - seedsTier3, mysticalSeedsSanguinite
-Shadow Iron Seeds - jaopca:item_mysticalseedsshadowiron - 0 - seedsTier3, mysticalSeedsShadowIron
-Shinium Seeds - jaopca:item_mysticalseedsshinium - 0 - seedsTier3, mysticalSeedsShinium
-Umbrium Seeds - jaopca:item_mysticalseedsumbrium - 0 - seedsTier3, mysticalSeedsUmbrium
-Virinium Seeds - jaopca:item_mysticalseedsvirinium - 0 - seedsTier3, mysticalSeedsVirinium
-Vulcanite Seeds - jaopca:item_mysticalseedsvulcanite - 0 - seedsTier3, mysticalSeedsVulcanite
-Vyroxeres Seeds - jaopca:item_mysticalseedsvyroxeres - 0 - seedsTier3, mysticalSeedsVyroxeres
+Radium Seeds - jaopca:item_mysticalseedsradium - 0 - mysticalSeedsRadium, seedsTier3
+Rubracium Seeds - jaopca:item_mysticalseedsrubracium - 0 - mysticalSeedsRubracium, seedsTier3
+Sanguinite Seeds - jaopca:item_mysticalseedssanguinite - 0 - mysticalSeedsSanguinite, seedsTier3
+Shadow Iron Seeds - jaopca:item_mysticalseedsshadowiron - 0 - mysticalSeedsShadowIron, seedsTier3
+Shinium Seeds - jaopca:item_mysticalseedsshinium - 0 - mysticalSeedsShinium, seedsTier3
+Umbrium Seeds - jaopca:item_mysticalseedsumbrium - 0 - mysticalSeedsUmbrium, seedsTier3
+Virinium Seeds - jaopca:item_mysticalseedsvirinium - 0 - mysticalSeedsVirinium, seedsTier3
+Vulcanite Seeds - jaopca:item_mysticalseedsvulcanite - 0 - mysticalSeedsVulcanite, seedsTier3
+Vyroxeres Seeds - jaopca:item_mysticalseedsvyroxeres - 0 - mysticalSeedsVyroxeres, seedsTier3
 Zollernium Seeds - jaopca:item_mysticalseedszollernium - 0 - seedsTier3, mysticalSeedsZollernium
 Ascendium Seeds - jaopca:item_mysticalseedsascendium - 0 - seedsTier3, mysticalSeedsAscendium
 Azurite Seeds - jaopca:item_mysticalseedsazurite - 0 - seedsTier3, mysticalSeedsAzurite
 Blue Diamond Seeds - jaopca:item_mysticalseedsbluediamond - 0 - seedsTier3, mysticalSeedsBlueDiamond
-Blue Gem Seeds - jaopca:item_mysticalseedsbluegem - 0 - mysticalSeedsBlueGem, seedsTier3
+Blue Gem Seeds - jaopca:item_mysticalseedsbluegem - 0 - seedsTier3, mysticalSeedsBlueGem
 Garnet Seeds - jaopca:item_mysticalseedsgarnet - 0 - seedsTier3, mysticalSeedsGarnet
 Green Diamond Seeds - jaopca:item_mysticalseedsgreendiamond - 0 - seedsTier3, mysticalSeedsGreenDiamond
-Heartium Seeds - jaopca:item_mysticalseedsheartium - 0 - seedsTier3, mysticalSeedsHeartium
-Hephaestite Seeds - jaopca:item_mysticalseedshephaestite - 0 - seedsTier3, mysticalSeedsHephaestite
-Lost Diamond Seeds - jaopca:item_mysticalseedslostdiamond - 0 - seedsTier3, mysticalSeedsLostDiamond
-Opal Seeds - jaopca:item_mysticalseedsopal - 0 - seedsTier3, mysticalSeedsOpal
-Promethean Seeds - jaopca:item_mysticalseedspromethean - 0 - seedsTier3, mysticalSeedsPromethean
-Purple Diamond Seeds - jaopca:item_mysticalseedspurplediamond - 0 - seedsTier3, mysticalSeedsPurpleDiamond
-Black Quartz Seeds - jaopca:item_mysticalseedsquartzblack - 0 - seedsTier3, mysticalSeedsQuartzBlack
-Red Diamond Seeds - jaopca:item_mysticalseedsreddiamond - 0 - seedsTier3, mysticalSeedsRedDiamond
+Heartium Seeds - jaopca:item_mysticalseedsheartium - 0 - mysticalSeedsHeartium, seedsTier3
+Hephaestite Seeds - jaopca:item_mysticalseedshephaestite - 0 - mysticalSeedsHephaestite, seedsTier3
+Lost Diamond Seeds - jaopca:item_mysticalseedslostdiamond - 0 - mysticalSeedsLostDiamond, seedsTier3
+Opal Seeds - jaopca:item_mysticalseedsopal - 0 - mysticalSeedsOpal, seedsTier3
+Plutonium Seeds - jaopca:item_mysticalseedsplutonium - 0 - mysticalSeedsPlutonium, seedsTier3
+Promethean Seeds - jaopca:item_mysticalseedspromethean - 0 - mysticalSeedsPromethean, seedsTier3
+Purple Diamond Seeds - jaopca:item_mysticalseedspurplediamond - 0 - mysticalSeedsPurpleDiamond, seedsTier3
+Black Quartz Seeds - jaopca:item_mysticalseedsquartzblack - 0 - mysticalSeedsQuartzBlack, seedsTier3
+Red Diamond Seeds - jaopca:item_mysticalseedsreddiamond - 0 - mysticalSeedsRedDiamond, seedsTier3
 Red Gem Seeds - jaopca:item_mysticalseedsredgem - 0 - seedsTier3, mysticalSeedsRedGem
 Scarlite Seeds - jaopca:item_mysticalseedsscarlite - 0 - seedsTier3, mysticalSeedsScarlite
 Super Charged Coal Seeds - jaopca:item_mysticalseedssuperchargedcoal - 0 - seedsTier3, mysticalSeedsSuperChargedCoal
 Void Spar Seeds - jaopca:item_mysticalseedsvoidspar - 0 - seedsTier3, mysticalSeedsVoidSpar
 White Gem Seeds - jaopca:item_mysticalseedswhitegem - 0 - seedsTier3, mysticalSeedsWhiteGem
-Witherite Seeds - jaopca:item_mysticalseedswitherite - 0 - mysticalSeedsWitherite, seedsTier3
+Witherite Seeds - jaopca:item_mysticalseedswitherite - 0 - seedsTier3, mysticalSeedsWitherite
 Yellow Diamond Seeds - jaopca:item_mysticalseedsyellowdiamond - 0 - seedsTier3, mysticalSeedsYellowDiamond
-Phosphorus Seeds - jaopca:item_mysticalseedsphosphorus - 0 - seedsTier3, mysticalSeedsPhosphorus
-Potash Seeds - jaopca:item_mysticalseedspotash - 0 - seedsTier3, mysticalSeedsPotash
+Phosphorus Seeds - jaopca:item_mysticalseedsphosphorus - 0 - mysticalSeedsPhosphorus, seedsTier3
+Potash Seeds - jaopca:item_mysticalseedspotash - 0 - mysticalSeedsPotash, seedsTier3
 Ardite Dust - jaopca:item_dustardite - 0 - dustArdite
 Carbon Dust - jaopca:item_dustcarbon - 0 - dustCarbon
 Crystal Dust - jaopca:item_dustcrystal - 0 - dustCrystal
@@ -12401,6 +12472,7 @@ Lost Diamond Dust - jaopca:item_dustlostdiamond - 0 - dustLostDiamond
 Malachite Dust - jaopca:item_dustmalachite - 0 - dustMalachite
 Opal Dust - jaopca:item_dustopal - 0 - dustOpal
 Peridot Dust - jaopca:item_dustperidot - 0 - dustPeridot
+Plutonium Dust - jaopca:item_dustplutonium - 0 - dustPlutonium
 Promethean Dust - jaopca:item_dustpromethean - 0 - dustPromethean
 Purple Diamond Dust - jaopca:item_dustpurplediamond - 0 - dustPurpleDiamond
 Red Diamond Dust - jaopca:item_dustreddiamond - 0 - dustRedDiamond
@@ -12429,7 +12501,6 @@ Magnesium Nugget - jaopca:item_nuggetmagnesium - 0 - nuggetMagnesium
 Mercury Nugget - jaopca:item_nuggetmercury - 0 - nuggetMercury
 Meteoric Iron Nugget - jaopca:item_nuggetmeteoriciron - 0 - nuggetMeteoricIron
 Palladium Nugget - jaopca:item_nuggetpalladium - 0 - nuggetPalladium
-Plutonium Nugget - jaopca:item_nuggetplutonium - 0 - nuggetPlutonium
 Shinium Nugget - jaopca:item_nuggetshinium - 0 - nuggetShinium
 Tungsten Nugget - jaopca:item_nuggettungsten - 0 - nuggetTungsten
 Uranium Nugget - jaopca:item_nuggeturanium - 0 - nuggetUranium
@@ -12458,6 +12529,7 @@ Lost Diamond Nugget - jaopca:item_nuggetlostdiamond - 0 - nuggetLostDiamond
 Malachite Nugget - jaopca:item_nuggetmalachite - 0 - nuggetMalachite
 Opal Nugget - jaopca:item_nuggetopal - 0 - nuggetOpal
 Peridot Nugget - jaopca:item_nuggetperidot - 0 - nuggetPeridot
+Plutonium Nugget - jaopca:item_nuggetplutonium - 0 - nuggetPlutonium
 Promethean Nugget - jaopca:item_nuggetpromethean - 0 - nuggetPromethean
 Purple Diamond Nugget - jaopca:item_nuggetpurplediamond - 0 - nuggetPurpleDiamond
 Black Quartz Nugget - jaopca:item_nuggetquartzblack - 0 - nuggetQuartzBlack
@@ -12510,7 +12582,6 @@ Orichalcum Coin - jaopca:item_coinorichalcum - 0 - coinOrichalcum
 Osmium Coin - jaopca:item_coinosmium - 0 - coinOsmium
 Oureclase Coin - jaopca:item_coinoureclase - 0 - coinOureclase
 Palladium Coin - jaopca:item_coinpalladium - 0 - coinPalladium
-Plutonium Coin - jaopca:item_coinplutonium - 0 - coinPlutonium
 Prometheum Coin - jaopca:item_coinprometheum - 0 - coinPrometheum
 Radium Coin - jaopca:item_coinradium - 0 - coinRadium
 Rubracium Coin - jaopca:item_coinrubracium - 0 - coinRubracium
@@ -12565,7 +12636,6 @@ Orichalcum Gear - jaopca:item_gearorichalcum - 0 - gearOrichalcum
 Osmium Gear - jaopca:item_gearosmium - 0 - gearOsmium
 Oureclase Gear - jaopca:item_gearoureclase - 0 - gearOureclase
 Palladium Gear - jaopca:item_gearpalladium - 0 - gearPalladium
-Plutonium Gear - jaopca:item_gearplutonium - 0 - gearPlutonium
 Prometheum Gear - jaopca:item_gearprometheum - 0 - gearPrometheum
 Radium Gear - jaopca:item_gearradium - 0 - gearRadium
 Rubracium Gear - jaopca:item_gearrubracium - 0 - gearRubracium
@@ -12604,6 +12674,7 @@ Lost Diamond Gear - jaopca:item_gearlostdiamond - 0 - gearLostDiamond
 Malachite Gear - jaopca:item_gearmalachite - 0 - gearMalachite
 Opal Gear - jaopca:item_gearopal - 0 - gearOpal
 Peridot Gear - jaopca:item_gearperidot - 0 - gearPeridot
+Plutonium Gear - jaopca:item_gearplutonium - 0 - gearPlutonium
 Promethean Gear - jaopca:item_gearpromethean - 0 - gearPromethean
 Purple Diamond Gear - jaopca:item_gearpurplediamond - 0 - gearPurpleDiamond
 Quartz Gear - jaopca:item_gearquartz - 0 - gearQuartz
@@ -12653,7 +12724,6 @@ Orichalcum Plate - jaopca:item_plateorichalcum - 0 - plateOrichalcum
 Osmium Plate - jaopca:item_plateosmium - 0 - plateOsmium
 Oureclase Plate - jaopca:item_plateoureclase - 0 - plateOureclase
 Palladium Plate - jaopca:item_platepalladium - 0 - platePalladium
-Plutonium Plate - jaopca:item_plateplutonium - 0 - platePlutonium
 Prometheum Plate - jaopca:item_plateprometheum - 0 - platePrometheum
 Radium Plate - jaopca:item_plateradium - 0 - plateRadium
 Rubracium Plate - jaopca:item_platerubracium - 0 - plateRubracium
@@ -12691,6 +12761,7 @@ Lost Diamond Plate - jaopca:item_platelostdiamond - 0 - plateLostDiamond
 Malachite Plate - jaopca:item_platemalachite - 0 - plateMalachite
 Opal Plate - jaopca:item_plateopal - 0 - plateOpal
 Peridot Plate - jaopca:item_plateperidot - 0 - platePeridot
+Plutonium Plate - jaopca:item_plateplutonium - 0 - platePlutonium
 Promethean Plate - jaopca:item_platepromethean - 0 - platePromethean
 Purple Diamond Plate - jaopca:item_platepurplediamond - 0 - platePurpleDiamond
 Quartz Plate - jaopca:item_platequartz - 0 - plateQuartz
@@ -12708,110 +12779,110 @@ White Gem Plate - jaopca:item_platewhitegem - 0 - plateWhiteGem
 Witherite Plate - jaopca:item_platewitherite - 0 - plateWitherite
 Yellow Diamond Plate - jaopca:item_plateyellowdiamond - 0 - plateYellowDiamond
 Adamantine Rod - jaopca:item_stickadamantine - 0 - stickAdamantine, rodAdamantine
-Alduorite Rod - jaopca:item_stickalduorite - 0 - rodAlduorite, stickAlduorite
-Aluminium Rod - jaopca:item_stickaluminium - 0 - rodAluminium, stickAluminium, stickAluminum
-Amaranth Rod - jaopca:item_stickamaranth - 0 - rodAmaranth, stickAmaranth
-Ardite Rod - jaopca:item_stickardite - 0 - rodArdite, stickArdite
-Astral Silver Rod - jaopca:item_stickastralsilver - 0 - rodAstralSilver, stickAstralSilver
-Astral Starmetal Rod - jaopca:item_stickastralstarmetal - 0 - rodAstralStarmetal, stickAstralStarmetal
-Atlarus Rod - jaopca:item_stickatlarus - 0 - rodAtlarus, stickAtlarus
-Bronze Rod - jaopca:item_stickbronze - 0 - rodBronze, stickBronze
-Carbon Rod - jaopca:item_stickcarbon - 0 - rodCarbon, stickCarbon
+Alduorite Rod - jaopca:item_stickalduorite - 0 - stickAlduorite, rodAlduorite
+Aluminium Rod - jaopca:item_stickaluminium - 0 - stickAluminium, stickAluminum, rodAluminium
+Amaranth Rod - jaopca:item_stickamaranth - 0 - stickAmaranth, rodAmaranth
+Ardite Rod - jaopca:item_stickardite - 0 - stickArdite, rodArdite
+Astral Silver Rod - jaopca:item_stickastralsilver - 0 - stickAstralSilver, rodAstralSilver
+Astral Starmetal Rod - jaopca:item_stickastralstarmetal - 0 - stickAstralStarmetal, rodAstralStarmetal
+Atlarus Rod - jaopca:item_stickatlarus - 0 - stickAtlarus, rodAtlarus
+Bronze Rod - jaopca:item_stickbronze - 0 - stickBronze, rodBronze
+Carbon Rod - jaopca:item_stickcarbon - 0 - stickCarbon, rodCarbon
 Carmot Rod - jaopca:item_stickcarmot - 0 - rodCarmot, stickCarmot
-Ceruclase Rod - jaopca:item_stickceruclase - 0 - stickCeruclase, rodCeruclase
-Chargium Rod - jaopca:item_stickchargium - 0 - stickChargium, rodChargium
+Ceruclase Rod - jaopca:item_stickceruclase - 0 - rodCeruclase, stickCeruclase
+Chargium Rod - jaopca:item_stickchargium - 0 - rodChargium, stickChargium
 Cobalt Rod - jaopca:item_stickcobalt - 0 - stickCobalt, rodCobalt
 Crystal Rod - jaopca:item_stickcrystal - 0 - stickCrystal, rodCrystal
 Dark Iron Rod - jaopca:item_stickdarkiron - 0 - stickDarkIron, rodDarkIron
 Deep Iron Rod - jaopca:item_stickdeepiron - 0 - stickDeepIron, rodDeepIron
-Desh Rod - jaopca:item_stickdesh - 0 - rodDesh, stickDesh
-Draconium Rod - jaopca:item_stickdraconium - 0 - rodDraconium, stickDraconium
-Electrum Rod - jaopca:item_stickelectrum - 0 - rodElectrum, stickElectrum
-Etrium Rod - jaopca:item_sticketrium - 0 - rodEtrium, stickEtrium
-Evenium Rod - jaopca:item_stickevenium - 0 - rodEvenium, stickEvenium
-Eximite Rod - jaopca:item_stickeximite - 0 - rodEximite, stickEximite
-Fueltonium Rod - jaopca:item_stickfueltonium - 0 - rodFueltonium, stickFueltonium
-Fusionite Rod - jaopca:item_stickfusionite - 0 - rodFusionite, stickFusionite
-Gold Rod - jaopca:item_stickgold - 0 - rodGold, stickGold
+Desh Rod - jaopca:item_stickdesh - 0 - stickDesh, rodDesh
+Draconium Rod - jaopca:item_stickdraconium - 0 - stickDraconium, rodDraconium
+Electrum Rod - jaopca:item_stickelectrum - 0 - stickElectrum, rodElectrum
+Etrium Rod - jaopca:item_sticketrium - 0 - stickEtrium, rodEtrium
+Evenium Rod - jaopca:item_stickevenium - 0 - stickEvenium, rodEvenium
+Eximite Rod - jaopca:item_stickeximite - 0 - stickEximite, rodEximite
+Fueltonium Rod - jaopca:item_stickfueltonium - 0 - stickFueltonium, rodFueltonium
+Fusionite Rod - jaopca:item_stickfusionite - 0 - stickFusionite, rodFusionite
+Gold Rod - jaopca:item_stickgold - 0 - stickGold, rodGold
 Ignatius Rod - jaopca:item_stickignatius - 0 - rodIgnatius, stickIgnatius
-Infuscolium Rod - jaopca:item_stickinfuscolium - 0 - stickInfuscolium, rodInfuscolium
-Invar Rod - jaopca:item_stickinvar - 0 - stickInvar, rodInvar
+Infuscolium Rod - jaopca:item_stickinfuscolium - 0 - rodInfuscolium, stickInfuscolium
+Invar Rod - jaopca:item_stickinvar - 0 - rodInvar, stickInvar
 Kalendrite Rod - jaopca:item_stickkalendrite - 0 - stickKalendrite, rodKalendrite
 Lead Rod - jaopca:item_sticklead - 0 - stickLead, rodLead
 Lemurite Rod - jaopca:item_sticklemurite - 0 - stickLemurite, rodLemurite
 Lutetium Rod - jaopca:item_sticklutetium - 0 - stickLutetium, rodLutetium
-Magnesium Rod - jaopca:item_stickmagnesium - 0 - rodMagnesium, stickMagnesium
-Manganese Rod - jaopca:item_stickmanganese - 0 - rodManganese, stickManganese
-Mercury Rod - jaopca:item_stickmercury - 0 - rodMercury, stickMercury
-Meteoric Iron Rod - jaopca:item_stickmeteoriciron - 0 - rodMeteoricIron, stickMeteoricIron
-Meutoite Rod - jaopca:item_stickmeutoite - 0 - rodMeutoite, stickMeutoite
-Midasium Rod - jaopca:item_stickmidasium - 0 - rodMidasium, stickMidasium
-Mithril Rod - jaopca:item_stickmithril - 0 - rodMithril, stickMithril
-Nickel Rod - jaopca:item_sticknickel - 0 - rodNickel, stickNickel
-Orichalcum Rod - jaopca:item_stickorichalcum - 0 - rodOrichalcum, stickOrichalcum
+Magnesium Rod - jaopca:item_stickmagnesium - 0 - stickMagnesium, rodMagnesium
+Manganese Rod - jaopca:item_stickmanganese - 0 - stickManganese, rodManganese
+Mercury Rod - jaopca:item_stickmercury - 0 - stickMercury, rodMercury
+Meteoric Iron Rod - jaopca:item_stickmeteoriciron - 0 - stickMeteoricIron, rodMeteoricIron
+Meutoite Rod - jaopca:item_stickmeutoite - 0 - stickMeutoite, rodMeutoite
+Midasium Rod - jaopca:item_stickmidasium - 0 - stickMidasium, rodMidasium
+Mithril Rod - jaopca:item_stickmithril - 0 - stickMithril, rodMithril
+Nickel Rod - jaopca:item_sticknickel - 0 - stickNickel, rodNickel
+Orichalcum Rod - jaopca:item_stickorichalcum - 0 - stickOrichalcum, rodOrichalcum
 Osmium Rod - jaopca:item_stickosmium - 0 - rodOsmium, stickOsmium
-Oureclase Rod - jaopca:item_stickoureclase - 0 - stickOureclase, rodOureclase
-Palladium Rod - jaopca:item_stickpalladium - 0 - stickPalladium, rodPalladium
+Oureclase Rod - jaopca:item_stickoureclase - 0 - rodOureclase, stickOureclase
+Palladium Rod - jaopca:item_stickpalladium - 0 - rodPalladium, stickPalladium
 Platinum Rod - jaopca:item_stickplatinum - 0 - stickPlatinum, rodPlatinum
-Plutonium Rod - jaopca:item_stickplutonium - 0 - stickPlutonium, rodPlutonium
 Prometheum Rod - jaopca:item_stickprometheum - 0 - stickPrometheum, rodPrometheum
 Radium Rod - jaopca:item_stickradium - 0 - stickRadium, rodRadium
-Rubracium Rod - jaopca:item_stickrubracium - 0 - rodRubracium, stickRubracium
-Sanguinite Rod - jaopca:item_sticksanguinite - 0 - rodSanguinite, stickSanguinite
-Shadow Iron Rod - jaopca:item_stickshadowiron - 0 - rodShadowIron, stickShadowIron
-Shinium Rod - jaopca:item_stickshinium - 0 - rodShinium, stickShinium
-Silicon Rod - jaopca:item_sticksilicon - 0 - rodSilicon, stickSilicon
-Silver Rod - jaopca:item_sticksilver - 0 - rodSilver, stickSilver
-Tin Rod - jaopca:item_sticktin - 0 - rodTin, stickTin
-Tungsten Rod - jaopca:item_sticktungsten - 0 - rodTungsten, stickTungsten
-Umbrium Rod - jaopca:item_stickumbrium - 0 - rodUmbrium, stickUmbrium
-Uranium Rod - jaopca:item_stickuranium - 0 - rodUranium, stickUranium
-Virinium Rod - jaopca:item_stickvirinium - 0 - stickVirinium, rodVirinium
-Vulcanite Rod - jaopca:item_stickvulcanite - 0 - stickVulcanite, rodVulcanite
-Vyroxeres Rod - jaopca:item_stickvyroxeres - 0 - stickVyroxeres, rodVyroxeres
+Rubracium Rod - jaopca:item_stickrubracium - 0 - stickRubracium, rodRubracium
+Sanguinite Rod - jaopca:item_sticksanguinite - 0 - stickSanguinite, rodSanguinite
+Shadow Iron Rod - jaopca:item_stickshadowiron - 0 - stickShadowIron, rodShadowIron
+Shinium Rod - jaopca:item_stickshinium - 0 - stickShinium, rodShinium
+Silicon Rod - jaopca:item_sticksilicon - 0 - stickSilicon, rodSilicon
+Silver Rod - jaopca:item_sticksilver - 0 - stickSilver, rodSilver
+Tin Rod - jaopca:item_sticktin - 0 - stickTin, rodTin
+Tungsten Rod - jaopca:item_sticktungsten - 0 - stickTungsten, rodTungsten
+Umbrium Rod - jaopca:item_stickumbrium - 0 - stickUmbrium, rodUmbrium
+Uranium Rod - jaopca:item_stickuranium - 0 - stickUranium, rodUranium
+Virinium Rod - jaopca:item_stickvirinium - 0 - rodVirinium, stickVirinium
+Vulcanite Rod - jaopca:item_stickvulcanite - 0 - rodVulcanite, stickVulcanite
+Vyroxeres Rod - jaopca:item_stickvyroxeres - 0 - rodVyroxeres, stickVyroxeres
 Yellorium Rod - jaopca:item_stickyellorium - 0 - stickYellorium, rodYellorium
 Zinc Rod - jaopca:item_stickzinc - 0 - stickZinc, rodZinc
 Zollernium Rod - jaopca:item_stickzollernium - 0 - stickZollernium, rodZollernium
-Amber Rod - jaopca:item_stickamber - 0 - rodAmber, stickAmber
-Amethyst Rod - jaopca:item_stickamethyst - 0 - rodAmethyst, stickAmethyst
-Aquamarine Rod - jaopca:item_stickaquamarine - 0 - rodAquamarine, stickAquamarine
-Ascendium Rod - jaopca:item_stickascendium - 0 - rodAscendium, stickAscendium
-Azurite Rod - jaopca:item_stickazurite - 0 - rodAzurite, stickAzurite
-Blue Diamond Rod - jaopca:item_stickbluediamond - 0 - rodBlueDiamond, stickBlueDiamond
-Blue Gem Rod - jaopca:item_stickbluegem - 0 - rodBlueGem, stickBlueGem
-Certus Quartz Rod - jaopca:item_stickcertusquartz - 0 - rodCertusQuartz, stickCertusQuartz
-Charged Certus Quartz Rod - jaopca:item_stickchargedcertusquartz - 0 - rodChargedCertusQuartz, stickChargedCertusQuartz
-Coal Rod - jaopca:item_stickcoal - 0 - rodCoal, stickCoal
-Diamond Rod - jaopca:item_stickdiamond - 0 - stickDiamond, rodDiamond
-Dilithium Rod - jaopca:item_stickdilithium - 0 - stickDilithium, rodDilithium
-Emerald Rod - jaopca:item_stickemerald - 0 - stickEmerald, rodEmerald
+Amber Rod - jaopca:item_stickamber - 0 - stickAmber, rodAmber
+Amethyst Rod - jaopca:item_stickamethyst - 0 - stickAmethyst, rodAmethyst
+Aquamarine Rod - jaopca:item_stickaquamarine - 0 - stickAquamarine, rodAquamarine
+Ascendium Rod - jaopca:item_stickascendium - 0 - stickAscendium, rodAscendium
+Azurite Rod - jaopca:item_stickazurite - 0 - stickAzurite, rodAzurite
+Blue Diamond Rod - jaopca:item_stickbluediamond - 0 - stickBlueDiamond, rodBlueDiamond
+Blue Gem Rod - jaopca:item_stickbluegem - 0 - stickBlueGem, rodBlueGem
+Certus Quartz Rod - jaopca:item_stickcertusquartz - 0 - stickCertusQuartz, rodCertusQuartz
+Charged Certus Quartz Rod - jaopca:item_stickchargedcertusquartz - 0 - stickChargedCertusQuartz, rodChargedCertusQuartz
+Coal Rod - jaopca:item_stickcoal - 0 - stickCoal, rodCoal
+Diamond Rod - jaopca:item_stickdiamond - 0 - rodDiamond, stickDiamond
+Dilithium Rod - jaopca:item_stickdilithium - 0 - rodDilithium, stickDilithium
+Emerald Rod - jaopca:item_stickemerald - 0 - rodEmerald, stickEmerald
 Ender Biotite Rod - jaopca:item_stickenderbiotite - 0 - stickEnderBiotite, rodEnderBiotite
 Garnet Rod - jaopca:item_stickgarnet - 0 - stickGarnet, rodGarnet
 Green Diamond Rod - jaopca:item_stickgreendiamond - 0 - stickGreenDiamond, rodGreenDiamond
-Heartium Rod - jaopca:item_stickheartium - 0 - rodHeartium, stickHeartium
-Hephaestite Rod - jaopca:item_stickhephaestite - 0 - rodHephaestite, stickHephaestite
-Jade Rod - jaopca:item_stickjade - 0 - rodJade, stickJade
-Lapis Lazuli Rod - jaopca:item_sticklapis - 0 - rodLapis, stickLapis
-Lost Diamond Rod - jaopca:item_sticklostdiamond - 0 - rodLostDiamond, stickLostDiamond
-Malachite Rod - jaopca:item_stickmalachite - 0 - rodMalachite, stickMalachite
-Opal Rod - jaopca:item_stickopal - 0 - rodOpal, stickOpal
-Peridot Rod - jaopca:item_stickperidot - 0 - rodPeridot, stickPeridot
-Promethean Rod - jaopca:item_stickpromethean - 0 - rodPromethean, stickPromethean
+Heartium Rod - jaopca:item_stickheartium - 0 - stickHeartium, rodHeartium
+Hephaestite Rod - jaopca:item_stickhephaestite - 0 - stickHephaestite, rodHephaestite
+Jade Rod - jaopca:item_stickjade - 0 - stickJade, rodJade
+Lapis Lazuli Rod - jaopca:item_sticklapis - 0 - stickLapis, rodLapis
+Lost Diamond Rod - jaopca:item_sticklostdiamond - 0 - stickLostDiamond, rodLostDiamond
+Malachite Rod - jaopca:item_stickmalachite - 0 - stickMalachite, rodMalachite
+Opal Rod - jaopca:item_stickopal - 0 - stickOpal, rodOpal
+Peridot Rod - jaopca:item_stickperidot - 0 - stickPeridot, rodPeridot
+Plutonium Rod - jaopca:item_stickplutonium - 0 - stickPlutonium, rodPlutonium
+Promethean Rod - jaopca:item_stickpromethean - 0 - stickPromethean, rodPromethean
 Purple Diamond Rod - jaopca:item_stickpurplediamond - 0 - rodPurpleDiamond, stickPurpleDiamond
-Quartz Rod - jaopca:item_stickquartz - 0 - stickQuartz, rodQuartz
-Black Quartz Rod - jaopca:item_stickquartzblack - 0 - stickQuartzBlack, rodQuartzBlack
+Quartz Rod - jaopca:item_stickquartz - 0 - rodQuartz, stickQuartz
+Black Quartz Rod - jaopca:item_stickquartzblack - 0 - rodQuartzBlack, stickQuartzBlack
 Red Diamond Rod - jaopca:item_stickreddiamond - 0 - stickRedDiamond, rodRedDiamond
 Red Gem Rod - jaopca:item_stickredgem - 0 - stickRedGem, rodRedGem
 Ruby Rod - jaopca:item_stickruby - 0 - stickRuby, rodRuby
 Sapphire Rod - jaopca:item_sticksapphire - 0 - stickSapphire, rodSapphire
-Scarlite Rod - jaopca:item_stickscarlite - 0 - rodScarlite, stickScarlite
-Super Charged Coal Rod - jaopca:item_sticksuperchargedcoal - 0 - rodSuperChargedCoal, stickSuperChargedCoal
-Tanzanite Rod - jaopca:item_sticktanzanite - 0 - rodTanzanite, stickTanzanite
-Topaz Rod - jaopca:item_sticktopaz - 0 - rodTopaz, stickTopaz
-Void Spar Rod - jaopca:item_stickvoidspar - 0 - rodVoidSpar, stickVoidSpar
-White Gem Rod - jaopca:item_stickwhitegem - 0 - rodWhiteGem, stickWhiteGem
-Witherite Rod - jaopca:item_stickwitherite - 0 - rodWitherite, stickWitherite
-Yellow Diamond Rod - jaopca:item_stickyellowdiamond - 0 - rodYellowDiamond, stickYellowDiamond
+Scarlite Rod - jaopca:item_stickscarlite - 0 - stickScarlite, rodScarlite
+Super Charged Coal Rod - jaopca:item_sticksuperchargedcoal - 0 - stickSuperChargedCoal, rodSuperChargedCoal
+Tanzanite Rod - jaopca:item_sticktanzanite - 0 - stickTanzanite, rodTanzanite
+Topaz Rod - jaopca:item_sticktopaz - 0 - stickTopaz, rodTopaz
+Void Spar Rod - jaopca:item_stickvoidspar - 0 - stickVoidSpar, rodVoidSpar
+White Gem Rod - jaopca:item_stickwhitegem - 0 - stickWhiteGem, rodWhiteGem
+Witherite Rod - jaopca:item_stickwitherite - 0 - stickWitherite, rodWitherite
+Yellow Diamond Rod - jaopca:item_stickyellowdiamond - 0 - stickYellowDiamond, rodYellowDiamond
 Tiny Pile of Adamantine Dust - jaopca:item_dusttinyadamantine - 0 - dustTinyAdamantine
 Tiny Pile of Alduorite Dust - jaopca:item_dusttinyalduorite - 0 - dustTinyAlduorite
 Tiny Pile of Aluminium Dust - jaopca:item_dusttinyaluminium - 0 - dustTinyAluminium, dustTinyAluminum
@@ -12856,7 +12927,6 @@ Tiny Pile of Osmium Dust - jaopca:item_dusttinyosmium - 0 - dustTinyOsmium
 Tiny Pile of Oureclase Dust - jaopca:item_dusttinyoureclase - 0 - dustTinyOureclase
 Tiny Pile of Palladium Dust - jaopca:item_dusttinypalladium - 0 - dustTinyPalladium
 Tiny Pile of Platinum Dust - jaopca:item_dusttinyplatinum - 0 - dustTinyPlatinum
-Tiny Pile of Plutonium Dust - jaopca:item_dusttinyplutonium - 0 - dustTinyPlutonium
 Tiny Pile of Prometheum Dust - jaopca:item_dusttinyprometheum - 0 - dustTinyPrometheum
 Tiny Pile of Radium Dust - jaopca:item_dusttinyradium - 0 - dustTinyRadium
 Tiny Pile of Rubracium Dust - jaopca:item_dusttinyrubracium - 0 - dustTinyRubracium
@@ -12897,6 +12967,7 @@ Tiny Pile of Lost Diamond Dust - jaopca:item_dusttinylostdiamond - 0 - dustTinyL
 Tiny Pile of Malachite Dust - jaopca:item_dusttinymalachite - 0 - dustTinyMalachite
 Tiny Pile of Opal Dust - jaopca:item_dusttinyopal - 0 - dustTinyOpal
 Tiny Pile of Peridot Dust - jaopca:item_dusttinyperidot - 0 - dustTinyPeridot
+Tiny Pile of Plutonium Dust - jaopca:item_dusttinyplutonium - 0 - dustTinyPlutonium
 Tiny Pile of Promethean Dust - jaopca:item_dusttinypromethean - 0 - dustTinyPromethean
 Tiny Pile of Purple Diamond Dust - jaopca:item_dusttinypurplediamond - 0 - dustTinyPurpleDiamond
 Tiny Pile of Quartz Dust - jaopca:item_dusttinyquartz - 0 - dustTinyQuartz
@@ -12965,7 +13036,6 @@ Small Pile of Osmium Dust - jaopca:item_dustsmallosmium - 0 - dustSmallOsmium
 Small Pile of Oureclase Dust - jaopca:item_dustsmalloureclase - 0 - dustSmallOureclase
 Small Pile of Palladium Dust - jaopca:item_dustsmallpalladium - 0 - dustSmallPalladium
 Small Pile of Platinum Dust - jaopca:item_dustsmallplatinum - 0 - dustSmallPlatinum
-Small Pile of Plutonium Dust - jaopca:item_dustsmallplutonium - 0 - dustSmallPlutonium
 Small Pile of Prometheum Dust - jaopca:item_dustsmallprometheum - 0 - dustSmallPrometheum
 Small Pile of Radium Dust - jaopca:item_dustsmallradium - 0 - dustSmallRadium
 Small Pile of Rubracium Dust - jaopca:item_dustsmallrubracium - 0 - dustSmallRubracium
@@ -13010,6 +13080,7 @@ Small Pile of Lost Diamond Dust - jaopca:item_dustsmalllostdiamond - 0 - dustSma
 Small Pile of Malachite Dust - jaopca:item_dustsmallmalachite - 0 - dustSmallMalachite
 Small Pile of Opal Dust - jaopca:item_dustsmallopal - 0 - dustSmallOpal
 Small Pile of Peridot Dust - jaopca:item_dustsmallperidot - 0 - dustSmallPeridot
+Small Pile of Plutonium Dust - jaopca:item_dustsmallplutonium - 0 - dustSmallPlutonium
 Small Pile of Promethean Dust - jaopca:item_dustsmallpromethean - 0 - dustSmallPromethean
 Small Pile of Purple Diamond Dust - jaopca:item_dustsmallpurplediamond - 0 - dustSmallPurpleDiamond
 Small Pile of Quartz Dust - jaopca:item_dustsmallquartz - 0 - dustSmallQuartz
@@ -13074,7 +13145,6 @@ Dense Osmium Plate - jaopca:item_platedenseosmium - 0 - plateDenseOsmium
 Dense Oureclase Plate - jaopca:item_platedenseoureclase - 0 - plateDenseOureclase
 Dense Palladium Plate - jaopca:item_platedensepalladium - 0 - plateDensePalladium
 Dense Platinum Plate - jaopca:item_platedenseplatinum - 0 - plateDensePlatinum
-Dense Plutonium Plate - jaopca:item_platedenseplutonium - 0 - plateDensePlutonium
 Dense Prometheum Plate - jaopca:item_platedenseprometheum - 0 - plateDensePrometheum
 Dense Radium Plate - jaopca:item_platedenseradium - 0 - plateDenseRadium
 Dense Rubracium Plate - jaopca:item_platedenserubracium - 0 - plateDenseRubracium
@@ -13116,6 +13186,7 @@ Dense Lost Diamond Plate - jaopca:item_platedenselostdiamond - 0 - plateDenseLos
 Dense Malachite Plate - jaopca:item_platedensemalachite - 0 - plateDenseMalachite
 Dense Opal Plate - jaopca:item_platedenseopal - 0 - plateDenseOpal
 Dense Peridot Plate - jaopca:item_platedenseperidot - 0 - plateDensePeridot
+Dense Plutonium Plate - jaopca:item_platedenseplutonium - 0 - plateDensePlutonium
 Dense Promethean Plate - jaopca:item_platedensepromethean - 0 - plateDensePromethean
 Dense Purple Diamond Plate - jaopca:item_platedensepurplediamond - 0 - plateDensePurpleDiamond
 Dense Quartz Plate - jaopca:item_platedensequartz - 0 - plateDenseQuartz
@@ -13176,7 +13247,6 @@ Dirty Orichalcum Dust - jaopca:item_dustdirtyorichalcum - 0 - dustDirtyOrichalcu
 Dirty Oureclase Dust - jaopca:item_dustdirtyoureclase - 0 - dustDirtyOureclase
 Dirty Palladium Dust - jaopca:item_dustdirtypalladium - 0 - dustDirtyPalladium
 Dirty Platinum Dust - jaopca:item_dustdirtyplatinum - 0 - dustDirtyPlatinum
-Dirty Plutonium Dust - jaopca:item_dustdirtyplutonium - 0 - dustDirtyPlutonium
 Dirty Prometheum Dust - jaopca:item_dustdirtyprometheum - 0 - dustDirtyPrometheum
 Dirty Radium Dust - jaopca:item_dustdirtyradium - 0 - dustDirtyRadium
 Dirty Rubracium Dust - jaopca:item_dustdirtyrubracium - 0 - dustDirtyRubracium
@@ -13239,7 +13309,6 @@ Orichalcum Clump - jaopca:item_clumporichalcum - 0 - clumpOrichalcum
 Oureclase Clump - jaopca:item_clumpoureclase - 0 - clumpOureclase
 Palladium Clump - jaopca:item_clumppalladium - 0 - clumpPalladium
 Platinum Clump - jaopca:item_clumpplatinum - 0 - clumpPlatinum
-Plutonium Clump - jaopca:item_clumpplutonium - 0 - clumpPlutonium
 Prometheum Clump - jaopca:item_clumpprometheum - 0 - clumpPrometheum
 Radium Clump - jaopca:item_clumpradium - 0 - clumpRadium
 Rubracium Clump - jaopca:item_clumprubracium - 0 - clumpRubracium
@@ -13302,7 +13371,6 @@ Orichalcum Shard - jaopca:item_shardorichalcum - 0 - shardOrichalcum
 Oureclase Shard - jaopca:item_shardoureclase - 0 - shardOureclase
 Palladium Shard - jaopca:item_shardpalladium - 0 - shardPalladium
 Platinum Shard - jaopca:item_shardplatinum - 0 - shardPlatinum
-Plutonium Shard - jaopca:item_shardplutonium - 0 - shardPlutonium
 Prometheum Shard - jaopca:item_shardprometheum - 0 - shardPrometheum
 Radium Shard - jaopca:item_shardradium - 0 - shardRadium
 Rubracium Shard - jaopca:item_shardrubracium - 0 - shardRubracium
@@ -13323,7 +13391,7 @@ Zinc Shard - jaopca:item_shardzinc - 0 - shardZinc
 Zollernium Shard - jaopca:item_shardzollernium - 0 - shardZollernium
 Adamantine Crystal - jaopca:item_crystaladamantine - 0 - crystalAdamantine
 Alduorite Crystal - jaopca:item_crystalalduorite - 0 - crystalAlduorite
-Aluminium Crystal - jaopca:item_crystalaluminium - 0 - crystalAluminium, crystalAluminum
+Aluminium Crystal - jaopca:item_crystalaluminium - 0 - crystalAluminum, crystalAluminium
 Amaranth Crystal - jaopca:item_crystalamaranth - 0 - crystalAmaranth
 Ardite Crystal - jaopca:item_crystalardite - 0 - crystalArdite
 Astral Silver Crystal - jaopca:item_crystalastralsilver - 0 - crystalAstralSilver
@@ -13365,7 +13433,6 @@ Orichalcum Crystal - jaopca:item_crystalorichalcum - 0 - crystalOrichalcum
 Oureclase Crystal - jaopca:item_crystaloureclase - 0 - crystalOureclase
 Palladium Crystal - jaopca:item_crystalpalladium - 0 - crystalPalladium
 Platinum Crystal - jaopca:item_crystalplatinum - 0 - crystalPlatinum
-Plutonium Crystal - jaopca:item_crystalplutonium - 0 - crystalPlutonium
 Prometheum Crystal - jaopca:item_crystalprometheum - 0 - crystalPrometheum
 Radium Crystal - jaopca:item_crystalradium - 0 - crystalRadium
 Rubracium Crystal - jaopca:item_crystalrubracium - 0 - crystalRubracium
@@ -13428,7 +13495,6 @@ Crushed Osmium Ore - jaopca:item_crushedosmium - 0 - crushedOsmium
 Crushed Oureclase Ore - jaopca:item_crushedoureclase - 0 - crushedOureclase
 Crushed Palladium Ore - jaopca:item_crushedpalladium - 0 - crushedPalladium
 Crushed Platinum Ore - jaopca:item_crushedplatinum - 0 - crushedPlatinum
-Crushed Plutonium Ore - jaopca:item_crushedplutonium - 0 - crushedPlutonium
 Crushed Prometheum Ore - jaopca:item_crushedprometheum - 0 - crushedPrometheum
 Crushed Radium Ore - jaopca:item_crushedradium - 0 - crushedRadium
 Crushed Rubracium Ore - jaopca:item_crushedrubracium - 0 - crushedRubracium
@@ -13490,7 +13556,6 @@ Purified Crushed Osmium Ore - jaopca:item_crushedpurifiedosmium - 0 - crushedPur
 Purified Crushed Oureclase Ore - jaopca:item_crushedpurifiedoureclase - 0 - crushedPurifiedOureclase
 Purified Crushed Palladium Ore - jaopca:item_crushedpurifiedpalladium - 0 - crushedPurifiedPalladium
 Purified Crushed Platinum Ore - jaopca:item_crushedpurifiedplatinum - 0 - crushedPurifiedPlatinum
-Purified Crushed Plutonium Ore - jaopca:item_crushedpurifiedplutonium - 0 - crushedPurifiedPlutonium
 Purified Crushed Prometheum Ore - jaopca:item_crushedpurifiedprometheum - 0 - crushedPurifiedPrometheum
 Purified Crushed Radium Ore - jaopca:item_crushedpurifiedradium - 0 - crushedPurifiedRadium
 Purified Crushed Rubracium Ore - jaopca:item_crushedpurifiedrubracium - 0 - crushedPurifiedRubracium
@@ -13553,7 +13618,6 @@ Native Osmium Cluster - jaopca:item_clusterosmium - 0 - clusterOsmium
 Native Oureclase Cluster - jaopca:item_clusteroureclase - 0 - clusterOureclase
 Native Palladium Cluster - jaopca:item_clusterpalladium - 0 - clusterPalladium
 Native Platinum Cluster - jaopca:item_clusterplatinum - 0 - clusterPlatinum
-Native Plutonium Cluster - jaopca:item_clusterplutonium - 0 - clusterPlutonium
 Native Prometheum Cluster - jaopca:item_clusterprometheum - 0 - clusterPrometheum
 Native Radium Cluster - jaopca:item_clusterradium - 0 - clusterRadium
 Native Rubracium Cluster - jaopca:item_clusterrubracium - 0 - clusterRubracium
@@ -13583,7 +13647,6 @@ Molten Magnesium - jaopca:fluid_moltenmagnesium - 0 - null
 Molten Mercury - jaopca:fluid_moltenmercury - 0 - null
 Molten Meteoric Iron - jaopca:fluid_moltenmeteoriciron - 0 - null
 Molten Palladium - jaopca:fluid_moltenpalladium - 0 - null
-Molten Plutonium - jaopca:fluid_moltenplutonium - 0 - null
 Molten Shinium - jaopca:fluid_moltenshinium - 0 - null
 Molten Silicon - jaopca:fluid_moltensilicon - 0 - null
 Molten Tungsten - jaopca:fluid_moltentungsten - 0 - null

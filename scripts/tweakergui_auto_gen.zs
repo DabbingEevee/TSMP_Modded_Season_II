@@ -1,4 +1,3 @@
-recipes.remove(<mekanism:configurator>);
 recipes.addShaped("auto_gen_-1678786613", <aether_legacy:candy_cane_sword>, 
 [[null, <mo_swords:sugarsword>, null],
 [null, <mo_swords:sugarsword>, null],
@@ -9,10 +8,6 @@ recipes.addShaped("auto_gen_893562006", <ic2:te:46>,
 [[<ore:plateIron>, <fhantoncore:frameiron>, <ore:plateIron>],
 [<minecraft:furnace>, <avaritia:resource>, <minecraft:furnace>],
 [<ore:plateIron>, <minecraft:furnace>, <ore:plateIron>]]);
-recipes.addShaped("auto_gen_-54633111", <mekanism:configurator>, 
-[[null, null, <minecraft:redstone>],
-[<minecraft:redstone>, <ore:stickStone>, null],
-[<ore:stickStone>, <minecraft:redstone>, null]]);
 recipes.remove(<energeticsheep:energetic_shears>);
 recipes.addShaped("auto_gen_2001933511", <energeticsheep:energetic_shears>, 
 [[<ore:materialWoolEnergetic>, <ore:materialWoolEnergetic>, <ore:materialWoolEnergetic>],
@@ -71,3 +66,7 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <contenttweaker:inactive_infini
 [null, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagradditions:insanium>, <contenttweaker:singularity_matrix_1>, <mysticalagradditions:insanium>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, null],
 [null, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, null, <mysticalagradditions:insanium>, null, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, null],
 [<mysticalagriculture:crafting:4>, null, null, null, <mysticalagradditions:insanium>, null, null, null, <mysticalagriculture:crafting:4>]]);
+recipes.addShaped("auto_gen_-1697092558", <tconstruct:materials:50>, 
+[[<minecraft:gold_block>, <minecraft:paper>, <minecraft:gold_block>],
+[<minecraft:paper>, <minecraft:nether_star>, <minecraft:paper>],
+[<minecraft:gold_block>, <minecraft:paper>, <minecraft:gold_block>]]);

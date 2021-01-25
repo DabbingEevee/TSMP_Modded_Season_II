@@ -228,8 +228,8 @@ Molten Eximite - eximite - 800 - 4000 - 540 - Block{metallurgy:molten_eximite}
 Molten Desichalkos - desichalkos - 800 - 4000 - 540 - Block{metallurgy:molten_desichalkos}
 Molten Celenegil - celenegil - 800 - 4000 - 720 - Block{metallurgy:molten_celenegil}
 Molten Shadow Iron - shadow_iron - 800 - 4000 - 360 - Block{metallurgy:molten_shadow_iron}
-Molten Carmot - carmot - 800 - 4000 - 540 - Block{metallurgy:molten_carmot}
 Molten Mithril - mithril - 800 - 4000 - 540 - Block{metallurgy:molten_mithril}
+Molten Carmot - carmot - 800 - 4000 - 540 - Block{metallurgy:molten_carmot}
 Molten Ceruclase - ceruclase - 800 - 4000 - 540 - Block{metallurgy:molten_ceruclase}
 Molten Deep Iron - deep_iron - 800 - 4000 - 360 - Block{metallurgy:molten_deep_iron}
 Molten Angmallen - angmallen - 800 - 4000 - 360 - Block{metallurgy:molten_angmallen}
@@ -240,8 +240,8 @@ Molten Prometheum - prometheum - 800 - 4000 - 360 - Block{metallurgy:molten_prom
 Molten Adamantine - adamantine - 800 - 4000 - 540 - Block{metallurgy:molten_adamantine}
 Molten Tartarite - tartarite - 800 - 4000 - 720 - Block{metallurgy:molten_tartarite}
 Molten Atlarus - atlarus - 800 - 4000 - 540 - Block{metallurgy:molten_atlarus}
-Molten Vyroxeres - vyroxeres - 800 - 4000 - 540 - Block{metallurgy:molten_vyroxeres}
 Molten Black Steel - black_steel - 800 - 4000 - 540 - Block{metallurgy:molten_black_steel}
+Molten Vyroxeres - vyroxeres - 800 - 4000 - 540 - Block{metallurgy:molten_vyroxeres}
 Molten Lutetium - lutetium - 800 - 4000 - 540 - Block{metallurgy:molten_lutetium}
 Molten Oureclase - oureclase - 800 - 4000 - 540 - Block{metallurgy:molten_oureclase}
 Molten Inolashite - inolashite - 800 - 4000 - 720 - Block{metallurgy:molten_inolashite}
@@ -340,7 +340,6 @@ Molten Magnesium - magnesium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenmag
 Molten Mercury - mercury - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenmercury}
 Molten Meteoric Iron - meteoric_iron - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenmeteoriciron}
 Molten Palladium - palladium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenpalladium}
-Molten Plutonium - plutonium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenplutonium}
 Molten Shinium - shinium - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenshinium}
 Molten Silicon - silicon - 2000 - 10000 - 500 - Block{jaopca:fluid_moltensilicon}
 Molten Tungsten - tungsten - 2000 - 10000 - 500 - Block{jaopca:fluid_moltentungsten}

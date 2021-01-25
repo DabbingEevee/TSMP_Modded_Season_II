@@ -119,10 +119,10 @@ Mana-Infused - mana_string - null - (Mana-Infused, tconevo.mana_infused)
 Mana Diamond - mana_diamond - null - (Crystalline, tconevo.crystalline), (Mana-Infused, tconevo.mana_infused)
 Mana Pearl - mana_pearl - null - (Endspeed, endspeed), (Mana-Infused, tconevo.mana_infused)
 Dragonstone - dragonstone - null - (Voice of the Fae, tconevo.fae_voice), (Mana-Infused, tconevo.mana_infused)
-Draconium - draconium - draconium - (Alien, alien), (Soul Rend, tconevo.soul_rend1)
-Wyvern - wyvern_metal - wyvern_metal - (Soul Rend, tconevo.soul_rend1), (Evolved, tconevo.evolved)
-Draconic - draconic_metal - draconic_metal - (Soul Rend II, tconevo.soul_rend2), (Evolved, tconevo.evolved)
-Chaotic - chaotic_metal - chaotic_metal - (Soul Rend III, tconevo.soul_rend3), (Evolved, tconevo.evolved)
+Reformed Draconium - draconium - draconium - (Alien, alien), (Soul Rend, tconevo.soul_rend1)
+Coalesced Wyvern - wyvern_metal - wyvern_metal - (Soul Rend, tconevo.soul_rend1), (Evolved, tconevo.evolved)
+Reformed Draconium - draconic_metal - draconic_metal - (Soul Rend II, tconevo.soul_rend2), (Evolved, tconevo.evolved)
+Restructured Chaos - chaotic_metal - chaotic_metal - (Soul Rend III, tconevo.soul_rend3), (Evolved, tconevo.evolved)
 Ender Crystal - ender_crystal - null - (Endspeed, endspeed)
 Pulsating Crystal - pulsating_crystal - null - (Enderference, enderference)
 Vibrant Crystal - vibrant_crystal - null - (Chain Lightning, tconevo.chain_lightning)
@@ -182,8 +182,8 @@ Eximite - eximite - eximite - (Enderference, enderference)
 Desichalkos - desichalkos - desichalkos - (King Dice, king_dice_trait)
 Celenegil - celenegil - celenegil - null
 Shadow Iron - shadow_iron - shadow_iron - (Obscure, obscure_trait)
-Carmot - carmot - carmot - null
 Mithril - mithril - mithril - null
+Carmot - carmot - carmot - null
 Ceruclase - ceruclase - ceruclase - null
 Deep Iron - deep_iron - deep_iron - (Opistognathus, opistognathus_trait)
 Angmallen - angmallen - angmallen - null
@@ -194,8 +194,8 @@ Prometheum - prometheum - prometheum - null
 Adamantine - adamantine - adamantine - null
 Tartarite - tartarite - tartarite - (Wither, wither_trait)
 Atlarus - atlarus - atlarus - null
-Vyroxeres - vyroxeres - vyroxeres - (Poisonous, poisonous)
 Black Steel - black_steel - black_steel - null
+Vyroxeres - vyroxeres - vyroxeres - (Poisonous, poisonous)
 Lutetium - lutetium - lutetium - null
 Oureclase - oureclase - oureclase - null
 Inolashite - inolashite - inolashite - null
@@ -274,15 +274,15 @@ Frostium - frostium - frostium - (Frost Fang, tw_frostfang), (Cold-Blooded, cold
 Froststeel - froststeel - froststeel - (Frost Fang, tw_frostfang), (Stiff, stiff)
 Mirion - mirion - mirion - (Mirabile Visu, mirabile), (Mana, mana)
 Livingwood - livingwood_plustic - null - (Botanical II, botanical2), (Ecological, ecological), (Botanical, botanical1)
-Dark Matter - darkmatter - null - (Ignoble, ignoble), (Dark Traveler, darktraveler)
-Red Matter - redmatter - null - (Democratic People's Republic of Korea, dprk)
+Emerald - emerald_plustic - emerald - (Terrafirma, terrafirma1), (Elemental, elemental)
 Flamestring - flamestring_plustic - null - (Naphtha, naphtha)
 Bloodwood - bloodwood_plustic - null - (Bloody Mary, bloodymary), (Ecological, ecological)
 Fusewood - fusewood_plustic - null - (Democratic People's Republic of Korea, dprk), (Ecological, ecological)
+Dark Matter - darkmatter - null - (Ignoble, ignoble), (Dark Traveler, darktraveler)
+Red Matter - redmatter - null - (Democratic People's Republic of Korea, dprk)
 Wyvern - wyvern_plustic - null - (Brown Magic, brownmagic), (Blind Bandit, blindbandit), (Portly Gentleman, portly)
 Awakened - awakened_plustic - null - (Rude Awakening, rudeawakening), (Brown Magic, brownmagic), (Blind Bandit, blindbandit), (Apocalypse, apocalypse), (Global Traveler, global)
 Chaotic - chaotic_plustic - null - (Hail Hydra, hailhydra), (Vindictive, vindictive), (Dark Traveler, darktraveler)
-Emerald - emerald_plustic - emerald - (Terrafirma, terrafirma1), (Elemental, elemental)
 Wood - wood - null - (Ecological, ecological), (Photosynthetic II, photosynthetic2), (Photosynthetic, photosynthetic1), (Rooted, td_rooted), (Securiphilic, td_securiphilic)
 Leaf - leaf - null - null
 Feather - feather - null - null
