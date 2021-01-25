@@ -138,4 +138,3 @@ for block in createore {
 
 
 
-<ticonmaterial:infinity_metal>.addTrait("cosmic");

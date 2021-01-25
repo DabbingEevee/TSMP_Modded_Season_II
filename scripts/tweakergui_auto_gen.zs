@@ -3,7 +3,7 @@ recipes.addShaped("auto_gen_-1678786613", <aether_legacy:candy_cane_sword>,
 [null, <mo_swords:sugarsword>, null],
 [null, <minecraft:stick>, null]]);
 recipes.remove(<ic2:te:46>);
-recipes.remove(<lucraftcore:hammer>);
+#recipes.remove(<lucraftcore:hammer>);
 recipes.addShaped("auto_gen_893562006", <ic2:te:46>, 
 [[<ore:plateIron>, <fhantoncore:frameiron>, <ore:plateIron>],
 [<minecraft:furnace>, <avaritia:resource>, <minecraft:furnace>],

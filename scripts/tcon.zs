@@ -1,3 +1,5 @@
+import mods.contenttweaker.tconstruct.Material;
+
 mods.tconstruct.Melting.addRecipe(<liquid:dawnstone> * 144, <embers:ingot_dawnstone>);
 mods.tconstruct.Melting.addRecipe(<liquid:dawnstone> * 144, <embers:plate_dawnstone>);
 mods.tconstruct.Melting.addRecipe(<liquid:dawnstone> * 16, <embers:nugget_dawnstone>);
@@ -11,3 +13,4 @@ mods.tconstruct.Casting.addBasinRecipe(<embers:block_dawnstone>, null, <liquid:d
 mods.tconstruct.Alloy.removeRecipe(<liquid:rosegold>);
 mods.tconstruct.Alloy.addRecipe(<liquid:rosegold> * 2, [<liquid:gravitite> * 1, <liquid:gold> * 1]);
 
+<ticonmaterial:infinity_metal>.addTrait("cosmic");
