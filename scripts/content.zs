@@ -24,6 +24,8 @@ import mods.contenttweaker.tconstruct.Material;
 #var singularities = VanillaFactory.createCreativeTab("singularities", <minecraft:tnt>);
 #singularities.register();
 
+var oredict = [];
+
 var createfullset = [
 	"Uru",
 	"MegaAlloy",
@@ -64,7 +66,7 @@ var createore = [
         "mega_alloy_neutron_sponge_1",
         "mega_alloy_neutron_sponge_2",
         "mega_alloy_neutron_sponge_3",
-        "mega_alloy_neutron_sponge_completed",
+        "oreMegaAlloy",
 
 
 
@@ -101,7 +103,7 @@ for item in createitem {
         #item.creativeTab = gems_metals;
         item_a.register();
 	if (item.startsWith("ingot") || item.startsWith("nugget") || item.startsWith("dust")) {
-		oreDict.get(item).add(itemUtils.getItem("contenttweaker:" + item.toLowerCase));
+		oredict += item;
 	}
 
 }
@@ -115,6 +117,9 @@ for block in createblockofore {
         #block.creativeTab = gems_metals;
         block_a.setBlockSoundType(<soundtype:metal>);
         block_a.register();
+	if (block.startsWith("block")) {
+		oredict += block;
+	}
 
 }
 
@@ -127,14 +132,13 @@ for block in createore {
         #block.creativeTab = ore_sponge;
         block_a.setBlockSoundType(<soundtype:metal>);
         block_a.register();
+	if (block.startsWith("ore")) {
+		oredict += block;
+	}
 
 }
 
 #val nuggetArray = ["wavic", "awakened"] as string[];
 #val blockArray = ["wavic", "awakened", "unstable"] as string[];
-
-
-
-
 
 
