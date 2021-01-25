@@ -8,6 +8,7 @@
 #bluestone.setBlockSoundType(<soundtype:stone>);
 #bluestone.register();
 
+import crafttweaker.oredict.IOreDict;
 import mods.contenttweaker.CreativeTab;
 import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Item;
@@ -25,11 +26,11 @@ import mods.contenttweaker.Item;
 
 var createfullset = [
 	"uru",
-	"mega_alloy",
-	"dwarf_star_alloy",
-	"metallic_red_matter",
-	"gilded_netherite",
-	"gold_titanium_alloy",
+	"megaAlloy",
+	"dwarfStarAlloy",
+	"metallicRedMatter",
+	"gildedNetherite",
+	"goldTitaniumAlloy",
 	"intertium",
 	"vibranium",
 	"adamantium"
@@ -37,24 +38,24 @@ var createfullset = [
 
 
 var createitem = [
-        "wavic_nugget", 
-        "wavic_dust", 
-        "awakened_nugget",
-        "awakened_dust",
-        "pure_evil_nugget",
-        "pure_evil_dust",
-        "koinos_nugget",
-        "koinos_dust",
-        "tromero_nugget",
-        "tromero_dust",
-        "unstable_dust",
+        "nuggetWavic", 
+        "dustWavic", 
+        "nuggetWavicAwakened",
+        "dustWavicAwakened",
+        "nuggetPureEvil",
+        "dustPureEvil",
+        "nuggetKoinos",
+        "dustKoinos",
+        "nuggetTromero",
+        "dustTromero",
+        "dustUnstable",
         #"mega_alloy_nugget",
         #"mega_alloy_dust",
         #"mega_alloy_ingot",
         "inactive_infinity_catalyst",
         "fluxed_electrum_singularity",
         "glowing_iron_singularity",
-        "pulsating_gem",
+        "gemPulsaton",
         "fiery_singularity"
     ] as string[];
 
@@ -71,10 +72,10 @@ var createore = [
 
 var createblockofore = [
         #"mega_alloy_block",
-        "wavic_block",
-        "awakened_block",
-        "unstable_block",
-        "pulsating_block"
+        "blockWavic",
+        "blockAwakened",
+        "blockUnstable",
+        "blockPulsaton"
 
 
     ] as string[];
@@ -95,37 +96,37 @@ while i < 10 {
 
 for item in createitem {
 
-	var item_a = VanillaFactory.createItem(item);
+	var item_a = VanillaFactory.createItem(item.toLowerCase());
         item_a.maxStackSize = 64;
         #item.creativeTab = gems_metals;
         item_a.register();
-	if item.startsWith("ingot") {
-		
+	if (item.startsWith("ingot") || item.startsWith("nugget") || item.startsWith("dust")) {
+		oreDict.get(item).add(itemUtils.getItem("contenttweaker:" + item.toLowerCase))
 	}
 
 }
 
 for block in createblockofore {
-        var block = VanillaFactory.createBlock(block, <blockmaterial:iron>);
-        block.setBlockHardness(1.0);
-        block.setBlockResistance(2.5);
-        block.setToolClass("pickaxe");
-        block.setToolLevel(3);
+        var block_a = VanillaFactory.createBlock(block.toLowerCase(), <blockmaterial:iron>);
+        block_a.setBlockHardness(1.0);
+        block_a.setBlockResistance(2.5);
+        block_a.setToolClass("pickaxe");
+        block_a.setToolLevel(3);
         #block.creativeTab = gems_metals;
-        block.setBlockSoundType(<soundtype:metal>);
-        block.register();
+        block_a.setBlockSoundType(<soundtype:metal>);
+        block_a.register();
 
 }
 
 for block in createore {
-        var block = VanillaFactory.createBlock(block, <blockmaterial:iron>);
-        block.setBlockHardness(1.0);
-        block.setBlockResistance(2.5);
-        block.setToolClass("pickaxe");
-        block.setToolLevel(3);
+        var block_a = VanillaFactory.createBlock(block.toLowerCase(), <blockmaterial:iron>);
+        block_a.setBlockHardness(1.0);
+        block_a.setBlockResistance(2.5);
+        block_a.setToolClass("pickaxe");
+        block_a.setToolLevel(3);
         #block.creativeTab = ore_sponge;
-        block.setBlockSoundType(<soundtype:metal>);
-        block.register();
+        block_a.setBlockSoundType(<soundtype:metal>);
+        block_a.register();
 
 }
 
@@ -137,7 +138,7 @@ function add(a as int,b as int) as int{
 	return a+b;
 }
 
-function capitalize(a as string) as int{
+function capitalize(a as string) as string{
 	val str1 = a.substring(0, 1);
 	val str2 = a.substring(1, name.length());
 	str1 = str1.toUpperCase();
