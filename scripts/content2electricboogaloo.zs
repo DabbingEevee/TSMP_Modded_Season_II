@@ -19,7 +19,7 @@ for ore in scripts.content.oredict {
 <contenttweaker:mega_alloy_neutron_sponge_3>.displayName = "Partially Filled Neutron Sponge";
 <contenttweaker:mega_alloy_neutron_sponge_3>.addTooltip("Mega Alloy - Step 3");
 
-<contenttweaker:mega_alloy_neutron_sponge_completed>.addTooltip("Mega Alloy - Completed");
+<contenttweaker:oremegaalloy>.addTooltip("Mega Alloy - Completed");
 
 
 mods.tconstruct.Casting.addBasinRecipe(<contenttweaker:mega_alloy_neutron_sponge_1>, <contenttweaker:neutron_sponge>, <liquid:dawnstone>, 1296, true, 200);
@@ -33,19 +33,19 @@ JEI.removeAndHide(<contenttweaker:mega_alloy_neutron_sponge_2>);
 JEI.removeAndHide(<contenttweaker:mega_alloy_neutron_sponge_3>);
 
 
-furnace.addRecipe(<contenttweaker:mega_alloy_ingot>, <contenttweaker:oremegaalloy>);
-furnace.addRecipe(<contenttweaker:mega_alloy_ingot>, <contenttweaker:dustmegaalloy>);
+furnace.addRecipe(<contenttweaker:ingotmegaalloy>, <contenttweaker:oremegaalloy>);
+furnace.addRecipe(<contenttweaker:ingotmegaalloy>, <contenttweaker:dustmegaalloy>);
 
 
 var createninexninerecipe = [
-        [<contenttweaker:mega_alloy_block>, <contenttweaker:mega_alloy_ingot>],
-        [<contenttweaker:mega_alloy_ingot>, <contenttweaker:mega_alloy_nugget>]
+        [<contenttweaker:blockmegaalloy>, <contenttweaker:ingotmegaalloy>],
+        [<contenttweaker:ingotmegaalloy>, <contenttweaker:nuggetmegaalloy>]
 
     ] as IItemStack[][];
 
 var createdecompactrecipe = [
-        [<contenttweaker:mega_alloy_ingot>, <contenttweaker:mega_alloy_block>],
-        [<contenttweaker:mega_alloy_nugget>, <contenttweaker:mega_alloy_ingot>]
+        [<contenttweaker:ingotmegaalloy>, <contenttweaker:blockmegaalloy>],
+        [<contenttweaker:nuggetmegaalloy>, <contenttweaker:ingotmegaalloy>]
 
     ] as IItemStack[][];
 

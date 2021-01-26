@@ -24,7 +24,7 @@ import mods.contenttweaker.tconstruct.Material;
 #var singularities = VanillaFactory.createCreativeTab("singularities", <minecraft:tnt>);
 #singularities.register();
 
-var oredict = [] as string[];
+static var oredict = [] as string[];
 
 var createfullset = [
 	"Uru",
