@@ -2,7 +2,7 @@ import crafttweaker.item.IItemStack;
 import mods.jei.JEI;
 import crafttweaker.oredict.IOreDictEntry;
 
-for ore in scripts.content.oredict {
+for ore in scripts.content.oredictglobal {
 
 	oreDict.get(ore).add(itemUtils.getItem("contenttweaker:" + ore.toLowerCase));
 

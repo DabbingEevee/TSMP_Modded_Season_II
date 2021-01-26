@@ -24,7 +24,7 @@ import mods.contenttweaker.tconstruct.Material;
 #var singularities = VanillaFactory.createCreativeTab("singularities", <minecraft:tnt>);
 #singularities.register();
 
-static var oredict = [] as string[];
+var oredict = [] as string[];
 
 var createfullset = [
 	"Uru",
@@ -141,4 +141,5 @@ for block in createore {
 #val nuggetArray = ["wavic", "awakened"] as string[];
 #val blockArray = ["wavic", "awakened", "unstable"] as string[];
 
+static oredictglobal = oredict;
 
