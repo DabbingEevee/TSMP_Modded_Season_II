@@ -31,7 +31,6 @@ for item in createfullset {
     createoredict += ("dust" + item);
 }
 
-] as string[];
 for ore in createfullset {
 
 	oreDict.get(ore).add(itemUtils.getItem("contenttweaker:" + ore.toLowerCase));
