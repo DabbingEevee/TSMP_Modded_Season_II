@@ -13,4 +13,3 @@ mods.tconstruct.Casting.addBasinRecipe(<embers:block_dawnstone>, null, <liquid:d
 mods.tconstruct.Alloy.removeRecipe(<liquid:rosegold>);
 mods.tconstruct.Alloy.addRecipe(<liquid:rosegold> * 2, [<liquid:gravitite> * 1, <liquid:gold> * 1]);
 
-<ticonmaterial:infinity_metal>.addTrait("cosmic");

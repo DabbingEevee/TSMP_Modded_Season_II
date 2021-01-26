@@ -141,5 +141,5 @@ for block in createore {
 #val nuggetArray = ["wavic", "awakened"] as string[];
 #val blockArray = ["wavic", "awakened", "unstable"] as string[];
 
-static oredictglobal = oredict;
+static oredictglobal = oredict as string[];
 
