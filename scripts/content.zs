@@ -40,8 +40,11 @@ var createfullset = [
 
 
 var createitem = [
-        "nuggetWavic", 
-        "dustWavic", 
+        "nuggetWavic",
+        "dustNetherite",
+        "nuggetNetherite",
+        "dirty_netherite_scrap",
+        "dustWavic",
         "nuggetWavicAwakened",
         "dustWavicAwakened",
         "nuggetPureEvil",
