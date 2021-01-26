@@ -67,9 +67,6 @@ var createore = [
         "mega_alloy_neutron_sponge_2",
         "mega_alloy_neutron_sponge_3",
         "oreMegaAlloy",
-
-
-
     ] as string[];
 
 var createblockofore = [
@@ -140,6 +137,3 @@ for block in createore {
 
 #val nuggetArray = ["wavic", "awakened"] as string[];
 #val blockArray = ["wavic", "awakened", "unstable"] as string[];
-
-static oredictglobal = oredict as string[];
-

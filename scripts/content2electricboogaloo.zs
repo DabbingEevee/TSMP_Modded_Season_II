@@ -2,7 +2,37 @@ import crafttweaker.item.IItemStack;
 import mods.jei.JEI;
 import crafttweaker.oredict.IOreDictEntry;
 
-for ore in scripts.content.oredictglobal {
+var createfullset = [
+    "Uru",
+    "MegaAlloy",
+    "DwarfStarAlloy",
+    "MetallicRedMatter",
+    "GildedNetherite",
+    "GoldTitaniumAlloy",
+    "Intertium",
+    "Vibranium",
+    "Adamantium"
+    ] as string[];
+    
+var createoredict = [
+    "oreMegaAlloy",
+    "blockWavic",
+    "blockAwakened",
+    "blockUnstable",
+    "blockPulsaton"
+    
+    ] as string[];
+    
+
+for item in createfullset {
+    createoredict += ("block" + item);
+    createoredict += ("nugget" + item);
+    createoredict += ("ingot" + item);
+    createoredict += ("dust" + item);
+}
+
+] as string[];
+for ore in createfullset {
 
 	oreDict.get(ore).add(itemUtils.getItem("contenttweaker:" + ore.toLowerCase));
 
