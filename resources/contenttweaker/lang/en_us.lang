@@ -1,5 +1,3 @@
-tile.contenttweaker.pulsating_block.name=Block of Pulsaton
-item.contenttweaker.pulsating_gem.name=Pulsaton Gem
 tile.contenttweaker.bluestone.name=Bluestone
 material.Dilithium.name=Dilithium
 item.resource.infinity_catalyst.name=Active Infinity Essence
@@ -19,6 +17,68 @@ item.contenttweaker.singularity_matrix_9.name=Singularity Matrix Tier 9
 item.contenttweaker.singularity_matrix_10.name=Singularity Matrix Tier 10
 
 
+item.contenttweaker.nuggetfsharpalloy.name=FSharp Alloy Nugget
+item.contenttweaker.nuggetfsharpalloy.name=FSharp Alloy Block
+item.contenttweaker.nuggetfsharpalloy.name=FSharp Alloy Ingot
+item.contenttweaker.nuggetfsharpalloy.name=FSharp Alloy Neutron Sponge
+
+item.contenttweaker.nuggetkoinos.name=Koinos Nugget
+item.contenttweaker.nuggetmegaalloy.name=Mega Alloy Nugget
+item.contenttweaker.dustgoldtitaniumalloy.name=Gold-Titanium Dust
+item.contenttweaker.dustvibranium.name=Vibranium Dust
+item.contenttweaker.dustmetallicredmatter.name=Metallic Red Matter Dust
+item.contenttweaker.nuggetnetherite.name=Netherite Nugget
+tile.contenttweaker.blockwavic.name.name=Block of Wavic Metal
+tile.contenttweaker.blockmegaalloy.name=Block of Mega Alloy
+tile.contenttweaker.blockuru.name=Block of Uru
+tile.contenttweaker.blockvibranium.name=Block of Vibranium
+item.contenttweaker.dustgildednetherite.name=Gilded Netherite Dust
+item.contenttweaker.ingotmetallicredmatter.name=Metallic Red Matter Dust
+item.contenttweaker.dusturu.name=Uru Dust
+item.contenttweaker.ingotdwarfstaralloy.name=Dwarf Star Alloy ingot
+item.contenttweaker.dustwavicawakened.name=Awakened Dust
+item.contenttweaker.nuggetgoldtitaniumalloy.name=Gold-Titanium Nugget
+tile.contenttweaker.blockawakened.name=Block of Awakened
+item.contenttweaker.nuggetmetallicredmatter.name=Metallic Red Matter Nugget
+item.contenttweaker.ingotadamantium.name=Adamantium Ingot
+tile.contenttweaker.blockgoldtitaniumalloy.name=Block of Gold-Titanium Alloy
+item.contenttweaker.ingoturu.name=Uru Ingot
+tile.contenttweaker.blockmetallicredmatter.name=Block of Metallic Red Matter
+item.contenttweaker.nuggettromero.name=Tromeros Nugget
+item.contenttweaker.dustmegaalloy.name=Mega Alloy Dust
+item.contenttweaker.dustkoinos.name=Koinos Dust
+item.contenttweaker.nuggetadamantium.name=Adamantium Nugget
+item.contenttweaker.dustpureevil.name=Pure Evil Dust
+tile.contenttweaker.blockdwarfstaralloy.name=Block of Dwarf Star Alloy
+item.contenttweaker.dirty_netherite_scrap.name=Dirty Netherite Scrap
+item.contenttweaker.dustadamantium.name=Adamantium Dust
+item.contenttweaker.nuggetintertium.name=Intertium Nugget
+tile.contenttweaker.blockgildednetherite.name=Block of Gilded Netherite
+item.contenttweaker.ingotmegaalloy.name=Mega Alloy Ingot
+tile.contenttweaker.blockunstable.name=Block of Unstable Metal
+item.contenttweaker.ingotgoldtitaniumalloy.name=Gold-Titanium Ingot
+item.contenttweaker.nuggetpureevil.name=Pure Evil Nugget
+item.contenttweaker.gempulsaton.name=Pulsaton
+tile.contenttweaker.blockintertium.name=Block of Intertium
+item.contenttweaker.dustunstable.name=Unstable Dust
+item.contenttweaker.dustintertium.name=Intertium Dust
+item.contenttweaker.dustwavic.name=Wavic Dust
+item.contenttweaker.nuggetwavicawakened.name=Awakened Nugget
+item.contenttweaker.nuggeturu.name=Uru Nugget
+item.contenttweaker.dustnetherite.name=Netherite Dust
+item.contenttweaker.nuggetdwarfstaralloy.name=Dwarf Star Alloy Nugget
+item.contenttweaker.dustdwarfstaralloy.name=Dwarf Star Alloy Dust
+item.contenttweaker.nuggetgildednetherite.name=Gilded Netherite Nugget
+tile.contenttweaker.blockpulsaton.name=Block of Pulsaton
+item.contenttweaker.ingotintertium.name=Intertium Ingot
+item.contenttweaker.nuggetwavic.name=Wavic Nugget
+item.contenttweaker.dusttromero.name=Tromaros Dust
+tile.contenttweaker.oremegaalloy.name=Mega Alloy Neutron Sponge
+item.contenttweaker.ingotgildednetherite.name=Gilded Netherite Ingot
+item.contenttweaker.nuggetvibranium.name=Vibranium Nugget
+item.contenttweaker.ingotvibranium.name=Vibranium Ingot
+tile.contenttweaker.blockadamantium.name=Block of Adamantium
+
 material.chaotic_metal.name=Restructured Chaos
 material.draconium.name=Formed Draconium
 material.wyvern_metal.name=Coalesced Wyvern
@@ -28,3 +88,5 @@ tile.contenttweaker.neutron_sponge.name=Neutron Sponge
 
 tile.contenttweaker.mega_alloy_neutron_sponge.name=Partially Filled Neutron Sponge
 tile.contenttweaker.mega_alloy_neutron_sponge_completed.name=Filled Neutron Sponge
+
+

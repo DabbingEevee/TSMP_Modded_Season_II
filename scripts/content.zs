@@ -27,15 +27,16 @@ import mods.contenttweaker.tconstruct.Material;
 var oredict = [] as string[];
 
 var createfullset = [
-	"Uru",
-	"MegaAlloy",
-	"DwarfStarAlloy",
-	"MetallicRedMatter",
-	"GildedNetherite",
-	"GoldTitaniumAlloy",
-	"Intertium",
-	"Vibranium",
-	"Adamantium"
+        "Uru",
+        "MegaAlloy",
+        "FSharpAlloy",
+        "DwarfStarAlloy",
+        "MetallicRedMatter",
+        "GildedNetherite",
+        "GoldTitaniumAlloy",
+        "Intertium",
+        "Vibranium",
+        "Adamantium"
     ] as string[];
 
 
@@ -70,6 +71,10 @@ var createore = [
         "mega_alloy_neutron_sponge_2",
         "mega_alloy_neutron_sponge_3",
         "oreMegaAlloy",
+        "fsharp_alloy_neutron_sponge_1",
+        "fsharp_alloy_neutron_sponge_2",
+        "fsharp_alloy_neutron_sponge_3",
+        "oreFSharpAlloy"
     ] as string[];
 
 var createblockofore = [
