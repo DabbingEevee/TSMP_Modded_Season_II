@@ -92,18 +92,23 @@ JEI.removeAndHide(<contenttweaker:mega_alloy_neutron_sponge_3>);
 
 furnace.addRecipe(<contenttweaker:ingotmegaalloy>, <contenttweaker:oremegaalloy>);
 furnace.addRecipe(<contenttweaker:ingotmegaalloy>, <contenttweaker:dustmegaalloy>);
+furnace.addRecipe(<contenttweaker:ingotfsharpalloy>, <contenttweaker:orefsharpalloy>);
+furnace.addRecipe(<contenttweaker:ingotfsharpalloy>, <contenttweaker:dustfsharpalloy>);
 
 
 var createninexninerecipe = [
         [<contenttweaker:blockmegaalloy>, <contenttweaker:ingotmegaalloy>],
-        [<contenttweaker:ingotmegaalloy>, <contenttweaker:nuggetmegaalloy>]
+        [<contenttweaker:ingotmegaalloy>, <contenttweaker:nuggetmegaalloy>],
+        [<contenttweaker:blockfsharpalloy>, <contenttweaker:ingotfsharpalloy>],
+        [<contenttweaker:ingotfsharpalloy>, <contenttweaker:nuggetfsharpalloy>]
 
     ] as IItemStack[][];
 
 var createdecompactrecipe = [
         [<contenttweaker:ingotmegaalloy>, <contenttweaker:blockmegaalloy>],
-        [<contenttweaker:nuggetmegaalloy>, <contenttweaker:ingotmegaalloy>]
-
+        [<contenttweaker:nuggetmegaalloy>, <contenttweaker:ingotmegaalloy>],
+        [<contenttweaker:ingotfsharplloy>, <contenttweaker:blockfsharpalloy>],
+        [<contenttweaker:nuggetfsharpalloy>, <contenttweaker:ingotfsharpalloy>]
     ] as IItemStack[][];
 
 
