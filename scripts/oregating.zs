@@ -75,3 +75,12 @@ mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreTit
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <mysticalagriculture:inferium_ore:*>, <fhantoncore:unidentifiedore>);
 
 mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <ore:oreIridium>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <techguns:orecluster:7>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <techguns:orecluster:3>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <techguns:orecluster:1>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <techguns:orecluster:5>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <techguns:orecluster:2>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <techguns:orecluster:4>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <techguns:orecluster:6>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <techguns:orecluster:0>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <techguns:orecluster:8>, <fhantoncore:unidentifiedore>);

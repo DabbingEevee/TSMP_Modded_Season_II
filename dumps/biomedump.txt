@@ -135,7 +135,9 @@ Phantasmagoric Inferno - biomesoplenty:phantasmagoric_inferno - 2.0 - biomesople
 Undergarden - biomesoplenty:undergarden - 2.0 - biomesoplenty:grass - minecraft:netherrack
 Visceral Heap - biomesoplenty:visceral_heap - 2.0 - biomesoplenty:flesh - biomesoplenty:flesh
 Zollus - zollerngalaxy:zollus - 0.5 - zollerngalaxy:zolsurfacerock - zollerngalaxy:zoldirt
+Zollus Ice Ocean - zollerngalaxy:zollus ice ocean - 0.5 - minecraft:air - minecraft:air
 Kriffon - zollerngalaxy:kriffon - 0.5 - zollerngalaxy:kriffrock - zollerngalaxy:kriffdirt
+Lake of Fire - zollerngalaxy:lake of fire - 0.5 - minecraft:air - minecraft:air
 Purgotary - zollerngalaxy:purgotary - 0.5 - zollerngalaxy:purgrock - zollerngalaxy:purgdirt
 Limbo - zollerngalaxy:limbo - 0.5 - zollerngalaxy:blackrock - zollerngalaxy:whiterock
 Green Lands - zollerngalaxy:green lands - 0.5 - zollerngalaxy:edensurfacerock - zollerngalaxy:edensoil
@@ -181,6 +183,10 @@ Rocky Veins - zollerngalaxy:rocky veins - 0.5 - zollerngalaxy:caligrorock - zoll
 Witherlands - zollerngalaxy:witherlands - 0.5 - zollerngalaxy:witherrack - zollerngalaxy:caligrostone
 Corrupted Mesa - zollerngalaxy:corrupted mesa - 0.5 - zollerngalaxy:corruptrock - zollerngalaxy:corruptcobble
 Azural Plains - zollerngalaxy:azural plains - 0.5 - zollerngalaxy:exodusgrass - zollerngalaxy:exodusdirt
+Rocky Hills - zollerngalaxy:rocky hills - 0.5 - zollerngalaxy:exodusrock - zollerngalaxy:exodusstone
+Exo Ocean - zollerngalaxy:exo ocean - 0.5 - minecraft:air - minecraft:air
+Exo Forest - zollerngalaxy:exo forest - 0.5 - zollerngalaxy:exodusgrass - zollerngalaxy:exodusdirt
+Black Mesa - zollerngalaxy:black mesa - 0.5 - zollerngalaxy:exosand - zollerngalaxy:exodusstone
 A mod doesn't support extended biome IDs -- report to JEID - jeid:error_biome - 0.5 - minecraft:grass - minecraft:dirt
 Diona - moreplanets:diona - 0.2 - minecraft:grass - minecraft:dirt
 Chalos Plains - moreplanets:chalos_plains - 0.8 - moreplanets:cheese_grass_block - moreplanets:cheese_dirt

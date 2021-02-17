@@ -22,19 +22,19 @@
         {
             "type": "item",
             "io-type": "input",
-            "item": "lucraftcore:ingot_adamantium",
+            "item": "contenttweaker:ingotadamantium",
             "amount": 16
         },
         {
             "type": "item",
             "io-type": "input",
-            "item": "lucraftcore:ingot_dwarf_star_alloy",
+            "item": "contenttweaker:ingotdwarfstaralloy",
             "amount": 16
         },
         {
             "type": "item",
             "io-type": "output",
-            "item": "lucraftcore:ingot_uru",
+            "item": "contenttweaker:ingoturu",
             "amount": 1
         }
 
