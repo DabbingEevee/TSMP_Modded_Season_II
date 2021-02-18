@@ -106,6 +106,8 @@ mods.mekanism.enrichment.addRecipe(<netherbackport:ancientdebris>, <contenttweak
 <modularmachinery:itemmodularium>.displayName = "Modularium Ingot";
 <modularmachinery:blockcasing:0>.displayName = "Block of Modularium";
 
+<mo_swords:dtklinge>.displayName = "Dragonkiller Blade";
+
 <waveymod:donutlmfao>.displayName = "SpaceTime Donut";
 
 <contenttweaker:neutron_sponge>.addTooltip("Fill with a liquid in a casting basin - Step 0");

@@ -61,6 +61,7 @@ var createitem = [
         "inactive_infinity_catalyst",
         "fluxed_electrum_singularity",
         "glowing_iron_singularity",
+        "twilight_catalyst",
         "gemPulsaton",
         "fiery_singularity"
     ] as string[];

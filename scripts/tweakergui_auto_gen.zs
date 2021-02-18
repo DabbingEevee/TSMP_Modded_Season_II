@@ -79,7 +79,7 @@ recipes.addShaped("auto_gen_-1950629486", <mysticalcreations:unstable_seeds>,
 [[<ore:ingotUnstable>, <mysticalagriculture:crafting:2>, <ore:ingotUnstable>],
 [<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:19>, <mysticalagriculture:crafting:2>],
 [<ore:ingotUnstable>, <mysticalagriculture:crafting:2>, <ore:ingotUnstable>]]);
-recipes.addShaped("auto_gen_-622421564", <extrautils2:unstableingots>, 
+recipes.addShaped("auto_gen_-622421564", <extrautils2:unstableingots:2>,
 [[<mysticalcreations:unstable_essence>, <mysticalcreations:unstable_essence>, <mysticalcreations:unstable_essence>],
 [<mysticalcreations:unstable_essence>, null, <mysticalcreations:unstable_essence>],
 [<mysticalcreations:unstable_essence>, <mysticalcreations:unstable_essence>, <mysticalcreations:unstable_essence>]]);
@@ -103,3 +103,42 @@ recipes.addShaped("auto_gen_-19725501", <fhantoncore:catgun>,
 [[<techguns:itemshared:128>, <tconmaterial:gemenderal>, <fhantoncore:poppingcatblock>],
 [<fhantoncore:poppingcatblock>, <jaopca:item_plateradium>, <fhantoncore:poppingcatblock>],
 [<fhantoncore:poppingcatblock>, <fhantoncore:poppingcatblock>, <jaopca:item_platefusionite>]]);
+recipes.addShaped("auto_gen_286919591", <contenttweaker:twilight_catalyst>, 
+[[<minecraft:diamond_block>, <botania:manaresource:2>, <minecraft:diamond_block>],
+[<botania:manaresource:2>, <aether_legacy:lightning_sword>, <botania:manaresource:2>],
+[<minecraft:diamond_block>, <botania:manaresource:2>, <minecraft:diamond_block>]]);
+recipes.addShaped("auto_gen_-830054102", <contenttweaker:twilight_catalyst>, 
+[[<twilightforest:twilight_log:1>, <twilightforest:twilight_log>, <twilightforest:twilight_log:1>],
+[<twilightforest:twilight_log>, <minecraft:stonebrick:3>, <twilightforest:twilight_log>],
+[<twilightforest:twilight_log:1>, <twilightforest:twilight_log>, <twilightforest:twilight_log:1>]]);
+recipes.addShaped("auto_gen_115669540", <storagedrawers:upgrade_creative>, 
+[[<moreplanets:black_hole_storage>, <storagedrawers:upgrade_storage:4>, <moreplanets:black_hole_storage>],
+[<storagedrawers:upgrade_storage:4>, <contenttweaker:singularity_matrix_1>, <storagedrawers:upgrade_storage:4>],
+[<moreplanets:black_hole_storage>, <storagedrawers:upgrade_storage:4>, <moreplanets:black_hole_storage>]]);
+recipes.remove(<mo_swords:dragon>);
+recipes.addShaped("auto_gen_-1525847968", <mo_swords:dragon>, 
+[[<extendedcrafting:singularity:24>, <extendedcrafting:singularity:24>, <extendedcrafting:singularity:24>],
+[<extendedcrafting:singularity:24>, <mo_swords:dtklinge>, <extendedcrafting:singularity:24>],
+[<extendedcrafting:singularity:24>, <mo_swords:dtgriff>, <extendedcrafting:singularity:24>]]);
+mods.extendedcrafting.TableCrafting.addShaped(1, <mo_swords:damastbarren>, 
+[[<iceandfire:dragonsteel_ice_ingot>, <iceandfire:dragonsteel_ice_ingot>, <iceandfire:dragonsteel_ice_ingot>],
+[<bigreactors:blocksteel>, <bigreactors:blocksteel>, <bigreactors:blocksteel>],
+[<iceandfire:dragonsteel_fire_ingot>, <iceandfire:dragonsteel_fire_ingot>, <iceandfire:dragonsteel_fire_ingot>]]);
+furnace.remove(<mo_swords:damastbarrenglowing>);
+mods.extendedcrafting.TableCrafting.addShaped(1, <mo_swords:damastbarrenglowing>, 
+[[<waveymod:waviccore>, <waveymod:wavyingot>, <waveymod:waviccore>],
+[<waveymod:wavicorb>, <mo_swords:damastbarren>, <waveymod:wavicorb>],
+[<waveymod:waviccore>, <waveymod:wavyingot>, <waveymod:waviccore>]]);
+recipes.addShaped("auto_gen_1252367055", <galacticraftcore:dungeonfinder>, 
+[[null, <galacticraftcore:item_basic_moon>, null],
+[<galacticraftcore:item_basic_moon>, <galacticraftcore:cheese>, <galacticraftcore:item_basic_moon>],
+[null, <galacticraftcore:item_basic_moon>, null]]);
+recipes.remove(<extendedcrafting:material>);
+recipes.addShaped("auto_gen_-860024176", <extendedcrafting:material>, 
+[[<ore:obsidian>, <ore:dustObsidian>, <ore:obsidian>],
+[<ore:ingotIron>, <ore:dustIron>, <ore:ingotIron>],
+[<ore:obsidian>, <ore:dustObsidian>, <ore:obsidian>]]);
+recipes.addShaped("auto_gen_158202177", <aeadditions:bruh>, 
+[[null, <minecraft:dye>, null],
+[null, <minecraft:dye:3>, null],
+[<minecraft:nether_wart_block>, <minecraft:nether_wart_block>, <minecraft:nether_wart_block>]]);

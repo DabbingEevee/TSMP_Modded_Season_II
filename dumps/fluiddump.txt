@@ -228,13 +228,13 @@ Molten Sanguinite - sanguinite - 800 - 4000 - 720 - Block{metallurgy:molten_sang
 Molten Desichalkos - desichalkos - 800 - 4000 - 540 - Block{metallurgy:molten_desichalkos}
 Molten Celenegil - celenegil - 800 - 4000 - 720 - Block{metallurgy:molten_celenegil}
 Molten Shadow Iron - shadow_iron - 800 - 4000 - 360 - Block{metallurgy:molten_shadow_iron}
-Molten Mithril - mithril - 800 - 4000 - 540 - Block{metallurgy:molten_mithril}
 Molten Carmot - carmot - 800 - 4000 - 540 - Block{metallurgy:molten_carmot}
+Molten Mithril - mithril - 800 - 4000 - 540 - Block{metallurgy:molten_mithril}
 Molten Ceruclase - ceruclase - 800 - 4000 - 540 - Block{metallurgy:molten_ceruclase}
 Molten Deep Iron - deep_iron - 800 - 4000 - 360 - Block{metallurgy:molten_deep_iron}
 Molten Angmallen - angmallen - 800 - 4000 - 360 - Block{metallurgy:molten_angmallen}
-Molten Manganese - manganese - 800 - 4000 - 360 - Block{metallurgy:molten_manganese}
 Molten Kalendrite - kalendrite - 800 - 4000 - 540 - Block{metallurgy:molten_kalendrite}
+Molten Manganese - manganese - 800 - 4000 - 360 - Block{metallurgy:molten_manganese}
 Molten Damascus Steel - damascus_steel - 800 - 4000 - 720 - Block{metallurgy:molten_damascus_steel}
 Molten Prometheum - prometheum - 800 - 4000 - 360 - Block{metallurgy:molten_prometheum}
 Molten Adamantine - adamantine - 800 - 4000 - 540 - Block{metallurgy:molten_adamantine}
