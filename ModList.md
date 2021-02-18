@@ -241,6 +241,11 @@
 
 *boni, progWML6, Alexbegt*
 ***
+### MatterOverdrive: Legacy Edition
+<https://hrzn.studio/p/mo>
+
+*Horizon Studio,      Coded,      Buuz135,      Simeon Radivoev,      Shadowfacts,      Dev_Osmium*
+***
 ### Mekanism
 *aidancbrady,      thommy101,      thiakil,      pupnewfster,      dizzyd*
 ***
