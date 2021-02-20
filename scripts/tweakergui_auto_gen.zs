@@ -142,3 +142,7 @@ recipes.addShaped("auto_gen_158202177", <aeadditions:bruh>,
 [[null, <minecraft:dye>, null],
 [null, <minecraft:dye:3>, null],
 [<minecraft:nether_wart_block>, <minecraft:nether_wart_block>, <minecraft:nether_wart_block>]]);
+recipes.addShaped("auto_gen_138822386", <fhantoncore:bedrockbreaker>, 
+[[<avaritia:resource:3>, <avaritia:resource:4>, <avaritia:resource:3>],
+[null, <minecraft:stick>, null],
+[null, <minecraft:stick>, null]]);

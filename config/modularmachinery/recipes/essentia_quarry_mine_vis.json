@@ -12,7 +12,19 @@
             "type": "item",
             "io-type": "input",
             "item": "minecraft:iron_pickaxe",
-            "amount": 3
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:iron_pickaxe",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:iron_pickaxe",
+            "amount": 1
         },
         {
             "type": "item",

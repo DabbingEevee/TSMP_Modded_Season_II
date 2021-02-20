@@ -55,7 +55,7 @@
             "y": 0,
             "z": 2,
             "elements": [
-                "modularmachinery:blockcasing@0"
+                "casings_all"
             ]
         },
         {

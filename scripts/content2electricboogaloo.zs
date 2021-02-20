@@ -52,7 +52,7 @@ for ore in createoredict {
 
 }
 
-
+oreDict.get("stickWood").add(<harvestcraft:fishsticksitem>);
 
 oreDict.get("ingotQuicksilver").add(<thaumcraft:quicksilver>);
 oreDict.get("quicksilver").add(<metallurgy:quicksilver_ingot>);
