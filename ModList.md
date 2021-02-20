@@ -198,6 +198,9 @@
 
 *kwpugh*
 ***
+### Hammer Core
+*Zeitheron*
+***
 ### Waila
 *ProfMobius,    TehNut*
 ***
@@ -360,6 +363,9 @@
 ***
 ### Serene Seasons
 *Adubbz, Forstride*
+***
+### Solar Flux Reborn
+*Zeitheron*
 ***
 ### Standard Expansion
 *Funwayguy*
