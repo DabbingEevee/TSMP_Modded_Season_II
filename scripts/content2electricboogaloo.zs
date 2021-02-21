@@ -21,6 +21,10 @@ var createoredict = [
     "nuggetNetherite",
     "dustWavic",
     "nuggetWavicAwakened",
+    "nuggetDamast",
+    "nuggetDamastGlowing",
+    "blockDamast",
+    "blockDamastGlowing",
     "dustWavicAwakened",
     "nuggetPureEvil",
     "dustPureEvil",
@@ -54,6 +58,8 @@ for ore in createoredict {
 
 oreDict.get("stickWood").add(<harvestcraft:fishsticksitem>);
 
+oreDict.get("plateTritanium").add(<matteroverdrive:tritanium_plate>);
+
 oreDict.get("ingotQuicksilver").add(<thaumcraft:quicksilver>);
 oreDict.get("quicksilver").add(<metallurgy:quicksilver_ingot>);
 
@@ -68,6 +74,9 @@ oreDict.get("blockModularium").add(<modularmachinery:blockcasing:0>);
 
 oreDict.get("oreGold").add(<waveymod:nethergoldore>);
 oreDict.get("oreDiamond").add(<waveymod:netherdiamondore>);
+
+oreDict.get("ingotDamast").add(<mo_swords:damastbarren>);
+oreDict.get("ingotDamastGlowing").add(<mo_swords:damastbarrenglowing>);
 oreDict.get("oreWavic").add(<waveymod:wavicore>);
 oreDict.get("oreEmerald").add(<waveymod:wavicemeraldore>);
 oreDict.get("oreTromero").add(<waveymod:tromerosore>);
@@ -103,6 +112,12 @@ oreDict.get("ingotNetheriteScrap").add(<netherbackport:netheritescrap>);
 
 mods.mekanism.enrichment.addRecipe(<netherbackport:ancientdebris>, <contenttweaker:dirty_netherite_scrap> * 3);
 
+<aether_legacy:obsidian_helmet>.displayName = "Skyforged Obsidian Helmet";
+<aether_legacy:obsidian_chestplate>.displayName = "Skyforged Obsidian Chestplate";
+<aether_legacy:obsidian_leggings>.displayName = "Skyforged Obsidian Leggings";
+<aether_legacy:obsidian_boots>.displayName = "Skyforged Obsidian Boots";
+
+
 <modularmachinery:itemmodularium>.displayName = "Modularium Ingot";
 <modularmachinery:blockcasing:0>.displayName = "Block of Modularium";
 
@@ -135,6 +150,7 @@ mods.mekanism.enrichment.addRecipe(<netherbackport:ancientdebris>, <contenttweak
 
 <contenttweaker:orefsharpalloy>.addTooltip("FSharp Alloy - Completed");
 
+<quark:enderdragon_scale>.displayName = "Sharp Dragon Scale";
 
 mods.tconstruct.Casting.addBasinRecipe(<contenttweaker:mega_alloy_neutron_sponge_1>, <contenttweaker:neutron_sponge>, <liquid:steel>, 41472, true, 200);
 mods.tconstruct.Casting.addBasinRecipe(<contenttweaker:mega_alloy_neutron_sponge_2>, <contenttweaker:mega_alloy_neutron_sponge_1>, <liquid:bronze>, 82944, true, 200);
@@ -179,6 +195,12 @@ furnace.addRecipe(<contenttweaker:ingotdwarfstaralloy>, <contenttweaker:dustdwar
 
 
 var createninexninerecipe = [
+
+        [<contenttweaker:blockdamast>, <mo_swords:damastbarren>],
+        [<mo_swords:damastbarren>, <contenttweaker:nuggetdamast>],
+
+        [<contenttweaker:blockdamastglowing>, <mo_swords:damastbarrenglowing>],
+        [<mo_swords:damastbarrenglowing>, <contenttweaker:nuggetdamastglowing>],
 
         [<waveymod:koinosoreblock>, <waveymod:koinosingot>],
         [<waveymod:koinosingot>, <contenttweaker:nuggetkoinos>],

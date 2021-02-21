@@ -87,3 +87,9 @@ recipes.addShaped("auto_gen_-765195768", <aeadditions:gilded_cookie>,
 [<minecraft:cookie>, <contenttweaker:nuggetgildednetherite>, <minecraft:cookie>],
 [<contenttweaker:nuggetgildednetherite>, <minecraft:cookie>, <contenttweaker:nuggetgildednetherite>]]);
 recipes.remove(<modularmachinery:itemmodularium>);
+
+mods.thermalexpansion.Transposer.addExtractRecipe(<liquid:matter_plasma> * 1000, <galaxyspace:gs_basic:30>, 256, <galaxyspace:gs_basic:29> % 100);
+
+
+mods.thermalexpansion.Transposer.addFillRecipe(<galaxyspace:gs_basic:30>, <galaxyspace:gs_basic:29>, <liquid:matter_plasma> * 1000, 256);
+

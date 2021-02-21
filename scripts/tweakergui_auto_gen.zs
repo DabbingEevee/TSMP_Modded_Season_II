@@ -1,148 +1,156 @@
-recipes.addShaped("auto_gen_2066553642", <iceandfire:creative_dragon_meal>, 
-[[<iceandfire:dragon_meal>, <minecraft:golden_apple>, <iceandfire:dragon_meal>],
-[<minecraft:golden_apple>, <extendedcrafting:singularity:5>, <minecraft:golden_apple>],
-[<iceandfire:dragon_meal>, <minecraft:golden_apple>, <iceandfire:dragon_meal>]]);
-recipes.remove(<modularmachinery:blockcasing:0>);
-recipes.addShaped("auto_gen_807460514", <modularmachinery:blockcasing:0>, 
-[[<modularmachinery:itemmodularium>, <modularmachinery:itemmodularium>, <modularmachinery:itemmodularium>],
-[<modularmachinery:itemmodularium>, <modularmachinery:itemmodularium>, <modularmachinery:itemmodularium>],
-[<modularmachinery:itemmodularium>, <modularmachinery:itemmodularium>, <modularmachinery:itemmodularium>]]);
-recipes.addShaped("auto_gen_1244272501", <draconicevolution:draconium_capacitor:2>, 
-[[<galacticraftcore:infinite_battery>, <galacticraftcore:infinite_battery>, <galacticraftcore:infinite_battery>],
-[<galacticraftcore:infinite_battery>, <draconicevolution:draconium_capacitor:1>, <galacticraftcore:infinite_battery>],
-[<galacticraftcore:infinite_battery>, <galacticraftcore:infinite_battery>, <galacticraftcore:infinite_battery>]]);
-
-recipes.addShaped("auto_gen_-774383404", <termat:chlorophyte_block>, 
-[[<termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>],
-[<termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>],
-[<termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>]]);
-recipes.addShaped("auto_gen_1505668835", <termat:chlorophyte_ingot>, 
-[[<termat:chlorophyte_cluster>, <termat:chlorophyte_cluster>, <termat:chlorophyte_cluster>],
-[<termat:chlorophyte_cluster>, <termat:chlorophyte_cluster>, <termat:chlorophyte_cluster>],
-[<termat:chlorophyte_cluster>, <termat:chlorophyte_cluster>, <termat:chlorophyte_cluster>]]);
-recipes.addShapeless("auto_gen_1704354411", <termat:chlorophyte_ingot>*9, [<termat:chlorophyte_block>]);
-recipes.addShapeless("auto_gen_963359250", <termat:chlorophyte_cluster>*9, [<termat:chlorophyte_ingot>]);
-recipes.addShaped("auto_gen_-1118754236", <termat:chlorophyte_hoe>, 
-[[<termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>, null],
-[null, <minecraft:stick>, null],
-[null, <minecraft:stick>, null]]);
-recipes.addShaped("auto_gen_-808587532", <termat:chlorophyte_pickaxe>, 
-[[<termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>],
-[null, <minecraft:stick>, null],
-[null, <minecraft:stick>, null]]);
-recipes.addShaped("auto_gen_763147381", <termat:chlorophyte_axe>, 
-[[<termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>, null],
-[<termat:chlorophyte_ingot>, <minecraft:stick>, null],
-[null, <minecraft:stick>, null]]);
-recipes.addShaped("auto_gen_-403827309", <termat:chlorophyte_axe>, 
-[[null, <termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>],
-[null, <minecraft:stick>, <termat:chlorophyte_ingot>],
-[null, <minecraft:stick>, null]]);
-recipes.addShaped("auto_gen_-1845358902", <termat:chlorophyte_shovel>, 
-[[null, <termat:chlorophyte_ingot>, null],
-[null, <minecraft:stick>, null],
-[null, <minecraft:stick>, null]]);
-recipes.addShaped("auto_gen_1758956539", <termat:chlorophyte_saber>, 
-[[null, <termat:chlorophyte_ingot>, null],
-[null, <minecraft:stick>, <termat:chlorophyte_ingot>],
-[<minecraft:stick>, null, null]]);
-recipes.addShaped("auto_gen_857702450", <termat:chlorophyte_helmet>, 
-[[<termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>],
-[<termat:chlorophyte_ingot>, null, <termat:chlorophyte_ingot>],
-[null, null, null]]);
-recipes.addShaped("auto_gen_-177994467", <termat:chlorophyte_chestplate>, 
-[[<termat:chlorophyte_ingot>, null, <termat:chlorophyte_ingot>],
-[<termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>],
-[<termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>]]);
-recipes.addShaped("auto_gen_-891823238", <termat:chlorophyte_leggins>, 
-[[<termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>, <termat:chlorophyte_ingot>],
-[<termat:chlorophyte_ingot>, null, <termat:chlorophyte_ingot>],
-[<termat:chlorophyte_ingot>, null, <termat:chlorophyte_ingot>]]);
-recipes.addShaped("auto_gen_679437603", <termat:chlorophyte_boots>, 
-[[null, null, null],
-[<termat:chlorophyte_ingot>, null, <termat:chlorophyte_ingot>],
-[<termat:chlorophyte_ingot>, null, <termat:chlorophyte_ingot>]]);
-recipes.remove(<waveymod:holyblade>);
-recipes.addShaped("auto_gen_-413152173", <waveymod:holyblade>, 
-[[null, <waveymod:lightshard>, null],
-[<waveymod:holyrune>, <waveymod:wavyblade>, <waveymod:holyrune>],
-[null, <waveymod:wavycore>, null]]);
-recipes.addShaped("auto_gen_-1904446051", <waveymod:lightshard>, 
-[[null, <waveymod:holyrune>, null],
-[<waveymod:holyrune>, <waveymod:stellarshard>, <waveymod:holyrune>],
-[null, <waveymod:holyrune>, null]]);
-recipes.addShaped("auto_gen_-1201262092", <waveymod:donutlmfao>, 
-[[<harvestcraft:frosteddonutitem>, <harvestcraft:cinnamonsugardonutitem>, <harvestcraft:chilidonutitem>],
-[<harvestcraft:donutitem>, <contenttweaker:nuggetpureevil>, <harvestcraft:donutitem>],
-[<harvestcraft:chocolatedonutitem>, <harvestcraft:powdereddonutitem>, <harvestcraft:jellydonutitem>]]);
-recipes.addShaped("auto_gen_-1950629486", <mysticalcreations:unstable_seeds>, 
-[[<ore:ingotUnstable>, <mysticalagriculture:crafting:2>, <ore:ingotUnstable>],
+recipes.addShaped("auto_gen_1186087849", <mysticalagradditions:awakened_draconium_seeds>, 
+[[<draconicevolution:draconic_ingot>, <mysticalagradditions:insanium>, <draconicevolution:draconic_ingot>],
+[<mysticalagradditions:insanium>, <mysticalagradditions:insanium:1>, <mysticalagradditions:insanium>],
+[<draconicevolution:draconic_ingot>, <mysticalagradditions:insanium>, <draconicevolution:draconic_ingot>]]);
+recipes.addShaped("auto_gen_-1995188791", <mysticalagradditions:nether_star_seeds>, 
+[[<minecraft:nether_star>, <mysticalagradditions:insanium>, <minecraft:nether_star>],
+[<mysticalagradditions:insanium>, <mysticalagradditions:insanium:1>, <mysticalagradditions:insanium>],
+[<minecraft:nether_star>, <mysticalagradditions:insanium>, <minecraft:nether_star>]]);
+recipes.addShaped("auto_gen_-101536658", <mysticalagriculture:stone_seeds>, 
+[[<minecraft:stone>, <mysticalagriculture:crafting>, <minecraft:stone>],
+[<mysticalagriculture:crafting>, <mysticalagriculture:crafting:17>, <mysticalagriculture:crafting>],
+[<minecraft:stone>, <mysticalagriculture:crafting>, <minecraft:stone>]]);
+recipes.addShaped("auto_gen_-1366609570", <mysticalagriculture:nature_seeds>, 
+[[<mysticalagriculture:crafting:6>, <mysticalagriculture:crafting>, <mysticalagriculture:crafting:6>],
+[<mysticalagriculture:crafting>, <mysticalagriculture:crafting:17>, <mysticalagriculture:crafting>],
+[<mysticalagriculture:crafting:6>, <mysticalagriculture:crafting>, <mysticalagriculture:crafting:6>]]);
+recipes.addShaped("auto_gen_850051198", <mysticalagriculture:dirt_seeds>, 
+[[<minecraft:dirt>, <mysticalagriculture:crafting>, <minecraft:dirt>],
+[<mysticalagriculture:crafting>, <mysticalagriculture:crafting:17>, <mysticalagriculture:crafting>],
+[<minecraft:dirt>, <mysticalagriculture:crafting>, <minecraft:dirt>]]);
+recipes.addShaped("auto_gen_1354764760", <mysticalagriculture:wood_seeds>, 
+[[<ore:logWood>, <mysticalagriculture:crafting>, <ore:logWood>],
+[<mysticalagriculture:crafting>, <mysticalagriculture:crafting:17>, <mysticalagriculture:crafting>],
+[<ore:logWood>, <mysticalagriculture:crafting>, <ore:logWood>]]);
+recipes.addShaped("auto_gen_-1128252100", <mysticalagriculture:water_seeds>, 
+[[<ore:listAllwater>, <mysticalagriculture:crafting>, <ore:listAllwater>],
+[<mysticalagriculture:crafting>, <mysticalagriculture:crafting:17>, <mysticalagriculture:crafting>],
+[<ore:listAllwater>, <mysticalagriculture:crafting>, <ore:listAllwater>]]);
+recipes.addShaped("auto_gen_1412048456", <mysticalagriculture:ice_seeds>, 
+[[<minecraft:ice>, <mysticalagriculture:crafting>, <minecraft:ice>],
+[<mysticalagriculture:crafting>, <mysticalagriculture:crafting:17>, <mysticalagriculture:crafting>],
+[<minecraft:ice>, <mysticalagriculture:crafting>, <minecraft:ice>]]);
+recipes.addShaped("auto_gen_1024887630", <mysticalagriculture:fire_seeds>, 
+[[<minecraft:fire_charge>, <mysticalagriculture:crafting:1>, <minecraft:fire_charge>],
+[<mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:18>, <mysticalagriculture:crafting:1>],
+[<minecraft:fire_charge>, <mysticalagriculture:crafting:1>, <minecraft:fire_charge>]]);
+recipes.addShaped("auto_gen_1186662754", <mysticalagriculture:dye_seeds>, 
+[[<mysticalagriculture:crafting:7>, <mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:7>],
+[<mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:18>, <mysticalagriculture:crafting:1>],
+[<mysticalagriculture:crafting:7>, <mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:7>]]);
+recipes.addShaped("auto_gen_-2005412884", <mysticalagriculture:nether_seeds>, 
+[[<mysticalagriculture:crafting:8>, <mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:8>],
+[<mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:18>, <mysticalagriculture:crafting:1>],
+[<mysticalagriculture:crafting:8>, <mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:8>]]);
+recipes.addShaped("auto_gen_-2103182771", <mysticalagriculture:coal_seeds>, 
+[[<minecraft:coal>, <mysticalagriculture:crafting:1>, <minecraft:coal>],
+[<mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:18>, <mysticalagriculture:crafting:1>],
+[<minecraft:coal>, <mysticalagriculture:crafting:1>, <minecraft:coal>]]);
+recipes.addShaped("auto_gen_637129499", <mysticalagriculture:iron_seeds>, 
+[[<minecraft:iron_ingot>, <mysticalagriculture:crafting:2>, <minecraft:iron_ingot>],
 [<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:19>, <mysticalagriculture:crafting:2>],
-[<ore:ingotUnstable>, <mysticalagriculture:crafting:2>, <ore:ingotUnstable>]]);
-recipes.addShaped("auto_gen_-622421564", <extrautils2:unstableingots:2>,
-[[<mysticalcreations:unstable_essence>, <mysticalcreations:unstable_essence>, <mysticalcreations:unstable_essence>],
-[<mysticalcreations:unstable_essence>, null, <mysticalcreations:unstable_essence>],
-[<mysticalcreations:unstable_essence>, <mysticalcreations:unstable_essence>, <mysticalcreations:unstable_essence>]]);
-recipes.addShaped("auto_gen_-1408933971", <contenttweaker:nuggetgildednetherite>, 
-[[null, <minecraft:gold_block>, null],
-[<minecraft:gold_block>, <contenttweaker:nuggetnetherite>, <minecraft:gold_block>],
-[null, <minecraft:gold_block>, null]]);
-mods.extendedcrafting.TableCrafting.addShaped(2, <contenttweaker:ingotmetallicredmatter>, 
-[[null, null, null, null, null],
-[<avaritia:resource:3>, <projecte:item.pe_matter:1>, <projecte:item.pe_matter:1>, <projecte:item.pe_matter:1>, <avaritia:resource:3>],
-[<extendedcrafting:storage:3>, <projecte:item.pe_matter:1>, <contenttweaker:blockgildednetherite>, <projecte:item.pe_matter:1>, <extendedcrafting:storage:3>],
-[<avaritia:resource:3>, <projecte:item.pe_matter:1>, <projecte:item.pe_matter:1>, <projecte:item.pe_matter:1>, <avaritia:resource:3>],
-[null, null, null, null, null]]);
-mods.extendedcrafting.TableCrafting.addShaped(2, <tconevo:edible>, 
-[[<ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>],
-[<ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>],
-[<ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>],
-[<ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>],
-[<ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>, <ore:listAllmeatraw>]]);
-recipes.addShaped("auto_gen_-19725501", <fhantoncore:catgun>, 
-[[<techguns:itemshared:128>, <tconmaterial:gemenderal>, <fhantoncore:poppingcatblock>],
-[<fhantoncore:poppingcatblock>, <jaopca:item_plateradium>, <fhantoncore:poppingcatblock>],
-[<fhantoncore:poppingcatblock>, <fhantoncore:poppingcatblock>, <jaopca:item_platefusionite>]]);
-recipes.addShaped("auto_gen_286919591", <contenttweaker:twilight_catalyst>, 
-[[<minecraft:diamond_block>, <botania:manaresource:2>, <minecraft:diamond_block>],
-[<botania:manaresource:2>, <aether_legacy:lightning_sword>, <botania:manaresource:2>],
-[<minecraft:diamond_block>, <botania:manaresource:2>, <minecraft:diamond_block>]]);
-recipes.addShaped("auto_gen_-830054102", <contenttweaker:twilight_catalyst>, 
-[[<twilightforest:twilight_log:1>, <twilightforest:twilight_log>, <twilightforest:twilight_log:1>],
-[<twilightforest:twilight_log>, <minecraft:stonebrick:3>, <twilightforest:twilight_log>],
-[<twilightforest:twilight_log:1>, <twilightforest:twilight_log>, <twilightforest:twilight_log:1>]]);
-recipes.addShaped("auto_gen_115669540", <storagedrawers:upgrade_creative>, 
-[[<moreplanets:black_hole_storage>, <storagedrawers:upgrade_storage:4>, <moreplanets:black_hole_storage>],
-[<storagedrawers:upgrade_storage:4>, <contenttweaker:singularity_matrix_1>, <storagedrawers:upgrade_storage:4>],
-[<moreplanets:black_hole_storage>, <storagedrawers:upgrade_storage:4>, <moreplanets:black_hole_storage>]]);
-recipes.remove(<mo_swords:dragon>);
-recipes.addShaped("auto_gen_-1525847968", <mo_swords:dragon>, 
-[[<extendedcrafting:singularity:24>, <extendedcrafting:singularity:24>, <extendedcrafting:singularity:24>],
-[<extendedcrafting:singularity:24>, <mo_swords:dtklinge>, <extendedcrafting:singularity:24>],
-[<extendedcrafting:singularity:24>, <mo_swords:dtgriff>, <extendedcrafting:singularity:24>]]);
-mods.extendedcrafting.TableCrafting.addShaped(1, <mo_swords:damastbarren>, 
-[[<iceandfire:dragonsteel_ice_ingot>, <iceandfire:dragonsteel_ice_ingot>, <iceandfire:dragonsteel_ice_ingot>],
-[<bigreactors:blocksteel>, <bigreactors:blocksteel>, <bigreactors:blocksteel>],
-[<iceandfire:dragonsteel_fire_ingot>, <iceandfire:dragonsteel_fire_ingot>, <iceandfire:dragonsteel_fire_ingot>]]);
-furnace.remove(<mo_swords:damastbarrenglowing>);
-mods.extendedcrafting.TableCrafting.addShaped(1, <mo_swords:damastbarrenglowing>, 
-[[<waveymod:waviccore>, <waveymod:wavyingot>, <waveymod:waviccore>],
-[<waveymod:wavicorb>, <mo_swords:damastbarren>, <waveymod:wavicorb>],
-[<waveymod:waviccore>, <waveymod:wavyingot>, <waveymod:waviccore>]]);
-recipes.addShaped("auto_gen_1252367055", <galacticraftcore:dungeonfinder>, 
-[[null, <galacticraftcore:item_basic_moon>, null],
-[<galacticraftcore:item_basic_moon>, <galacticraftcore:cheese>, <galacticraftcore:item_basic_moon>],
-[null, <galacticraftcore:item_basic_moon>, null]]);
-recipes.remove(<extendedcrafting:material>);
-recipes.addShaped("auto_gen_-860024176", <extendedcrafting:material>, 
-[[<ore:obsidian>, <ore:dustObsidian>, <ore:obsidian>],
-[<ore:ingotIron>, <ore:dustIron>, <ore:ingotIron>],
-[<ore:obsidian>, <ore:dustObsidian>, <ore:obsidian>]]);
-recipes.addShaped("auto_gen_158202177", <aeadditions:bruh>, 
-[[null, <minecraft:dye>, null],
-[null, <minecraft:dye:3>, null],
-[<minecraft:nether_wart_block>, <minecraft:nether_wart_block>, <minecraft:nether_wart_block>]]);
-recipes.addShaped("auto_gen_138822386", <fhantoncore:bedrockbreaker>, 
-[[<avaritia:resource:3>, <avaritia:resource:4>, <avaritia:resource:3>],
-[null, <minecraft:stick>, null],
-[null, <minecraft:stick>, null]]);
+[<minecraft:iron_ingot>, <mysticalagriculture:crafting:2>, <minecraft:iron_ingot>]]);
+recipes.addShaped("auto_gen_1784399055", <mysticalagriculture:nether_quartz_seeds>, 
+[[<minecraft:quartz>, <mysticalagriculture:crafting:2>, <minecraft:quartz>],
+[<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:19>, <mysticalagriculture:crafting:2>],
+[<minecraft:quartz>, <mysticalagriculture:crafting:2>, <minecraft:quartz>]]);
+recipes.addShaped("auto_gen_-875909191", <mysticalagriculture:glowstone_seeds>, 
+[[<minecraft:glowstone>, <mysticalagriculture:crafting:2>, <minecraft:glowstone>],
+[<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:19>, <mysticalagriculture:crafting:2>],
+[<minecraft:glowstone>, <mysticalagriculture:crafting:2>, <minecraft:glowstone>]]);
+recipes.addShaped("auto_gen_-825941649", <mysticalagriculture:redstone_seeds>, 
+[[<minecraft:redstone>, <mysticalagriculture:crafting:2>, <minecraft:redstone>],
+[<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:19>, <mysticalagriculture:crafting:2>],
+[<minecraft:redstone>, <mysticalagriculture:crafting:2>, <minecraft:redstone>]]);
+recipes.addShaped("auto_gen_527568488", <mysticalagriculture:obsidian_seeds>, 
+[[<minecraft:obsidian>, <mysticalagriculture:crafting:2>, <minecraft:obsidian>],
+[<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:19>, <mysticalagriculture:crafting:2>],
+[<minecraft:obsidian>, <mysticalagriculture:crafting:2>, <minecraft:obsidian>]]);
+recipes.addShaped("auto_gen_701091565", <mysticalagriculture:gold_seeds>, 
+[[<minecraft:gold_ingot>, <mysticalagriculture:crafting:3>, <minecraft:gold_ingot>],
+[<mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:20>, <mysticalagriculture:crafting:3>],
+[<minecraft:gold_ingot>, <mysticalagriculture:crafting:3>, <minecraft:gold_ingot>]]);
+recipes.addShaped("auto_gen_-2030199418", <mysticalagriculture:lapis_lazuli_seeds>, 
+[[<minecraft:dye:4>, <mysticalagriculture:crafting:3>, <minecraft:dye:4>],
+[<mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:20>, <mysticalagriculture:crafting:3>],
+[<minecraft:dye:4>, <mysticalagriculture:crafting:3>, <minecraft:dye:4>]]);
+recipes.addShaped("auto_gen_850936416", <mysticalagriculture:end_seeds>, 
+[[<mysticalagriculture:crafting:9>, <mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:9>],
+[<mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:20>, <mysticalagriculture:crafting:3>],
+[<mysticalagriculture:crafting:9>, <mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:9>]]);
+recipes.addShaped("auto_gen_-625373597", <mysticalagriculture:experience_seeds>, 
+[[<mysticalagriculture:chunk:5>, <mysticalagriculture:crafting:3>, <mysticalagriculture:chunk:5>],
+[<mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:20>, <mysticalagriculture:crafting:3>],
+[<mysticalagriculture:chunk:5>, <mysticalagriculture:crafting:3>, <mysticalagriculture:chunk:5>]]);
+recipes.addShaped("auto_gen_-236913754", <mysticalagriculture:diamond_seeds>, 
+[[<minecraft:diamond>, <mysticalagriculture:crafting:4>, <minecraft:diamond>],
+[<mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:21>, <mysticalagriculture:crafting:4>],
+[<minecraft:diamond>, <mysticalagriculture:crafting:4>, <minecraft:diamond>]]);
+recipes.addShaped("auto_gen_-813533994", <mysticalagriculture:emerald_seeds>, 
+[[<minecraft:emerald>, <mysticalagriculture:crafting:4>, <minecraft:emerald>],
+[<mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:21>, <mysticalagriculture:crafting:4>],
+[<minecraft:emerald>, <mysticalagriculture:crafting:4>, <minecraft:emerald>]]);
+recipes.addShaped("auto_gen_-1204659457", <mysticalagriculture:zombie_seeds>, 
+[[<mysticalagriculture:chunk:6>, <mysticalagriculture:crafting>, <mysticalagriculture:chunk:6>],
+[<mysticalagriculture:crafting>, <mysticalagriculture:crafting:17>, <mysticalagriculture:crafting>],
+[<mysticalagriculture:chunk:6>, <mysticalagriculture:crafting>, <mysticalagriculture:chunk:6>]]);
+recipes.addShaped("auto_gen_1585945604", <mysticalagriculture:pig_seeds>, 
+[[<mysticalagriculture:chunk:7>, <mysticalagriculture:crafting:1>, <mysticalagriculture:chunk:7>],
+[<mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:18>, <mysticalagriculture:crafting:1>],
+[<mysticalagriculture:chunk:7>, <mysticalagriculture:crafting:1>, <mysticalagriculture:chunk:7>]]);
+recipes.addShaped("auto_gen_461906045", <mysticalagriculture:chicken_seeds>, 
+[[<mysticalagriculture:chunk:8>, <mysticalagriculture:crafting:1>, <mysticalagriculture:chunk:8>],
+[<mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:18>, <mysticalagriculture:crafting:1>],
+[<mysticalagriculture:chunk:8>, <mysticalagriculture:crafting:1>, <mysticalagriculture:chunk:8>]]);
+recipes.addShaped("auto_gen_1510218599", <mysticalagriculture:cow_seeds>, 
+[[<mysticalagriculture:chunk:9>, <mysticalagriculture:crafting:1>, <mysticalagriculture:chunk:9>],
+[<mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:18>, <mysticalagriculture:crafting:1>],
+[<mysticalagriculture:chunk:9>, <mysticalagriculture:crafting:1>, <mysticalagriculture:chunk:9>]]);
+recipes.addShaped("auto_gen_-243618921", <mysticalagriculture:sheep_seeds>, 
+[[<mysticalagriculture:chunk:10>, <mysticalagriculture:crafting:1>, <mysticalagriculture:chunk:10>],
+[<mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:18>, <mysticalagriculture:crafting:1>],
+[<mysticalagriculture:chunk:10>, <mysticalagriculture:crafting:1>, <mysticalagriculture:chunk:10>]]);
+recipes.addShaped("auto_gen_-1674920246", <mysticalagriculture:slime_seeds>, 
+[[<mysticalagriculture:chunk:11>, <mysticalagriculture:crafting:1>, <mysticalagriculture:chunk:11>],
+[<mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:18>, <mysticalagriculture:crafting:1>],
+[<mysticalagriculture:chunk:11>, <mysticalagriculture:crafting:1>, <mysticalagriculture:chunk:11>]]);
+recipes.addShaped("auto_gen_653606752", <mysticalagriculture:skeleton_seeds>, 
+[[<mysticalagriculture:chunk:12>, <mysticalagriculture:crafting:3>, <mysticalagriculture:chunk:12>],
+[<mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:20>, <mysticalagriculture:crafting:3>],
+[<mysticalagriculture:chunk:12>, <mysticalagriculture:crafting:3>, <mysticalagriculture:chunk:12>]]);
+recipes.addShaped("auto_gen_-755012861", <mysticalagriculture:creeper_seeds>, 
+[[<mysticalagriculture:chunk:13>, <mysticalagriculture:crafting:2>, <mysticalagriculture:chunk:13>],
+[<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:19>, <mysticalagriculture:crafting:2>],
+[<mysticalagriculture:chunk:13>, <mysticalagriculture:crafting:2>, <mysticalagriculture:chunk:13>]]);
+recipes.addShaped("auto_gen_1161593630", <mysticalagriculture:spider_seeds>, 
+[[<mysticalagriculture:chunk:14>, <mysticalagriculture:crafting:2>, <mysticalagriculture:chunk:14>],
+[<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:19>, <mysticalagriculture:crafting:2>],
+[<mysticalagriculture:chunk:14>, <mysticalagriculture:crafting:2>, <mysticalagriculture:chunk:14>]]);
+recipes.addShaped("auto_gen_157313417", <mysticalagriculture:rabbit_seeds>, 
+[[<mysticalagriculture:chunk:15>, <mysticalagriculture:crafting:2>, <mysticalagriculture:chunk:15>],
+[<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:19>, <mysticalagriculture:crafting:2>],
+[<mysticalagriculture:chunk:15>, <mysticalagriculture:crafting:2>, <mysticalagriculture:chunk:15>]]);
+recipes.addShaped("auto_gen_-1829873614", <mysticalagriculture:guardian_seeds>, 
+[[<mysticalagriculture:chunk:16>, <mysticalagriculture:crafting:2>, <mysticalagriculture:chunk:16>],
+[<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:19>, <mysticalagriculture:crafting:2>],
+[<mysticalagriculture:chunk:16>, <mysticalagriculture:crafting:2>, <mysticalagriculture:chunk:16>]]);
+recipes.addShaped("auto_gen_488146054", <mysticalagradditions:neutronium_seeds>, 
+[[<avaritia:resource:4>, <mysticalagradditions:insanium>, <avaritia:resource:4>],
+[<mysticalagradditions:insanium>, <mysticalagradditions:insanium:1>, <mysticalagradditions:insanium>],
+[<avaritia:resource:4>, <mysticalagradditions:insanium>, <avaritia:resource:4>]]);
+recipes.addShaped("auto_gen_-1609369511", <mysticalagriculture:blaze_seeds>, 
+[[<mysticalagriculture:chunk:17>, <mysticalagriculture:crafting:3>, <mysticalagriculture:chunk:17>],
+[<mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:20>, <mysticalagriculture:crafting:3>],
+[<mysticalagriculture:chunk:17>, <mysticalagriculture:crafting:3>, <mysticalagriculture:chunk:17>]]);
+recipes.addShaped("auto_gen_393657978", <mysticalagriculture:ghast_seeds>, 
+[[<mysticalagriculture:chunk:18>, <mysticalagriculture:crafting:3>, <mysticalagriculture:chunk:18>],
+[<mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:20>, <mysticalagriculture:crafting:3>],
+[<mysticalagriculture:chunk:18>, <mysticalagriculture:crafting:3>, <mysticalagriculture:chunk:18>]]);
+recipes.addShaped("auto_gen_1067879483", <mysticalagriculture:enderman_seeds>, 
+[[<mysticalagriculture:chunk:19>, <mysticalagriculture:crafting:3>, <mysticalagriculture:chunk:19>],
+[<mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:20>, <mysticalagriculture:crafting:3>],
+[<mysticalagriculture:chunk:19>, <mysticalagriculture:crafting:3>, <mysticalagriculture:chunk:19>]]);
+recipes.addShaped("auto_gen_-78175807", <mysticalagriculture:wither_skeleton_seeds>, 
+[[<mysticalagriculture:chunk:20>, <mysticalagriculture:crafting:4>, <mysticalagriculture:chunk:20>],
+[<mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:21>, <mysticalagriculture:crafting:4>],
+[<mysticalagriculture:chunk:20>, <mysticalagriculture:crafting:4>, <mysticalagriculture:chunk:20>]]);

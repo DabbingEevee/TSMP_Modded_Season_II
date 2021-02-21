@@ -99,6 +99,7 @@ draconicevolution:LootCore - draconicevolution:lootcore - com.brandon3055.dracon
 draconicevolution:EnderEnergyManipulator - draconicevolution:enderenergymanipulator - com.brandon3055.draconicevolution.entity.EntityEnderEnergyManipulator
 florb - thermalexpansion:florb - cofh.thermalexpansion.entity.projectile.EntityFlorb
 morb - thermalexpansion:morb - cofh.thermalexpansion.entity.projectile.EntityMorb
+quark:gravisand - quark:gravisand - vazkii.quark.automation.entity.EntityGravisand
 quark:pickarang - quark:pickarang - vazkii.quark.world.entity.EntityPickarang
 quark:arrow_ender - quark:arrow_ender - vazkii.quark.misc.entity.EntityArrowEnder
 quark:arrow_explosive - quark:arrow_explosive - vazkii.quark.misc.entity.EntityArrowExplosive
@@ -115,13 +116,12 @@ quark:frog - quark:frog - vazkii.quark.world.entity.EntityFrog
 quark:pirate - quark:pirate - vazkii.quark.world.entity.EntityPirate
 quark:crab - quark:crab - vazkii.quark.world.entity.EntityCrab
 quark:wraith - quark:wraith - vazkii.quark.world.entity.EntityWraith
+quark:chest_passenger - quark:chest_passenger - vazkii.quark.management.entity.EntityChestPassenger
 quark:seat - quark:seat - vazkii.quark.vanity.feature.SitInStairs$Seat
-quark:gravisand - quark:gravisand - vazkii.quark.automation.entity.EntityGravisand
 quark:flat_item_frame - quark:flat_item_frame - vazkii.quark.decoration.entity.EntityFlatItemFrame
 quark:leash_knot - quark:leash_knot - vazkii.quark.decoration.entity.EntityLeashKnot2TheKnotting
 quark:colored_item_frame - quark:colored_item_frame - vazkii.quark.decoration.entity.EntityColoredItemFrame
 quark:glass_item_frame - quark:glass_item_frame - vazkii.quark.decoration.entity.EntityGlassItemFrame
-quark:chest_passenger - quark:chest_passenger - vazkii.quark.management.entity.EntityChestPassenger
 MiningLaser - ic2:mining_laser - ic2.core.item.tool.EntityMiningLaser
 Dynamite - ic2:dynamite - ic2.core.block.EntityDynamite
 StickyDynamite - ic2:sticky_dynamite - ic2.core.block.EntityStickyDynamite
@@ -443,9 +443,9 @@ TaintacleTiny - thaumcraft:taintacletiny - thaumcraft.common.entities.monster.ta
 TaintSwarm - thaumcraft:taintswarm - thaumcraft.common.entities.monster.tainted.EntityTaintSwarm
 TaintSeed - thaumcraft:taintseed - thaumcraft.common.entities.monster.tainted.EntityTaintSeed
 TaintSeedPrime - thaumcraft:taintseedprime - thaumcraft.common.entities.monster.tainted.EntityTaintSeedPrime
-enderio.primed_charge - enderio:primed_charge - crazypants.enderio.base.block.charge.EntityPrimedCharge
 enderio.falling_machine - enderio:falling_machine - crazypants.enderio.base.machine.entity.EntityFallingMachine
 enderio.owl_egg - enderio:owl_egg - crazypants.enderio.base.item.eggs.EntityOwlEgg
+enderio.primed_charge - enderio:primed_charge - crazypants.enderio.base.block.charge.EntityPrimedCharge
 WaterProjectile - projecte:water_projectile - moze_intel.projecte.gameObjs.entity.EntityWaterProjectile
 LavaProjectile - projecte:lava_projectile - moze_intel.projecte.gameObjs.entity.EntityLavaProjectile
 MobRandomizer - projecte:mob_randomizer - moze_intel.projecte.gameObjs.entity.EntityMobRandomizer
@@ -649,6 +649,7 @@ thaumicaugmentation.primal_wisp - thaumicaugmentation:primal_wisp - thecodex6824
 thaumicaugmentation.eldritch_golem - thaumicaugmentation:eldritch_golem - thecodex6824.thaumicaugmentation.common.entity.EntityTAEldritchGolem
 thaumicaugmentation.golem_orb - thaumicaugmentation:golem_orb - thecodex6824.thaumicaugmentation.common.entity.EntityTAGolemOrb
 dart - tinkersaether:dart - shnupbups.tinkersaether.entities.EntityDart
+entitybulletcatgun - fhantoncore:entitybulletcatgun - net.mcreator.fhantoncore.item.ItemCatGun$EntityArrowCustom
 entitybulletwavyslingshot - waveymod:entitybulletwavyslingshot - net.mcreator.waveymod.item.ItemWavySlingshot$EntityArrowCustom
 entitybulletslingshot - waveymod:entitybulletslingshot - net.mcreator.waveymod.item.ItemSlingshot$EntityArrowCustom
 wavyspider - waveymod:wavyspider - net.mcreator.waveymod.entity.EntityWavySpider$EntityCustom
@@ -666,7 +667,6 @@ entitybulletwavicslingshot - waveymod:entitybulletwavicslingshot - net.mcreator.
 wavicspider - waveymod:wavicspider - net.mcreator.waveymod.entity.EntityWavicSpider$EntityCustom
 waviczombie - waveymod:waviczombie - net.mcreator.waveymod.entity.EntityWavicZombie$EntityCustom
 orbofwavic - waveymod:orbofwavic - net.mcreator.waveymod.entity.EntityOrbofWavic$EntityCustom
-entitybulletcatgun - fhantoncore:entitybulletcatgun - net.mcreator.fhantoncore.item.ItemCatGun$EntityArrowCustom
 transport - thermaldynamics:transport - cofh.thermaldynamics.duct.entity.EntityTransport
 actuallyadditions.worm - actuallyadditions:worm - de.ellpeck.actuallyadditions.mod.entity.EntityWorm
 Drone - opencomputers:drone - li.cil.oc.common.entity.Drone

@@ -223,13 +223,13 @@ Molten Quicksilver - quicksilver - 800 - 4000 - 540 - Block{metallurgy:molten_qu
 Molten Astral Silver - astral_silver - 800 - 4000 - 360 - Block{metallurgy:molten_astral_silver}
 Molten Hepatizon - hepatizon - 800 - 4000 - 540 - Block{metallurgy:molten_hepatizon}
 Molten Lemurite - lemurite - 800 - 4000 - 360 - Block{metallurgy:molten_lemurite}
-Molten Sanguinite - sanguinite - 800 - 4000 - 720 - Block{metallurgy:molten_sanguinite}
 Molten Eximite - eximite - 800 - 4000 - 540 - Block{metallurgy:molten_eximite}
+Molten Sanguinite - sanguinite - 800 - 4000 - 720 - Block{metallurgy:molten_sanguinite}
 Molten Desichalkos - desichalkos - 800 - 4000 - 540 - Block{metallurgy:molten_desichalkos}
 Molten Celenegil - celenegil - 800 - 4000 - 720 - Block{metallurgy:molten_celenegil}
 Molten Shadow Iron - shadow_iron - 800 - 4000 - 360 - Block{metallurgy:molten_shadow_iron}
-Molten Carmot - carmot - 800 - 4000 - 540 - Block{metallurgy:molten_carmot}
 Molten Mithril - mithril - 800 - 4000 - 540 - Block{metallurgy:molten_mithril}
+Molten Carmot - carmot - 800 - 4000 - 540 - Block{metallurgy:molten_carmot}
 Molten Ceruclase - ceruclase - 800 - 4000 - 540 - Block{metallurgy:molten_ceruclase}
 Molten Deep Iron - deep_iron - 800 - 4000 - 360 - Block{metallurgy:molten_deep_iron}
 Molten Angmallen - angmallen - 800 - 4000 - 360 - Block{metallurgy:molten_angmallen}
@@ -248,8 +248,8 @@ Molten Inolashite - inolashite - 800 - 4000 - 720 - Block{metallurgy:molten_inol
 Molten Meutoite - meutoite - 800 - 4000 - 540 - Block{metallurgy:molten_meutoite}
 Molten Orichalcum - orichalcum - 800 - 4000 - 720 - Block{metallurgy:molten_orichalcum}
 Molten Infuscolium - infuscolium - 800 - 4000 - 360 - Block{metallurgy:molten_infuscolium}
-Molten Shadow Steel - shadow_steel - 800 - 4000 - 360 - Block{metallurgy:molten_shadow_steel}
 Molten Midasium - midasium - 800 - 4000 - 360 - Block{metallurgy:molten_midasium}
+Molten Shadow Steel - shadow_steel - 800 - 4000 - 360 - Block{metallurgy:molten_shadow_steel}
 Molten Krik - krik - 800 - 4000 - 360 - Block{metallurgy:molten_krik}
 Molten Rubracium - rubracium - 800 - 4000 - 360 - Block{metallurgy:molten_rubracium}
 Liquid Tar - molten_tar - 800 - 4000 - 1000 - Block{metallurgy:molten_tar}

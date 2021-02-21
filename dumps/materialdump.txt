@@ -177,13 +177,13 @@ Etherium - etherium - etherium - null
 Astral Silver - astral_silver - astral_silver - null
 Hepatizon - hepatizon - hepatizon - null
 Lemurite - lemurite - lemurite - null
-Sanguinite - sanguinite - sanguinite - (Life Steal, life_steal_trait)
 Eximite - eximite - eximite - (Enderference, enderference)
+Sanguinite - sanguinite - sanguinite - (Life Steal, life_steal_trait)
 Desichalkos - desichalkos - desichalkos - (King Dice, king_dice_trait)
 Celenegil - celenegil - celenegil - null
 Shadow Iron - shadow_iron - shadow_iron - (Obscure, obscure_trait)
-Carmot - carmot - carmot - null
 Mithril - mithril - mithril - null
+Carmot - carmot - carmot - null
 Ceruclase - ceruclase - ceruclase - null
 Deep Iron - deep_iron - deep_iron - (Opistognathus, opistognathus_trait)
 Angmallen - angmallen - angmallen - null
@@ -202,8 +202,8 @@ Inolashite - inolashite - inolashite - null
 Meutoite - meutoite - meutoite - null
 Orichalcum - orichalcum - orichalcum - null
 Infuscolium - infuscolium - infuscolium - null
-Shadow Steel - shadow_steel - shadow_steel - null
 Midasium - midasium - midasium - (Writable, writable2), (Duplication, duplication_trait)
+Shadow Steel - shadow_steel - shadow_steel - null
 Krik - krik - krik - null
 Rubracium - rubracium - rubracium - null
 Insanium - mysticaladaptations.insanium - insanium - (Prosperous, prosperous), (Duritae, duritos)
@@ -274,15 +274,15 @@ Frostium - frostium - frostium - (Frost Fang, tw_frostfang), (Cold-Blooded, cold
 Froststeel - froststeel - froststeel - (Frost Fang, tw_frostfang), (Stiff, stiff)
 Mirion - mirion - mirion - (Mirabile Visu, mirabile), (Mana, mana)
 Livingwood - livingwood_plustic - null - (Botanical II, botanical2), (Ecological, ecological), (Botanical, botanical1)
-Emerald - emerald_plustic - emerald - (Terrafirma, terrafirma1), (Elemental, elemental)
 Wyvern - wyvern_plustic - null - (Brown Magic, brownmagic), (Blind Bandit, blindbandit), (Portly Gentleman, portly)
 Awakened - awakened_plustic - null - (Rude Awakening, rudeawakening), (Brown Magic, brownmagic), (Blind Bandit, blindbandit), (Apocalypse, apocalypse), (Global Traveler, global)
 Chaotic - chaotic_plustic - null - (Hail Hydra, hailhydra), (Vindictive, vindictive), (Dark Traveler, darktraveler)
-Dark Matter - darkmatter - null - (Ignoble, ignoble), (Dark Traveler, darktraveler)
-Red Matter - redmatter - null - (Democratic People's Republic of Korea, dprk)
 Flamestring - flamestring_plustic - null - (Naphtha, naphtha)
 Bloodwood - bloodwood_plustic - null - (Bloody Mary, bloodymary), (Ecological, ecological)
 Fusewood - fusewood_plustic - null - (Democratic People's Republic of Korea, dprk), (Ecological, ecological)
+Dark Matter - darkmatter - null - (Ignoble, ignoble), (Dark Traveler, darktraveler)
+Red Matter - redmatter - null - (Democratic People's Republic of Korea, dprk)
+Emerald - emerald_plustic - emerald - (Terrafirma, terrafirma1), (Elemental, elemental)
 Wood - wood - null - (Ecological, ecological), (Photosynthetic II, photosynthetic2), (Photosynthetic, photosynthetic1), (Rooted, td_rooted), (Securiphilic, td_securiphilic)
 Leaf - leaf - null - null
 Feather - feather - null - null

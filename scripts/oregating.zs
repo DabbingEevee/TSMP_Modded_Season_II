@@ -33,7 +33,7 @@ mods.orestages.OreStages.addNonDefaultingReplacement("netheric_age", <minecraft:
 mods.orestages.OreStages.addNonDefaultingReplacement("netheric_age", <ore:obsidian>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("netheric_age", <netherbackport:ancientdebris:*>, <fhantoncore:unidentifiedore>);
 
-
+mods.DimensionStages.addDimensionStage("aetheric", 4);
 mods.orestages.OreStages.addNonDefaultingReplacement("aetheric_age", <aether_legacy:ambrosium_ore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("aetheric_age", <aether_legacy:zanite_ore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("aetheric_age", <aether_legacy:gravitite_ore:*>, <fhantoncore:unidentifiedore>);
