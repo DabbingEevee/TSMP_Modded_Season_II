@@ -448,6 +448,11 @@
 ### Zollern Galaxy
 *ZollernWolf*
 ***
+### Reinforcement
+<https://me.fabenet.de>
+
+*fabetune*
+***
 ### ActuallyComputers
 *canitzp*
 ***
@@ -511,6 +516,11 @@
 ***
 ### Extra Utilities 2
 *RWTema*
+***
+### FhantonCore
+<https://mcreator.net>
+
+*koala, MCreator*
 ***
 ### Ice and Fire
 *Alexthe666, Raptorfarian*
@@ -609,6 +619,9 @@
 
 *Tfarcemin*
 ***
+### Rats
+*Alexthe666*
+***
 ### rfeuconvert
 <https://github.com/mcNETDev/rfeuconvert>
 
@@ -685,11 +698,6 @@
 ### WorldEdit
 <http://wiki.sk89q.com/wiki/WorldEdit>
 
-***
-### FhantonCore
-<https://mcreator.net>
-
-*koala, MCreator*
 ***
 ### ZenUtils
 *youyihj*
