@@ -4687,7 +4687,7 @@
           "repeat_relative:1": 1,
           "ismain:1": 0,
           "name:8": "NO UPGRADES!!!!",
-          "desc:8": "Acknowlege that and move on, if you really want to do a \"upgrade\" make redstone, but thats really a downgrade."
+          "desc:8": "Acknowlege that and move on."
         }
       },
       "tasks:9": {
@@ -7755,7 +7755,10 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "lost_aether:jeb_shield",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -7766,11 +7769,32 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Shield of Jeb",
+          "desc:8": "Absorbs and refires projectiles as if they were yours."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "lost_aether:jeb_shield",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "92:10": {
@@ -7788,7 +7812,10 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "lost_aether:invisibility_gem",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -7799,11 +7826,32 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Invisibility Gem",
+          "desc:8": "When worn, gives a chance at invisibility when attacked."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "lost_aether:invisibility_gem",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "93:10": {
@@ -7821,7 +7869,10 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "aether_legacy:life_shard",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -7832,17 +7883,38 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Shard of Life",
+          "desc:8": "When consumed, gives the consumer extra permanent hearts"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aether_legacy:life_shard",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "94:10": {
       "questID:3": 94,
       "preRequisites:11": [
-        93
+        89
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -7854,7 +7926,10 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "aether_legacy:iron_bubble",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -7865,11 +7940,32 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Iron Bubble",
+          "desc:8": "Gives the wearer extra water breathing time."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aether_legacy:iron_bubble",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "95:10": {
@@ -7887,7 +7983,10 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "aether_legacy:regeneration_stone",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -7898,11 +7997,32 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Regeneration Stone",
+          "desc:8": "Can be equipped in the aether slots, gives a higher passive regeneration."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aether_legacy:regeneration_stone",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "96:10": {
@@ -7920,7 +8040,7 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "tinkersaether:valkyrie_block",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -7931,11 +8051,29 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Valkyrie Metal",
+          "desc:8": "Strong material that can be used in tools."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "tinkersaether:valkyrie_block",
+              "Count:3": 16,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "97:10": {
@@ -7953,7 +8091,10 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "aether_legacy:repulsion_shield",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -7964,11 +8105,32 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Shield of Repulsion",
+          "desc:8": "This item can reflect some projectiles."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aether_legacy:repulsion_shield",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "98:10": {
@@ -7986,7 +8148,10 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "aether_legacy:notch_hammer",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -7997,11 +8162,32 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Hammer of Notch",
+          "desc:8": "This hammer shoots heavy projectiles."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aether_legacy:notch_hammer",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "99:10": {
@@ -8208,7 +8394,7 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "aether_legacy:enchanted_gravitite",
+            "id:8": "contenttweaker:blockgravitite",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -8274,7 +8460,10 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "aether_legacy:flaming_sword",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -8285,11 +8474,32 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Flaming Sword",
+          "desc:8": "It lights stuff on fire."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aether_legacy:flaming_sword",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "104:10": {
@@ -8307,7 +8517,10 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "aether_legacy:sentry_boots",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -8318,11 +8531,32 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Sentry Boots",
+          "desc:8": "Meakes it so you dont take fall damage."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aether_legacy:sentry_boots",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "105:10": {
@@ -8340,7 +8574,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {
+                "AS_Amulet_HolderLeast:4": -8795465546733830107,
+                "AS_Amulet_HolderMost:4": -3160370039451531141
+              }
+            },
+            "id:8": "aether_legacy:lightning_sword",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -8351,11 +8591,35 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Lightning Sword",
+          "desc:8": "Strikes lightning on foes"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {
+                  "AS_Amulet_HolderLeast:4": -8795465546733830107,
+                  "AS_Amulet_HolderMost:4": -3160370039451531141
+                }
+              },
+              "id:8": "aether_legacy:lightning_sword",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "106:10": {
@@ -8373,7 +8637,10 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "aether_legacy:holy_sword",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -8384,17 +8651,38 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Holy Blade",
+          "desc:8": "Deals massive damage to undead foes"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aether_legacy:holy_sword",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "107:10": {
       "questID:3": 107,
       "preRequisites:11": [
-        94
+        89
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -8406,7 +8694,10 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "aether_legacy:pig_slayer",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -8417,17 +8708,38 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Pig Slayer",
+          "desc:8": "Oneshots pig mobs like zombie pigmen."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aether_legacy:pig_slayer",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "108:10": {
-      "questID:3": 109,
+      "questID:3": 108,
       "preRequisites:11": [
-        107
+        112
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -8439,7 +8751,7 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "minecraft:obsidian",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -8450,14 +8762,89 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
+          "name:8": "\"...a piece of Obsidian...\"",
           "desc:8": "No Description"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:obsidian",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "109:10": {
+      "questID:3": 109,
+      "preRequisites:11": [
+        89
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "aether_legacy:vampire_blade",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Vampire Blade",
+          "desc:8": "Steals life from victims."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aether_legacy:vampire_blade",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "110:10": {
       "questID:3": 110,
       "preRequisites:11": [
         90
@@ -8472,7 +8859,10 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "lost_aether:sentry_shield",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -8483,14 +8873,35 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Sentry Shield",
+          "desc:8": "Grants invulerability to explosions, also sometimes explodes when attacked."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "lost_aether:sentry_shield",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
-    "110:10": {
+    "111:10": {
       "questID:3": 111,
       "preRequisites:11": [
         90
@@ -8505,7 +8916,10 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "lost_aether:agility_boots",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -8516,6 +8930,1223 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
+          "name:8": "Agility Boots",
+          "desc:8": "Allows the wearer to step up blocks and move faster."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "lost_aether:agility_boots",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "112:10": {
+      "questID:3": 112,
+      "preRequisites:11": [
+        90
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "minecraft:stone_pickaxe",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Age Complete",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "asScript:1": 1,
+          "description:8": "Unlock Erebic Age Ores",
+          "viaPlayer:1": 0,
+          "index:3": 0,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "gamestage add @s erebic_age"
+        }
+      }
+    },
+    "113:10": {
+      "questID:3": 113,
+      "preRequisites:11": [
+        112
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:emerald",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "\"...a green Emerald...\"",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:emerald",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "114:10": {
+      "questID:3": 114,
+      "preRequisites:11": [
+        112
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:diamond",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "\"...a massive Diamond...\"",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:diamond",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "115:10": {
+      "questID:3": 115,
+      "preRequisites:11": [
+        108,
+        113,
+        114
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "erebus:materials",
+            "Count:3": 1,
+            "Damage:2": 38,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "An Offering...",
+          "desc:8": "Obtain two Gaean Gems from the offering altar"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "erebus:altar_offering",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "erebus:materials",
+              "Count:3": 2,
+              "Damage:2": 38,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "116:10": {
+      "questID:3": 116,
+      "preRequisites:11": [
+        115
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "erebus:portal_activator",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "The Key and the Lock....",
+          "desc:8": "Create a portal to the Erebus, be sure to bring the 2nd staff for a trip back.\n\nBuild a Portal frame using stone bricks, fill the frame with leaves, place the Gaean Keystone nearby, and insert the staff into it."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "advancement_id:8": "erebus:exploration/root",
+          "index:3": 1,
+          "taskID:8": "bq_standard:advancement"
+        }
+      },
+      "rewards:9": {}
+    },
+    "117:10": {
+      "questID:3": 117,
+      "preRequisites:11": [
+        116
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:spawn_egg",
+            "Count:3": 1,
+            "tag:10": {
+              "EntityTag:10": {
+                "id:8": "erebus:erebus.antlion_boss"
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "The Antlion Overlord",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "targetNBT:10": {
+            "HurtByTimestamp:3": 0,
+            "ForgeData:10": {},
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": -2.0,
+                "Name:8": "tc.mobmod"
+              },
+              "1:10": {
+                "Base:6": 0.0,
+                "Name:8": "tc.mobmodtaint"
+              },
+              "2:10": {
+                "Base:6": 0.0,
+                "Name:8": "techguns.radiationResistance"
+              },
+              "3:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.scales"
+              },
+              "4:10": {
+                "Base:6": 0.05,
+                "Name:8": "tconevo.flightSpeed"
+              },
+              "5:10": {
+                "Base:6": 1.0,
+                "Name:8": "tconevo.damageTaken"
+              },
+              "6:10": {
+                "Base:6": 1.0,
+                "Name:8": "tconevo.evasionChance"
+              },
+              "7:10": {
+                "Base:6": 400.0,
+                "Name:8": "generic.maxHealth"
+              },
+              "8:10": {
+                "Base:6": 1.0,
+                "Name:8": "generic.knockbackResistance"
+              },
+              "9:10": {
+                "Base:6": 0.5,
+                "Name:8": "generic.movementSpeed"
+              },
+              "10:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armor"
+              },
+              "11:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armorToughness"
+              },
+              "12:10": {
+                "Base:6": 1.0,
+                "Name:8": "forge.swimSpeed"
+              },
+              "13:10": {
+                "Base:6": 36.0,
+                "Name:8": "generic.followRange"
+              },
+              "14:10": {
+                "Base:6": 6.0,
+                "Name:8": "generic.attackDamage"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "spawnPointY:3": 0,
+            "spawnPointZ:3": 0,
+            "DeathTime:2": 0,
+            "spawnPointX:3": 0,
+            "inPyramid:1": 0,
+            "ForgeCaps:10": {
+              "dsurround:data:10": {
+                "a:1": 0,
+                "f:1": 0
+              },
+              "techguns:deathtype:10": {},
+              "llibrary:extendedentitydatacapability:10": {
+                "Ice And Fire - Siren Property Tracker:10": {
+                  "CharmedBySiren:1": 0,
+                  "SirenID:3": 0
+                },
+                "Ice And Fire - Frozen Property Tracker:10": {
+                  "TicksUntilUnfrozen:3": 0,
+                  "IsFrozen:1": 0
+                },
+                "Ice and Fire - Player Property Tracker:10": {
+                  "DismountedDragon:1": 0,
+                  "GauntletDamage:3": 0,
+                  "DreadPortalZ:3": 0,
+                  "DreadPortalY:3": 0,
+                  "DreadPortalX:3": 0
+                },
+                "Ice And Fire - Chain Property Tracker:10": {
+                  "ConnectedEntities:9": {}
+                },
+                "Ice And Fire - Stone Property Tracker:10": {
+                  "StoneBreakLvl:3": 0,
+                  "TurnedToStone:1": 0
+                }
+              },
+              "dsurround:entityfx:10": {},
+              "twilightforest:cap_shield:10": {
+                "permshields:3": 0,
+                "tempshields:3": 0
+              },
+              "thaumicaugmentation:portal_state:10": {
+                "inPortal:1": 0
+              },
+              "somanyenchantments:player_capabilities:10": {
+                "isResurrecting:1": 0,
+                "moralitasDamage:6": 0.0
+              },
+              "dsurround:speech:10": {},
+              "metallurgy:punch_effect:10": {
+                "hasAiDisabled:1": 1,
+                "knockbackTicks:3": 0,
+                "ticks:3": 0
+              }
+            },
+            "HandDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "erebus:erebus.antlion_boss",
+            "Motion:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -4773255085939679496,
+            "Health:5": 400.0,
+            "LeftHanded:1": 0,
+            "Air:2": 300,
+            "OnGround:1": 0,
+            "Dimension:3": 0,
+            "Rotation:9": {
+              "0:5": 4.384733,
+              "1:5": 0.0
+            },
+            "UpdateBlocked:1": 0,
+            "HandItems:9": {
+              "0:10": {},
+              "1:10": {}
+            },
+            "ArmorDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085,
+              "2:5": 0.085,
+              "3:5": 0.085
+            },
+            "UUIDMost:4": 2853369778144169211,
+            "Pos:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Fire:2": -1,
+            "ArmorItems:9": {
+              "0:10": {},
+              "1:10": {},
+              "2:10": {},
+              "3:10": {}
+            },
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "damageType:8": "",
+          "required:3": 1,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "erebus:erebus.antlion_boss",
+          "subtypes:1": 1
+        }
+      },
+      "rewards:9": {}
+    },
+    "118:10": {
+      "questID:3": 118,
+      "preRequisites:11": [
+        112
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "erebus:rolled_newspaper",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Week Old Newspaper",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "erebus:rolled_newspaper",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "119:10": {
+      "questID:3": 119,
+      "preRequisites:11": [
+        116
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:spawn_egg",
+            "Count:3": 1,
+            "tag:10": {
+              "EntityTag:10": {
+                "id:8": "erebus:erebus.crushroom"
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "The Crushroom",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "targetNBT:10": {
+            "HurtByTimestamp:3": 0,
+            "ForgeData:10": {},
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": -2.0,
+                "Name:8": "tc.mobmod"
+              },
+              "1:10": {
+                "Base:6": 0.0,
+                "Name:8": "tc.mobmodtaint"
+              },
+              "2:10": {
+                "Base:6": 0.0,
+                "Name:8": "techguns.radiationResistance"
+              },
+              "3:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.scales"
+              },
+              "4:10": {
+                "Base:6": 0.05,
+                "Name:8": "tconevo.flightSpeed"
+              },
+              "5:10": {
+                "Base:6": 1.0,
+                "Name:8": "tconevo.damageTaken"
+              },
+              "6:10": {
+                "Base:6": 1.0,
+                "Name:8": "tconevo.evasionChance"
+              },
+              "7:10": {
+                "Base:6": 200.0,
+                "Name:8": "generic.maxHealth"
+              },
+              "8:10": {
+                "Base:6": 1.0,
+                "Name:8": "generic.knockbackResistance"
+              },
+              "9:10": {
+                "Base:6": 0.5,
+                "Name:8": "generic.movementSpeed"
+              },
+              "10:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armor"
+              },
+              "11:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armorToughness"
+              },
+              "12:10": {
+                "Base:6": 1.0,
+                "Name:8": "forge.swimSpeed"
+              },
+              "13:10": {
+                "Base:6": 16.0,
+                "Name:8": "generic.followRange"
+              },
+              "14:10": {
+                "Base:6": 6.0,
+                "Name:8": "generic.attackDamage"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DeathTime:2": 0,
+            "ForgeCaps:10": {
+              "dsurround:data:10": {
+                "a:1": 0,
+                "f:1": 0
+              },
+              "techguns:deathtype:10": {},
+              "llibrary:extendedentitydatacapability:10": {
+                "Ice And Fire - Siren Property Tracker:10": {
+                  "CharmedBySiren:1": 0,
+                  "SirenID:3": 0
+                },
+                "Ice And Fire - Frozen Property Tracker:10": {
+                  "TicksUntilUnfrozen:3": 0,
+                  "IsFrozen:1": 0
+                },
+                "Ice and Fire - Player Property Tracker:10": {
+                  "DismountedDragon:1": 0,
+                  "GauntletDamage:3": 0,
+                  "DreadPortalZ:3": 0,
+                  "DreadPortalY:3": 0,
+                  "DreadPortalX:3": 0
+                },
+                "Ice And Fire - Chain Property Tracker:10": {
+                  "ConnectedEntities:9": {}
+                },
+                "Ice And Fire - Stone Property Tracker:10": {
+                  "StoneBreakLvl:3": 0,
+                  "TurnedToStone:1": 0
+                }
+              },
+              "dsurround:entityfx:10": {},
+              "twilightforest:cap_shield:10": {
+                "permshields:3": 0,
+                "tempshields:3": 0
+              },
+              "thaumicaugmentation:portal_state:10": {
+                "inPortal:1": 0
+              },
+              "somanyenchantments:player_capabilities:10": {
+                "isResurrecting:1": 0,
+                "moralitasDamage:6": 0.0
+              },
+              "dsurround:speech:10": {},
+              "metallurgy:punch_effect:10": {
+                "hasAiDisabled:1": 1,
+                "knockbackTicks:3": 0,
+                "ticks:3": 0
+              }
+            },
+            "HandDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "erebus:erebus.crushroom",
+            "Motion:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -5732474978612423922,
+            "Health:5": 200.0,
+            "LeftHanded:1": 0,
+            "Air:2": 300,
+            "OnGround:1": 0,
+            "Dimension:3": 0,
+            "Rotation:9": {
+              "0:5": 3.4427812,
+              "1:5": 0.0
+            },
+            "UpdateBlocked:1": 0,
+            "HandItems:9": {
+              "0:10": {},
+              "1:10": {}
+            },
+            "ArmorDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085,
+              "2:5": 0.085,
+              "3:5": 0.085
+            },
+            "UUIDMost:4": -5543524851102102322,
+            "Pos:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Fire:2": -1,
+            "ArmorItems:9": {
+              "0:10": {},
+              "1:10": {},
+              "2:10": {},
+              "3:10": {}
+            },
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "damageType:8": "",
+          "required:3": 1,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "erebus:erebus.crushroom",
+          "subtypes:1": 1
+        }
+      },
+      "rewards:9": {}
+    },
+    "120:10": {
+      "questID:3": 120,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:midasium_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Midasium",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:midasium_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "121:10": {
+      "questID:3": 121,
+      "preRequisites:11": [
+        116
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:spawn_egg",
+            "Count:3": 1,
+            "tag:10": {
+              "EntityTag:10": {
+                "id:8": "erebus:erebus.tarantula_mini_boss"
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "The Tarantula Brood Mother",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "targetNBT:10": {
+            "HurtByTimestamp:3": 0,
+            "ForgeData:10": {},
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": -2.0,
+                "Name:8": "tc.mobmod"
+              },
+              "1:10": {
+                "Base:6": 0.0,
+                "Name:8": "tc.mobmodtaint"
+              },
+              "2:10": {
+                "Base:6": 0.0,
+                "Name:8": "techguns.radiationResistance"
+              },
+              "3:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.scales"
+              },
+              "4:10": {
+                "Base:6": 0.05,
+                "Name:8": "tconevo.flightSpeed"
+              },
+              "5:10": {
+                "Base:6": 1.0,
+                "Name:8": "tconevo.damageTaken"
+              },
+              "6:10": {
+                "Base:6": 1.0,
+                "Name:8": "tconevo.evasionChance"
+              },
+              "7:10": {
+                "Base:6": 300.0,
+                "Name:8": "generic.maxHealth"
+              },
+              "8:10": {
+                "Base:6": 1.0,
+                "Name:8": "generic.knockbackResistance"
+              },
+              "9:10": {
+                "Base:6": 0.9,
+                "Name:8": "generic.movementSpeed"
+              },
+              "10:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armor"
+              },
+              "11:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armorToughness"
+              },
+              "12:10": {
+                "Base:6": 1.0,
+                "Name:8": "forge.swimSpeed"
+              },
+              "13:10": {
+                "Base:6": 32.0,
+                "Name:8": "generic.followRange"
+              },
+              "14:10": {
+                "Base:6": 8.0,
+                "Name:8": "generic.attackDamage"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DeathTime:2": 0,
+            "ForgeCaps:10": {
+              "dsurround:data:10": {
+                "a:1": 0,
+                "f:1": 0
+              },
+              "techguns:deathtype:10": {},
+              "llibrary:extendedentitydatacapability:10": {
+                "Ice And Fire - Siren Property Tracker:10": {
+                  "CharmedBySiren:1": 0,
+                  "SirenID:3": 0
+                },
+                "Ice And Fire - Frozen Property Tracker:10": {
+                  "TicksUntilUnfrozen:3": 0,
+                  "IsFrozen:1": 0
+                },
+                "Ice and Fire - Player Property Tracker:10": {
+                  "DismountedDragon:1": 0,
+                  "GauntletDamage:3": 0,
+                  "DreadPortalZ:3": 0,
+                  "DreadPortalY:3": 0,
+                  "DreadPortalX:3": 0
+                },
+                "Ice And Fire - Chain Property Tracker:10": {
+                  "ConnectedEntities:9": {}
+                },
+                "Ice And Fire - Stone Property Tracker:10": {
+                  "StoneBreakLvl:3": 0,
+                  "TurnedToStone:1": 0
+                }
+              },
+              "dsurround:entityfx:10": {},
+              "twilightforest:cap_shield:10": {
+                "permshields:3": 0,
+                "tempshields:3": 0
+              },
+              "thaumicaugmentation:portal_state:10": {
+                "inPortal:1": 0
+              },
+              "somanyenchantments:player_capabilities:10": {
+                "isResurrecting:1": 0,
+                "moralitasDamage:6": 0.0
+              },
+              "dsurround:speech:10": {},
+              "metallurgy:punch_effect:10": {
+                "hasAiDisabled:1": 1,
+                "knockbackTicks:3": 0,
+                "ticks:3": 0
+              }
+            },
+            "HandDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "erebus:erebus.tarantula_mini_boss",
+            "Motion:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -4743342632966832591,
+            "Health:5": 300.0,
+            "LeftHanded:1": 0,
+            "Air:2": 300,
+            "OnGround:1": 0,
+            "Dimension:3": 0,
+            "Rotation:9": {
+              "0:5": 3.8471806,
+              "1:5": 0.0
+            },
+            "UpdateBlocked:1": 0,
+            "HandItems:9": {
+              "0:10": {},
+              "1:10": {}
+            },
+            "ArmorDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085,
+              "2:5": 0.085,
+              "3:5": 0.085
+            },
+            "UUIDMost:4": -890402987742902096,
+            "Pos:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Fire:2": -1,
+            "ArmorItems:9": {
+              "0:10": {},
+              "1:10": {},
+              "2:10": {},
+              "3:10": {}
+            },
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "damageType:8": "",
+          "required:3": 1,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "erebus:erebus.tarantula_mini_boss",
+          "subtypes:1": 1
+        }
+      },
+      "rewards:9": {}
+    },
+    "122:10": {
+      "questID:3": 122,
+      "preRequisites:11": [
+        117,
+        119,
+        121
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "minecraft:stone_pickaxe",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Age Complete",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {}
+    },
+    "123:10": {
+      "questID:3": 123,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:shadow_iron_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Shadow Iron",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:shadow_iron_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "124:10": {
+      "questID:3": 124,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:ceruclase_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Ceruclase",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:ceruclase_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "125:10": {
+      "questID:3": 125,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:deep_iron_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
           "name:8": "New Quest",
           "desc:8": "No Description"
         }
@@ -8523,10 +10154,1013 @@
       "tasks:9": {},
       "rewards:9": {}
     },
-    "111:10": {
-      "questID:3": 112,
+    "126:10": {
+      "questID:3": 126,
       "preRequisites:11": [
-        90
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:platinum_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Platinum",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:platinum_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "127:10": {
+      "questID:3": 127,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:kalendrite_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Kalendrite",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:kalendrite_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "128:10": {
+      "questID:3": 128,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:ignatius_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Ignatius",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:ignatius_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "129:10": {
+      "questID:3": 129,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:infuscolium_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "130:10": {
+      "questID:3": 130,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:atlarus_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "131:10": {
+      "questID:3": 131,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:vyroxeres_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "132:10": {
+      "questID:3": 132,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:lutetium_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "133:10": {
+      "questID:3": 133,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:oureclase_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "134:10": {
+      "questID:3": 134,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "135:10": {
+      "questID:3": 135,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:mithril_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Mithril",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:mithril_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "136:10": {
+      "questID:3": 136,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:alduorite_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Alduorite",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:alduorite_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "137:10": {
+      "questID:3": 137,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:adamantine_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Adamantine",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:adamantine_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "138:10": {
+      "questID:3": 138,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:orichalcum_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Orichalcum",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:orichalcum_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "139:10": {
+      "questID:3": 139,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:manganese_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Manganese",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:manganese_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "140:10": {
+      "questID:3": 140,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:prometheum_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Prometheum",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:prometheum_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "141:10": {
+      "questID:3": 141,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:astral_silver_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Astral Silver",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:astral_silver_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "142:10": {
+      "questID:3": 142,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:rubracium_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Rubracium",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:rubracium_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "143:10": {
+      "questID:3": 143,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:vulcanite_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Vulcanite",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:vulcanite_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "144:10": {
+      "questID:3": 144,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:sanguinite_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Sanguinite",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:sanguinite_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "145:10": {
+      "questID:3": 145,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "metallurgy:lemurite_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "Lemurite",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "metallurgy:lemurite_ingot",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "146:10": {
+      "questID:3": 146,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "147:10": {
+      "questID:3": 147,
+      "preRequisites:11": [
+        149
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 1,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "148:10": {
+      "questID:3": 148,
+      "preRequisites:11": [
+        146,
+        147,
+        144,
+        145,
+        128,
+        127,
+        126,
+        120,
+        123,
+        124,
+        125,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        138,
+        137,
+        139,
+        140,
+        141,
+        142,
+        143
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -8554,6 +11188,47 @@
         }
       },
       "tasks:9": {},
+      "rewards:9": {}
+    },
+    "149:10": {
+      "questID:3": 149,
+      "preRequisites:11": [
+        122
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "minecraft:diamond_pickaxe",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Get Ready",
+          "desc:8": "Prepare to mine. A lot. A very lot."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
       "rewards:9": {}
     }
   },
@@ -8826,7 +11501,7 @@
           },
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "No Description"
+          "desc:8": ""
         }
       },
       "order:3": 2
@@ -8896,7 +11571,7 @@
           },
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "No Description"
+          "desc:8": ""
         }
       },
       "order:3": 3
@@ -8973,7 +11648,7 @@
           },
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "No Description"
+          "desc:8": ""
         }
       },
       "order:3": 4
@@ -9569,7 +12244,10 @@
           "visibility:8": "NORMAL",
           "name:8": "Aetheric Age",
           "icon:10": {
-            "id:8": "minecraft:book",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "aether_legacy:aether_portal_frame",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -9580,6 +12258,314 @@
         }
       },
       "order:3": 10
+    },
+    "11:10": {
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 24,
+          "x:3": -228,
+          "y:3": -120,
+          "id:3": 108,
+          "sizeY:3": 24
+        },
+        "1:10": {
+          "sizeX:3": 24,
+          "x:3": -228,
+          "y:3": -72,
+          "id:3": 113,
+          "sizeY:3": 24
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": -228,
+          "y:3": -24,
+          "id:3": 114,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": -180,
+          "y:3": -72,
+          "id:3": 115,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 24,
+          "x:3": -132,
+          "y:3": -72,
+          "id:3": 116,
+          "sizeY:3": 24
+        },
+        "5:10": {
+          "sizeX:3": 24,
+          "x:3": -84,
+          "y:3": -120,
+          "id:3": 117,
+          "sizeY:3": 24
+        },
+        "6:10": {
+          "sizeX:3": 24,
+          "x:3": -156,
+          "y:3": -120,
+          "id:3": 118,
+          "sizeY:3": 24
+        },
+        "7:10": {
+          "sizeX:3": 24,
+          "x:3": -84,
+          "y:3": -72,
+          "id:3": 119,
+          "sizeY:3": 24
+        },
+        "8:10": {
+          "sizeX:3": 24,
+          "x:3": -84,
+          "y:3": -24,
+          "id:3": 121,
+          "sizeY:3": 24
+        },
+        "9:10": {
+          "sizeX:3": 24,
+          "x:3": -36,
+          "y:3": -72,
+          "id:3": 122,
+          "sizeY:3": 24
+        }
+      },
+      "lineID:3": 11,
+      "properties:10": {
+        "betterquesting:10": {
+          "visibility:8": "NORMAL",
+          "name:8": "Erebic Age",
+          "icon:10": {
+            "id:8": "erebus:erebus_food",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "No Description"
+        }
+      },
+      "order:3": 11
+    },
+    "12:10": {
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 24,
+          "x:3": -264,
+          "y:3": -12,
+          "id:3": 120,
+          "sizeY:3": 24
+        },
+        "1:10": {
+          "sizeX:3": 24,
+          "x:3": -264,
+          "y:3": -36,
+          "id:3": 123,
+          "sizeY:3": 24
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": -264,
+          "y:3": -60,
+          "id:3": 124,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": -264,
+          "y:3": -84,
+          "id:3": 125,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 24,
+          "x:3": -264,
+          "y:3": 12,
+          "id:3": 126,
+          "sizeY:3": 24
+        },
+        "5:10": {
+          "sizeX:3": 24,
+          "x:3": -264,
+          "y:3": 36,
+          "id:3": 127,
+          "sizeY:3": 24
+        },
+        "6:10": {
+          "sizeX:3": 24,
+          "x:3": -264,
+          "y:3": 60,
+          "id:3": 128,
+          "sizeY:3": 24
+        },
+        "7:10": {
+          "sizeX:3": 24,
+          "x:3": -240,
+          "y:3": -84,
+          "id:3": 129,
+          "sizeY:3": 24
+        },
+        "8:10": {
+          "sizeX:3": 24,
+          "x:3": -216,
+          "y:3": -84,
+          "id:3": 130,
+          "sizeY:3": 24
+        },
+        "9:10": {
+          "sizeX:3": 24,
+          "x:3": -192,
+          "y:3": -84,
+          "id:3": 131,
+          "sizeY:3": 24
+        },
+        "10:10": {
+          "sizeX:3": 24,
+          "x:3": -168,
+          "y:3": -84,
+          "id:3": 132,
+          "sizeY:3": 24
+        },
+        "11:10": {
+          "sizeX:3": 24,
+          "x:3": -144,
+          "y:3": -84,
+          "id:3": 133,
+          "sizeY:3": 24
+        },
+        "12:10": {
+          "sizeX:3": 24,
+          "x:3": -120,
+          "y:3": -84,
+          "id:3": 134,
+          "sizeY:3": 24
+        },
+        "13:10": {
+          "sizeX:3": 24,
+          "x:3": -120,
+          "y:3": -60,
+          "id:3": 135,
+          "sizeY:3": 24
+        },
+        "14:10": {
+          "sizeX:3": 24,
+          "x:3": -120,
+          "y:3": -36,
+          "id:3": 136,
+          "sizeY:3": 24
+        },
+        "15:10": {
+          "sizeX:3": 24,
+          "x:3": -120,
+          "y:3": 12,
+          "id:3": 137,
+          "sizeY:3": 24
+        },
+        "16:10": {
+          "sizeX:3": 24,
+          "x:3": -120,
+          "y:3": -12,
+          "id:3": 138,
+          "sizeY:3": 24
+        },
+        "17:10": {
+          "sizeX:3": 24,
+          "x:3": -120,
+          "y:3": 36,
+          "id:3": 139,
+          "sizeY:3": 24
+        },
+        "18:10": {
+          "sizeX:3": 24,
+          "x:3": -120,
+          "y:3": 60,
+          "id:3": 140,
+          "sizeY:3": 24
+        },
+        "19:10": {
+          "sizeX:3": 24,
+          "x:3": -144,
+          "y:3": 60,
+          "id:3": 141,
+          "sizeY:3": 24
+        },
+        "20:10": {
+          "sizeX:3": 24,
+          "x:3": -168,
+          "y:3": 60,
+          "id:3": 142,
+          "sizeY:3": 24
+        },
+        "21:10": {
+          "sizeX:3": 24,
+          "x:3": -192,
+          "y:3": 60,
+          "id:3": 143,
+          "sizeY:3": 24
+        },
+        "22:10": {
+          "sizeX:3": 24,
+          "x:3": -216,
+          "y:3": 60,
+          "id:3": 144,
+          "sizeY:3": 24
+        },
+        "23:10": {
+          "sizeX:3": 24,
+          "x:3": -240,
+          "y:3": 60,
+          "id:3": 145,
+          "sizeY:3": 24
+        },
+        "24:10": {
+          "sizeX:3": 24,
+          "x:3": -240,
+          "y:3": -12,
+          "id:3": 146,
+          "sizeY:3": 24
+        },
+        "25:10": {
+          "sizeX:3": 24,
+          "x:3": -144,
+          "y:3": -12,
+          "id:3": 147,
+          "sizeY:3": 24
+        },
+        "26:10": {
+          "sizeX:3": 24,
+          "x:3": -192,
+          "y:3": -60,
+          "id:3": 148,
+          "sizeY:3": 24
+        },
+        "27:10": {
+          "sizeX:3": 24,
+          "x:3": -192,
+          "y:3": 36,
+          "id:3": 149,
+          "sizeY:3": 24
+        }
+      },
+      "lineID:3": 12,
+      "properties:10": {
+        "betterquesting:10": {
+          "visibility:8": "NORMAL",
+          "name:8": "Metallic Age",
+          "icon:10": {
+            "id:8": "metallurgy:midasium_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "No Description"
+        }
+      },
+      "order:3": 12
     }
   },
   "questSettings:10": {

@@ -33,15 +33,12 @@ mods.orestages.OreStages.addNonDefaultingReplacement("netheric_age", <minecraft:
 mods.orestages.OreStages.addNonDefaultingReplacement("netheric_age", <ore:obsidian>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("netheric_age", <netherbackport:ancientdebris:*>, <fhantoncore:unidentifiedore>);
 
-mods.DimensionStages.addDimensionStage("aetheric", 4);
+mods.DimensionStages.addDimensionStage("aetheric_age", 4);
 mods.orestages.OreStages.addNonDefaultingReplacement("aetheric_age", <aether_legacy:ambrosium_ore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("aetheric_age", <aether_legacy:zanite_ore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("aetheric_age", <aether_legacy:gravitite_ore:*>, <fhantoncore:unidentifiedore>);
 
-mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <waveymod:wavicore:*>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <waveymod:stellarore:*>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <waveymod:pure_evilore:*>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <waveymod:netherpureevilore:*>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("erebic_age", <ore:oreCarmot>, <fhantoncore:unidentifiedore>);
 
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreTar>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreSulfur>, <fhantoncore:unidentifiedore>);
@@ -57,7 +54,6 @@ mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreExi
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreSanguinite>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreShadowIron>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreMithril>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreCarmot>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreCeruclase>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <metallurgy:deep_iron_ore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreManganese>, <fhantoncore:unidentifiedore>);
@@ -77,7 +73,14 @@ mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreMid
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreRubracium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreAluminum>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <ore:oreTitanium>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("metallic_age", <mysticalagriculture:inferium_ore:*>, <fhantoncore:unidentifiedore>);
+
+mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <waveymod:wavicore:*>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <waveymod:stellarore:*>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <waveymod:pure_evilore:*>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("wavic_age", <waveymod:netherpureevilore:*>, <fhantoncore:unidentifiedore>);
 
 mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <ore:oreIridium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("space_age", <techguns:orecluster:*>, <fhantoncore:unidentifiedore>);
+
+mods.orestages.OreStages.addNonDefaultingReplacement("gmo_age", <mysticalagriculture:inferium_ore:*>, <fhantoncore:unidentifiedore>);
+

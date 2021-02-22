@@ -182,8 +182,8 @@ Sanguinite - sanguinite - sanguinite - (Life Steal, life_steal_trait)
 Desichalkos - desichalkos - desichalkos - (King Dice, king_dice_trait)
 Celenegil - celenegil - celenegil - null
 Shadow Iron - shadow_iron - shadow_iron - (Obscure, obscure_trait)
-Mithril - mithril - mithril - null
 Carmot - carmot - carmot - null
+Mithril - mithril - mithril - null
 Ceruclase - ceruclase - ceruclase - null
 Deep Iron - deep_iron - deep_iron - (Opistognathus, opistognathus_trait)
 Angmallen - angmallen - angmallen - null
@@ -194,16 +194,16 @@ Prometheum - prometheum - prometheum - null
 Adamantine - adamantine - adamantine - null
 Tartarite - tartarite - tartarite - (Wither, wither_trait)
 Atlarus - atlarus - atlarus - null
-Vyroxeres - vyroxeres - vyroxeres - (Poisonous, poisonous)
 Black Steel - black_steel - black_steel - null
+Vyroxeres - vyroxeres - vyroxeres - (Poisonous, poisonous)
 Lutetium - lutetium - lutetium - null
 Oureclase - oureclase - oureclase - null
 Inolashite - inolashite - inolashite - null
 Meutoite - meutoite - meutoite - null
 Orichalcum - orichalcum - orichalcum - null
 Infuscolium - infuscolium - infuscolium - null
-Midasium - midasium - midasium - (Writable, writable2), (Duplication, duplication_trait)
 Shadow Steel - shadow_steel - shadow_steel - null
+Midasium - midasium - midasium - (Writable, writable2), (Duplication, duplication_trait)
 Krik - krik - krik - null
 Rubracium - rubracium - rubracium - null
 Insanium - mysticaladaptations.insanium - insanium - (Prosperous, prosperous), (Duritae, duritos)
@@ -220,6 +220,9 @@ Osgloglas - osgloglas - osgloglas - (Brown Magic, brownmagic), (Sassy, sassy), (
 Osmiridium - osmiridium - osmiridium - (Devil's Strength, devilsstrength), (Anti-Corrosion, anticorrosion)
 Lumium - lumium_plustic - lumium - (Illuminati, illuminati), (Glowing, glowing)
 Void - void_actadd_plustic - null - (He Who Must Not Be Named, unnamed), (Crude, crude1)
+Cheese - cheese - null - (Ratty, ratty), (Tasty, tasty)
+String Cheese - string_cheese - null - null
+Plague Metal - plague_metal - null - (Diseased, disease), (Death Cloud, plague_shot)
 Skyroot - skyroot - null - (Skyrooted, skyrooted), (Ecological, ecological)
 Holystone - holystone - null - (Enlightened, enlightened), (Cheapskate, cheapskate), (Cheap, cheap)
 Zanite - zanite - null - (Gilded, gilded), (Zany, zany), (Jagged, jagged)
@@ -237,7 +240,7 @@ Golden Oak Leaf - golden_oak_leaf - null - null
 Crystal Leaf - crystal_leaf - null - null
 Holiday Leaf - holiday_leaf - null - null
 Golden Feather - golden_feather - null - null
-material.quartzblack.name - quartzblack - null - null
+Black Quartz - quartzblack - null - null
 Aeonsteel - aeonsteel - aeonsteel - (Tick-Tock, ticktock), (Ethereal, td_ethereal), (modifier.td_clockstopper.name, td_clockstopper), (Truesight, td_truesight), (Intangable, td_td_intangible), (Undo [NYI], td_undo_nyi), (Timewarp, td_td_timewarp)
 Queensgold - queensgold - queensgold - (modifier.regal.name, regal)
 Dogbearium - dogbearium - dogbearium - (Toothy, td_toothy), (Cornered, td_cornered), (modifier.td_poundofflesh.name, td_poundofflesh), (I Hunger, td_ihunger), (Hellbeast, td_hellbeast), (Alpha, td_alpha), (Hunter, td_hunt)
@@ -263,7 +266,7 @@ Magenta Wool - magentacloth - null - null
 Orange Wool - orangecloth - null - null
 White Wool - whitecloth - null - null
 Silky Enchanted - silky - null - null
-material.roughspun.name - roughspun - null - null
+Roughspun - roughspun - null - null
 Zirconium - zirconium - zirconium - (Lux, tw_lux), (Dense, dense)
 Zircaloy - zircaloy - zircaloy - (Lux, tw_lux), (Dense, dense)
 Allactite - allactite - allactite - (Protect, tw_protect), (Sharp, sharp)
@@ -274,14 +277,14 @@ Frostium - frostium - frostium - (Frost Fang, tw_frostfang), (Cold-Blooded, cold
 Froststeel - froststeel - froststeel - (Frost Fang, tw_frostfang), (Stiff, stiff)
 Mirion - mirion - mirion - (Mirabile Visu, mirabile), (Mana, mana)
 Livingwood - livingwood_plustic - null - (Botanical II, botanical2), (Ecological, ecological), (Botanical, botanical1)
+Dark Matter - darkmatter - null - (Ignoble, ignoble), (Dark Traveler, darktraveler)
+Red Matter - redmatter - null - (Democratic People's Republic of Korea, dprk)
 Wyvern - wyvern_plustic - null - (Brown Magic, brownmagic), (Blind Bandit, blindbandit), (Portly Gentleman, portly)
 Awakened - awakened_plustic - null - (Rude Awakening, rudeawakening), (Brown Magic, brownmagic), (Blind Bandit, blindbandit), (Apocalypse, apocalypse), (Global Traveler, global)
 Chaotic - chaotic_plustic - null - (Hail Hydra, hailhydra), (Vindictive, vindictive), (Dark Traveler, darktraveler)
 Flamestring - flamestring_plustic - null - (Naphtha, naphtha)
 Bloodwood - bloodwood_plustic - null - (Bloody Mary, bloodymary), (Ecological, ecological)
 Fusewood - fusewood_plustic - null - (Democratic People's Republic of Korea, dprk), (Ecological, ecological)
-Dark Matter - darkmatter - null - (Ignoble, ignoble), (Dark Traveler, darktraveler)
-Red Matter - redmatter - null - (Democratic People's Republic of Korea, dprk)
 Emerald - emerald_plustic - emerald - (Terrafirma, terrafirma1), (Elemental, elemental)
 Wood - wood - null - (Ecological, ecological), (Photosynthetic II, photosynthetic2), (Photosynthetic, photosynthetic1), (Rooted, td_rooted), (Securiphilic, td_securiphilic)
 Leaf - leaf - null - null

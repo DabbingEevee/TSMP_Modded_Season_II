@@ -16,6 +16,8 @@ item.contenttweaker.singularity_matrix_8.name=Singularity Matrix Tier 8
 item.contenttweaker.singularity_matrix_9.name=Singularity Matrix Tier 9
 item.contenttweaker.singularity_matrix_10.name=Singularity Matrix Tier 10
 
+material.quartzblack.name=Black Quartz
+item.tan_icon.name=Tough Nail
 
 item.contenttweaker.nuggetfsharpalloy.name=FSharp Alloy Nugget
 item.contenttweaker.nuggetfsharpalloy.name=FSharp Alloy Block
@@ -72,16 +74,15 @@ item.contenttweaker.nuggetgildednetherite.name=Gilded Netherite Nugget
 tile.contenttweaker.blockpulsaton.name=Block of Pulsaton
 item.contenttweaker.ingotintertium.name=Intertium Ingot
 item.contenttweaker.nuggetwavic.name=Wavic Nugget
-item.contenttweaker.dusttromero.name=Tromaros Dust
+item.contenttweaker.dusttromero.name=Tromeros Dust
 tile.contenttweaker.oremegaalloy.name=Mega Alloy Neutron Sponge
 item.contenttweaker.ingotgildednetherite.name=Gilded Netherite Ingot
 item.contenttweaker.nuggetvibranium.name=Vibranium Nugget
 item.contenttweaker.ingotvibranium.name=Vibranium Ingot
 tile.contenttweaker.blockadamantium.name=Block of Adamantium
+tile.contenttweaker.blockgravitite.name=Block of Gravitite
 
-material.chaotic_metal.name=Restructured Chaos
-material.draconium.name=Formed Draconium
-material.wyvern_metal.name=Coalesced Wyvern
+material.roughspun.name=Roughspun
 
 
 tile.contenttweaker.neutron_sponge.name=Neutron Sponge

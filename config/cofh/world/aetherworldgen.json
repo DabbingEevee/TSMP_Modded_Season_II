@@ -1,0 +1,26 @@
+{
+	"populate": {
+        "arkenium": {
+          "enabled": true,
+          "distribution": "uniform",
+          "generator": {
+            "block": {
+              "name": "contenttweaker:orearkenium"
+            },
+            "material": "aether_legacy:holystone",
+            "cluster-size": 3
+          },
+          "cluster-count": 2,
+          "min-height": 60,
+          "max-height": 40,
+          "retrogen": true,
+          "biome": "all",
+          "dimension": {
+            "restriction": "whitelist",
+            "value": [
+              4
+            ]
+          }
+        }
+	}
+}

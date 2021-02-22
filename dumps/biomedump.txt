@@ -302,6 +302,7 @@ Fungi Forest - netherex:fungi_forest - 1.1 - netherex:hyphae - netherex:lively_n
 Torrid Wasteland - netherex:torrid_wasteland - 4.0 - netherex:fiery_netherrack - netherex:fiery_netherrack
 Arctic Abyss - netherex:arctic_abyss - 0.0 - netherex:frostburn_ice - netherex:icy_netherrack
 Tent - yurtmod:tent - 0.5 - minecraft:grass - minecraft:dirt
+ratlantis - rats:ratlantis - 0.95 - minecraft:grass - minecraft:dirt
 Emptiness - thaumicaugmentation:emptiness - 0.25 - thaumicaugmentation:stone - thaumicaugmentation:stone
 Tainted Lands - thaumicaugmentation:tainted_lands - 0.25 - thaumicaugmentation:stone - thaumicaugmentation:stone
 Emptiness Highlands - thaumicaugmentation:emptiness_highlands - 0.25 - thaumicaugmentation:stone - thaumicaugmentation:stone

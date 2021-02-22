@@ -36,6 +36,7 @@ var createfullset = [
         "GoldTitaniumAlloy",
         "Intertium",
         "Vibranium",
+        "Arkenium",
         "Adamantium"
     ] as string[];
 
@@ -48,12 +49,11 @@ var createitem = [
         "dustWavic",
         "nuggetDamast",
         "nuggetDamastGlowing",
-        "blockDamast",
-        "blockDamastGlowing",
         "nuggetWavicAwakened",
         "dustWavicAwakened",
         "nuggetPureEvil",
         "dustPureEvil",
+        "plateArkenium",
         "nuggetKoinos",
         "dustKoinos",
         "nuggetTromero",
@@ -79,12 +79,17 @@ var createore = [
         "fsharp_alloy_neutron_sponge_1",
         "fsharp_alloy_neutron_sponge_2",
         "fsharp_alloy_neutron_sponge_3",
-        "oreFSharpAlloy"
+        "oreFSharpAlloy",
+        "oreArkenium"
+
     ] as string[];
 
 var createblockofore = [
         #"mega_alloy_block",
         "blockWavic",
+        "blockDamast",
+        "blockDamastGlowing",
+        "blockGravitite",
         "blockAwakened",
         "blockUnstable",
         "blockPulsaton"

@@ -12,6 +12,7 @@ var createfullset = [
     "Intertium",
     "Vibranium",
     "Adamantium",
+    "Arkenium",
     "FSharpAlloy"
     ] as string[];
     
@@ -25,6 +26,8 @@ var createoredict = [
     "nuggetDamastGlowing",
     "blockDamast",
     "blockDamastGlowing",
+    "plateArkenium",
+    "oreArkenium",
     "dustWavicAwakened",
     "nuggetPureEvil",
     "dustPureEvil",
@@ -39,7 +42,8 @@ var createoredict = [
     "blockUnstable",
     "blockPulsaton",
     "oreFSharpAlloy",
-    "oreMegaAlloy"
+    "oreMegaAlloy",
+    "blockGravitite"
     ] as string[];
     
 
@@ -55,6 +59,10 @@ for ore in createoredict {
 	oreDict.get(ore).add(itemUtils.getItem("contenttweaker:" + ore.toLowerCase));
 
 }
+
+mods.jei.JEI.addDescription(<erebus:materials:38>,"Obtained from offering a piece of §fObsidian§0, a green §fEmerald§0, and a massive §fDiamond§0 on an §fOffering Altar§0.");
+
+oreDict.get("gemGravitite").add(<aether_legacy:enchanted_gravitite>);
 
 oreDict.get("stickWood").add(<harvestcraft:fishsticksitem>);
 
@@ -88,6 +96,8 @@ oreDict.get("oreWavicStellar").add(<waveymod:stellarore>);
 oreDict.get("orePureEvil").add(<waveymod:pure_evilore>);
 oreDict.get("oreKoinos").add(<waveymod:koinosore>);
 
+oreDict.get("oreMeteoricIron").add(<galacticraftcore:meteoric_iron_raw>);
+
 oreDict.get("blockKoinos").add(<waveymod:koinosoreblock>);
 oreDict.get("blockWavicAwakened").add(<contenttweaker:blockawakened>);
 oreDict.get("blockWavic").add(<contenttweaker:blockwavic>);
@@ -110,18 +120,48 @@ oreDict.get("oreNetheriteScrap").add(<netherbackport:ancientdebris>);
 oreDict.get("dustNetheriteScrap").add(<contenttweaker:dirty_netherite_scrap>);
 oreDict.get("ingotNetheriteScrap").add(<netherbackport:netheritescrap>);
 
+mods.thermalexpansion.Factorizer.addRecipeBoth(<contenttweaker:blockgravitite>, <aether_legacy:enchanted_gravitite> * 9);
+
 mods.mekanism.enrichment.addRecipe(<netherbackport:ancientdebris>, <contenttweaker:dirty_netherite_scrap> * 3);
 
+<contenttweaker:platearkenium>.displayName = "Arkenium Plate";
+<contenttweaker:ingotarkenium>.displayName = "Arkenium Ingot";
+<contenttweaker:blockgravitite>.displayName = "Block of Gravitite";
+<contenttweaker:blockwavic>.displayName = "Block of Wavic Metal";
+<contenttweaker:platearkenium>.displayName = "Arkenium Plate";
+<contenttweaker:platearkenium>.displayName = "Arkenium Plate";
+
+<contenttweaker:dustarkenium>.displayName = "Arkenium Dust";
+
+<contenttweaker:nuggetarkenium>.displayName = "Arkenium Nugget";
+
+<contenttweaker:orearkenium>.displayName = "Arkenium Ore";
+
+<contenttweaker:blockarkenium>.displayName = "Block of Arkenium";
+
+<contenttweaker:blockfsharpalloy>.displayName = "Block of FSharp Alloy";
+
+<galaxyspace:europablocks:6>..displayName = "Europa Surface Ice";
+
+<contenttweaker:twilight_catalyst>.displayName = "Twilight Catalyst";
 <aether_legacy:obsidian_helmet>.displayName = "Skyforged Obsidian Helmet";
 <aether_legacy:obsidian_chestplate>.displayName = "Skyforged Obsidian Chestplate";
 <aether_legacy:obsidian_leggings>.displayName = "Skyforged Obsidian Leggings";
 <aether_legacy:obsidian_boots>.displayName = "Skyforged Obsidian Boots";
 
-
 <modularmachinery:itemmodularium>.displayName = "Modularium Ingot";
 <modularmachinery:blockcasing:0>.displayName = "Block of Modularium";
 
 <mo_swords:dtklinge>.displayName = "Dragonkiller Blade";
+
+<contenttweaker:blockdamast>.displayName = "Block of Damastzenersteel";
+<contenttweaker:blockdamastglowing>.displayName = "Block of Glowing Damastzenersteel";
+<mo_swords:damastbarrenglowing>.displayName = "Glowing Damastzenersteel Ingot";
+<mo_swords:damastbarren>.displayName = "Damastzenersteel Ingot";
+<contenttweaker:nuggetdamast>.displayName = "Damastzenersteel Nugget";
+<contenttweaker:nuggetdamastglowing>.displayName = "Glowing Damastzenersteel Nugget";
+
+<tinkerscompendium:roughspunitemblockroof>.displayName = "Roughspun Roof";
 
 <waveymod:donutlmfao>.displayName = "SpaceTime Donut";
 
@@ -149,6 +189,12 @@ mods.mekanism.enrichment.addRecipe(<netherbackport:ancientdebris>, <contenttweak
 <contenttweaker:fsharp_alloy_neutron_sponge_3>.addTooltip("FSharp Alloy - Step 3");
 
 <contenttweaker:orefsharpalloy>.addTooltip("FSharp Alloy - Completed");
+
+<contenttweaker:orefsharpalloy>.displayName = "FSharp Alloy Neutron Sponge";
+
+<contenttweaker:dustfsharpalloy>.displayName = "FSharp Alloy Dust";
+
+<ore:ingotFSharpAlloy>.displayName = "FSharp Alloy Ingot";
 
 <quark:enderdragon_scale>.displayName = "Sharp Dragon Scale";
 
@@ -191,10 +237,14 @@ furnace.addRecipe(<contenttweaker:ingotintertium>, <contenttweaker:dustintertium
 furnace.addRecipe(<netherbackport:netheriteingot>, <contenttweaker:dustnetherite>);
 furnace.addRecipe(<contenttweaker:ingotdwarfstaralloy>, <contenttweaker:dustdwarfstaralloy>);
 
-
+furnace.addRecipe(<contenttweaker:ingotarkenium>, <contenttweaker:dustarkenium>);
 
 
 var createninexninerecipe = [
+
+        [<contenttweaker:blockgravitite>, <aether_legacy:enchanted_gravitite>],
+
+        [<contenttweaker:blockarkenium>, <contenttweaker:ingotarkenium>],
 
         [<contenttweaker:blockdamast>, <mo_swords:damastbarren>],
         [<mo_swords:damastbarren>, <contenttweaker:nuggetdamast>],
