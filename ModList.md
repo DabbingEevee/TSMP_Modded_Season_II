@@ -183,6 +183,11 @@
 
 *ErogenousBeef, ZeroNoRyouki, ABookFreak*
 ***
+### Shadowfacts' Forgelin
+<https://github.com/shadowfacts/Forgelin>
+
+*shadowfacts*
+***
 ### Game Stages
 <https://minecraft.curseforge.com/projects/game-stages>
 
