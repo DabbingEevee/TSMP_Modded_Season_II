@@ -141,7 +141,7 @@ mods.mekanism.enrichment.addRecipe(<netherbackport:ancientdebris>, <contenttweak
 
 <contenttweaker:blockfsharpalloy>.displayName = "Block of FSharp Alloy";
 
-<galaxyspace:europablocks:6>..displayName = "Europa Surface Ice";
+<galaxyspace:europablocks:6>.displayName = "Europa Surface Ice";
 
 <contenttweaker:twilight_catalyst>.displayName = "Twilight Catalyst";
 <aether_legacy:obsidian_helmet>.displayName = "Skyforged Obsidian Helmet";
@@ -194,7 +194,7 @@ mods.mekanism.enrichment.addRecipe(<netherbackport:ancientdebris>, <contenttweak
 
 <contenttweaker:dustfsharpalloy>.displayName = "FSharp Alloy Dust";
 
-<ore:ingotFSharpAlloy>.displayName = "FSharp Alloy Ingot";
+<contenttweaker:ingotfsharpalloy>.displayName = "FSharp Alloy Ingot";
 
 <quark:enderdragon_scale>.displayName = "Sharp Dragon Scale";
 
