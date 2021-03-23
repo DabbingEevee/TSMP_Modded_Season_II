@@ -4,7 +4,7 @@ mods.extendedcrafting.TableCrafting.addShaped(3, <galacticraftcore:rocket_t1>,
 [null, null, <galacticraftcore:heavy_plating>, <galacticraftcore:heavy_plating>, <galacticraftcore:heavy_plating>, null, null],
 [null, null, <galacticraftcore:heavy_plating>, <galacticraftcore:buggymat:1>, <galacticraftcore:heavy_plating>, null, null],
 [null, null, <galacticraftcore:heavy_plating>, <galacticraftcore:heavy_plating>, <galacticraftcore:heavy_plating>, null, null],
-[null, <galacticraftcore:rocket_fins>, <galacticraftcore:heavy_plating>, null, <galacticraftcore:heavy_plating>, <galacticraftcore:rocket_fins>, null],
+[null, <galacticraftcore:rocket_fins>, <galacticraftcore:heavy_plating>, null, <galacticraftfuturemc:netherite_ingotcore:heavy_plating>, <galacticraftcore:rocket_fins>, null],
 [null, <galacticraftcore:rocket_fins>, <galacticraftcore:oil_canister_partial:1001>, <galacticraftcore:heavy_plating>, <galacticraftcore:oil_canister_partial:1001>, <galacticraftcore:rocket_fins>, null],
 [null, null, <galacticraftcore:engine>, null, <galacticraftcore:engine>, null, null]]);
 mods.extendedcrafting.TableCrafting.addShaped(3, <galacticraftcore:rocket_t1:3>, 

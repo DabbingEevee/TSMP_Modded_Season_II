@@ -22,7 +22,7 @@ mods.orestages.OreStages.addNonDefaultingReplacement("automation_age", <minecraf
 mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <ore:oreNickel>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <ore:oreGold>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <waveymod:nethergoldore:*>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <netherbackport:nethergoldore:*>, <fhantoncore:unidentifiedore>);
+#mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <netherbackport:nethergoldore:*>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <ore:oreDiamond>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <ore:oreOsmium>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("early_magic_tech_age", <waveymod:netherdiamondore:*>, <fhantoncore:unidentifiedore>);
@@ -31,7 +31,7 @@ mods.DimensionStages.addDimensionStage("netheric_age", -1);
 mods.orestages.OreStages.addNonDefaultingReplacement("netheric_age", <ore:oreQuartz>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("netheric_age", <minecraft:glowstone>, <fhantoncore:unidentifiedore>);
 mods.orestages.OreStages.addNonDefaultingReplacement("netheric_age", <ore:obsidian>, <fhantoncore:unidentifiedore>);
-mods.orestages.OreStages.addNonDefaultingReplacement("netheric_age", <netherbackport:ancientdebris:*>, <fhantoncore:unidentifiedore>);
+mods.orestages.OreStages.addNonDefaultingReplacement("netheric_age", <futuremc:ancient_debris:*>, <fhantoncore:unidentifiedore>);
 
 mods.DimensionStages.addDimensionStage("aetheric_age", 4);
 mods.orestages.OreStages.addNonDefaultingReplacement("aetheric_age", <aether_legacy:ambrosium_ore:*>, <fhantoncore:unidentifiedore>);

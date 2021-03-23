@@ -108,7 +108,7 @@ oreDict.get("oreWavicAwakened").add(<waveymod:awakenedendstone>);
 oreDict.get("nuggetNetherite").add(<contenttweaker:nuggetnetherite>);
 oreDict.get("dustNetherite").add(<contenttweaker:dustnetherite>);
 oreDict.get("ingotNetherite").add(<netherbackport:netheriteingot>);
-oreDict.get("ingotNetherite").add(<netherbackport:netheriteingot>);
+oreDict.get("blockNetherite").add(<netherbackport:netheriteblock>);
 oreDict.get("gemWavicStellar").add(<waveymod:stellarshard>);
 oreDict.get("ingotKoinos").add(<waveymod:koinosingot>);
 oreDict.get("ingotTromero").add(<waveymod:tromerosingot>);
@@ -122,7 +122,7 @@ oreDict.get("ingotNetheriteScrap").add(<netherbackport:netheritescrap>);
 
 mods.thermalexpansion.Factorizer.addRecipeBoth(<contenttweaker:blockgravitite>, <aether_legacy:enchanted_gravitite> * 9);
 
-mods.mekanism.enrichment.addRecipe(<netherbackport:ancientdebris>, <contenttweaker:dirty_netherite_scrap> * 3);
+mods.mekanism.enrichment.addRecipe(<futuremc:ancient_debris>, <contenttweaker:dirty_netherite_scrap> * 3);
 
 <contenttweaker:platearkenium>.displayName = "Arkenium Plate";
 <contenttweaker:ingotarkenium>.displayName = "Arkenium Ingot";
@@ -234,7 +234,7 @@ furnace.addRecipe(<contenttweaker:ingotgildednetherite>, <contenttweaker:dustgil
 furnace.addRecipe(<contenttweaker:ingoturu>, <contenttweaker:dusturu>);
 furnace.addRecipe(<contenttweaker:ingotadamantium>, <contenttweaker:dustadamantium>);
 furnace.addRecipe(<contenttweaker:ingotintertium>, <contenttweaker:dustintertium>);
-furnace.addRecipe(<netherbackport:netheriteingot>, <contenttweaker:dustnetherite>);
+furnace.addRecipe(<futuremc:netherite_ingot>, <contenttweaker:dustnetherite>);
 furnace.addRecipe(<contenttweaker:ingotdwarfstaralloy>, <contenttweaker:dustdwarfstaralloy>);
 
 furnace.addRecipe(<contenttweaker:ingotarkenium>, <contenttweaker:dustarkenium>);
