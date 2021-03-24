@@ -1,0 +1,62 @@
+{
+	"name": "Netherite",
+	"make": ["fluid"],
+	"textColor": "#FF434043",
+	"whitelist": {
+		"oredict": [],
+		"ingots": [],
+		"nuggets": [],
+		"dusts": [],
+		"gems": [],
+		"blocks": [],
+		"ores": []
+	},
+	"blacklist": {
+		"oredict": [],
+		"ores": []
+	},
+	"fluidData": {
+		"color": "#FF45ACA5",
+		"density": 2000,
+		"viscosity": 10000,
+		"temperature": 1000,
+		"luminosity": 10,
+		"rarity": "EPIC"
+	},
+	"canCraftToolForge": true,
+	"toolData": {
+		"durability": 1200,
+		"harvestLevel": 5,
+		"extraDurability": 200,
+		"miningSpeed": 9.0,
+		"attack": 10.0,
+		"handleModifier": 2,
+		"handleDurability": 250,
+		"color": "#FF45ACA5",
+		"temperature": 200,
+		"projectiles": true,
+		"drawSpeed": 0.0,
+		"range": 0.0,
+		"bonusDamage": 0.0,
+		"stringModifier": 0.0,
+		"shaftModifier": 1.0,
+		"bonusAmmo": 0.0,
+		"accuracy": 0.0,
+		"fletchingModifier": 0.0,
+        "traits": ["td_hellbound", "hellish", "dense", "magnetic1"],
+        "headTraits": [],
+        "handleTraits": [],
+        "extraTraits": [],
+        "bowTraits": [],
+        "stringTraits": [],
+        "projectileTraits": [],
+        "shaftTraits": [],
+        "fletchingTraits": []
+	},
+	"localizations": [{
+		"locale": "en_US",
+		"solid": "Netherite",
+		"liquid": "Molten Netherite",
+		"bucket": "Molten Netherite Bucket"
+	}]
+}

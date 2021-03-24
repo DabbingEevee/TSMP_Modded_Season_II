@@ -42,6 +42,9 @@ recipes.addShaped(<minecraft:crafting_table>,
  [[<ore:plankWood>, <ore:plankWood>],
   [<ore:plankWood>, <fhantoncore:framewood>]]);
   
+recipes.remove(<futuremc:netherite_ingot>)
+recipes.addShapeless(<futuremc:netherite_ingot>, [<ore:ingotArdite> * 4, <ore:ingotAncientDebris> * 4, <ore:blockGold>])
+
 recipes.remove(<minecraft:furnace>);
 recipes.addShaped(<minecraft:furnace>,
  [[<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>],
