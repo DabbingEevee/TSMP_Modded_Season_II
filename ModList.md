@@ -693,6 +693,11 @@
 
 *Corail31*
 ***
+### Total Tinkers
+<https://www.curseforge.com/minecraft/mc-mods/total-tinkers>
+
+*UvMidnight*
+***
 ### Tweaker GUI
 <https://tieba.baidu.com/p/5843288555>
 
