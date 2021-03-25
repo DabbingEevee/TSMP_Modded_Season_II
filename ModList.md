@@ -619,6 +619,11 @@
 ### NetherBackport
 *Broulf*
 ***
+### StarCraftModPackStuff
+<https://mcreator.net>
+
+*DuckBomb*
+***
 ### Overloaded Armor Bar
 <https://github.com/Tfarcenim/OverpoweredArmorBar>
 
