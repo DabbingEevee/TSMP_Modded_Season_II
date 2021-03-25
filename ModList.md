@@ -512,6 +512,11 @@
 ### Compact Machines 3
 *Davenonymous*
 ***
+### FhantonCore
+<https://mcreator.net>
+
+*koala, MCreator*
+***
 ### Crimson Revelations
 *MobiusFlip*
 ***
@@ -534,11 +539,6 @@
 ***
 ### Future MC
 *TheDarkColour*
-***
-### FhantonCore
-<https://mcreator.net>
-
-*koala, MCreator*
 ***
 ### Ice and Fire
 *Alexthe666, Raptorfarian*
