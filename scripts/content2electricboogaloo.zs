@@ -279,7 +279,7 @@ var createninexninerecipe = [
         [<contenttweaker:blockgildednetherite>, <contenttweaker:ingotgildednetherite>],
         [<contenttweaker:ingotgildednetherite>, <contenttweaker:nuggetgildednetherite>],
 
-        [<ore:ingotnetherite>, <contenttweaker:nuggetnetherite>],
+        [<futuremc:netherite_ingot>, <contenttweaker:nuggetnetherite>],
 
         [<contenttweaker:blockgoldtitaniumalloy>, <contenttweaker:ingotgoldtitaniumalloy>],
         [<contenttweaker:ingotgoldtitaniumalloy>, <contenttweaker:nuggetgoldtitaniumalloy>],
