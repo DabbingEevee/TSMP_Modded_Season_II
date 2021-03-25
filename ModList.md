@@ -183,6 +183,11 @@
 
 *ErogenousBeef, ZeroNoRyouki, ABookFreak*
 ***
+### Flux Networks
+<https://www.curseforge.com/minecraft/mc-mods/flux-networks>
+
+*Sonar Sonic,BloCamLimb*
+***
 ### Shadowfacts' Forgelin
 <https://github.com/shadowfacts/Forgelin>
 
@@ -213,6 +218,11 @@
 <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2719989-infini-tic-another-tinkers-construct-add-on>
 
 *Johz, LakMoore*
+***
+### Interstellar: Exoplanets
+<https://www.curseforge.com/minecraft/mc-mods/interstellar-exoplanets>
+
+*ROMVoid95, craftablescience*
 ***
 ### Just Enough Energistics
 *TheRealp455w0rd*
