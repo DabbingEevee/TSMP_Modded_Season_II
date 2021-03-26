@@ -18,6 +18,8 @@ mods.aether_legacy.Enchanter.registerEnchantment(<metallurgy:osmium_ingot:*>, <t
 mods.aether_legacy.Enchanter.registerEnchantment(<aether_legacy:zanite_gemstone>, <tconmaterial:gemvoidspar>, 40);
 mods.aether_legacy.Enchanter.registerEnchantment(<quark:biotite_ore>, <tconmaterial:gemenderal>, 40);
 
+mods.aether_legacy.Enchanter.registerEnchantment(<starcraftcore:cookedpenguin>, <starcraftcore:sacredgrilledpenguin>, 120);
+
 recipes.addShaped(<fhantoncore:framewood>,
  [[<ore:stickWood>, <ore:stickWood>],
   [<ore:stickWood>, <ore:stickWood>]]);
