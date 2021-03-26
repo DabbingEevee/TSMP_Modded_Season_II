@@ -18,6 +18,7 @@
           "dimension": {
             "restriction": "blacklist",
             "value": [
+                -1
             ]
           }
         }
