@@ -532,11 +532,6 @@
 ### Extra Utilities 2
 *RWTema*
 ***
-### FhantonCore
-<https://mcreator.net>
-
-*koala, MCreator*
-***
 ### Future MC
 *TheDarkColour*
 ***
@@ -631,6 +626,11 @@
 ***
 ### p455w0rd's Library
 *TheRealp455w0rd*
+***
+### StarCraftModPackStuff
+<https://mcreator.net>
+
+*DuckBomb*
 ***
 ### PlusTiC
 <https://minecraft.curseforge.com/projects/plustic>
