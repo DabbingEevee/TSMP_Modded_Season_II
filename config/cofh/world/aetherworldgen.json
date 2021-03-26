@@ -16,9 +16,8 @@
           "retrogen": true,
           "biome": "all",
           "dimension": {
-            "restriction": "whitelist",
+            "restriction": "blacklist",
             "value": [
-              4
             ]
           }
         }
