@@ -532,6 +532,11 @@
 ### Extra Utilities 2
 *RWTema*
 ***
+### FhantonCore
+<https://mcreator.net>
+
+*koala, MCreator*
+***
 ### Future MC
 *TheDarkColour*
 ***
@@ -613,11 +618,6 @@
 ***
 ### NetherBackport
 *Broulf*
-***
-### StarCraftModPackStuff
-<https://mcreator.net>
-
-*DuckBomb*
 ***
 ### Overloaded Armor Bar
 <https://github.com/Tfarcenim/OverpoweredArmorBar>
