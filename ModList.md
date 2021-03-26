@@ -512,11 +512,6 @@
 ### Compact Machines 3
 *Davenonymous*
 ***
-### FhantonCore
-<https://mcreator.net>
-
-*koala, MCreator*
-***
 ### Crimson Revelations
 *MobiusFlip*
 ***
@@ -536,6 +531,11 @@
 ***
 ### Extra Utilities 2
 *RWTema*
+***
+### FhantonCore
+<https://mcreator.net>
+
+*koala, MCreator*
 ***
 ### Future MC
 *TheDarkColour*
