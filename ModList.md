@@ -219,11 +219,6 @@
 
 *Johz, LakMoore*
 ***
-### Interstellar: Exoplanets
-<https://www.curseforge.com/minecraft/mc-mods/interstellar-exoplanets>
-
-*ROMVoid95, craftablescience*
-***
 ### Just Enough Energistics
 *TheRealp455w0rd*
 ***
