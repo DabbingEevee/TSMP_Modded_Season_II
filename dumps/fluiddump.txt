@@ -171,6 +171,7 @@ Liquid Helium-Hydrogen - heliumhydrogen - 1200 - 140 - 90 - Block{galaxyspace:bl
 Molten Fire Dragonsteel - dragonsteel_fire - 2000 - 10000 - 769 - Block{tconstruct:molten_dragonsteel_fire}
 Molten Ice Dragonsteel - dragonsteel_ice - 2000 - 10000 - 769 - Block{tconstruct:molten_dragonsteel_ice}
 fluid.unused.name - infinifluid - 2000 - 10000 - 1000 - Block{infinitic:infinifluid}
+Molten Netherite - netherite - 2000 - 10000 - 1000 - Block{infinitic:molten_netherite}
 Molten Soulium - soulium - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_soulium}
 Molten Base Essence - base_essence - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_base_essence}
 Molten Inferium - inferium - 2000 - 10000 - 1000 - Block{mysticalagradditions:molten_inferium}
@@ -228,8 +229,8 @@ Molten Sanguinite - sanguinite - 800 - 4000 - 720 - Block{metallurgy:molten_sang
 Molten Desichalkos - desichalkos - 800 - 4000 - 540 - Block{metallurgy:molten_desichalkos}
 Molten Celenegil - celenegil - 800 - 4000 - 720 - Block{metallurgy:molten_celenegil}
 Molten Shadow Iron - shadow_iron - 800 - 4000 - 360 - Block{metallurgy:molten_shadow_iron}
-Molten Carmot - carmot - 800 - 4000 - 540 - Block{metallurgy:molten_carmot}
 Molten Mithril - mithril - 800 - 4000 - 540 - Block{metallurgy:molten_mithril}
+Molten Carmot - carmot - 800 - 4000 - 540 - Block{metallurgy:molten_carmot}
 Molten Ceruclase - ceruclase - 800 - 4000 - 540 - Block{metallurgy:molten_ceruclase}
 Molten Deep Iron - deep_iron - 800 - 4000 - 360 - Block{metallurgy:molten_deep_iron}
 Molten Angmallen - angmallen - 800 - 4000 - 360 - Block{metallurgy:molten_angmallen}
@@ -248,8 +249,8 @@ Molten Inolashite - inolashite - 800 - 4000 - 720 - Block{metallurgy:molten_inol
 Molten Meutoite - meutoite - 800 - 4000 - 540 - Block{metallurgy:molten_meutoite}
 Molten Orichalcum - orichalcum - 800 - 4000 - 720 - Block{metallurgy:molten_orichalcum}
 Molten Infuscolium - infuscolium - 800 - 4000 - 360 - Block{metallurgy:molten_infuscolium}
-Molten Shadow Steel - shadow_steel - 800 - 4000 - 360 - Block{metallurgy:molten_shadow_steel}
 Molten Midasium - midasium - 800 - 4000 - 360 - Block{metallurgy:molten_midasium}
+Molten Shadow Steel - shadow_steel - 800 - 4000 - 360 - Block{metallurgy:molten_shadow_steel}
 Molten Krik - krik - 800 - 4000 - 360 - Block{metallurgy:molten_krik}
 Molten Rubracium - rubracium - 800 - 4000 - 360 - Block{metallurgy:molten_rubracium}
 Liquid Tar - molten_tar - 800 - 4000 - 1000 - Block{metallurgy:molten_tar}
@@ -263,6 +264,7 @@ Helium Gas - helium_gas - -2000 - 1000 - 300 - Block{moreplanets:helium_gas}
 Nuclear Waste - nuclear_waste_fluid - 3000 - 8000 - 2600 - Block{moreplanets:nuclear_waste_fluid}
 Purified Water - purified_water_fluid - 1000 - 1000 - 300 - Block{moreplanets:purified_water_fluid}
 Insanium - insanium - 2000 - 10000 - 1000 - Block{mysticaladaptations:molten_insanium}
+Plasma - plasma - 8000 - 20 - 300 - Block{starcraftcore:plasma}
 Molten Refined Obsidian - refinedobsidian - 2000 - 10000 - 860 - Block{plustic:plustic.molten_refinedobsidian}
 Refined Glowstone - refinedglowstone - 2000 - 10000 - 1111 - Block{plustic:plustic.molten_refinedglowstone}
 Molten Osgloglas - osgloglas - 2000 - 10000 - 1300 - Block{plustic:plustic.molten_osgloglas}
@@ -332,6 +334,7 @@ liquid Dragons Breath - dragonsbreath - 2000 - 10000 - 1000 - Block{tconstruct:m
 Liquid Starlight - astralsorcery.liquidstarlight - 1001 - 300 - 120 - Block{astralsorcery:fluidblockliquidstarlight}
 Glacium§r - glacium - 5000 - 6000 - -1500 - Block{glacidus:glacium}
 Molten Amaranth - amaranth - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenamaranth}
+Molten Ancient Debris - ancient_debris - 2000 - 10000 - 500 - Block{jaopca:fluid_moltenancientdebris}
 Molten Carbon - carbon - 2000 - 10000 - 500 - Block{jaopca:fluid_moltencarbon}
 Molten Crystal - crystal - 2000 - 10000 - 500 - Block{jaopca:fluid_moltencrystal}
 Molten Dark Iron - dark_iron - 2000 - 10000 - 500 - Block{jaopca:fluid_moltendarkiron}

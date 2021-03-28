@@ -308,4 +308,6 @@ Tainted Lands - thaumicaugmentation:tainted_lands - 0.25 - thaumicaugmentation:s
 Emptiness Highlands - thaumicaugmentation:emptiness_highlands - 0.25 - thaumicaugmentation:stone - thaumicaugmentation:stone
 Aether - aether_legacy:aether_highlands - 0.5 - aether_legacy:aether_grass - aether_legacy:holystone
 Glacidus - glacidus:glacidus - 0.5 - minecraft:grass - minecraft:dirt
+Event Biome - starcraftcore:event - 0.5 - starcraftcore:eventgrass - starcraftcore:eventdirt
+The Flats - starcraftcore:flat - 0.5 - minecraft:grass - minecraft:dirt
 Wavic Biome - waveymod:wavicbiome - 2.0 - waveymod:wavicdirt - waveymod:wavicstone
