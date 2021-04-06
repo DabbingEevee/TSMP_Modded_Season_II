@@ -44,9 +44,6 @@
 
 *Adubbz, Amnet, Cheeserolls, Forstride, ted80*
 ***
-### Black Hole Storage
-*Zeitheron*
-***
 ### Block Drops Tweaker
 *TheAwesomeGem*
 ***
@@ -339,6 +336,9 @@
 <http://www.vazkii.us>
 
 *Vazkii*
+***
+### Pewter
+*Ejektaflex*
 ***
 ### ProjectE
 <http://minecraft.curseforge.com/mc-mods/226410-projecte>
