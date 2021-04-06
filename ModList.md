@@ -337,9 +337,6 @@
 
 *Vazkii*
 ***
-### Pewter
-*Ejektaflex*
-***
 ### ProjectE
 <http://minecraft.curseforge.com/mc-mods/226410-projecte>
 
