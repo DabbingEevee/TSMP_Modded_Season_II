@@ -311,3 +311,13 @@ Glacidus - glacidus:glacidus - 0.5 - minecraft:grass - minecraft:dirt
 Event Biome - starcraftcore:event - 0.5 - starcraftcore:eventgrass - starcraftcore:eventdirt
 The Flats - starcraftcore:flat - 0.5 - minecraft:grass - minecraft:dirt
 Wavic Biome - waveymod:wavicbiome - 2.0 - waveymod:wavicdirt - waveymod:wavicstone
+Patchy Islands - thebetweenlands:patchy_islands - 0.8 - thebetweenlands:swamp_grass - thebetweenlands:swamp_dirt
+Swamplands - thebetweenlands:swamplands - 0.8 - thebetweenlands:dead_grass - thebetweenlands:coarse_swamp_dirt
+Deep Waters - thebetweenlands:deep_waters - 0.8 - thebetweenlands:swamp_grass - thebetweenlands:swamp_dirt
+Coarse Islands - thebetweenlands:coarse_islands - 0.8 - thebetweenlands:swamp_grass - thebetweenlands:swamp_dirt
+Raised Isles - thebetweenlands:raised_isles - 0.8 - thebetweenlands:swamp_grass - thebetweenlands:swamp_dirt
+Sludge Plains - thebetweenlands:sludge_plains - 0.8 - thebetweenlands:mud - thebetweenlands:swamp_dirt
+Marsh 0 - thebetweenlands:marsh_0 - 0.8 - thebetweenlands:swamp_grass - thebetweenlands:swamp_dirt
+Marsh 1 - thebetweenlands:marsh_1 - 0.8 - thebetweenlands:swamp_grass - thebetweenlands:swamp_dirt
+Swamplands Clearing - thebetweenlands:swamplands_clearing - 0.8 - thebetweenlands:swamp_grass - thebetweenlands:swamp_dirt
+Sludge Plains Clearing - thebetweenlands:sludge_plains_clearing - 0.8 - thebetweenlands:compacted_mud - thebetweenlands:swamp_dirt

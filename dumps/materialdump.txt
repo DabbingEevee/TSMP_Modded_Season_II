@@ -1,9 +1,14 @@
 Name - Registry - Fluid - (TraitName - TraitRegistry)
 Disruption - materialspacetimedisruption - null - (Lightweight, lightweight), (Dense, dense)
 Void Spar - materialvoidspar - null - (Voidic, voidic), (Dense, dense), (Ecological, ecological)
-Enderal - materialenderal - null - (Enderference, enderference), (Endspeed, endspeed), (Jagged, jagged), (Your Tool does a bit of extra damage in the end., pulsation)
-Gallium - materialgallium - null - (Aquadynamic, aquadynamic), (Low Melting Point, lowmeltingpoint), (Crumbling, crumbling)
+Enderal - materialenderal - null - (Enderference, enderference), (Endspeed, endspeed), (Jagged, jagged), (Pulsation, pulsation)
+Gallium - materialgallium - null - (Aquadynamic, aquadynamic), (modifier.liquid.name, liquid), (Crumbling, crumbling)
 Ironwood - materialironwood - null - (Twilit, twilit), (Ecological, ecological)
+Valonite - materialvalonite - null - (Dense, dense), (Sharp, sharp)
+Slimy Bone - materialslimybone - null - (Splintering, splintering), (Cheap, cheap), (Cheapskate, cheapskate), (Crude, crude1)
+Reed Rope - materialreedrope - null - (Ecological, ecological), (Aquadynamic, aquadynamic), (Writable, writable2)
+Dragonfly Wing - materialdragonflywing - null - (Lightweight, lightweight)
+Angler Tooth - materialanglertooth - null - (Aquadynamic, aquadynamic), (Jagged, jagged)
 Electrical Steel - electrical_steel - electrical_steel - (Lightweight, lightweight), (Shocking, shocking)
 Energetic Alloy - energetic_alloy - energetic_alloy - (Petramor, petramor), (Unnatural, unnatural), (Holy, holy)
 Vibrant Alloy - vibrant_alloy - vibrant_alloy - (Direct, enderpickup), (Vanishing II, enderport-4)
@@ -35,6 +40,8 @@ Fusionite - materialfusionite - liquidfusionite - (Cold Fire, cold_fire), (Ender
 Radium - materialradium - liquidradium - (Radioactive, radioactive), (Momentum, momentum)
 Solar Steel - materialsolarsteel - liquidsolarsteel - (Flammable, flammable), (Superheat, superheat), (Dense, dense), (Autosmelt, autosmelt)
 Penguinite - materialpenguinite - liquidpenguinite - (Twilit, twilit), (Cold-Blooded, coldblooded), (Freezing, freezing)
+Syrmorite - materialsyrmorite - liquidsyrmorite - (Dense, dense), (Magnetic, magnetic1)
+Octine - materialoctine - liquidoctine - (Superheat, superheat), (Burning, burning)
 Stone - stone - null - (Cheap, cheap), (Cheapskate, cheapskate), (Blockhead, td_blockhead), (Stoned, td_stoned), (Earthbound, td_earthbound), (Dulling, td_dulling)
 Flint - flint - null - (Crude, crude1), (Crude II, crude2), (Glassine, td_glassine), (Firestarter, td_firestarter)
 Cactus - cactus - null - (Spiky, spiky), (Prickly, prickly), (Peyote, td_peyote), (Spiny, td_spiny), (Prickly, td_pricked), (Barbed, td_barbed)
@@ -178,8 +185,8 @@ Etherium - etherium - etherium - null
 Astral Silver - astral_silver - astral_silver - null
 Hepatizon - hepatizon - hepatizon - null
 Lemurite - lemurite - lemurite - null
-Eximite - eximite - eximite - (Enderference, enderference)
 Sanguinite - sanguinite - sanguinite - (Life Steal, life_steal_trait)
+Eximite - eximite - eximite - (Enderference, enderference)
 Desichalkos - desichalkos - desichalkos - (King Dice, king_dice_trait)
 Celenegil - celenegil - celenegil - null
 Shadow Iron - shadow_iron - shadow_iron - (Obscure, obscure_trait)
@@ -195,16 +202,16 @@ Prometheum - prometheum - prometheum - null
 Adamantine - adamantine - adamantine - null
 Tartarite - tartarite - tartarite - (Wither, wither_trait)
 Atlarus - atlarus - atlarus - null
-Black Steel - black_steel - black_steel - null
 Vyroxeres - vyroxeres - vyroxeres - (Poisonous, poisonous)
+Black Steel - black_steel - black_steel - null
 Lutetium - lutetium - lutetium - null
 Oureclase - oureclase - oureclase - null
 Inolashite - inolashite - inolashite - null
 Meutoite - meutoite - meutoite - null
 Orichalcum - orichalcum - orichalcum - null
 Infuscolium - infuscolium - infuscolium - null
-Midasium - midasium - midasium - (Writable, writable2), (Duplication, duplication_trait)
 Shadow Steel - shadow_steel - shadow_steel - null
+Midasium - midasium - midasium - (Writable, writable2), (Duplication, duplication_trait)
 Krik - krik - krik - null
 Rubracium - rubracium - rubracium - null
 Insanium - mysticaladaptations.insanium - insanium - (Prosperous, prosperous), (Duritae, duritos)
@@ -278,15 +285,15 @@ Frostium - frostium - frostium - (Frost Fang, tw_frostfang), (Cold-Blooded, cold
 Froststeel - froststeel - froststeel - (Frost Fang, tw_frostfang), (Stiff, stiff)
 Mirion - mirion - mirion - (Mirabile Visu, mirabile), (Mana, mana)
 Livingwood - livingwood_plustic - null - (Botanical II, botanical2), (Ecological, ecological), (Botanical, botanical1)
+Dark Matter - darkmatter - null - (Ignoble, ignoble), (Dark Traveler, darktraveler)
+Red Matter - redmatter - null - (Democratic People's Republic of Korea, dprk)
 Flamestring - flamestring_plustic - null - (Naphtha, naphtha)
 Bloodwood - bloodwood_plustic - null - (Bloody Mary, bloodymary), (Ecological, ecological)
 Fusewood - fusewood_plustic - null - (Democratic People's Republic of Korea, dprk), (Ecological, ecological)
-Dark Matter - darkmatter - null - (Ignoble, ignoble), (Dark Traveler, darktraveler)
-Red Matter - redmatter - null - (Democratic People's Republic of Korea, dprk)
+Emerald - emerald_plustic - emerald - (Terrafirma, terrafirma1), (Elemental, elemental)
 Wyvern - wyvern_plustic - null - (Brown Magic, brownmagic), (Blind Bandit, blindbandit), (Portly Gentleman, portly)
 Awakened - awakened_plustic - null - (Rude Awakening, rudeawakening), (Brown Magic, brownmagic), (Blind Bandit, blindbandit), (Apocalypse, apocalypse), (Global Traveler, global)
 Chaotic - chaotic_plustic - null - (Hail Hydra, hailhydra), (Vindictive, vindictive), (Dark Traveler, darktraveler)
-Emerald - emerald_plustic - emerald - (Terrafirma, terrafirma1), (Elemental, elemental)
 Wood - wood - null - (Ecological, ecological), (Photosynthetic II, photosynthetic2), (Photosynthetic, photosynthetic1), (Rooted, td_rooted), (Securiphilic, td_securiphilic)
 Leaf - leaf - null - null
 Feather - feather - null - null
