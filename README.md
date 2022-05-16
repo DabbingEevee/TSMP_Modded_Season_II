@@ -17,3 +17,6 @@ Currently shaders are very broken and if you use Sildur's they won't work at all
 - Do __not__ mine locked ores. You will break it and only get cobblestone. Wait until you unlock it.  
 - A reliable food source is hard to get early-game. An easy food to make is monster jerky. You craft it by putting rotten flesh on drying racks and waiting 4-5 minutes.  
 - Be wary of dragons. Until you get really good armor and long ranged weapons, they can easily oneshot you.  
+
+
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm funne
